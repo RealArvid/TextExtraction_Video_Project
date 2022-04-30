@@ -1,0 +1,2357 @@
+Start of Day Message: Santa Maria, California Friday, March 25, 2005 8:30 a.m.
+The Court: Good morning.
+The Jury: (In unison) Good morning.
+Counsel At Counsel Table: (In unison) Good morning, Your Honor.
+The Court: You may proceed, Counsel.
+Mr. Sanger: Thank you, Your Honor.
+Message: TIMOTHY SUTCLIFFE Having been previously sworn, resumed the stand and testified further as follows:
+Message: CROSS-EXAMINATION Continued BY MR. SANGER:
+Mr. Sanger: Okay. Good morning.
+Timothy Sutcliffe: Good morning.
+Mr. Sanger: How are you doing?
+Timothy Sutcliffe: Good.
+Mr. Sanger: I just have a few more questions for you. At the end of the day yesterday, you testified, and there was a slide presentation wherein 19 prints were shown, latent prints; is that correct?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: Just to remind the jury, you had the big charts on poster board, and then a Power Point presentation was presented to the jury on the screen, correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: Those were 19 --
+Mr. Auchincloss: I'll just object as misstates the evidence; that this witness was shown only 16 cards, exhibits.
+Mr. Sanger: Okay.
+Mr. Sanger: All right. You're aware that there were 19 prints, you looked at some of them and you did not identify them; is that correct?
+Timothy Sutcliffe: That's correct. Those were processed by another investigator.
+Mr. Sanger: You had a total of 19 prints up there, and you were able to identify 16 as something you processed?
+Timothy Sutcliffe: I had a hand in processing 16 of them, yes.
+Mr. Sanger: There you go. Of the 16 you processed, and the other three that you're aware of, totaling 19, those are from a collection of how many usable latent prints?
+Timothy Sutcliffe: From what I understand, there was --
+Mr. Auchincloss: I'll object as lacks foundation.
+The Court: Sustained.
+Mr. Sanger: All right. Your unit was responsible for processing the prints; is that correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: And by that we mean trying to locate all of the usable prints, the prints that looked like they might have enough detail to use them for comparison purposes, correct?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: And who is in charge of your unit? Who was in charge of this process?
+Timothy Sutcliffe: As far as looking at the --
+Mr. Sanger: As far as developing the prints so that you get to the point where you have visible prints.
+Timothy Sutcliffe: Well, I.D. Technician Torres and I were involved in the process in Santa Maria. And Detective Wittenbrock and I.D. Tech Shelly were involved in the process in Santa Barbara.
+Mr. Sanger: All right. And did you confer with Detective Wittenbrock and I.D. Tech Shelly to determine the status of their work?
+Timothy Sutcliffe: Yes.
+Mr. Sanger: And did you look at the materials that they had accumulated?
+Timothy Sutcliffe: No.
+Mr. Sanger: You haven't looked at them at all?
+Timothy Sutcliffe: I have seen some of the prints that were displayed, but not all of the prints that they submitted as useable.
+Mr. Sanger: Okay. And so the team was -- the team was comprised of the four of you, two in Santa Maria, two in Santa Barbara?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: And did you ever have a final -- well, let's not put it that way. Did you ever have any kind of a meeting where you sat down, and you said, “Okay, this is the body of material that we have, we're going to turn it over to the latent print examiners to take a look at it”?
+Timothy Sutcliffe: No.
+Mr. Sanger: How many prints did you come up with in your operation in Santa Maria, that being the operation between you and I.D. Tech Torres? How many prints?
+Timothy Sutcliffe: We submitted, I believe, a total of about 600, approximately. I think there was 600 that we submitted.
+Mr. Sanger: And so I guess what you're saying is, you have no idea how many were submitted by Detective Wittenbrock and I.D. Tech Shelly in Santa Barbara?
+Timothy Sutcliffe: I'm not sure of the exact amount. I know there was, I think in the neighborhood of a total of 700, but I'm not sure of the exact figure.
+Mr. Sanger: Total of 700 from them, or 700 --
+Timothy Sutcliffe: 700 total.
+Mr. Sanger: Okay. So you submitted the bulk of them. They came up with a smaller number?
+Timothy Sutcliffe: Correct. We had the bulk of the items.
+Mr. Sanger: So out of the 600 prints or so that you developed, the 600 or so usable prints that you developed, there were 16 that you have shown us yesterday; is that correct?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: And out of the approximate other hundred, apparently the other three were the result of that; is that correct?
+Timothy Sutcliffe: That's my understanding.
+Mr. Sanger: Now, of all those usable prints, most of them were negative for the -- is that your understanding?
+Timothy Sutcliffe: Yes.
+Mr. Sanger: All right. Okay.
+Mr. Auchincloss: I'll object and move to strike as ambiguous, vague, “negative”.
+The Court: Sustained, stricken.
+Mr. Sanger: The process that you used involved a Scenescope.
+Timothy Sutcliffe: Correct.
+Mr. Sanger: And reminding everybody - they've probably got that by now - you talked about the ALS also in your testimony yesterday, and I want to clarify this. ALS is different than Scenescope when you're using those terms; is that correct?
+Timothy Sutcliffe: That is correct.
+Mr. Sanger: And you mentioned that there had been an ALS evaluation of the materials in Item 317 that occurred before you had begun to look at them for prints; is that correct?
+Timothy Sutcliffe: That's my understanding. I don't believe I did Item 317 ALS, but I know I did ALS on certain items, and I'm assuming that was done on others.
+Mr. Sanger: You understand that somebody else did that?
+Timothy Sutcliffe: That's my understanding, but I don't believe I said specifically I did that one.
+Mr. Sanger: And that ALS -- whatever ALS process was done either by you or anybody else, did that do anything to affect the ability to obtain prints?
+Timothy Sutcliffe: No, it did not.
+Mr. Sanger: Now, you indicated that in your process, you did the super glue fuming first, then you did the Scenescope, then you did the ninhydrin process; is that correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: So therefore, you did not use the Scenescope before doing the super glue fuming; is that correct?
+Timothy Sutcliffe: Not in our process, no.
+Mr. Sanger: Now, you're familiar with the Scenescope technology, I take it, correct?
+Timothy Sutcliffe: Yes.
+Mr. Sanger: And you're aware that you can use the Scenescope before you do any chemical alterations to the paper; is that correct?
+Timothy Sutcliffe: That's correct. We had not used in our process protocol, but we had used the Scenescope to look at pages prior to doing our protocol to see if we could observe any images. And we did not have what I would consider sufficient results that way, so we went to doing the super glue technique.
+Mr. Sanger: So how -- in other words, before you tamper with it, and I don't mean that in a bad way, but before you chemically alter with super glue, it is possible to use a Scenescope and try to find prints in their more or less natural state, correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: And you're saying you tried that on a few pages first?
+Timothy Sutcliffe: We did some test pages.
+Mr. Sanger: About how many test pages did you do?
+Timothy Sutcliffe: Just a few. I don't know exactly how many.
+Mr. Sanger: And how many pages did you have overall?
+Timothy Sutcliffe: Of --
+Mr. Sanger: That you ultimately examined?
+Timothy Sutcliffe: Over, I don't know, a thousand.
+Mr. Sanger: All right. So it was -- it was your determination not to do a thorough Scenescope examination of the thousands of pages before doing the super glue fuming as a result of that test; is that correct?
+Timothy Sutcliffe: That's correct. And one of the things that's mentioned in the Scenescope literature, and also in talking to their specialist, is that if you cannot visualize prints, your best method is to then move to the super glue, because it will have the best results, especially with the Scenescope. Best results are with super glue process.
+Mr. Sanger: I'm going to move to strike that as hearsay and nonresponsive after, “Yes, I think it was” -- or after, “That's correct”.
+The Court: Stricken after, “That's correct”. I wonder if you could try to speak a little louder or lean a little closer. I can hear you, but it's -- go ahead.
+Mr. Sanger: And I have no further questions at this time. (Laughter.)
+Message: REDIRECT EXAMINATION BY MR. AUCHINCLOSS:
+Mr. Auchincloss: Good morning, Detective Sutcliffe.
+Timothy Sutcliffe: Good morning.
+Mr. Auchincloss: I believe Mr. Sanger used the word “chemically alter”. Is that an accurate description of what happens when you fume a page with the super glue?
+Timothy Sutcliffe: The super glue fumes are adhering to the residues that are left on the page, so --
+Mr. Auchincloss: Okay. Does the fingerprint itself get altered?
+Timothy Sutcliffe: No --
+Mr. Sanger: Objection. That's leading.
+Mr. Auchincloss: This is an expert witness.
+The Court: The answer was, “No”. Next question.
+Mr. Auchincloss: Now, in your experience as a forensics detective, how many times, if you can estimate, have you been asked to look for fingerprints on a given item?
+Timothy Sutcliffe: Daily.
+Mr. Auchincloss: Okay. Hundreds of times?
+Timothy Sutcliffe: Thousands of times.
+Mr. Auchincloss: Thousands of times, in hundreds of cases or more?
+Timothy Sutcliffe: Yes.
+Mr. Auchincloss: When you look for a fingerprint on an item, do you always find it?
+Timothy Sutcliffe: No.
+Mr. Auchincloss: Do you always find some fingerprints on an item you're looking for fingerprints on?
+Timothy Sutcliffe: No, we do not.
+Mr. Auchincloss: If you were asked to characterize the percentage of items that you looked for fingerprints on and you actually find a usable fingerprint on, what percentage would you say?
+Mr. Sanger: Objection. Relevance; improper foundation.
+The Court: Sustained; relevance.
+Mr. Auchincloss: This is offered not only for the magazines, but for other evidence in this case.
+The Court: You may proceed.
+Mr. Auchincloss: Not relevant? All right.
+Mr. Auchincloss: Mr. Sanger asked you some questions yesterday about the use of digital cameras with the Scenescope.
+Timothy Sutcliffe: Correct.
+Mr. Auchincloss: And have you had a chance to do some research on that topic as to whether or not a digital camera is sufficient or adequate to use with a Scenescope in capturing fingerprint images?
+Timothy Sutcliffe: Yes, I have.
+Mr. Auchincloss: What did you do?
+Timothy Sutcliffe: I contacted the Spex Corporation this morning and talked with a representative there.
+Mr. Auchincloss: Have you -- did you find out whether or not Spex Corporation actually offers their Scenescope with a digital camera, as you mentioned you believe it did yesterday?
+Timothy Sutcliffe: Yes, they do.
+Mr. Sanger: Objection. Asked and answered; and also for hearsay, for that matter.
+Mr. Auchincloss: It goes to -- it's expert testimony, Your Honor.
+The Court: Hearsay; sustained.
+Mr. Auchincloss: Do you know, based upon your training, education, and experience, including any training you've received from the Scenescope Corporation, as to whether or not a digital camera is sufficient to capture fingerprint images using a Scenescope?
+Mr. Sanger: Objection. That calls for hearsay; and it's also vague.
+The Court: Overruled. You may answer that question.
+Timothy Sutcliffe: Yes, I do.
+Mr. Auchincloss: And do you know if a four-megapixel camera is sufficient, pursuant to Scenescope recommendations, to capture such images?
+Timothy Sutcliffe: Yes. And actually, they had offered originally a three-megapixel --
+Mr. Sanger: Move to strike after the answer, “Yes”.
+The Court: Stricken.
+Mr. Auchincloss: Do you know if Scenescope has even recommended a lesser resolution camera, such as a three-megapixel camera, to capture fingerprint images?
+Timothy Sutcliffe: Yes, they do.
+Mr. Sanger: Objection; calls for hearsay.
+Mr. Auchincloss: It's his training.
+The Court: Sustained.
+Mr. Auchincloss: When you use the digital camera, what -- does the camera itself have different levels of resolution that you can set the camera to?
+Timothy Sutcliffe: Yes.
+Mr. Auchincloss: And what level of resolution do you use on this four-megapixel camera?
+Timothy Sutcliffe: We use JPEG, the highest resolution, lowest compression.
+Mr. Auchincloss: Okay. And does that capture the clearest images?
+Timothy Sutcliffe: Yes, in JPEG format.
+Mr. Auchincloss: One last bit of housekeeping, Your Honor. I provided counsel with a copy of what I have marked as People's Exhibit 769. These are the images that I have provided, showed on the Power Point, but I didn't introduce yesterday. And I'd like to just ask the witness a couple of foundational questions concerning this exhibit.
+The Court: All right.
+Mr. Sanger: Well, I'm going to object. It's beyond the scope of direct. Beyond the scope of cross.
+Mr. Auchincloss: I believe there was some questions about the testimony yesterday concerning given images. And if there is a problem, I would ask to reopen for that limited purpose.
+Mr. Sanger: Does Your Honor know what pictures he's talking about? They're the ones subject to the 352.
+The Court: No, I don't.
+Mr. Auchincloss: I've got a copy.
+The Court: These are the pictures he showed yesterday.
+Mr. Auchincloss: That's correct.
+The Court: I've already ruled on the 352.
+Mr. Sanger: Well, my objection is that this is beyond the scope of cross. I didn't ask about these pictures. I was just referring to the 352 so Your Honor would know what we were talking about.
+The Court: All right. Thank you. The questions that you wanted to ask him are foundational questions that you omitted to ask on direct?
+Mr. Auchincloss: Well, just concerning this particular exhibit. I just want to tie this particular exhibit up with the presentation that we gave yesterday.
+The Court: All right. I'll allow that.
+Mr. Auchincloss: All right.
+The Court: Whose is this?
+Mr. Auchincloss: Detective, I show you Exhibit 769. It is a notebook which appears to have 19 pages in it, and I want you to look particularly to page number two. I'm going to -- I'm going to name some different page numbers. Let's do it this way. I'll provide with you page numbers, and I'll ask you if these page numbers correspond -- if the fingerprint on these particular pages correspond with the 16 print cards that you identified yesterday as being prints that you located.
+Timothy Sutcliffe: Okay.
+Mr. Auchincloss: All right. And I'll do it serially. Well, we can do it one at a time. Does page number two correspond to the print card noted as Exhibit No. 725, 02?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Does page number three correspond with the Exhibit No. 726, Print Card 03?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: And those were prints that you found, correct?
+Timothy Sutcliffe: That's correct.
+Mr. Auchincloss: And these are identical photos as to what was shown yesterday as to where these prints were located on these particular pages?
+Timothy Sutcliffe: That's correct.
+Mr. Auchincloss: All right. Does page number five, the ninhydrin print, correspond to the fingerprint that's noted on Exhibit 728, 05?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Does page number six of this exhibit correspond with the fingerprint that is shown on Exhibit 729, 06?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Does page number seven of Exhibit 769 correspond -- have a fingerprint on it that corresponds with the fingerprint on Exhibit 730, identified as Card 07?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Does page number eight, the fingerprint thereon, correspond with the fingerprint that's located on Card No -- Exhibit No. 731, Card No. 08?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Showing you page number nine of that exhibit, does the fingerprint on that page correspond with the fingerprint on Card No. 9, Exhibit No. 732?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Skipping ahead to page number 12, does that fingerprint on Exhibit 769 correspond -- on page 12, correspond to the fingerprint on Exhibit No. 735, Card 12?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Skipping one page. Page 14, does the fingerprint on that card correspond with the fingerprint on the card noted as Exhibit 737, No. 14?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Looking at page 15, does the fingerprint on that page correspond with the fingerprint on Exhibit No. 738, noted as Card 15?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: Going ahead to 16, page 16, does the fingerprint on that card correspond to the fingerprint on Exhibit 739, noted as Card 16?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: And lastly, showing you page 17 -- that's not yours, sorry. I'm going to show you Card 18. Does Card 18 correspond with the fingerprint that is noted on page 18 -- does this correspond with Exhibit No. 741, Card 18?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: All right. And you located each of those fingerprints?
+Timothy Sutcliffe: That's correct.
+Mr. Auchincloss: And this exhibit contains the fingerprint that you've noted with the exact page that it was located on and the location of the fingerprint on that page?
+Timothy Sutcliffe: That's correct.
+Mr. Auchincloss: Thank you. Move to admit Exhibit 769 into evidence at this time.
+Mr. Sanger: I'm not sure that 769 have the other pages in it that haven't been identified yet.
+Mr. Auchincloss: That's fair. That's fair. Actually, I will reserve that. I'll hold off on moving to admit that into evidence. There's additional foundation that I need to add.
+The Court: All right.
+Mr. Auchincloss: All right. Thank you. No further questions.
+Message: RECROSS-EXAMINATION BY MR. SANGER:
+Mr. Sanger: Do you have 741 in front of you, Exhibit 741?
+Timothy Sutcliffe: Is that --
+Mr. Sanger: May I approach, Your Honor?
+The Court: Yes.
+Mr. Sanger: If I can assist.
+Mr. Sanger: That is 741.
+Timothy Sutcliffe: Thank you.
+Mr. Sanger: Exhibit 741 you have now identified as relating to a particular page in the book that was just marked for identification, correct?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: Now, that was originally attributed to a totally different magazine, a different exhibit, was it not?
+Timothy Sutcliffe: Correct. That placard number belonged to 321-D, which was a “Hawk” magazine.
+Mr. Sanger: Okay. And did you confer with Detective Spinner about the misidentification of that particular -- the location of that particular print?
+Timothy Sutcliffe: I conferred with him about the misleading of the binders, yes.
+Mr. Sanger: So there was a misattribution, in your opinion at this time, of that print to, in essence, the wrong magazine?
+Mr. Auchincloss: I'll object as vague as to “misattribution”.
+The Court: Overruled.
+Timothy Sutcliffe: I don't know what that means.
+Mr. Sanger: Okay. That's a good point. When your team -- when the fingerprint team was working on this, that particular print was originally identified to - I want to get the right number here - 321-D, correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: And 321-D -- I'm sorry?
+Timothy Sutcliffe: I was going to say that was based on us receiving the binder with the label, and when we opened the binder, we went to work on that particular magazine, which was “Finally Legal”.
+Mr. Sanger: Okay. The binder was labeled as 321-D?
+Timothy Sutcliffe: Mislabeled.
+Mr. Sanger: All right. We'll get to misattribution anytime now. All right. The binder was mislabeled as 321-D, correct?
+Timothy Sutcliffe: And that was the only identifier on the binder.
+Mr. Sanger: Okay. So there was no other way to establish, as you look at it, as to what exhibit that actually was?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: And you would agree, based on your training and experience, that it's important to try to label all these things carefully so that ultimately, if you're called to testify in court, you can get it right?
+Timothy Sutcliffe: Absolutely.
+Mr. Sanger: Okay. And eventually it was determined, you believe at this time, that that print really came off a different magazine?
+Timothy Sutcliffe: Oh, I know it did.
+Mr. Sanger: Okay. That's your testimony at this point.
+Timothy Sutcliffe: Correct.
+Mr. Sanger: All right. And by the way, the fingerprints that you lifted, do you have any way to determine the age of the fingerprints?
+Timothy Sutcliffe: No.
+Mr. Sanger: So you can't tell if one was laid down before another, correct?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: And you can't tell, just even in general, other than, for instance, looking at the date of a magazine or something like that, you can't tell scientifically when a particular print was placed there?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: Okay. Now, Mr. Auchincloss led off with a question about “chemically altered”. The fact is that super glue fuming does chemically alter the exhibit, does it not, sir?
+Timothy Sutcliffe: It adheres to the prints that are on -- or whatever residue is left on there. I don't believe it chemically alters the prints, the chemical the process, the super glue itself.
+Mr. Sanger: All right. In talking about the word “alter”, then, if you -- if you put super glue on something, super glue is a chemical, right?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: And you're not altering the exhibit by putting super glue on something; is that your definition?
+Timothy Sutcliffe: My understanding, yes.
+Mr. Sanger: Okay. Now, aside from that, you do agree with me that when you put super glue, the super glue fuming causes the super glue to adhere to the page?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: Okay. And to one extent, it may help to enhance a fingerprint, right?
+Timothy Sutcliffe: Definitely.
+Mr. Sanger: Because it will tend to adhere to the portions of the fingerprint that correspond to the ridges on the finger that left the print, correct?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: If you overfume, if you fume too long or too thoroughly on a piece of paper, you can actually obscure portions of the fingerprint, correct?
+Timothy Sutcliffe: That would be true.
+Mr. Sanger: All right. And that's not chemically altering, as far as you're concerned?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: Okay. Thank you. No further questions.
+Mr. Auchincloss: Could I have just a moment, Your Honor? I'm trying to call up an image on my computer that I'd like to show the detective.
+The Court: Yes.
+The Clerk: Do you have an exhibit number?
+Mr. Auchincloss: It is -- no, that's not it. It's -- (Discussion off the record.)
+Mr. Auchincloss: I'll do it without the exhibit. Your Honor, could you project “Input 1”, please?
+Message: FURTHER REDIRECT EXAMINATION BY MR. AUCHINCLOSS:
+Mr. Auchincloss: Detective, is this the fingerprint that counsel just questioned you about?
+Timothy Sutcliffe: Yes, it is.
+Mr. Auchincloss: And I believe I questioned you about it, that there was an error on that fingerprint because it said 3 -- it says “321-D”?
+Timothy Sutcliffe: That's correct.
+Mr. Auchincloss: And you said that's incorrect?
+Timothy Sutcliffe: That is.
+Mr. Sanger: Objection. Leading; calling for recitation of prior testimony.
+The Court: Overruled.
+Mr. Auchincloss: And in fact, that is 321-F?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: That's leading, Your Honor.
+Mr. Auchincloss: It's restating his testimony, it's not --
+Mr. Sanger: Object to speaking --
+The Court: It is leading. I'll sustain the objection.
+Mr. Auchincloss: Okay.
+Mr. Auchincloss: What is the accurate letter for that particular item number?
+Timothy Sutcliffe: The item number is 321-F.
+Mr. Auchincloss: And you said you were certain that that item number is 321-F?
+Timothy Sutcliffe: That is correct.
+Mr. Sanger: Objection; leading.
+The Court: Sustained.
+Mr. Auchincloss: Are you certain that that is Item 321-F?
+Timothy Sutcliffe: Yes, I am.
+Mr. Auchincloss: Why?
+Timothy Sutcliffe: A couple of things. One, when we received the magazine, and when we were doing our report at the time we were processing the magazine, we were processing “Finally Legal”. That was the magazine. Subsequently, when we noticed that the tags had been switched, we noticed that 321-D was actually associated with the “Hawk” magazine.
+Mr. Auchincloss: Does the circle that you identified that particular fingerprint with have any similarities to the circle to the right that appears in the image?
+Timothy Sutcliffe: Yes, it does.
+Mr. Auchincloss: How so?
+Timothy Sutcliffe: You can see that the -- at the edge of the ruler up in the upper right-hand corner of the photograph is the number “1”, and that is also illustrated on the actual photograph of the page.
+Mr. Auchincloss: All right. So -- Detective, I show you Exhibit No. 559. It appears to be Item 321-F. Is that the magazine that that fingerprint came from?
+Timothy Sutcliffe: Yes, it is.
+Mr. Auchincloss: And is there any indication or mark on this magazine that tells you that this magazine is, in fact, 321-F?
+Timothy Sutcliffe: On the back page of the magazine there should be a number in the bottom right-hand corner, and it was identified as 321-F, and that was placed there when they were first being separated.
+Mr. Auchincloss: All right. Thank you, Detective. I have no further questions.
+Message: FURTHER RECROSS-EXAMINATION BY MR. SANGER:
+Mr. Sanger: Never trust a lawyer who says there's only a few questions. That's why we started 35 minutes ago. You are in the Santa Barbara County Sheriff's Department, and you are a deputy sheriff; is that correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: And you worked as a deputy sheriff before moving into the Forensics Bureau, correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: And you went to the academy?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: Which academy?
+Timothy Sutcliffe: Ventura Academy.
+Mr. Sanger: And that's a POST, P-O-S-T, certified academy, correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: And in the academy, you studied the need to be very accurate in recording material in police reports and elsewhere for the purpose of investigations, correct?
+Timothy Sutcliffe: Absolutely.
+Mr. Sanger: And the purpose of recording material accurately is so that later, when speaking to other officers or to counsel, or testifying in court, you can present accurate testimony in a case; is that correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: You then moved to the Forensics Bureau of the sheriff's department; is that right?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: And the Forensics Bureau is, in essence, a part of the sheriff's department that deals specifically with evidence, sometimes the scientific processing of evidence; is that correct?
+Timothy Sutcliffe: That's correct.
+Mr. Sanger: And in the course of your training to become a member of the Forensics Bureau, was it emphasized that it is extremely important to make sure that all of the evidence tags and paperwork and everything else is extremely accurate?
+Timothy Sutcliffe: Absolutely.
+Mr. Sanger: All right. So based on your training and experience, this was not correct police procedure to have this exhibit mislabeled in this case; is that correct?
+Timothy Sutcliffe: It should not have been mislabeled, that's correct.
+Mr. Sanger: And tags should not be switched; is that correct? I think those are your words, “the tags were switched”?
+Timothy Sutcliffe: Yes, meaning not purposely, but accidentally switched.
+Mr. Sanger: Well, tags should not be switched, correct?
+Timothy Sutcliffe: Correct.
+Mr. Sanger: All right. And you caught this particular one, right?
+Timothy Sutcliffe: That was the only one.
+Mr. Sanger: That's the only one you caught?
+Timothy Sutcliffe: We checked them all.
+Mr. Auchincloss: Objection; argumentative.
+Mr. Sanger: You went back and you checked them all?
+Mr. Auchincloss: There's an objection.
+The Court: Just a moment. It's overruled. The answer was, “We checked them all”. Next question.
+Mr. Sanger: “Checked them all” meaning all the fingerprints?
+Timothy Sutcliffe: Checked every magazine to make sure it was properly labeled.
+Mr. Sanger: I'm sorry, I meant all the materials that you had for the fingerprints.
+Timothy Sutcliffe: Correct.
+Mr. Sanger: Were you aware of any other tags falling off in this particular investigation?
+Timothy Sutcliffe: Not to my knowledge.
+Mr. Sanger: Okay. Thank you. No further questions.
+Mr. Auchincloss: No further questions.
+The Court: Thank you. You may step down. Call your next witness.
+Mr. Nicola: Alicia Romero, Your Honor.
+The Court: Come forward, please. You were sworn yesterday. You're still under oath. You may be seated.
+Alicia Romero: Okay. Thank you.
+Mr. Nicola: Good morning.
+Alicia Romero: Hi, good morning.
+Mr. Nicola: Would you take a look at these while I'm getting ready.
+Message: ALICIA ROMERO Having been previously sworn, resumed the stand and testified further as follows:
+Message: DIRECT EXAMINATION BY MR. NICOLA:
+Mr. Nicola: Good morning, Miss Romero.
+Alicia Romero: Good morning.
+Mr. Nicola: As soon as you sat down, I handed you two envelopes, and asked you to take a peek through those.
+Alicia Romero: Okay.
+Mr. Sanger: Your Honor, I'm going to ask for the opportunity to see what she's taking a peek at.
+The Court: Go ahead.
+Mr. Nicola: Go ahead.
+The Court: The audience couldn't hear you, though, when you said that.
+Mr. Sanger: Can I restate it, or just --
+The Court: Yes, go ahead.
+Mr. Sanger: I asked if I could have the opportunity to take a peek at what she's taking a peek at.
+Mr. Auchincloss: Your Honor, could we go to “Input 1”, please, and go back to the black screen? Thank you.
+Mr. Sanger: That's fine. Let me just take a look at the envelope here.
+Alicia Romero: These came from this envelope here.
+Mr. Sanger: All right. Okay. That's fine. Thank you. Thank you, Your Honor.
+The Court: All right. Go ahead, Counsel.
+Mr. Nicola: Do you recognize the documents contained in both of those envelopes that you looked at?
+Alicia Romero: Yes, I do.
+Mr. Nicola: Okay.
+Alicia Romero: Are you referring to these?
+Mr. Nicola: Yes.
+Alicia Romero: Yes.
+The Bailiff: She's got to scoot up and speak into the microphone.
+Alicia Romero: Oh, yes.
+Mr. Nicola: Did you hear that?
+Mr. Nicola: Now, before we start talking about the contents of either of those envelopes, would you please let the jury know who you are and where you're employed.
+Alicia Romero: Okay. My name's Alicia Romero and I work at the Santa Barbara Superior Court.
+Bailiff Cortez: Closer to the mike, please.
+Alicia Romero: My name is Alicia Romero, and I work at the Santa Barbara Superior Court. I supervise the courtroom clerks, both criminal and civil, and I also am the supervisor of the exhibit clerk, and I also handle the exhibits also.
+Mr. Nicola: With respect to your duties as handling exhibits for the Superior Court, were you involved in handling the exhibits lodged in the grand jury proceeding in the case of People vs. Michael Jackson?
+Alicia Romero: After the grand jury they were delivered to me, and I've had them in my possession in a vault all this time.
+Mr. Nicola: Okay.
+Alicia Romero: Except for certain orders to release.
+Mr. Nicola: Okay. That's where we're going next. When the grand jury exhibits came to you, what did you first do with them?
+Alicia Romero: Since it was after hours, we received them, and I locked them right away in the exhibit room, which has a vault that -- it's real thick, with a combination lock, until the next morning.
+Mr. Nicola: Okay. Did you conduct an inventory on the exhibits after that?
+Alicia Romero: First thing the next morning.
+Mr. Nicola: Okay. And you made sure that all the exhibits that had been entered into the grand jury were accounted for in your vault, correct?
+Alicia Romero: Correct.
+Mr. Nicola: Okay. And is that part of your official function?
+Alicia Romero: On grand jury exhibits, there's times where I would get orders from Gary Blair to handle them myself.
+Mr. Nicola: Okay. And in this particular case you were ordered by Gary Blair?
+Alicia Romero: Correct.
+Mr. Nicola: Did anybody have access to the grand jury exhibits that were lodged with you?
+Alicia Romero: The only other person would have been my exhibit clerk at the time, but she was also informed that anything to do with this grand jury exhibits, that she was to contact me and I would handle it. And I also had the -- my other supervisor, Flota Pritchard, in my absence, if it was an emergency need, that she could have access to it also. Other than that, it was just her and I that were to handle them.
+Mr. Nicola: Do you know whether any emergencies came up where somebody other than you had to get in there?
+Alicia Romero: I believe --
+Mr. Sanger: Calls for hearsay, Your Honor.
+The Court: Sustained.
+Mr. Nicola: Did you keep records of every time that the grand jury exhibits were accessed?
+Alicia Romero: Yes, I did.
+Mr. Nicola: And were those records kept within the scope of your employment as a public employee?
+Alicia Romero: Yes.
+Mr. Nicola: And were you under a duty to record whenever the grand jury exhibits were opened?
+Alicia Romero: Yes.
+Mr. Nicola: And if another clerk, another public employee working for you, had access or needed access to the grand jury exhibits, it was part of your duty to record who entered the grand jury exhibits?
+Alicia Romero: Yes.
+Mr. Nicola: And when?
+Alicia Romero: Yes.
+Mr. Nicola: And get some kind of identification from who had access to the grand jury evidence?
+Alicia Romero: Yes. Unless we knew who that person was. Uh-huh.
+Mr. Nicola: Okay. Do you have a record sitting in front of you who had access to the grand jury exhibits?
+Alicia Romero: Yes, I do.
+Mr. Nicola: In your review of those documents, can you please tell the jury the first time that the grand jury exhibits were accessed and viewed by people other than the Superior Court clerks?
+Alicia Romero: Stephen Dunkle and Amy Cassel.
+Mr. Nicola: Did you take some form of identification from Mr. Dunkle?
+Alicia Romero: Yes. Yes.
+Mr. Nicola: Okay. Is that noted on your log?
+Alicia Romero: I have their business cards attached to this.
+Mr. Nicola: Okay. And Stephen Dunkle works for Sanger & Swysen?
+Alicia Romero: Correct.
+Mr. Nicola: Attorneys at Law?
+Alicia Romero: Correct.
+Mr. Nicola: And Amy Cassel works for Mason Investigative Group?
+Alicia Romero: Yes.
+Mr. Nicola: An investigator?
+Alicia Romero: Correct.
+Mr. Nicola: Okay. And what date did they come look at the exhibits?
+Alicia Romero: June 9th, 2004.
+Mr. Nicola: Okay. And how long -- what time did they come in and what time did they leave, if that is noted on your log?
+Alicia Romero: Yes, it is. They came in at 2:53, and they left at 3:45.
+Mr. Nicola: Okay. And which grand jury exhibits did they look at?
+Alicia Romero: This one I just put that they had viewed most of them. I didn't specify particularly which ones they viewed.
+Mr. Nicola: Okay. Just most of them?
+Alicia Romero: Uh-huh. Correct.
+Mr. Nicola: And do you have an indication there that they used gloves?
+Alicia Romero: On this particular one, yes.
+Mr. Nicola: Okay. Now, prior to anybody coming to view the grand jury exhibits, was a court order required?
+Alicia Romero: Yes.
+Mr. Nicola: Okay. When is the next time somebody came to view the grand jury exhibits, please?
+Alicia Romero: July 20th, 2004.
+Mr. Nicola: And that was Detective Craig Bonner?
+Alicia Romero: Correct.
+Mr. Nicola: Okay. And that was pursuant to a court order as well, correct?
+Alicia Romero: Correct.
+Mr. Nicola: Now, was his role that day to take pictures of certain items?
+Alicia Romero: Yes.
+Mr. Nicola: And that's what the court order spelled out, correct?
+Alicia Romero: Yes.
+Mr. Nicola: And one of those items was Grand Jury Exhibit No. 53?
+Alicia Romero: Yes.
+Mr. Nicola: May I approach the witness, Your Honor?
+The Court: Yes.
+Mr. Nicola: I've placed before you Exhibit No. 470.
+Alicia Romero: No. 470?
+Mr. Nicola: When we do the trial, we renumber all the exhibits.
+Alicia Romero: Oh, okay.
+Mr. Nicola: You're looking at a grand jury exhibit sticker on the back of that briefcase, are you not?
+Alicia Romero: Yes, I am.
+Mr. Nicola: Is that exhibit -- Grand Jury Exhibit No. 53?
+Alicia Romero: Yes, it is.
+Mr. Nicola: Okay. Is that the exhibit that Detective Bonner opened in your presence and took photographs of everything that was in there?
+Alicia Romero: Yes.
+Mr. Nicola: Okay. And were you present with him at the time that he did that?
+Alicia Romero: Yes, the entire time.
+Mr. Nicola: Did you ever leave grand jury evidence -- for example, on the June 9th date, did you leave the grand jury evidence unattended?
+Alicia Romero: No.
+Mr. Nicola: Okay. So you observed everything that would happen with the exhibits?
+Alicia Romero: Yes.
+Mr. Nicola: And that's how you were assured there would be no tampering, correct?
+Alicia Romero: Yes.
+Mr. Nicola: Did you watch Detective Bonner remove the contents of the briefcase and begin photographing page for page?
+Alicia Romero: Yes.
+Mr. Nicola: And Detective Bonner was wearing gloves on that occasion as well, correct?
+Alicia Romero: Yes.
+Mr. Nicola: When he was finished photodocumenting all the contents of Grand Jury Exhibit 53, also known as People's Exhibit 470, did he replace all the items in the same order that he removed them and close the briefcase again?
+Mr. Sanger: Objection. Compound; and leading.
+Mr. Nicola: Should I rephrase?
+The Court: Sustained.
+Mr. Nicola: Okay. When he finished taking the pictures, he put it all back together again?
+Alicia Romero: He placed them back in the suitcase. Whether they were in the same order that they were taken out, I do not know.
+Mr. Nicola: So he may have shuffled them, as far as you know?
+Alicia Romero: Correct.
+Mr. Nicola: Did he close the briefcase and hand it back to you?
+Alicia Romero: Yes.
+Mr. Nicola: Did he examine other exhibits on that same day?
+Alicia Romero: Yes, he did.
+Mr. Nicola: Okay. And did he, in your presence, take care to handle only one exhibit at a time?
+Alicia Romero: Yes.
+Mr. Nicola: You made sure of that, I take it?
+Alicia Romero: Yes.
+Mr. Nicola: Okay. When Detective Bonner left, left from taking pictures of the exhibits, where did Exhibit No. 53, also known as Exhibit 470, the black briefcase, where did that stay?
+Alicia Romero: Once he left? It was given back to me and I put it back in the vault.
+Mr. Nicola: Okay. Did you have occasion to pull Exhibit No. 470, the black briefcase, marked Grand Jury Exhibit 53, out from the evidence vault again?
+Alicia Romero: Do you mean at a later time? Or the same day?
+Mr. Nicola: Later time.
+Alicia Romero: Yes.
+Mr. Nicola: Would you turn to your log of exhibits and confirm for us whether somebody entered to view exhibits on July 21st?
+Alicia Romero: Yes.
+Mr. Nicola: Who was there on July 21st?
+Alicia Romero: Mr. Sanger and Stephen Dunkle.
+Mr. Nicola: Stephen Dunkle would be the attorney who first came to view?
+Alicia Romero: Yes.
+Mr. Nicola: And “Mr. Sanger” being Mr. Sanger seated to my right?
+Alicia Romero: Yes. Robert Sanger.
+Mr. Nicola: And did they examine Exhibit No. 53 as well?
+Alicia Romero: Yes.
+Mr. Nicola: Did they do that in your presence?
+Alicia Romero: Yes.
+Mr. Nicola: Did they open it?
+Alicia Romero: Yes.
+Mr. Nicola: And do you recall whether they looked through all the contents?
+Alicia Romero: I do not recall if they looked through all of it. I -- I seem vaguely to remember that they viewed some of it, and just saw that they were magazines.
+Mr. Nicola: Okay. When they were finished with Exhibit No. 53, also known as People's 470, the black briefcase --
+Alicia Romero: Uh-huh.
+Mr. Nicola: -- what did you do with it?
+Alicia Romero: After they finished viewing all the exhibits, I put everything back in the vault.
+Mr. Nicola: Okay. Do your records show whether Exhibit No. 53, People's 470, was viewed again prior to its release?
+Alicia Romero: Yes.
+Mr. Nicola: When was it next looked at?
+Alicia Romero: July 27th, 2004.
+Mr. Nicola: And by whom?
+Alicia Romero: Stephen Dunkle and Susan Watts.
+Mr. Nicola: That's a third trip by Attorney Dunkle?
+Alicia Romero: Correct.
+Mr. Nicola: And Susan Watts, did she leave you some kind of identifying business card?
+Alicia Romero: No, she did not.
+Mr. Nicola: Did Mr. Dunkle just vouch for her?
+Alicia Romero: Yes.
+Mr. Nicola: Which exhibits did they look at?
+Alicia Romero: Looking at this list, it looks like all of them. I could read out each number, if you like, but I have a whole list of numbers.
+Mr. Nicola: Most, if not all the exhibits?
+Alicia Romero: Correct.
+Mr. Nicola: Okay. Was Exhibit 53 viewed by Mr. Dunkle and Ms. Watts?
+Alicia Romero: Yes.
+Mr. Nicola: Do you recall if they were wearing gloves when they went through the exhibits?
+Alicia Romero: The procedure was to wear gloves.
+Mr. Nicola: Okay. Was there --
+Alicia Romero: I'm sorry.
+Mr. Nicola: Let me back up to the date that Mr. Sanger and Mr. Dunkle reviewed the exhibits on July 21st. Were they wearing gloves?
+Alicia Romero: Mr. Dunkle was. I believe Mr. Sanger was letting Mr. Dunkle handle them on that date, from what I recall.
+Mr. Nicola: And how long were Mr. Dunkle and Miss Watts viewing the evidence on July 27th of 2004?
+Alicia Romero: About one hour and ten minutes. They came in at 1:10 p.m. and left about 2:40 p.m.
+Mr. Nicola: Okay. Do your records show anyone else coming to look at Grand Jury Exhibit No. 53, also known as People's 470, prior to the date of its release?
+Alicia Romero: No.
+Mr. Nicola: Okay. What is the procedure for releasing a grand jury exhibit prior to trial?
+Alicia Romero: I'm sorry, what was that question again?
+Mr. Nicola: Let me rephrase it. What is the procedure to release a grand jury exhibit to one of the parties prior or before the trial starts?
+Alicia Romero: The parties would have to get a stipulated order signed by the Judge.
+Mr. Nicola: Okay. And what would you require from the person who would come to pick the item from you?
+Alicia Romero: Identification, and I would have the original -- a copy of the order from the clerk.
+Mr. Nicola: Okay. Would you take any precautions in preserving either digitally or on some kind of copy the contents of the exhibit that were removed by one of the parties?
+Alicia Romero: Yes.
+Mr. Nicola: Okay, you would. And in the case of Exhibit No. 53, also known as 470, the black briefcase, was that exhibit removed by Detective Craig Bonner pursuant to a Judge's order?
+Alicia Romero: Yes, it was.
+Mr. Nicola: Okay. And on what date was that exhibit removed from your custody?
+Alicia Romero: On October 1st, 2004.
+Mr. Nicola: Did you make Mr. Bonner, excuse me, Detective Bonner, leave you a record of the items that he removed?
+Alicia Romero: Yes.
+Mr. Nicola: And how did he leave that with you?
+Alicia Romero: He left me a disk.
+Mr. Nicola: Is that in one of your envelopes there?
+Alicia Romero: Yes, it is.
+Mr. Nicola: Okay. I'd like to put an exhibit sticker on that, please. That would be Item 770, next in order. Could you please describe the Item 770 that I just marked the sticker on? Show the jury what is on the front and on the back; tell them.
+Alicia Romero: This is a disk. These are a disk of the exhibits that were released per court order. I also made a notation, by a post-it, of the date that the court order was ordered and the date of the receipt.
+Mr. Nicola: Is there a list of exhibit items that are contained on that CD?
+Alicia Romero: Yes, there is.
+Mr. Nicola: And what does that list say?
+Alicia Romero: They have Exhibits 33, 34, 52, 53, 73-A, 73-B, 73-C, 80, 82, and 91. These are all grand jury numbers.
+Mr. Nicola: Okay. I'd like to admit 770 into evidence, Your Honor.
+Mr. Sanger: Objection, Your Honor, it's not relevant. There may be a part of it that's relevant to what just happened. But there's a great deal of irrelevant material on it.
+The Court: At this time I'll sustain the objection. I'll take it up later, if necessary.
+Mr. Nicola: I have no further questions.
+The Court: Cross-examine?
+Message: CROSS-EXAMINATION BY MR. SANGER:
+Mr. Sanger: Miss Romero, how are you?
+Alicia Romero: I'm fine.
+Mr. Sanger: Okay. We let you talk today. First of all, is there anything unusual about a defense lawyer coming to -- or a defense lawyer and investigator coming to look at grand jury exhibits?
+Alicia Romero: No.
+Mr. Sanger: And at the time that Mr. Dunkle from my office came, and the one time that I came to look at the grand jury exhibits, was the grand jury process completed?
+Alicia Romero: Yes.
+Mr. Sanger: In other words, the grand jury had already looked at everything, they'd returned their Indictment, and you were now safekeeping the exhibits?
+Alicia Romero: Correct.
+Mr. Sanger: All right. And in particular, we, that is, the defense, who'se representing Mr. Jackson, had to have a court order in order to look at the exhibits; is that correct?
+Alicia Romero: Right.
+Mr. Sanger: When Mr. Dunkle and Ms. Cassel came -- Miss Cassel being an investigator and Mr. Dunkle being a lawyer in my office. When they came, did they ask you if they could take photographs of the exhibits?
+Alicia Romero: Yes, they did.
+Mr. Sanger: And you told them that they could not; is that correct?
+Alicia Romero: Correct.
+Mr. Sanger: So it was necessary for us to go back and get a further court order in order to be allowed to take photographs; is that correct?
+Alicia Romero: Right.
+Mr. Sanger: Now, you remember that Miss Watts came with Mr. Dunkle on the third occasion, correct?
+Alicia Romero: Correct.
+Mr. Sanger: And at that time, had they received the court order to allow photographs to be taken?
+Alicia Romero: I have to check my notes here.
+Mr. Sanger: Sure, take your time.
+Alicia Romero: This was with Miss Watts, right? And --
+Mr. Sanger: Yes. I'll let you take a look. If it's too much trouble, I can ask you another question, which is, did Miss Watts take photographs? Let me try that.
+Alicia Romero: Yes.
+Mr. Sanger: All right. So I would assume that you would not have allowed her to take the photographs unless you had an order permitting that; is that correct?
+Alicia Romero: Correct.
+Mr. Sanger: And do you recall Miss Watts being an investigator for our law firm?
+Alicia Romero: Yes.
+Mr. Sanger: Okay. Now, in between Mr. Dunkle and I came in and looked at the exhibits. At that time we were still not allowed to take photographs; is that correct?
+Alicia Romero: Correct. I don't seem to have an order allowing you to take photos yet at that time.
+Mr. Sanger: At that time?
+Alicia Romero: When you came, uh-huh.
+Mr. Sanger: All right. Now, just to do the whole thing at once so we can break it down, during the time that Mr. Dunkle was there from my office, the one that I was there and the two investigators, in other words, those three times, did all of the personnel from my office, including myself, follow all of your directions with regard to preserving and avoiding any contamination of the evidence?
+Alicia Romero: As I recall, yes.
+Mr. Sanger: And you were sitting there at the table each time taking the evidence out and allowing whoever it was, whether it was me or any of the others, to look at it, correct?
+Alicia Romero: Correct.
+Mr. Sanger: And none of us touched the evidence in any way that you did not want us to do; is that correct?
+Alicia Romero: Correct.
+Mr. Sanger: All right. And by the time that we did that, by the time these inspections by the defense occurred, were you told to wear gloves and to preserve the evidence?
+Alicia Romero: Yes, we were. From the very first visit, Mr. Dunkle, and I think it was Cassel, were told to wear gloves at all times.
+Mr. Sanger: And we all complied with that, right?
+Alicia Romero: Correct.
+Mr. Sanger: All right. Now, prior to that, on the day that you got the materials from the grand jury, my understanding is all you did was take them in a box or so?
+Alicia Romero: Yes. Gary Blair and Christie Russell, that was the courtroom clerk, brought them about almost six o'clock that evening. And Christie and I, we put it in the vault immediately.
+Mr. Sanger: All right. Were anybody -- was anybody wearing gloves?
+Alicia Romero: No.
+Mr. Sanger: Okay. And after you put them in the vault, you locked it up, and then you came back the next day, correct?
+Alicia Romero: First thing the next morning, yes.
+Mr. Sanger: And who assisted you in inventorying the material?
+Alicia Romero: The courtroom clerk that took the Indictment.
+Mr. Sanger: And the courtroom clerk was?
+Alicia Romero: Christie Russell.
+Mr. Sanger: So you and Miss Russell then took the boxes out, and you went through each exhibit to catalog and make sure it was all there; is that right?
+Alicia Romero: Correct.
+Mr. Sanger: And did you -- did each of you wear gloves?
+Alicia Romero: No, we did not.
+Mr. Sanger: And you were not instructed by law enforcement or other court personnel or anybody else that you should wear gloves; is that correct?
+Alicia Romero: Correct.
+Mr. Sanger: Okay. Okay. Thank you. I have no further questions.
+Mr. Nicola: Just a few, please.
+Message: REDIRECT EXAMINATION BY MR. NICOLA:
+Mr. Nicola: Go ahead.
+Alicia Romero: I'm doing my work. Okay.
+Mr. Nicola: Essentially there was nothing improper in the way that the exhibits were handled by other parties in this case, correct?
+Alicia Romero: Correct.
+Mr. Nicola: Okay.
+Alicia Romero: Correct.
+Mr. Nicola: When you did your inventory of the exhibits for the first time, did you open up item -- Exhibit No. 470, which is the black briefcase that you know as Exhibit 53?
+Alicia Romero: Yes.
+Mr. Nicola: Okay. And did you look at every single page that was in there?
+Alicia Romero: No, we did not.
+Mr. Nicola: How did you handle that? Could you explain that for the jury, please?
+Alicia Romero: Okay. When we were inventorying, we had this black suitcase. We have to account for every exhibit, so when we got to the black suitcase, our procedure is, “Is there anything in there that was overlooked that we should make a note on the exhibit card?” So we looked in it, and all we saw was magazines, and we just sort of like -- I think it was myself rather than Christie, we just sort of moved it, just magazines, and then we just closed it, but we didn't touch all the exhibits.
+Mr. Nicola: You don't work for law enforcement, do you?
+Alicia Romero: No, I don't.
+Mr. Nicola: And law enforcement doesn't get to tell court clerks what to do, right?
+Mr. Sanger: Objection; calls for speculation.
+The Court: Sustained.
+Mr. Nicola: It's rebuttal to his question. I'll rephrase it, Your Honor.
+Mr. Nicola: When Mr. Sanger asked you whether you were told what to do with the exhibits by law enforcement, is that a common procedure for you?
+Alicia Romero: It wasn't necessarily by law enforcement. It was from Gary Blair.
+Mr. Nicola: Okay. So my question is, does law enforcement generally direct you how to handle exhibits once they're lodged with the Court?
+Alicia Romero: No, they do not.
+Mr. Nicola: They become court property at that point, correct?
+Alicia Romero: Correct.
+Mr. Nicola: Okay. I have nothing further.
+Message: RECROSS-EXAMINATION BY MR. SANGER:
+Mr. Sanger: Okay. But law enforcement did tell you that -- after you had inventoried everything, at some point before my office came to look at the materials, somebody told you that everybody should wear gloves when dealing with this material, correct?
+Alicia Romero: It was Gary Blair. And I believe Detective Bonner at one time did mention, “You clerks” -- I mean, “You should really wear gloves when you're handling it”. It wasn't an order. It was more like a request.
+Mr. Sanger: All right.
+Alicia Romero: But I took my instructions from Gary Blair.
+Mr. Sanger: Gary Blair is the court administrator?
+Alicia Romero: Yes, he is.
+Mr. Sanger: So he would be your boss as it were?
+Alicia Romero: Correct.
+Mr. Sanger: When you say you don't take direction from law enforcement on handling exhibits -- well, I don't know what you said, but let me -- I don't want to put words in your mouth. Let's put it this way: The fact is, that you've been a courtroom clerk in the past, correct?
+Alicia Romero: Correct.
+Mr. Sanger: And the fact is, if law enforcement is handling something with gloves and they indicate there may be some reason to check something for fingerprints, you would act accordingly, correct?
+Alicia Romero: Correct.
+Mr. Sanger: Okay. So if law enforcement were to tell you -- if they had told you before you took possession of these items that you shouldn't go through them because they may be checking them for fingerprints, you would have honored that request, right?
+Alicia Romero: Yes, I would have.
+Mr. Sanger: Okay. And that has happened before, has it not?
+Alicia Romero: Correct.
+Mr. Sanger: Okay. All right. Thank you. No further questions.
+Mr. Nicola: No redirect, Your Honor.
+The Court: All right. Thank you. You may step down.
+Alicia Romero: Thank you.
+Mr. Auchincloss: We'll call Nancy Torres as our next witness.
+The Court: All right. Come forward, please. When you get to the witness stand, please remain standing. Face the clerk over here. And raise your right hand.
+Message: NANCY DIANA TORRES Having been sworn, testified as follows:
+Nancy Torres: I do.
+The Clerk: Please be seated. State and spell your name for the record.
+Nancy Torres: Nancy Diana Torres; T-o-r-r-e-s.
+The Clerk: Thank you.
+Message: DIRECT EXAMINATION BY MR. AUCHINCLOSS:
+Mr. Auchincloss: Good morning, Miss Torres.
+Nancy Torres: Good morning.
+Mr. Auchincloss: Who do you work for, please?
+Nancy Torres: I work for the Santa Barbara Sheriff's Department, Forensics Unit.
+Mr. Auchincloss: And what do you do for the Santa Barbara Sheriff's Forensic Unit?
+Nancy Torres: I'm an identification technician in the Forensics Unit.
+Mr. Auchincloss: What is an identification technician?
+Nancy Torres: We basically do the same thing as a forensics detective. We go out to a crime scene and process it. We also do fingerprint work.
+Mr. Auchincloss: How long have you been an identification technician?
+Nancy Torres: I have been employed as an I.D. technician for five years.
+Mr. Auchincloss: Have you received any training that qualifies you for that position?
+Nancy Torres: Yes, I have gone to basic fingerprint pattern-type recognition courses, latent print comparison and techniques courses, as well as basic forensic ridgeology courses. And I have a bachelor's of science degree in chemistry.
+Mr. Auchincloss: Have you had some experience in the field that has helped you learn your craft in fingerprint identification procedures?
+Nancy Torres: Yes. Every day we do fingerprint comparisons.
+Mr. Auchincloss: And what techniques are you familiar with in terms of finding fingerprints?
+Nancy Torres: Well, we use a lot of various chemical techniques, and -- as well as visual techniques that we use.
+Mr. Auchincloss: Did you participate in the location of fingerprints on a series of magazines for the case of People v. Michael Jackson?
+Nancy Torres: Yes, I did.
+Mr. Auchincloss: I'd like to show you some exhibits at this time, and begin by asking you, did you participate in the procedure of attempting to locate prints on these items with another I.D. technician?
+Nancy Torres: Yes, I did.
+Mr. Auchincloss: And who was that?
+Nancy Torres: It was -- my partner was Detective Sutcliffe.
+Mr. Auchincloss: Okay. And was he present with you during the entire time that you did the examination of these magazines?
+Nancy Torres: Yes, he was.
+Mr. Auchincloss: All right. Showing you People's 725, Card 02, did you help in the processing of this particular magazine?
+Nancy Torres: Yes, I did.
+Mr. Auchincloss: What was your duty on this magazine?
+Nancy Torres: I helped with the ninhydrin processing portion of it.
+Mr. Auchincloss: Okay. Exhibit 726, 03, did you help process this particular magazine?
+Nancy Torres: Yes, I did.
+Mr. Auchincloss: What was your duty or what did you do on this particular magazine?
+Nancy Torres: I helped with the ninhydrin processing of them.
+Mr. Auchincloss: Exhibit 728, Card 05, same question, did you help in processing this?
+Nancy Torres: Yes.
+Mr. Auchincloss: What did you do?
+Nancy Torres: A ninhydrin processing as well.
+Mr. Auchincloss: Same question for 729, Card 06?
+Nancy Torres: Yes. With the ninhydrin processing.
+Mr. Auchincloss: Exhibit 730, Card 07, same question?
+Nancy Torres: Yes. And the ninhydrin processing as well.
+Mr. Auchincloss: 731, Card No. 8?
+Nancy Torres: Yes. With the ninhydrin processing as well.
+Mr. Auchincloss: All right. 732, Card 09?
+Nancy Torres: Yes. Ninhydrin process.
+Mr. Auchincloss: All right. Now, calling your attention to Exhibit 733, Card 10, what did you do in processing this particular latent?
+Nancy Torres: I photographed the latent with a Scenescope and I also helped with the ninhydrin processing.
+Mr. Auchincloss: Okay. Were you the finder of this particular print?
+Nancy Torres: Yes, I was.
+The Court: All right. We'll take our break.
+Recess Message: Recess taken.
+The Court: Counsel?
+Mr. Auchincloss: Thank you, Your Honor.
+Mr. Auchincloss: All right. Miss Torres, where I left off, we were at Item No. 10, and I believe 733, and you said you identified that particular fingerprint with the Scenescope?
+Nancy Torres: Yes, I did.
+Mr. Auchincloss: Have you had training with the Scenescope?
+Nancy Torres: Yes, we had training with the Scenescope.
+Mr. Auchincloss: And have you used it, had some experience using it before this case?
+Nancy Torres: Before this case, we only had the training that we received, and that was basically it.
+Mr. Auchincloss: You say “we”, or “you”?
+Nancy Torres: We as a unit --
+Mr. Sanger: I can't hear the answer.
+The Court: I didn't either.
+Nancy Torres: We as a unit received training using the Scenescope.
+Mr. Auchincloss: Okay. And who did you receive that training from?
+Nancy Torres: Spex.
+Mr. Auchincloss: Okay. The manufacturer came out and trained you?
+Nancy Torres: Yes.
+Mr. Auchincloss: All right. Now, moving on to Exhibit 734, Card No. 11, how did you help in the processing of this fingerprint?
+Nancy Torres: I photographed the latent print with a Scenescope and I helped with the ninhydrin processing.
+Mr. Auchincloss: Okay. Now, when you say you helped with the ninhydrin processing of these items, this would be not for this particular print that is green. Is it fair to say that a green print indicates it's a Scenescope print?
+Nancy Torres: Correct.
+Mr. Sanger: I'm sorry. Objection; leading.
+Mr. Auchincloss: It's expert testimony.
+The Court: Sustained.
+Mr. Auchincloss: All right. What does the green indicate?
+Nancy Torres: It indicates that the latent was photographed using a Scenescope.
+Mr. Auchincloss: All right. Thank you. Moving on to Exhibit 735, Card No. 12.
+Nancy Torres: I helped with the ninhydrin processing.
+Mr. Auchincloss: On that particular latent?
+Nancy Torres: Yes.
+Mr. Auchincloss: Did you assist in processing Exhibit No. 736, Card 13?
+Nancy Torres: Yes, I photographed using the Scenescope and helped with the ninhydrin processing.
+Mr. Auchincloss: All right. Looking at Exhibit 737, Card 14, did you assist in processing this print?
+Nancy Torres: Yes, with the ninhydrin process.
+Mr. Auchincloss: So that would be just on this page? This print wasn't a ninhydrin print, was it?
+Nancy Torres: No, it was photographed using the Scenescope.
+Mr. Auchincloss: All right. As far as the particular exhibit on 738, Card No. 15?
+Nancy Torres: I assisted with the ninhydrin processing.
+Mr. Auchincloss: Of this page?
+Nancy Torres: Of that page.
+Mr. Auchincloss: Exhibit 739, Card No. 16?
+Nancy Torres: I assisted with the ninhydrin processing on that page.
+Mr. Auchincloss: Exhibit No. 740, Card No. 18?
+Nancy Torres: I photographed the latent print using the Scenescope, and assisted with the ninhydrin processing.
+Mr. Auchincloss: And Card 741 -- or I'm sorry, Exhibit 741, Card 18.
+Nancy Torres: I assisted with the ninhydrin processing.
+Mr. Auchincloss: Thank you. Your Honor, if we could have “Input No. 1” at this time? All right. Miss Torres, calling your attention to only those prints in which you said you were the identification technician who found the prints, I'm now asking you -- I'm showing you Card No. 10, which is Exhibit 733. Were you the finder of this particular fingerprint?
+Nancy Torres: Yes, I was.
+Mr. Auchincloss: And where did you find that print?
+Nancy Torres: On Item 317, Sam, a “Penthouse” magazine, page 87, Quadrant 7 and labeled as Latent 1.
+Mr. Auchincloss: And that “Latent 1”, what does that indicate?
+Nancy Torres: That that was the first latent that we located using the Scenescope.
+Mr. Auchincloss: All right. Calling your attention now to Card No. 11, which is Exhibit 734, did you locate that print?
+Nancy Torres: Yes, I did.
+Mr. Auchincloss: And where did you locate it?
+Nancy Torres: On Item 317, Tom, T, “Visions of Fantasy, A Hard-Rock Affair”, September 1993, page three, Quadrant 4 and 5, and labeled as Latent 1.
+Mr. Auchincloss: All right. Moving on to Card No. 13, Exhibit No. 736, did you find that fingerprint?
+Nancy Torres: Yes, I did.
+Mr. Auchincloss: And where did you find it?
+Nancy Torres: On Item 317-YY, “Al Golstein's 100 Best Adult Videos”, page A, Quadrant 15, and labeled as Latent 1.
+Mr. Auchincloss: And lastly, Exhibit No. 740, Card No. 17, did you find that fingerprint?
+Nancy Torres: Yes, I did.
+Mr. Auchincloss: And where did you find that?
+Nancy Torres: On Item 321-E, “Girls of Barely Legal”, page seven, Quadrant 15, and labeled as Latent 1.
+Mr. Auchincloss: Could we have the lights, please?
+Mr. Auchincloss: All right. Taking those four fingerprints in order, I now show you Exhibit 769, page ten. Does that show the fingerprint and the location on the page where you found that fingerprint, Item 317-S, “Penthouse”, page 87, Quadrant 7, Latent 1?
+Nancy Torres: Yes.
+Mr. Auchincloss: Showing you now Page no. 11 of this exhibit, does that show the fingerprint that you found on that page and its location on Item 317-T, “Visions of Fantasy, A Hard-Rock Affair”, September 1993, page three, Quadrant 4 and 5, Latent No. 1?
+Nancy Torres: Yes.
+Mr. Auchincloss: Calling your attention now to page 13, does that page show the latent fingerprint that you located on Item No. 317-YY, “Al Golstein's 100 Best Adult Videos”, page A, Quadrant 15, Latent 1?
+Nancy Torres: Yes.
+Mr. Auchincloss: And lastly, page 17. Does page 17 show a fingerprint and its location on a page of Item 321-E, “Girls of Barely Legal”, page seven, Quadrant 15, Latent 1?
+Nancy Torres: Yes.
+Mr. Auchincloss: If I could have “Input 1” again, Your Honor. I'm going to bring those images up on the screen right now.
+Mr. Sanger: I'm going to object, Your Honor. This is cumulative and 352.
+Mr. Auchincloss: We haven't shown these images yet.
+The Court: Overruled.
+Mr. Auchincloss: All right. Is this the fingerprint that you located on Exhibit No. 733, Card No. 10?
+Nancy Torres: Yes.
+Mr. Auchincloss: Next, does that picture, fingerprint, indicate the location of the fingerprint that you found on Exhibit No. 734, Item No. -- Card No. 11?
+Nancy Torres: Yes.
+Mr. Auchincloss: The next slide, does that slide show the location of the fingerprint that you found on Exhibit No. 736, Card No. 13?
+Nancy Torres: Yes.
+Mr. Auchincloss: And lastly, does that fingerprint indicate the location on the page where you found the fingerprint on Exhibit 740, Card No. 17?
+Nancy Torres: Yes.
+Mr. Auchincloss: Thank you. No further questions.
+The Court: Cross-examine?
+Message: CROSS-EXAMINATION BY MR. SANGER:
+Mr. Sanger: Miss Torres, how are you?
+Nancy Torres: Good, thank you.
+Mr. Sanger: How long have you been -- I think you said you were with forensics for five years with the sheriff's department; is that correct?
+Nancy Torres: Correct.
+Mr. Sanger: Do you have any prior law enforcement training?
+Nancy Torres: No, I don't.
+Mr. Sanger: And you're not a deputy sheriff or a sworn peace officer; is that correct?
+Nancy Torres: Correct.
+Mr. Sanger: And in your five years, have you worked exclusively on fingerprints?
+Nancy Torres: I've worked on fingerprints and crime scene investigations.
+Mr. Sanger: Okay. So the answer would be no, you have not worked exclusively on fingerprints, correct?
+Nancy Torres: Correct.
+Mr. Sanger: You've done a number of other tasks with regard to crime scene investigations?
+Nancy Torres: Correct.
+Mr. Sanger: And you're familiar with the need to properly label and preserve evidence; is that correct?
+Nancy Torres: Yes.
+Mr. Sanger: All right. Now, are you a latent print examiner?
+Nancy Torres: I am a latent print examiner in training.
+Mr. Sanger: Okay. A trainee. How long have you been in that capacity?
+Nancy Torres: I would say for the last four years.
+Mr. Sanger: Okay. And are you certified by any organization?
+Nancy Torres: No.
+Mr. Sanger: So you're gaining your experience as a -- let me withdraw that. You're gaining your training to be a latent print examiner from your work at the sheriff's department?
+Nancy Torres: From work and through training courses.
+Mr. Sanger: You're also taking some courses?
+Nancy Torres: Exactly.
+Mr. Sanger: All right. In this particular case, you did not do any comparison of the fingerprints; is that correct?
+Nancy Torres: Correct.
+Mr. Sanger: And your job was to pretty much bring the prints up, best you can, and preserve them so that they can be looked at by other people, correct?
+Nancy Torres: Correct.
+Mr. Sanger: All right. Now, you indicated that you used the Scenescope, which we've heard about before in this case, all right? And how long -- let me withdraw that. You're here in Santa Maria; is that correct?
+Nancy Torres: Correct.
+Mr. Sanger: How long has the Santa Maria office of the sheriff's department had a Scenescope?
+Nancy Torres: We had had it only for a couple of months prior to us receiving this case.
+Mr. Sanger: Okay. When did you receive this case?
+Nancy Torres: We were assigned to process the items on, I believe -- if I may refer to my reports.
+Mr. Sanger: Okay. If you can't recall, you may do that.
+Nancy Torres: The first item that we processed was -- we began processing on September 16th of 2004.
+Mr. Sanger: Okay. So when you say, “When we received this case”, you mean when your forensics unit received an assignment in this case, correct?
+Nancy Torres: Yes.
+Mr. Sanger: All right. And you recall having the Scenescope for about two months before September 16th?
+Nancy Torres: Several months.
+Mr. Sanger: Okay. About when did you receive it?
+Nancy Torres: I would say about five months prior.
+Mr. Sanger: Five months prior. Okay. Had you ever used the Scenescope before you received it?
+Nancy Torres: We had had one training day on it, but our Scenescope had a malfunction, so it had to be sent back.
+Mr. Sanger: When was that training day?
+Nancy Torres: That was -- I don't recall.
+Mr. Sanger: Now, the Santa Barbara office of the sheriff's department also had a Scenescope; is that correct?
+Nancy Torres: Correct.
+Mr. Sanger: Did they get theirs at the same time?
+Nancy Torres: Yes.
+Mr. Sanger: And did you have training together?
+Nancy Torres: On the same day.
+Mr. Sanger: On the same day. And you're saying -- forgive me for asking again, but you're saying you don't recall the training day?
+Nancy Torres: I don't recall the exact date of the training day.
+Mr. Sanger: Roughly when was it?
+Nancy Torres: I don't recall the exact month, if that's what you're asking for.
+Mr. Sanger: So you got the machine about five months before September. So April?
+Nancy Torres: About that time.
+Mr. Sanger: Okay. Could have been May?
+Nancy Torres: It could have been.
+Mr. Sanger: All right. And did you have your training day about the time you received the machine?
+Nancy Torres: No, we had the training day before we received our machine.
+Mr. Sanger: Okay. And then at some point, the machine didn't work, you sent it back, got another machine. When did you get the machine that worked?
+Nancy Torres: When did we get the machine to work? I believe about a month or two before we began to process the items.
+Mr. Sanger: Okay. So July or so of 2004?
+Nancy Torres: I would say.
+Mr. Sanger: Okay. And did you process any prints in any case for the purpose of testimony in court -- I mean a real case. Did you process any prints in a real case, before you started working on this case, using the Scenescope?
+Nancy Torres: No.
+Mr. Sanger: All right. I have no further questions.
+Mr. Auchincloss: No further questions.
+The Court: Thank you. You may step down.
+Nancy Torres: Thank you.
+Mr. Auchincloss: My mistake, I should have let the bailiff know to have our witness already here.
+The Court: Okay.
+Mr. Auchincloss: Our next witness we will be calling is Michelle Shelley. And she's on her way down. And if I could get a “Black Screen” again, Your Honor, please. Thank you.
+The Court: Come to the front of the courtroom, please. Remain standing when you get to the witness stand. Face the clerk here and raise your right hand.
+Message: MICHELLE SHELLEY Having been sworn, testified as follows:
+Michelle Shelley: I do.
+The Clerk: Please be seated. State and spell your name for the record.
+Michelle Shelley: My name is Michelle Shelley; M-i-c-h-e-l-l-e, S-h-e-l-l-e-y.
+The Clerk: Thank you.
+Message: DIRECT EXAMINATION BY MR. AUCHINCLOSS:
+Mr. Auchincloss: Good morning, Miss Shelley.
+Michelle Shelley: Good morning.
+Mr. Auchincloss: In 2004 --
+Bailiff Cortez: Get the mike closer.
+Mr. Auchincloss: Thank you.
+Mr. Auchincloss: In 2004, who were you employed by?
+Michelle Shelley: Santa Barbara County Sheriffs.
+Mr. Auchincloss: And what did you do for the sheriff's department?
+Michelle Shelley: I was an I.D. technician. I worked for Criminal Records, and then I was brought over to work for the Forensics Division, this particular case, due to my background.
+Mr. Auchincloss: And was this case the People v. Jackson case?
+Michelle Shelley: Yes, it was.
+Mr. Auchincloss: Tell me about your training to become an I.D. technician.
+Michelle Shelley: I went to Western Mellon College majoring in criminal history, concentrated in forensics, and I worked for the Delaware State Police for two years. Moved out here to California, and became employed by Santa Barbara Sheriffs. I also have a diploma from the American Institute of Applied Science in forensics.
+Mr. Auchincloss: And have you had any specialized training in the location of latent fingerprints?
+Michelle Shelley: No, sir.
+Mr. Auchincloss: All right. Have you had any on-the-job training in the location of latent fingerprints?
+Michelle Shelley: Yes, sir.
+Mr. Auchincloss: Could you describe that for me, please.
+Michelle Shelley: Just general working practice with a latent examiner I worked with in Delaware, as well as here with Santa Barbara Sheriff.
+Mr. Auchincloss: Okay. Did part of your forensics training include locating latent fingerprints and different processes -- well, let me break that question up, it's compound -- locating latent fingerprints?
+Michelle Shelley: Yes.
+Mr. Auchincloss: And did some of your general training in forensic science include processing various items to make visible latent fingerprints?
+Michelle Shelley: Yes, it did.
+Mr. Auchincloss: All right. Have you had experience with cyanoacrylate ester fuming?
+Michelle Shelley: Yes, I have.
+Mr. Auchincloss: Or super glue fuming?
+Michelle Shelley: Uh-huh.
+Mr. Auchincloss: Prior to this case?
+Michelle Shelley: Yes.
+Mr. Auchincloss: On how many occasions?
+Michelle Shelley: Specific numbers, I can't remember. Quite a few times.
+Mr. Auchincloss: Quite a few times?
+Michelle Shelley: Uh-huh.
+Mr. Auchincloss: All right. Can you tell me, what were you called in to do? What were your duties with regard to the case of People v. Michael Jackson?
+Michelle Shelley: I was brought in for extra help. I was assisting Detective Spinner and Detective Wittenbrock on processing some of the evidence, splitting it up, putting it in plastic sleeves, super gluing it, and then hydrating it.
+Mr. Auchincloss: Who was it that was in charge of splitting up the magazines initially and placing them in sleeves?
+Michelle Shelley: Detective Spinner.
+Mr. Auchincloss: Did you assist Detective Spinner in that task?
+Michelle Shelley: Yes.
+Mr. Auchincloss: And who was also charged with the initial fuming -- super glue fuming of all the magazines?
+Michelle Shelley: Detective Spinner.
+Mr. Auchincloss: And did you assist Detective Spinner in that task?
+Michelle Shelley: Yes.
+Mr. Auchincloss: At some point did you team up with I.D. Tech Wittenbrock to assist him in his look -- in his analysis and checking for latents on some of these exhibits?
+Michelle Shelley: Yes.
+Mr. Auchincloss: And what was your assignment with Detective Wittenbrock?
+Michelle Shelley: I was assisting him in pulling out the pieces of magazine. Basically to speed up the process, because we had such a vast volume, I would pull them out, pass them over to him. He would then scan them. I would assist in writing labels if we found a print. I would also directly type in our findings into our computer for our reports.
+Mr. Auchincloss: All right. And did you assist him or anybody else in the ninhydrin processing of some of these magazines?
+Michelle Shelley: Yes, I did.
+Mr. Auchincloss: Have you had previous training in using ninhydrin?
+Michelle Shelley: Yes, I have.
+Mr. Auchincloss: And previous experience in using ninhydrin?
+Michelle Shelley: Yes.
+Mr. Auchincloss: On how many occasions have you used it, if you can recall, approximately?
+Michelle Shelley: Again, the super glue, numerous occasions. I can't exactly recall.
+Mr. Auchincloss: All right. All right. I'm going to ask you some specific questions about -- there I've done it. About specific exhibits. And we'll go through these fairly rapidly, but I'm going to show you each exhibit, and I want you to tell me if you assisted in the processing of this particular fingerprint or assisted in the processing of the page that this fingerprint came from.
+Michelle Shelley: Okay.
+Mr. Auchincloss: As in a ninhydrin that had previously been found to be --
+The Bailiff: Can't hear you back there.
+Michelle Shelley: Oh, sorry.
+Mr. Auchincloss: All right. So, let's look first at Exhibit 1 -- I'm sorry, Card 1, Exhibit 724. Did you have any part in the processing of this particular page or fingerprint?
+Michelle Shelley: Yes, sir, I did the ninhydrin on that print.
+Mr. Auchincloss: Okay. Looking now at Card 727 -- I should say Card 4, Exhibit 727.
+Michelle Shelley: I did the ninhydrin on that as well.
+Mr. Auchincloss: Okay. And I should mention that neither of these prints is a ninhydrin print; is that correct?
+Michelle Shelley: Correct.
+Mr. Auchincloss: Moving on to -- moving on to Card 737, also is Card 14.
+Michelle Shelley: I assisted with the fuming on that particular card.
+Mr. Auchincloss: Okay. Assisting Detective Spinner?
+Michelle Shelley: Yes, sir.
+Mr. Auchincloss: Moving on to Card 15, Exhibit 738.
+Michelle Shelley: That is the same. I assisted Detective Spinner in the fuming or -- yes, the fuming of that card.
+Mr. Auchincloss: All right. Exhibit 739, Card 16?
+Michelle Shelley: As well, I assisted Detective Spinner on the fuming of that card.
+Mr. Auchincloss: Exhibit 740, Card 17?
+Michelle Shelley: I assisted on the fuming, Detective Spinner, of that card.
+Mr. Auchincloss: Exhibit 741, Card 18?
+Michelle Shelley: I assisted on the fuming with Detective Spinner on that card.
+Mr. Auchincloss: And Exhibit 742, Card 19?
+Michelle Shelley: I worked on the fuming, with Detective Spinner, on that card. I also did the ninhydrin with Detective Wittenbrock on that card.
+Mr. Auchincloss: But this is a fuming and Scenescope identification on this?
+Michelle Shelley: Yes, sir, it is.
+Mr. Auchincloss: Thank you. I have no further questions.
+The Court: Cross?
+Message: CROSS-EXAMINATION BY MR. SANGER:
+Mr. Sanger: Hi.
+Michelle Shelley: Hi.
+Mr. Sanger: You are not employed by the sheriff anymore?
+Michelle Shelley: No, sir, I'm not.
+Mr. Sanger: How are you employed now, just in general?
+Michelle Shelley: I'm currently in the process of returning to my previous job with the Delaware State Police.
+Mr. Sanger: Okay. And what was your previous job?
+Michelle Shelley: I was an I.D. technician for them.
+Mr. Sanger: All right. So you went to college and studied criminal justice?
+Michelle Shelley: Uh-huh.
+Mr. Sanger: Criminal history, I think you said?
+Michelle Shelley: Criminal justice.
+Mr. Sanger: Criminal justice, okay. Did you, while you were in college, do any actual fingerprint work?
+Michelle Shelley: Yes, sir, I did.
+Mr. Sanger: And were you employed by the State of Delaware while you were in college?
+Michelle Shelley: No, sir. I was employed with them after graduation.
+Mr. Sanger: Oh. So while you were in college, did you do work on actual cases, or did you do work in a class?
+Michelle Shelley: I did work in a class, but it was on case studies.
+Mr. Sanger: Case studies. So it was part of classwork?
+Michelle Shelley: Yes, sir.
+Mr. Sanger: So you were with the Delaware State Police for two years?
+Michelle Shelley: Yes.
+Mr. Sanger: And were your duties to do things other than fingerprints?
+Michelle Shelley: No, sir. I specifically concentrated on fingerprints.
+Mr. Sanger: Just did fingerprints, okay. And you came to Santa Barbara, and you worked in records for the sheriff's department; is that correct?
+Michelle Shelley: Yes, sir, I did.
+Mr. Sanger: And records has nothing to do with chemically enhancing fingerprints or that sort of thing; is that correct?
+Michelle Shelley: No, sir, it was to get my foot into the door, hopefully to transfer back into my field.
+Mr. Sanger: Okay. I'm not trying to be rude to you.
+Michelle Shelley: No, not at all.
+Mr. Sanger: But in other words, the work that you were doing at Santa Barbara Sheriffs had nothing to do with what you wanted to do, which was be an I.D. tech?
+Michelle Shelley: It was a means to an end, yes.
+Mr. Sanger: And you applied for a position as an I.D. tech in Santa Barbara?
+Michelle Shelley: Yes, I did.
+Mr. Sanger: And other than working on this case as extra help, you did not get that position; is that correct?
+Michelle Shelley: No, I have since then moved back to Delaware.
+Mr. Sanger: But in any event, the answer to the question is, you did not get the position in Santa Barbara, other than working as extra help on Mr. Jackson's case?
+Michelle Shelley: Correct.
+Mr. Auchincloss: I'll object as assuming that she applied for a position.
+The Court: Sustained.
+Mr. Sanger: Did you apply for a position as an I.D. tech in Santa Barbara?
+Michelle Shelley: After the Michael Jackson case was over, I applied, and in the process moved to Delaware.
+Mr. Sanger: Okay. Now, having said all of that, have you used the Scenescope before you used it here on the Michael Jackson case?
+Mr. Auchincloss: Objection, assumes facts not in evidence, that she used the Scenescope.
+The Court: Overruled. You may answer.
+Michelle Shelley: I've had some experience with it. It's not my specialty.
+Mr. Sanger: Okay. What experience have you had?
+Michelle Shelley: I have worked getting general education from a previous latent examiner that I worked with in Delaware.
+Mr. Sanger: Are you a latent print examiner yourself?
+Michelle Shelley: No, I'm not.
+Mr. Sanger: And you mentioned somebody in Delaware?
+Michelle Shelley: Yes, sir.
+Mr. Sanger: Did that person have a Scenescope?
+Michelle Shelley: Yes, sir.
+Mr. Sanger: And how many times did you actually use the Scenescope in a criminal case?
+Michelle Shelley: Not personally on a criminal case. I would look at it, getting general education.
+Mr. Sanger: All right. So the first time you ever used the Scenescope in a criminal case was in the Michael Jackson case?
+Michelle Shelley: Correct.
+Mr. Sanger: And were you making decisions as to how the various items of evidence should be processed?
+Michelle Shelley: No, sir.
+Mr. Sanger: You were pretty much helping and doing as directed?
+Michelle Shelley: Correct.
+Mr. Sanger: And the people directing you were?
+Michelle Shelley: Detective Spinner and Detective Wittenbrock.
+Mr. Sanger: All right. Is there anybody else on your forensic unit, in your forensic unit, in Santa Barbara doing this?
+Michelle Shelley: We have -- are generally headed by Sergeant Julio Santana, who would give general direction, but he's the head of our department.
+Mr. Sanger: Okay. Was he giving general -- I guess my point is, was he working on this case?
+Michelle Shelley: He was heading the case.
+Mr. Sanger: All right. Did he do any actual physical work on this case?
+Michelle Shelley: Not to my knowledge.
+Mr. Sanger: Okay. And the direct -- the directions that you received came directly from either Detective Wittenbrock or Detective Spinner; is that right?
+Michelle Shelley: Yes.
+Mr. Sanger: All right. Did you receive training on the Scenescope from the Spex company?
+Michelle Shelley: No, sir.
+Mr. Sanger: Were you aware that there was a training day held on the -- with regard to this instrument for the Santa Barbara Sheriff's personnel?
+Michelle Shelley: No, sir.
+Mr. Sanger: All right. No further questions.
+Mr. Auchincloss: Just one question.
+Michelle Shelley: Sure.
+Message: REDIRECT EXAMINATION BY MR. AUCHINCLOSS:
+Mr. Auchincloss: Miss Shelley, were you the finder, photographer, for any fingerprint of these 19 prints that we've talked about or that have been presented in this case?
+Michelle Shelley: No.
+Mr. Auchincloss: Thank you. No further questions.
+Mr. Sanger: No further questions.
+The Court: All right. Thank you. You may step down.
+Mr. Auchincloss: Call Detective Jim Wittenbrock.
+The Court: When you get to the witness stand here, please remain standing. Face the clerk and raise your right hand.
+Message: JAMES WITTENBROCK Having been sworn, testified as follows:
+James Wittenbrock: Yes, I do.
+The Clerk: Please be seated. State and spell your name for the record.
+James Wittenbrock: My name is James Wittenbrock; W-i-t-t-e-n-b-r-o-c-k.
+The Clerk: Thank you.
+Message: DIRECT EXAMINATION BY MR. AUCHINCLOSS:
+Mr. Auchincloss: Good morning, Detective Wittenbrock.
+James Wittenbrock: Good morning.
+Mr. Auchincloss: Who are you employed by?
+James Wittenbrock: I'm retired now.
+Mr. Auchincloss: All right. And who were you previously employed by?
+James Wittenbrock: Santa Barbara Sheriff's Department.
+Mr. Auchincloss: And what did you do for the sheriff's department when you worked for them?
+James Wittenbrock: 28 years total. Out of -- the last four years I was assigned as a detective in the Criminal Investigations Division, Forensics Unit.
+Mr. Auchincloss: All right. Have you had any training that qualifies you for such a position?
+James Wittenbrock: Yes, sir.
+Mr. Auchincloss: And can you describe that for us?
+James Wittenbrock: May I refer to a list?
+Mr. Auchincloss: Sure, if it would help refresh your recollection.
+James Wittenbrock: Limiting to more or less the fingerprints and that part of the forensics detail, I had 40 hours of basic crime scene investigation in 2001. 24-hour fingerprint pattern recognition class put on by the Department of Justice. Another eight hours in basic crime scene investigation. In 2002, 40 hours DOJ class on latent techniques. And again in 2000 at the DOJ, a latent print comparison class.
+Mr. Auchincloss: And have you had some experience, actual hands-on experience in this area?
+James Wittenbrock: Yes, sir. Even in patrol, we frequently searched for prints and collect prints. Daily duties while I was with the forensics detail, we'd be searching, documenting, recording and looking at prints on a very regular basis.
+Mr. Auchincloss: Have you had training in the use of super glue fuming techniques to enhance fingerprints?
+James Wittenbrock: Yes, sir.
+Mr. Auchincloss: Have you had training in the use of ninhydrin as a chemical process to reveal fingerprints?
+James Wittenbrock: Yes.
+Mr. Auchincloss: Have you had training in the use of the Scenescope in using it to attempt to view latent fingerprints?
+James Wittenbrock: I had some training when I was brought back to assist. I went to the Santa Maria lab and spent a day up there with the technicians and went through the process, information on the Scenescope. I also referred to the manual.
+Mr. Auchincloss: All right. Is the Scenescope difficult to use?
+James Wittenbrock: No.
+Mr. Auchincloss: Why do you say that?
+James Wittenbrock: It's -- it's a lens. You turn the switch on and you focus it and you search. In this case, it was searching a page, and it's quite simple.
+Mr. Auchincloss: So the Scenescope has how many parts to it?
+James Wittenbrock: It's got the front filter and lens assembly. It has an intensifier tube that attaches to that. And in our case, we attached the digital camera above that tube.
+Mr. Auchincloss: So you've got a camera, the Scenescope and something else. What did you call it?
+James Wittenbrock: The Scenescope is in two parts.
+Mr. Auchincloss: Okay.
+James Wittenbrock: There's -- the first part is similar to a lens with a filter. The second part's an electronic intensifier, amplifier-type apparatus, and above that we had the digital camera attached.
+Mr. Auchincloss: All right. Is it any more complicated than moving the different pieces around and focusing it to get a clear image?
+Mr. Sanger: Objection. Vague; compound; calls for speculation.
+The Court: Overruled. You may answer. Do you want the question read back?
+James Wittenbrock: Yeah, please. Please.
+Mr. Auchincloss: Okay.
+James Wittenbrock: I'm sorry, a little hard of hearing.
+The Court Reporter: All right. Is it any more complicated than moving the different pieces around and focusing it to get a clear image?
+James Wittenbrock: No. It's -- the focusing would take a few seconds, a few moments, but it wasn't difficult.
+Mr. Auchincloss: All right. Did you participate in a search for latent fingerprints on a number of magazines in the case of People v. Michael Jackson?
+James Wittenbrock: Yes, sir.
+Mr. Auchincloss: And what was your assignment?
+James Wittenbrock: My assignment was to use the Scenescope and search, in my case, several magazines for latents or developing prints on the magazines. And after that, they were processed with the ninhydrin, and then another search of all those magazines I did all myself.
+Mr. Auchincloss: Had the magazines that you searched with the Scenescope been previously processed in any fashion?
+James Wittenbrock: Yes, they had.
+Mr. Auchincloss: In what fashion?
+James Wittenbrock: They'd received a cyanoacrylate fuming process, which is commonly referred to as super glue fuming.
+Mr. Auchincloss: All right. If I may approach, Your Honor.
+Mr. Auchincloss: I'll show you a few exhibits. Three, to be specific. I show you Exhibit No. 724, Card No. 1. Can you identify that for me, please?
+James Wittenbrock: Yes, I can.
+Mr. Auchincloss: What is it?
+James Wittenbrock: That's an image from the Scenescope I photographed on Item 304-D.
+Mr. Auchincloss: Using the Scenescope?
+James Wittenbrock: Yes.
+Mr. Auchincloss: And can you tell me -- well, I'll get to that in a moment. Showing you now Exhibit No. 727, Card 04, can you identify that for me, please?
+James Wittenbrock: Yes, it was Item 317-OO. It was a latent from using the Scenescope from page two.
+Mr. Auchincloss: And did you locate that latent fingerprint?
+James Wittenbrock: Yes, I did.
+Mr. Auchincloss: Finally, Exhibit No. 742, Card 19, can you identify this for me, please?
+James Wittenbrock: Yes. This was Evidence Item 363-M, and this latent I photographed off of page 57.
+Mr. Auchincloss: All right. Also a Scenescope photograph?
+James Wittenbrock: Yes.
+Mr. Auchincloss: While I am here, I will show you page one of Exhibit No. 769. Can you identify that for me, please?
+James Wittenbrock: Yes. That, again, shows the Scenescope photo from Item 304-D, page 52, and it indicates where it was photographed on the actual page, where I circled it.
+Mr. Auchincloss: And that's where you located that particular print, where the green arrow points?
+James Wittenbrock: Yes, sir.
+Mr. Auchincloss: Showing you Page No. 4 of Exhibit 769, can you identify that?
+James Wittenbrock: If you could turn it so I could read the tag there. Yes, that's Item 317, page two.
+Mr. Auchincloss: Is that a latent fingerprint that you located on that particular page where the green arrow points?
+James Wittenbrock: Yes, it is, and where I circled it.
+Mr. Auchincloss: And showing you Page No. 19, please identify that for me.
+James Wittenbrock: Okay. That's Item 363-M, page 57, and it's circled where I photographed it with the Scenescope on that page, circled.
+Mr. Auchincloss: And that shows the location with a green line where you found that particular print?
+James Wittenbrock: Yes, it does.
+Mr. Auchincloss: All right. Detective, I'm going to ask the Court at this time to go to Input.... Well, if you could just give me a moment, Your Honor, to download the proper Power Point. All right. Could we go to “Input 1”, please, Your Honor?
+The Bailiff: Hit the “PC” button.
+Mr. Auchincloss: All right. Detective, is that Card 724 -- Exhibit 724, Card No. 1, that I just showed you?
+James Wittenbrock: I believe so. I --
+Mr. Auchincloss: Okay. I'll leave them up here with you.
+James Wittenbrock: Okay.
+Mr. Auchincloss: So you can refer to them, if you please. And is that the fingerprint that you found on Item 304-D, “Barely Legal”, July 2003, page 52, Quadrant 12, Latent 1?
+James Wittenbrock: Yes, it is.
+Mr. Auchincloss: Showing you Card No. 4, Exhibit 727, is that the fingerprint that you located on Item 317-O, Hustler, “Barely Legal”, August 2003, page two, Quadrant 11, Latent 1?
+James Wittenbrock: Yes, sir.
+Mr. Auchincloss: Showing you Exhibit No. 742, Card 19. Is that the latent that you found on Item 363-N, “Club International”, March 1998, page 57, Quadrant 15, Latent 2?
+James Wittenbrock: Yes, it is.
+Mr. Auchincloss: Going back to the first latent again, does this page -- does this exhibit -- this is page one of -- I believe 769 is the exhibit. Is this where you located the latent identified on Card No. 1, Exhibit 724?
+James Wittenbrock: I believe this is page 52?
+Mr. Auchincloss: Yes, page 52.
+James Wittenbrock: That's correct.
+Mr. Auchincloss: All right. And does this exhibit -- that is identical to page four of Exhibit 769. Does this show where you found the latent identified on Card No. 4, Exhibit 727?
+James Wittenbrock: Yes. This is page two, yes.
+Mr. Auchincloss: Yeah, well, it's -- it's -- it's known as -- it's on page four of that particular notebook that I showed you out of, but it's on page two of Item 317-O; is that correct?
+James Wittenbrock: Correct.
+Mr. Sanger: I'm going to object to counsel testifying. It's not a question.
+The Court: Sustained.
+Mr. Auchincloss: All right.
+Mr. Auchincloss: And finally, showing you page 19 of the notebook exhibit that I showed you, does this fingerprint show the location of the fingerprint that is on Card 19, Exhibit 742?
+James Wittenbrock: Yes, that's correct.
+Mr. Auchincloss: That's the location on the exact page that you found that print?
+James Wittenbrock: Yes, on page 57 of that item.
+Mr. Auchincloss: Thank you. No further questions.
+The Court: Counsel?
+Message: CROSS-EXAMINATION BY MR. SANGER:
+Mr. Sanger: Detective, how are you?
+James Wittenbrock: Good morning, sir.
+Mr. Sanger: I guess now you're Mister; is that right, retired?
+James Wittenbrock: Trying to.
+Mr. Sanger: Trying to. Okay. Can I still call you Detective; is that okay?
+James Wittenbrock: Certainly.
+Mr. Sanger: Having done that for some time. You were 24 years in the sheriff's department before you went into the Forensics Bureau; is that correct?
+James Wittenbrock: Approximately.
+Mr. Sanger: And then you spent the last four years doing forensics?
+James Wittenbrock: Yes.
+Mr. Sanger: All right. And you told us about your training. Did you have any training on a Scenescope other than what you received from the I.D. tech in this case?
+James Wittenbrock: No, sir. I was retired during that time. I believe it was a four-hour demo they had.
+Mr. Sanger: Okay. They had a demo from the manufacturers?
+James Wittenbrock: Yes.
+Mr. Sanger: And you missed that one?
+James Wittenbrock: Yes.
+Mr. Sanger: And then you went up to Santa Maria, if I understand this?
+James Wittenbrock: That's correct.
+Mr. Sanger: And you met with who?
+James Wittenbrock: Detective Sutcliffe and Detective -- Tech Torres.
+Mr. Sanger: I.D. Tech Torres, Miss Torres?
+James Wittenbrock: Yes.
+Mr. Sanger: And they told you how to work the Scenescope?
+James Wittenbrock: Correct.
+Mr. Sanger: All right. Now, you told the District Attorney that it wasn't particularly hard to do, I think.
+James Wittenbrock: I don't think it is.
+Mr. Sanger: Were you familiar with the issues regarding there should be a film camera used or a digital camera used?
+James Wittenbrock: Actually, I -- I actually called the factory and inquired into some of the different cameras. They sell it with digital cameras, and you can use a film camera.
+Mr. Sanger: When did you call?
+James Wittenbrock: This was back when I was doing this processing, right at the very first or second day.
+Mr. Sanger: Were you aware that they recommend that a film camera be used?
+James Wittenbrock: They sell this camera with low-resolution digital cameras. I'm not aware that they recommend the 35-millimeter or any film camera.
+Mr. Sanger: That was my question. Are you aware that they recommend a 35-millimeter film camera?
+James Wittenbrock: No.
+Mr. Sanger: Are you aware that the reason for using a film camera is that there is a better resolution, a better result in the actual photograph?
+Mr. Auchincloss: Assumes facts not in evidence, that they recommend a different camera.
+Mr. Sanger: That's in evidence.
+The Court: The objection is overruled. Do you want the question read back?
+James Wittenbrock: Try the question one more time, please.
+The Court: Read it back.
+The Court Reporter: Are you aware that the reason for using a film camera is that there is a better resolution, a better result in the actual photograph?
+James Wittenbrock: I'm not aware of that. I would not agree with that.
+Mr. Sanger: Okay. Do you know whether or not a digital camera is likely to wash out some of the detail in a print that would otherwise be captured on 35-millimeter film?
+James Wittenbrock: Could you qualify the digital camera a little bit? It's a very -- covers a lot of digital cameras.
+Mr. Sanger: Okay. Well, without talking about particular digital cameras, have you heard of this being a problem in developing latent prints?
+James Wittenbrock: No.
+Mr. Sanger: Did you have any training with regard to the interrelation between the process of super glue fuming and the use of the Scenescope?
+James Wittenbrock: I had some -- I'm sorry, I don't quite --
+Mr. Sanger: That's fine. Let me ask you this: Were you aware that with the Scenescope, if you overfumed the super glue, you could lose detail?
+James Wittenbrock: You could overfume separate from using the Scenescope. You can overfume that process to where you lose detail on the print.
+Mr. Sanger: You can over -- if you really overfume, you can pretty much just obliterate the print, blot it out; is that correct?
+James Wittenbrock: Absolutely, and it would be useless.
+Mr. Sanger: Were you aware that with a Scenescope, you can decrease the amount of fuming and enhance the print more efficiently with less fuming?
+James Wittenbrock: I think that's a fair statement, yes.
+Mr. Sanger: Did you know that at the time you were doing this?
+James Wittenbrock: Yes. Yes.
+Mr. Sanger: Did you have any input to Detective Spinner -- let me withdraw that. Detective Spinner is the one that did the fuming?
+James Wittenbrock: He did some of the fuming.
+Mr. Sanger: Did you do any of the fuming?
+James Wittenbrock: No.
+Mr. Sanger: Did you have any input into the fuming process to whoever was doing the fuming?
+James Wittenbrock: Yes.
+Mr. Sanger: Did you explain to them that they should use -- they should decrease the amount of fuming because you were using a Scenescope?
+James Wittenbrock: Yes.
+Mr. Sanger: And who did you tell that to?
+James Wittenbrock: That was both Detective Spinner and Michelle Shelley. Michelle Shelley.
+Mr. Sanger: Okay. And what you want to do -- now, are you a latent print examiner?
+James Wittenbrock: I examine latent prints. I am not -- I was not trained for the comparison part, but as an examiner I do examine prints.
+Mr. Sanger: So you don't do comparisons?
+James Wittenbrock: Training -- I did a lot of comparisons, but I was not at the level, the top level to actually do the -- I was training in comparisons.
+Mr. Sanger: All right. So you were a latent print trainee?
+James Wittenbrock: Comparison trainee, yes.
+Mr. Sanger: All right. Thank you. No further questions.
+Message: REDIRECT EXAMINATION BY MR. AUCHINCLOSS:
+Mr. Auchincloss: Detective, if you overfume a print, what is the result?
+James Wittenbrock: It's a degradation of the clarity of the print, as has been said. It fills in between the ridges.
+Mr. Auchincloss: Is it visible?
+James Wittenbrock: Yes.
+Mr. Auchincloss: Have you had an opportunity to look at all the prints, these 19 prints on these cards that we have presented here?
+James Wittenbrock: I've had the opportunity. I haven't really looked at them in detail.
+Mr. Auchincloss: Okay. But you have looked in detail with the three that you testified about?
+James Wittenbrock: Yes.
+Mr. Auchincloss: Any of them overfumed?
+James Wittenbrock: No.
+Mr. Auchincloss: Thank you. No further questions.
+Mr. Sanger: No further questions.
+The Court: All right. Thank you. You may step down.
+James Wittenbrock: Thank you.
+The Court: Call your next witness.
+Mr. Nicola: Sergeant Bob Spinner.
+Mr. Auchincloss: Your Honor, at this time I would like to admit into evidence People's Exhibit 769 and People's Exhibit 724, 727 and 742.
+Mr. Sanger: 742 is the book?
+Mr. Auchincloss: 769 is the book.
+Mr. Sanger: I'd object to 769 on two grounds. One -- well, three. One, it's cumulative; two, 352; three, at least one of the pages has not been properly identified.
+The Court: Which page?
+Mr. Sanger: There was an objection sustained, and there was no testimony regarding that page.
+Mr. Auchincloss: I'm unfamiliar with that.
+The Court: Other than for -- I'll withhold ruling based on that one objection. The other two objections are overruled, and the 352 specifically is overruled. I'll ask you to consult with each other so you can -- you know you're talking about the same page, so that you're on the same page.
+Mr. Sanger: There you go.
+The Court: Can we do that at the break?
+The Clerk: Are the other exhibits received?
+The Court: The other exhibits are received. Would you raise your right hand?
+Message: ROBERT SPINNER Having been sworn, testified as follows:
+Robert Spinner: I do.
+The Clerk: Please be seated. State and spell your name for the record.
+Robert Spinner: Robert Spinner; S-p-i-n-n-e-r.
+The Clerk: Thank you.
+Mr. Nicola: Just a moment while we put something in the computer.
+Message: DIRECT EXAMINATION BY MR. NICOLA:
+Mr. Nicola: While I'm fiddling, why don't you tell the jury what you do for a living.
+Robert Spinner: At the present time, I am working as a part-time employee of the Santa Barbara County Sheriff's Department in the Forensics Unit. I retired from the sheriff's department in July of 2000 -- or August of 2003 after a term of service of 32 years. During that time, I spent from 1986 to my retirement date working in the Forensics Unit at the sheriff's department.
+Mr. Nicola: Is it true that nobody ever really retires from the sheriff's department?
+Robert Spinner: Obviously, that's very true. (Laughter.)
+Mr. Nicola: How long did you work in the Forensics Bureau with the sheriff's department?
+Robert Spinner: From about the middle of 1986 to my retirement date in 2003. It would be approximately 13 years, I believe.
+Mr. Nicola: Okay. During that period of time, did you receive any training or education in the field of forensic investigation?
+Robert Spinner: Yes, I did.
+Mr. Nicola: Why don't you walk the jury through that, please?
+Robert Spinner: I started my training in basic fingerprints in 1987 when I attended two classes put on by the California Department of Justice, which were latent pattern techniques, and latent fingerprint techniques, or latent pattern recognition and latent fingerprint techniques. I then attended a three- or four-day school, I don't remember the exact time, down at Cal-State Long Beach on an advanced evidence technician course. I had previous experience in crime scene investigation from my time on patrol and did not go to the basic crime scene investigation course when I came into the unit. I then attended the palm print identification class put on by Mr. Ron Smith. Subsequent to that, I attended a basic fingerprint class put on by the Federal Bureau of Investigation. And back to back with that I attended an advanced fingerprint class put on by the Federal Bureau of Investigation, both went a week long, which were conducted at Rio Hondo College in Los Angeles. Subsequent to that I attended an advanced latent fingerprint comparison class taught by Mr. Pat Wardheim. I've taken a fingerprint seminar, fingerprint development and comparison seminar, at Orange County Sheriff's. I became a member of the Southern California Association of Fingerprint Officers in 1995, and I have attended their two-day training seminar, which is held every October, since then, except for the seminar which was held in 2001 due to the 9/11 incident. I have attended and monitored one of Mr. Wardheim's classes that we had at the sheriff's department, kind of in and out of that one, so I didn't really list it, but it was on problem latent print identification. I attended the three-week advanced -- the advanced latent fingerprint school held at the FBI Academy in Quantico, Virginia, in the year 2000. And I recently attended, in January of this year, a basic forensics ridgeology class put on by Mr. David Ashbaugh. I've also attended another seminar conducted by Mr. Ashbaugh, I believe it was 1997.
+Mr. Nicola: Do you have any other education?
+Robert Spinner: I have attained initially an associates of arts degree in business, I have an associates of science degree in police science, and I have a bachelor's degree in administration.
+Mr. Nicola: At the time that you retired, what was your position with the Forensics Bureau of the Santa Barbara Sheriff's Office?
+Robert Spinner: When I retired I was the sergeant and supervisor in the unit.
+Mr. Nicola: Does that unit encompass both North and South County offices?
+Robert Spinner: Yes, it does, sir.
+Mr. Nicola: And you were in charge of all the forensics people?
+Robert Spinner: Yes, I was.
+Mr. Nicola: Do you have any professional affiliations you have not mentioned?
+Robert Spinner: Encompassing along with the Southern California Association of Fingerprint Officers, which has the acronym SCAFO, I'm also a member of the International Association of Identification, California State Division.
+Mr. Nicola: Over the years, how many fingerprint comparisons would you estimate that you have done?
+Robert Spinner: I would say approximately in the vicinity of 80,000.
+Mr. Nicola: Okay. Approximately how many came just from the Michael Jackson case?
+Robert Spinner: I believe it was close to 21,000 comparisons.
+Mr. Nicola: Have you ever testified in court as an expert witness regarding fingerprint identification?
+Robert Spinner: Yes, I have, sir.
+Mr. Nicola: On approximately how many occasions?
+Robert Spinner: It was approximately -- approximately 10 to 15 times. I'm not really sure of the exact number, both in Santa Barbara and in Santa Maria court systems.
+Mr. Nicola: Does that mean that you've only done comparisons in approximately 10 or 15 cases?
+Robert Spinner: No, sir. We're very rarely called to testify in fingerprint cases, and it's -- when we do get to testify, it is a rarity.
+Mr. Nicola: Okay. Is there a requirement by the sheriff's office that you be certified in order to hold your position?
+Robert Spinner: No, there is not.
+Mr. Nicola: So you're not a certified fingerprint examiner?
+Robert Spinner: No, sir, I'm not.
+Mr. Nicola: Do you know other fingerprint examiners in other jurisdictions working with other law enforcement agencies?
+Robert Spinner: Yes, I do.
+Mr. Nicola: Is it uncommon for some of them or many of them to be noncertified?
+Mr. Sanger: Objection, Your Honor. Relevance and foundation.
+The Court: Foundation; sustained.
+Mr. Nicola: Is it uncommon in the State of California for -- let me phrase it another way so it's not leading. Do you know whether law enforcement agencies, as a rule, require certified fingerprint examiners to be employed?
+Mr. Sanger: Objection; foundation.
+The Court: Sustained.
+Mr. Nicola: Okay.
+Mr. Nicola: Can you explain for the jury, please, what a latent fingerprint is?
+Robert Spinner: A latent fingerprint is a fingerprint which is created when your friction ridge skin comes in contact with an object and there's a transfer of the contaminants, sweat and sebaceous oils which are on the top surface of those friction ridges, to the object which is touched. That print may be invisible until it is mechanically or chemically enhanced or processed.
+Mr. Nicola: And what is a known fingerprint?
+Robert Spinner: A known fingerprint is an intentional recording of an individual's fingerprints, not only on a marked fingerprint card, which would have ten squares across the top and four squares on the bottom. One -- the bottoms would have the flat prints and thumbs; the tops would have the complete left finger recordings and the complete right finger recordings. It's only done in ink. However, now, with the advent of better digital electronics, it's done with what we call the Livescan method, which is basically an electronic recording of the fingerprints.
+Mr. Nicola: I'd like to approach and show you Exhibit 767. Do you recognize that exhibit?
+Robert Spinner: Yes, I do.
+Mr. Nicola: And what is that?
+Robert Spinner: It is the ten-print fingerprint card for Mr. Jackson which was created on 11-20-03.
+Mr. Nicola: Is that an example of the Livescan image that you just explained to the jury?
+Robert Spinner: Yes, it is.
+Mr. Nicola: Okay. I'd like to show you Exhibit No. 743. Do you recognize that?
+Robert Spinner: Yes, sir. This is an expanded version of the original item, which is the fingerprint card.
+Mr. Nicola: Okay.
+Mr. Nicola: I'd like to move 743 into evidence at this time, Your Honor.
+Mr. Sanger: Actually, I don't think I've been shown this. I understand I've seen the original, but if I could just see the --
+Mr. Nicola: They're on your Power Point, I'm sorry.
+Mr. Sanger: Let me just see the boards, if I could, quickly.
+Mr. Nicola: Yes.
+Mr. Sanger: Thank you.
+Mr. Nicola: Once again, Your Honor, I would like to move Exhibit 743 into evidence.
+Mr. Sanger: I have no objection.
+The Court: It's admitted.
+Mr. Nicola: I have placed in front of you also Exhibit 744 and 745. Do you recognize 744, sir?
+Robert Spinner: Yes, Item 744 is a blown up copy of the ten-print fingerprint cards for Star Arvizio.
+Mr. Nicola: Do you have a hard time with the name “Arvizo”?
+Robert Spinner: Arvizo, yes.
+Mr. Nicola: Okay.
+Robert Spinner: Short on letters.
+Mr. Nicola: Can we move Exhibit 744 in evidence, Your Honor?
+Mr. Sanger: No objection.
+The Court: It's admitted.
+Mr. Nicola: And 745, is that one of the fingerprint cards from Gavin Arvizo?
+Robert Spinner: Yes, sir. This is the -- one of the ten-print cards for Gavin Arvizo.
+Mr. Nicola: We'd like to move Item 745 into evidence at this time.
+Mr. Sanger: No objection.
+The Court: It's admitted.
+Mr. Nicola: I'm going to leave these right here.
+Mr. Nicola: Detective Spinner, Sergeant Spinner, can you explain for the jury, please, what the basic premise of the use of fingerprints for making identifications is?
+Robert Spinner: Yes. Fingerprints are formed during the first and second trimesters prior to birth, during gestation. They are permanent. In other words, they will last from when they're formed, prior to birth, to well after death; and three, that they are unique, that no two persons have never been found to have the same exact fingerprint formations.
+Mr. Nicola: Okay. What sort of protocol do you use when you're conducting a fingerprint comparison?
+Robert Spinner: We, the sheriff's office, conduct a fingerprint comparison. We use the accepted methodology known as ACE-V, which is an accepted method in the fingerprint community.
+Mr. Nicola: That's A-C-E?
+Robert Spinner: A-C-E, dash, V. It's an acronym. It means analyze, compare, evaluate and verify.
+Mr. Nicola: What are the initial steps of the analysis process?
+Robert Spinner: Okay. During the analysis process, after the ACE-V methodology, we examine -- or the latent fingerprint is examined and -- for quality, clarity, and determine what information is available within that particular latent fingerprint; can the class type be determined; how much level -- how much detail is available; how clear is it; is it smudged or smeared; can it even be used for a latent fingerprint comparison. Sometimes this can be done fairly rapidly, and sometimes it takes some time.
+Mr. Nicola: When can it be done fairly rapidly?
+Robert Spinner: When it is -- when they're clear and when there is -- the apparent detail is clear and very highly visible. Some latent prints are very badly smeared sometimes and it takes a while to work through them to determine whether they can even be used for a latent fingerprint comparison or not.
+Mr. Nicola: Is there a level called Level I class characteristics?
+Robert Spinner: Yes, sir, the Level I class characteristic would be the type of fingerprint pattern it is, be it a whorl pattern, an arch pattern, or the ridge pattern.
+Mr. Nicola: Did you bring a small diagram with you?
+Robert Spinner: No.
+Mr. Nicola: You left it upstairs?
+Robert Spinner: Yes, sir, I did.
+Mr. Nicola: Okay. And that's just a piece of paper with the different kinds of patterns on it?
+Robert Spinner: Yes, sir. It had what's known as -- two loop patterns. Loops are broken down into two particular styles of patterns. It used to be called the ulnar loop and the radial loop. In other words, the loop on the ulnar loops would open towards the little finger, and the radial loop would open towards the radial bone or the thumb.
+Mr. Nicola: Is there anything about a fingerprint that can tell you whether a person is left-handed or right-handed?
+Robert Spinner: No, sir.
+Mr. Nicola: And anything about them that can tell you age?
+Robert Spinner: No, sir. Well --
+Mr. Nicola: Except for little tiny babies, right?
+Robert Spinner: Except for little tiny babies. Or when people get aged, when they get quite old, sometimes they lose the fat pad under the print, and the ridge structure gets very worn and very hard to see.
+Mr. Nicola: Okay. And a fingerprint will never tell you when it was left?
+Robert Spinner: No, sir, you cannot tell when a fingerprint was left.
+Mr. Nicola: Okay. Is there a higher level of individualization within a fingerprint that you look for as a fingerprint examiner?
+Robert Spinner: Yes, sir. There's Level II detail and then Level III detail.
+Mr. Nicola: Beginning with Level II detail, can you please tell the jury what it is that makes a fingerprint unique, Level II?
+Robert Spinner: Okay. Well, basically fingerprints are unique, starting with Level I. They're either arches, loops or whorls. Then breaking down into Level II, we have three basic Level II types of details. We have the bifurcation, which happens when two running ridges either split and form -- or one running ridge either splits and forms two running ridges, or vice versa happens, when two running ridges come together to form one ridge. And you have what we call an ending ridge, where a ridge stops, and the ridges on both sides of it continue on. Then there is a dot, which a dot is one ridge unit which should be about as wide as it is long and has one pore structure in it.
+Mr. Nicola: Is there something you look for in a fingerprint at the Level II stage that helps you on your way to determining whether you can make a match or exclude a fingerprint as being made by a particular individual?
+Robert Spinner: Well, you look for -- in Level II detail only, after you confirm the Level I, you look for sufficient Level II details in sequence, the same spatial relationships and friction ridges in sequence to allow an identification to be effective.
+Mr. Nicola: Okay. So you look at the detail and the sequence that it is on the ridge?
+Robert Spinner: Yes, sir. You have to take everything into consideration.
+Mr. Nicola: What if you were comparing two fingerprints and you come across a detail that exists in one on a ridge that doesn't exist on the other on the same ridge?
+Robert Spinner: If one positive Level II detail is found within a latent print and it is not reproduced in the known print, or vice versa, and it cannot be explained by distortion, then it would automatically take the fingerprint out of contention as being an identification.
+Mr. Nicola: That would be the one-dissimilarity rule?
+Robert Spinner: Yes, sir.
+Mr. Nicola: With respect to the fingerprints collected in this case and the ones that you analyzed, can you please explain to the jury where you became involved in the process that we've heard much about so far?
+Robert Spinner: When I was called back into the Forensics Unit for part-time assistance due to personnel staffing levels, I believe it was the last part of July in 2003, I was asked if I would assist with the evidence processing in this case.
+Mr. Nicola: Okay. Were you involved in setting up the protocol for how the large volumes of magazines and other items of paper would be processed?
+Robert Spinner: No, I was not.
+Mr. Nicola: Okay. Did you have a clear understanding of what that protocol would be?
+Robert Spinner: It was shown to me and I read through it, yes. I understood what they were -- what was being required and requested.
+Mr. Nicola: Was it an acceptable process from your point of view?
+Robert Spinner: Yes, sir.
+Mr. Nicola: Okay. What was your role in the handling of the magazines and other items of evidence that were processed for fingerprints?
+Robert Spinner: My role started when I obtained the magazine item numbers from the property room. I returned them to the Forensics Unit, where the evidence bags were then opened. And then what I did was, I first initially took each individual magazine and photodocumented that magazine page per page. I then took the magazine and cut the magazine or separated the magazine down the spine or the middle to separate each page into its own individual page. Then the magazine was recorrelated to maintain the page order. The magazine was then subjected to cyanoacrylate ester fuming, which is known as super glue fuming, in an effort to develop and stabilize any latent fingerprints which may or may not be on each individual page. After this was done, the pages were then either recorrelated or immediately placed into plastic sleeves, which were then placed into binders, and then the binders became the magazine, or book, or pamphlet.
+Mr. Nicola: So, were you the individual responsible for slicing the magazines up and subjecting them to the fumes from super glue?
+Robert Spinner: I cut and processed the grand majority of the magazines. Michelle Shelley processed a few of them at my direction toward the end when we got very busy.
+Mr. Nicola: Were you working under some kind of time crunch?
+Robert Spinner: Yes. We were told we had to have this project completed by December 17th of 2003.
+Mr. Nicola: Once the items had been subjected to the super glue fuming, did you repackage them?
+Robert Spinner: They were -- after the super glue fuming was completed, each individual page was placed into a plastic page protector, which was then placed into a three-ring binder.
+Mr. Nicola: Okay. And then those binders would go where; do you know?
+Robert Spinner: The binders were either kept in the Santa Barbara lab for processing there, or they were sent to the Santa Maria lab for processing there, due to the length of time it was going to take to do the additional processing for latent fingerprints.
+Mr. Nicola: Okay. The deadline you had was in December of 2004, correct?
+Robert Spinner: I'm sorry, 2004. That is correct.
+Mr. Nicola: My astute colleagues here. The teams that were responsible for further developing or examining the magazines and their contents for latent fingerprints in the North County would have been who; do you know?
+Robert Spinner: They would have been Detective Sutcliffe and I.D. Technician Torres.
+Mr. Nicola: And in the South County, who did you use?
+Robert Spinner: Detective Wittenbrock and Michelle Shelley.
+Mr. Nicola: And what was the procedure from that point forward, if you know?
+Robert Spinner: Once I was through assembling the magazines back into the binder, in the individual page protectors, they were either sent to Santa Maria or they were kept in-house and then processed for latent fingerprints using what's known as a RUVIS Scenescope to look for, develop and stabilize super glue prints on the pages. The pages were then subjected to a ninhydrin process to attempt to further develop any fingerprints. When these two processes were completed, the magazine pages were then reinserted into the plastic sleeves, placed back into the binders, and the binders were then correlated by myself, accounted for, and then booked back into the evidence room.
+Mr. Nicola: Okay. If a latent fingerprint was identified by one of the teams, meaning Detective Sutcliffe's team or Detective Wittenbrock's team, what would they do with that image?
+Robert Spinner: Okay. All images which they found, either using the Scenescope or the ninhydrin process, were photodocumented. Those photographs were then either placed on a CD disk in Santa Maria and sent down to Santa Barbara for evaluation, or if Detective Wittenbrock photographed the images, he would take the photo card out of the digital camera, go to the Santa Barbara computer, download images in the Santa Barbara computer system.
+Mr. Nicola: Were those images saved by file number?
+Robert Spinner: Yes, they were. Each individual item number, or each individual magazine, pamphlet, page, whatever, each had an individual item number. The fingerprints which were -- photographs on those were marked. And when the photographs were taken, and they were saved under a particular -- under the file number for that particular item of evidence.
+Mr. Nicola: How many total images of latent prints did the teams of Sutcliffe -- Detective Sutcliffe and Detective Wittenbrock provide you for a comparison?
+Robert Spinner: Approximately 706.
+Mr. Nicola: And out of those 706 potential latent prints, how many did you find were usable to make fingerprint comparisons?
+Robert Spinner: 178 were found to be usable for latent comparison purposes. However, some of those were latent palm prints, not fingerprints.
+Mr. Nicola: Okay. Of the latent fingerprints -- generally, could you explain for the jury what it is that, in your opinion, makes a latent fingerprint usable for a comparison?
+Robert Spinner: A latent fingerprint needs to have sufficient quality and clarity to locate and identify a sufficient amount of Level II detail, and it also has, in my estimation, and what I would like to see is sufficient detail to at least show basic Level I details so the pattern type can be determined.
+Mr. Nicola: Turning your attention back to Exhibit 743, 744 and 745, did you use the fingerprints cards from the individuals listed, Michael Jackson, Gavin Arvizo and Star Arvizo, to compare against the 178 fingerprints that were recovered that you felt were usable?
+Robert Spinner: Yes, we did.
+Mr. Nicola: Okay. And out of the 178 usable prints, did you find matches on a number of latent prints?
+Robert Spinner: We were able to identify 19 of the 178.
+Mr. Nicola: And you categorized those as positive identifications?
+Robert Spinner: Yes, sir.
+Mr. Nicola: Okay. Were there a number of fingerprints that you did not come to a conclusion about?
+Robert Spinner: Yes, there were.
+Mr. Nicola: And approximately how many, please?
+Robert Spinner: I believe there were seven.
+Mr. Nicola: When you initially began your comparison process, could you describe for the jury the different steps that you took?
+Robert Spinner: When --
+Mr. Nicola: Let me rephrase that. That will take you somewhere else. When you initially began comparing a latent print to some of these known prints from the three individuals we named, did you look at them with the intention of going back through the material over and over again?
+Robert Spinner: When we first did the -- when we first went through the first ones, what we did was we went through an initial evaluation and located prints which we felt could be an identification, and we marked those. And when we finished going through all the prints that came down on an individual CD disk for that day or the two days, then we would go back to the ones that we were interested in and re-review those fingerprints.
+Mr. Nicola: Okay. So they would get a first look, and then a more thorough look at a later time?
+Robert Spinner: Yes, sir, they would.
+Mr. Nicola: You keep saying “we”.
+Robert Spinner: Myself and Identification Technician Lisa Hemman.
+Mr. Nicola: When you finally sat down to compare a fingerprint to -- a known fingerprint to a latent fingerprint that you were examining, how did you and Lisa Hemman coordinate that?
+Robert Spinner: Well, initially, during the initial evaluation, we were both watching or both looking at a computer screen where the disk -- the images were being brought up one at a time. And we each had individual copies of the ten-prints -- ten-prints for the three individuals involved in this case, meaning Gavin Arvizo, Star Arvizo and Mr. Jackson. As we went through the latent fingerprints, again, as I said before, we identified some which could be identifiable to one of the three people. We would note that, and then -- for a later evaluation. What would happen, during the later evaluation process, I.D. Technician Hemman would take the latent fingerprint, which we felt was a usable and comparable latent to a particular inked fingerprint or known fingerprint, and make a side-by-side comparison set up on a computer screen. We would then go through that side-by-side comparison independently, looking for Level II details and marking that detail with one of us being outside of the room when the other was doing it. After we were both finished, we would then compare our results and see if there was a problem or whether the identification was valid or whether it was not valid.
+Mr. Nicola: Is that the “V” part of the ACE-V process?
+Robert Spinner: It would be -- yes, it would be the “V” process, the verify. What we did initially when we looked at the fingerprints on the computer screen, we were just looking for latents alone with the ten-print fingerprint cards.
+Mr. Nicola: How is it that Senior I.D. Technician Hemman could mark on the computer where she thought points of comparison were and you would come in later and not see those marks?
+Robert Spinner: We were using a program called Adobe Photoshop, and in that particular program you can create what they call layers. She would make two layers. One layer would be her layer, one layer would be my layer. And she would turn her layer on and put the marks down on where she thought the appropriate Level II detail was located to make an identification, or nonidentification as the case may be, for this particular fingerprint. She would then turn that layer off, turn my layer on. I would go in, I could not see her marks. I would then put my marks down. When I was finished, I would advise her of what we did -- that I was finished, rather, and we would both get together. She would turn both layers on and we would see if we were in agreement.
+Mr. Nicola: Is that a fairly standard way of doing things these days in the field of fingerprint comparison is using the computer?
+Robert Spinner: Yes, sir. We used to use what they call a fingerprint comparator. It's a visual projection-type device where you would do basically the same thing, but it was more mechanical. You'd work on a plastic screen with a water-soluble pen. Here we just basically use a computer and a dedicated program, like Adobe Photoshop, to do the same thing.
+Mr. Nicola: I'm going to approach you with an exhibit.
+The Court: Let's take our morning break.
+Recess Message: Recess taken.
+The Court: All right. Counsel, go ahead.
+Mr. Nicola: Thank you, Your Honor.
+Mr. Nicola: Detective Spinner -- Detective Spinner, I've put a number of boards up here. Can you reach the ones closest to your right, and on that first board, can you read the exhibit number, please?
+Robert Spinner: 735.
+Mr. Nicola: Do you recognize the latent image in that picture?
+Robert Spinner: There's an item listed as being taken on Item 317-U, union, Latent No. 1.
+Mr. Nicola: Did you make a comparison of that print in this case?
+Robert Spinner: Yes, we did.
+Mr. Nicola: Did you come to any conclusions when you made your comparison of that fingerprint?
+Robert Spinner: Yes, we did.
+Mr. Nicola: Can you turn to the next exhibit, please. Are you looking at Exhibit 757?
+Robert Spinner: Yes, I am.
+Mr. Nicola: And what is depicted in that exhibit?
+Robert Spinner: It is a charted latent fingerprint comparison between the photograph from Item 317-U, union, page ten, Quadrant 16, Latent 1, against a known fingerprint of Gavin Arvizo's right middle finger.
+Mr. Nicola: So you were able to identify Gavin Arvizo's right middle finger on Exhibit -- a magazine labeled 317-U?
+Robert Spinner: Yes, sir, we were.
+Mr. Nicola: Okay. Coming to your opinion that that is his fingerprint, did you present our office with a Power Point presentation to help explain that to the jury?
+Robert Spinner: Yes, we did.
+Mr. Nicola: Your Honor, if I may have “Input 1”, please. I'd like to show it to the jury, please.
+Mr. Nicola: Take a look up at the screen.
+The Court: What's the exhibit number on the presentation?
+Robert Spinner: 757, Your Honor.
+Mr. Nicola: Did you -- I left them with the court reporter for some strange reason, Judge. It's going to be next in order, Exhibit No. 772.
+Mr. Nicola: I'm going to go right to -- thank you -- this image. That was the latent fingerprint that you compared.
+Robert Spinner: That's affirmative, sir, yes.
+Mr. Nicola: Okay. And I want you to guide me through this. What is this?
+Robert Spinner: That is the known inked impression from the right middle finger of Gavin Arvizo.
+Mr. Nicola: And what does this image depict?
+Robert Spinner: Okay. This is where -- an identification of 12 charted points of identification which we found within this particular fingerprint which we compared to the latent fingerprint.
+Mr. Nicola: Is that what's shown on the screen?
+Robert Spinner: Yes, sir. That -- No. 1 is an upward moving ending ridge.
+Mr. Nicola: Okay. Did you compare an entire finger pad against an entire finger pad when you made your comparison?
+Robert Spinner: No, sir. In this case, we had the right -- or the left side of the completely rolled finger, which included from a little bit inside the delta area, which is the area I just pointed to, to this area, up into the top and down below the delta area.
+Mr. Nicola: Okay. Can you explain what's on this next slide, please?
+Robert Spinner: That is where the second characteristic is located and charted, and that is also an ending ridge, and it's a downward thrusting ending ridge.
+Mr. Nicola: And this image?
+Robert Spinner: No. 3 is also a charted ending ridge. It would be an upward thrusting ending ridge.
+Mr. Nicola: No. 4?
+Robert Spinner: Four is another ending ridge, again in the same spatial relationship to the other three, and it's also an upward thrusting ending ridge.
+Mr. Nicola: No. 5, please?
+Robert Spinner: Five is another ending ridge, again in the same spatial and ridge count relationship with No. 4, 3, 2 and 1, and it's also a downward thrusting ending ridge.
+Mr. Nicola: No. 6?
+Robert Spinner: Six is also an ending ridge, downward thrusting, in the same spatial relationship as the first five.
+Mr. Nicola: No. 7?
+Robert Spinner: Seven is a bifurcation, which again is two ridges flowing into one. It's an upward moving bifurcation, in other words, opens downward, and it's in the same spatial relationship as the first six items.
+Mr. Nicola: Okay. And eight?
+Robert Spinner: Eight is an ending ridge. It's an upward thrusting ridge, again in the same spatial relationship to 1 through 7.
+Mr. Nicola: Nine?
+Robert Spinner: Nine is a bifurcation. It's a downward opening, upward moving bifurcation, again in the same spatial relationship with the previous items.
+Mr. Nicola: Ten?
+Robert Spinner: Ten is another bifurcation, opening downward, in the same spatial relationship as 1 through 9.
+Mr. Nicola: 11?
+Robert Spinner: 11 is an ending ridge, coming up just inside of the delta area. It's an upward flowing ending ridge and having the same spatial relationship as the previous mentioned items.
+Mr. Nicola: No. 12?
+Robert Spinner: 12 is a bifurcation. It's just above the delta area, and again with the same spatial relationship, having -- with the other items. 1 through 12 all have the same spatial and ridge count relationships.
+Mr. Nicola: Okay. Is that essentially the procedure you went through to create Chart 757?
+Robert Spinner: Yes, sir, it is.
+Mr. Nicola: Your Honor, I'd like to move 757 into evidence.
+The Court: It's admitted.
+Mr. Nicola: The next two exhibits I'd like to show you are 726 and 748. Do you recognize 726?
+Robert Spinner: Yes, sir, I do.
+Mr. Nicola: And what is that, please? Explain to the jury.
+Robert Spinner: It's a latent fingerprint that was photodocumented from Item 317-L, page 126, marked as Latent No. 1.
+Mr. Nicola: Okay. What's the next board? 748?
+Robert Spinner: 748, yes, sir.
+Mr. Nicola: And is that your comparison between the image in 723 (sic) and somebody's fingerprint?
+Robert Spinner: Yes, it is.
+Mr. Nicola: Tell the jury what that comparison is of, please.
+Robert Spinner: This is a latent fingerprint comparison between the latent fingerprint photodocumented on Item 317-L, page 126, marked Latent No. 1, and the right index finger of Star Arvizo.
+Mr. Nicola: Okay. Did you prepare a Power Point presentation as an example of that one as well?
+Robert Spinner: Yes, sir, one was prepared.
+Mr. Nicola: Okay. The Star Arvizo Power Point, Your Honor, is Exhibit 773. While that is loading -- there it is. Yes, it's taking its time.
+Mr. Nicola: This was the latent fingerprint of Star Arvizo found on Item 317-L, the magazine “Finally Legal”?
+Robert Spinner: Correct.
+Mr. Nicola: And is that --
+Robert Spinner: That is the latent fingerprint from Item 726, which is the latent fingerprint we photographed on page 317-L, page 126, marked as Latent No. 1.
+Mr. Nicola: Okay. And this is?
+Robert Spinner: That is the right index fingerprint, as photographed, of Mr. Star Arvizo.
+Mr. Nicola: And is it where your comparison began?
+Robert Spinner: That's where we started making the chart, yes, sir.
+Mr. Nicola: Okay. I'd like you to explain whether these images are to scale relative to the normal human being and relative to each other.
+Robert Spinner: No, these are cropped and expanded. And the scaling between the fingerprint or the known print on the left and the latent print on the right is -- the one on the right is slightly smaller.
+Mr. Nicola: Okay. Is that the same for the previous presentation? The scaling is different between the two?
+Robert Spinner: It could be, yes, sir.
+Mr. Nicola: The board is right there if you want to look at it.
+Robert Spinner: The scaling on this one would be just slightly reversed. The latent is a little larger than the known inked print.
+Mr. Sanger: When you say “this one” -- Your Honor, could we have a clarification as to what exhibit the witness is looking at?
+Robert Spinner: The 757.
+Mr. Sanger: Thank you.
+Mr. Nicola: Could you describe what Point No. 1 is, please?
+Robert Spinner: Point No. 1 is an upward thrusting ending ridge.
+Mr. Nicola: Okay. You mentioned earlier something about a feature being in sequence, ridge sequence?
+Robert Spinner: Ridges in sequence. That would be the number of ridges basically between the two details, such as we have an ending ridge at that location and an ending ridge at that location, or bifurcation. You follow this one down, the ridge line down, and then you go over one to that, and here, starting at “1” again, work your way up, and you have two ending ridges flowing in the opposite direction.
+Mr. Nicola: Okay.
+Robert Spinner: So --
+Mr. Nicola: Go ahead, you were going to finish.
+Robert Spinner: I was going to say, so you have to find the same relationships in both the known print and the latent fingerprint.
+Mr. Nicola: Okay. Point No. 2?
+Robert Spinner: Point No. -- Point No. 2 is a downward flowing ending ridge three ridges up and over from Point No. 1.
+Mr. Nicola: Okay. And that's the same on both images?
+Robert Spinner: Yes, it is.
+Mr. Nicola: And a third area of similarity?
+Robert Spinner: That is also an ending ridge, which is two ridges above Point No. 2.
+Mr. Nicola: Okay. Area No. 4?
+Robert Spinner: Four is another charted ending ridge, which is at the other end of the short ridge starting at Point No. 3.
+Mr. Nicola: And as you're examining these points, you're looking for the feature, the ridge sequence and the spatial relationship between the two?
+Robert Spinner: That's correct.
+Mr. Nicola: Okay. No. 5?
+Robert Spinner: No. 5 is a bifurcation. This ridge actually has a slight space here, but actually bifurcates into this one, and then it comes out in this direction. So 5 is the location of the bifurcation of the two ridges actually split off from each other.
+Mr. Nicola: Okay. No. 6?
+Robert Spinner: Six is the ending ridge created by the short ridge, which flows off the bifurcation underneath the main ridge.
+Mr. Nicola: And No. 7?
+Robert Spinner: Seven is another ending ridge flowing across the top from left to right, one ridge above the previous ending ridge of six.
+Mr. Nicola: And No. 8, please?
+Robert Spinner: Eight is another ending ridge following the furrow, or the white area, downward from 7 to 8. And then it shows up there.
+Mr. Nicola: The lines on the latent fingerprint, the image on the right, the white areas correspond to the dark areas on the image on the left?
+Robert Spinner: Yes, sir. That's what happens when you develop a latent fingerprint using cyanoacrylate, or super glue. The super glue polymerizes with the latent fingerprint moistures and turns the print ridges actually white, and the furrows are actually a darker color.
+Mr. Nicola: Okay.
+Robert Spinner: Just reversed from your normal fingerprint.
+Mr. Nicola: So a light area on the image on the left would be a dark area on the image on the right?
+Robert Spinner: That's correct.
+Mr. Nicola: No. 9, please?
+Robert Spinner: No. 9 is an ending ridge at this location four ridges down from No. 6.
+Mr. Nicola: No. 10, please?
+Robert Spinner: Ten is a bifurcation where two ridges fuse together to form one, six ridges down from No. 9. And the same spacing as this one.
+Mr. Nicola: How about No. 11?
+Robert Spinner: 11 is another bifurcation. It's a downward opening bifurcation on the second ridge down, just above the re-curve forming the core.
+Mr. Nicola: And No. 12?
+Robert Spinner: 12 is an upward thrusting ending ridge and the furrow just to the right of Item No. 11.
+Mr. Nicola: Is it common nomenclature to call these “points of comparison”, or is there some other term you refer to them refer to them to?
+Robert Spinner: I refer to them as “identifiable characteristics”. Some people refer to them as “Galton details”. Some people refer to them as “unique details”. They're all synonymous.
+Mr. Nicola: With this particular fingerprint match, did you find only 12 -- what did you call them?
+Robert Spinner: Characteristics.
+Mr. Nicola: -- characteristics of individualization?
+Robert Spinner: Yes. There were additional characteristics located.
+Mr. Nicola: Approximately how many?
+Robert Spinner: 25.
+Mr. Nicola: There were 25 points that matched?
+Robert Spinner: Yes, sir.
+Mr. Nicola: I'm going to end this one and start loading the other, so.... Do you have a fingerprint comparison up there where you found a match on one of Michael Jackson's prints?
+Robert Spinner: Yes.
+Mr. Nicola: Would you please state for the record what the latent print exhibit number is?
+Robert Spinner: It's Item 727.
+Mr. Nicola: And the print comparison chart corresponding to that item is?
+Robert Spinner: 749.
+Mr. Nicola: Your Honor, I request Item 748, the charts depicting the match of Star Arvizo, be admitted into evidence.
+The Court: It's admitted.
+Mr. Nicola: Item No. 727, where was that latent taken from?
+Robert Spinner: This item was from Item 317-O, ocean, page two, Latent No. 1.
+Mr. Nicola: And did you prepare a Power Point presentation for that as well?
+Robert Spinner: Yes, sir, one was prepared.
+The Court: Is it ready?
+Mr. Nicola: It is. Thank you, Your Honor.
+Mr. Nicola: And is that the latent fingerprint image that you used for your comparison?
+Robert Spinner: Yes, sir, it is. And that is Mr. Jackson's known left thumbprint.
+Mr. Nicola: And this is a side-by-side comparison?
+Robert Spinner: Yes, it is.
+Mr. Nicola: Again, issues of scale remain the same?
+Robert Spinner: The scaling is not totally accurate as far as the -- totally the same exact size.
+Mr. Nicola: Okay. And what is this identifying characteristic?
+Robert Spinner: That identifying characteristic is a ridge ending which is one ridge above the re-curve forming the core area of the fingerprint or the thumbprint.
+Mr. Nicola: No. 2?
+Robert Spinner: No. 2 is a bifurcation. If you follow No. 1 upward and to the left, you see where it fuses and joins into the above ridge, forming the bifurcation which opens from left to right.
+Mr. Nicola: No. 3, please?
+Robert Spinner: No. 3 is a ridge ending. Seven ridge counts over from No. 2 that the Ridge No. 2 actually ends on.
+Mr. Nicola: No. 4, please?
+Robert Spinner: Four is a bifurcation located above the bifurcation for No. 2.
+Mr. Nicola: No. 5, please?
+Robert Spinner: Five is a ridge ending located in the upper part of the print eight ridges above the ridge that No. 3 is located on.
+Mr. Nicola: No. 6?
+Robert Spinner: Six is another ridge ending located one ridge above No. 5 and forward.
+Mr. Nicola: No. 7?
+Robert Spinner: Seven is a bifurcation which opens to the right four ridges below No. 5.
+Mr. Nicola: This is Exhibit 774, Your Honor, the Power Point.
+Mr. Nicola: Eight?
+Robert Spinner: No. 8 is an ending ridge which is the lower fork of the bifurcation marked at No. 7.
+Mr. Nicola: No. 9?
+Robert Spinner: Nine is a bifurcation which, if you count down four ridges and go slightly forward, it fuses into the ridge one ridge below.
+Mr. Nicola: And No. 10?
+Robert Spinner: Ten is a bifurcation. Count down one ridge and then go to the right, and you find where two ridges fuse together forming a bifurcation that opens to the left.
+Mr. Nicola: No. 11?
+Robert Spinner: 11 is an ending ridge which is just below the bifurcation at 10.
+Mr. Nicola: And No. 12, please?
+Robert Spinner: 12 is an ending ridge, which is the other end of the short ridge from 11 to 12.
+Mr. Nicola: Okay. And on this particular positive identification, did you find more than 12?
+Robert Spinner: We found a total of 17 total points.
+Mr. Nicola: Okay. And are those the red dots that you put on the exhibit?
+Robert Spinner: Yes, sir, they are.
+Mr. Nicola: They're very difficult to see in here. Are they on your chart?
+Robert Spinner: Yes, they are. And I can point them out with a laser pointer, if you'd like, sir.
+Mr. Nicola: Go ahead, please.
+Robert Spinner: We have two ending ridges at this location. An ending ridge at this location. Bifurcation at this location. Another bifurcation at this location.
+Mr. Nicola: Is there a reason why not to chart more than 12 individualizing characteristics?
+Robert Spinner: When I'm building a chart, and we don't build that many of them, I don't like to put too many lines in to mark every point because of the probability of confusing people and have too many lines running back and forth through the chart and possibly crossing lines to get to all the points, which then makes it very difficult to follow backwards. So it was done for clarity.
+Mr. Nicola: Okay. I think we're done with our slide show, Your Honor.
+Mr. Nicola: Exhibit 749 is the exhibit that contains the Power Point we just saw --
+Robert Spinner: Yes, it is, sir.
+Mr. Nicola: -- in chart format? I move 749 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Do you recognize Exhibit 746, Detective Spinner?
+Robert Spinner: Yes, I do.
+Mr. Nicola: And what is depicted in Exhibit 746?
+Robert Spinner: It is a fingerprint chart showing the latent comparison between the latent fingerprint photographed on Item 304-D, David, page 52, marked Latent No. 1, and the left little finger of Mr. Jackson.
+Mr. Nicola: Did you make a positive identification?
+Robert Spinner: Yes, we did.
+Mr. Nicola: Move 746 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 747, do you recognize that?
+Robert Spinner: Yes, sir. That is a chart created showing the identification made on the fingerprint which was photographed on Item 317-L, Lincoln, page 31, marked Latent No. 1, against the left middle finger of Star Arvizo.
+Mr. Nicola: Move 747 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 750?
+Robert Spinner: Okay. No. 750 is item -- latent fingerprint photographed on Item 317-R, Robert, page 54, Latent 1-N. And “N” indicates this is a ninhydrin-developed fingerprint, not a super-glue-developed fingerprint.
+Mr. Nicola: Your Honor, we'd move 750 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Oh, I thought you did.
+Robert Spinner: It's a comparison against the left thumb of Mr. Jackson and a positive identification was made.
+Mr. Nicola: Now we'd like to move it into evidence, Your Honor, 750.
+Mr. Nicola: Exhibit 751, do you recognize that?
+Robert Spinner: 751 is a photograph of the latent fingerprint photographed on Evidence Item 317-R, Robert, page 92, marked Latent No. 1, with the left little finger of Gavin Arvizo.
+Mr. Nicola: Is that a positive identification?
+Robert Spinner: Yes, it was.
+Mr. Nicola: Exhibit No. 752, please?
+Robert Spinner: 752 is a chart of the fingerprint comparison made from the picture -- or the fingerprint photodocumented on Item 317-R, Robert, page 92, marked Latent No. 2, and it is -- it was compared and identified, the left ring finger of Gavin Arvizo.
+Mr. Nicola: Is that a positive identification?
+Robert Spinner: Yes, it is, sir.
+Mr. Nicola: Exhibit 753, please?
+Robert Spinner: 753 shows a photograph of the latent fingerprint located on Item 317-R, Robert, page -- excuse me, page 92, marked Latent No. 4. This latent fingerprint was compared against the left index finger of Gavin Arvizo and a positive fingerprint comparison was completed.
+Mr. Nicola: Move 751 in evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 754?
+Robert Spinner: Exhibit 754 shows a photograph of a latent fingerprint photographed on Item 317-S, Sam, page 62, Latent No. 1. This item was compared against the right thumb of Mr. Jackson, and a positive identification was completed.
+Mr. Nicola: Move 754 into evidence, Your Honor.
+The Court: It's admitted. It's admitted.
+Mr. Nicola: Did I move 752, Judge?
+The Court: I don't think so.
+Mr. Nicola: Move it now, please.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 755?
+Robert Spinner: 755 shows a photograph of a fingerprint photodocumented on Item 317-S, Sam, page 87, Latent No. 1. It was compared and identified against the left ring finger of Mr. Jackson.
+Mr. Nicola: Is that a positive identification?
+Robert Spinner: Yes, sir, it is.
+Mr. Nicola: We'd like to move 755 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 756, please?
+Robert Spinner: 756 shows a charted comparison using the photograph of the fingerprint photographed on Item 317-T, Tom, page three, Latent No. 1, against the left thumb of Mr. Jackson.
+Mr. Nicola: The result of that comparison?
+Robert Spinner: It was a positive identification.
+Mr. Nicola: Move 756 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 758?
+Robert Spinner: 758 shows a charted comparison between a latent fingerprint photographed on Item 317-YY, or yellow-yellow, page A, marked Latent No. 1. And it was compared against the left index finger of Gavin Arvizo.
+Mr. Nicola: And the results?
+Robert Spinner: It was a positive identification.
+Mr. Nicola: Move 758 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 759?
+Robert Spinner: 759 shows a charted comparison using the fingerprint photographed from Item 321-A, Adam, page three, marked Latent No. 1, against the known fingerprint of the right thumb of Mr. Jackson.
+Mr. Nicola: And the result of that comparison?
+Robert Spinner: It was a positive comparison.
+Mr. Nicola: We'd like to move 759 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 760?
+Robert Spinner: 760 shows a charted comparison between a latent fingerprint photographed on Item 321-A, Adam, page 29, marked Latent No. 1, and the known fingerprint of Mr. Jackson's right thumb, and it was a positive identification.
+Mr. Nicola: Move 760 into evidence.
+The Court: It's admitted.
+Mr. Nicola: 761, please?
+Robert Spinner: 761 shows a latent fingerprint photographed on Item 321-E, Edward, page one, marked Latent 1, and the known fingerprint of Mr. Jackson's left thumb, or left thumbprint.
+Mr. Nicola: And the result of that comparison?
+Robert Spinner: That was a positive comparison.
+Mr. Nicola: I'd like to move 761 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 762, please?
+Robert Spinner: 762 shows -- is a charted comparison. It shows a photograph of a latent fingerprint photographed on Item 321-E, Edward, page seven, marked Latent No. 1, compared against the known right thumb of Mr. Jackson.
+Mr. Nicola: And the result of that comparison?
+Robert Spinner: It's a positive comparison.
+Mr. Nicola: Move 762 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 763, please?
+Robert Spinner: 763 is a charted comparison showing a latent fingerprint photographed on Item 321-F, Frank, page 11, marked Latent No. 1, and the right thumb of Mr. Jackson.
+Mr. Nicola: And the result of that comparison?
+Robert Spinner: It's a positive comparison.
+Mr. Nicola: Move 763 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 764, please?
+Robert Spinner: 764 shows a latent fingerprint, which was photographed on item -- correction, 363-M, Mary, page 57, marked Latent No. 2, against the right -- known right thumb of Mr. Jackson.
+Mr. Nicola: And the result of that comparison?
+Robert Spinner: It was a positive comparison.
+Mr. Nicola: Okay. Move 764 into evidence.
+The Court: It's admitted.
+Mr. Nicola: At this time, Your Honor, I would like to publish, via Power Point, Exhibit 746 through 764.
+The Court: All right.
+The Clerk: Judge, he hasn't moved 751 into evidence.
+Mr. Nicola: Did I miss 751?
+The Clerk: You just didn't ask to have it received into evidence.
+Mr. Nicola: If I missed 751, I would like to move it into evidence at this time.
+The Court: It's admitted.
+Mr. Nicola: Thank you, Judge. If I may have “Input 1” again, Your Honor.
+Mr. Nicola: If you could please compare what is on the board to the exhibit in front of you and read the exhibit number for the jury, please.
+Robert Spinner: This exhibit number is Exhibit No. 746.
+Mr. Nicola: Is that the positive identification you made with Michael Jackson's left little finger on page 52 of the magazine entitled “Barely Legal”?
+Robert Spinner: Yes, sir.
+Mr. Nicola: Okay. Move to the next exhibit, please. Is that Exhibit 747?
+Robert Spinner: That's correct.
+Mr. Nicola: Would you look at the screen, please? Does that accurately depict the positive identification of Star Arvizo's left middle finger on page 31 of the magazine entitled “Finally Legal”?
+Robert Spinner: Yes, sir, it does.
+Mr. Nicola: Are there additional points of comparison on that aside from the 12 that you've marked?
+Robert Spinner: Yes, sir, there are.
+Mr. Nicola: How many total comparison points are on that exhibit, if you know, off the top of your head? You may refer to your notes, if you wish.
+The Bailiff: Mr. Nicola, you haven't pushed the appropriate button down there to magnify the --
+Robert Spinner: 20 points of comparison.
+Mr. Nicola: And the next exhibit, please?
+Robert Spinner: 750.
+Mr. Nicola: Does this show --
+Robert Spinner: They're out of order.
+Mr. Nicola: Are they out of order?
+Robert Spinner: (Nods head up and down.)
+Mr. Nicola: Sergeant Spinner, do you remember those exhibits I showed you earlier? Is the next one 748?
+Robert Spinner: That's correct. 748.
+Mr. Nicola: And that would be a comparison --
+Robert Spinner: Between the fingerprint found on Item 317-L, Lincoln, page 26, Latent No. 1, comparing the photographed latent fingerprint against the right index finger of Mr. Star Arvizio.
+Mr. Nicola: Arvizo?
+Robert Spinner: Arvizo.
+Mr. Nicola: And how many individualizing characteristics did you find in that comparison?
+Robert Spinner: 25.
+Mr. Nicola: Would you please proceed to Exhibit 749?
+Robert Spinner: I have it.
+Mr. Nicola: Does Exhibit 749 show the identification of the defendant's left thumb on the magazine entitled Hustler “Barely Legal”?
+Robert Spinner: Yes, sir, it does.
+Mr. Nicola: How many individualizing characteristics on this exhibit?
+Robert Spinner: 17.
+Mr. Nicola: I'd like to go to Exhibit 750 next. Is this the identification of the defendant's left thumb -- or did I miss -- is that it?
+Robert Spinner: 750 is a ninhydrin print.
+Mr. Nicola: That's a ninhydrin print, right?
+Robert Spinner: That's correct.
+Mr. Nicola: Okay.
+Robert Spinner: It's 750.
+Mr. Nicola: And is that the identification of Mr. Jackson's left thumb on the magazine Hustler “Barely Legal Hard-Core”?
+Robert Spinner: Right. 317-R, page 54 --
+Mr. Nicola: How many --
+Robert Spinner: -- Latent 1.
+Mr. Nicola: How many points of comparison in this exhibit?
+Robert Spinner: 18 total points.
+Mr. Nicola: Exhibit 751, is this Gavin Arvizo's left middle finger in the same magazine, Hustler “Barely Legal Hard-Core”?
+Robert Spinner: Page 52, marked Latent 1.
+Mr. Nicola: And how many individualizing characteristics did you find there?
+Robert Spinner: We had 21 detailed.
+Mr. Nicola: 21?
+Robert Spinner: 21.
+Mr. Nicola: 752, please. Is this Gavin Arvizo's left middle finger found on the magazine Hustler “Barely Legal Hard-Core”, Sheriff's Item 317-L?
+Robert Spinner: That's correct, Latent 2, page 92.
+Mr. Nicola: How many individualizing characteristics did you find in that?
+Robert Spinner: 13.
+Mr. Nicola: 13?
+Robert Spinner: 13.
+Mr. Nicola: Exhibit 753, please. It appears to depict Gavin Arvizo's left index finger, Sheriff's Item 317-R, Hustler “Barely Legal Hard-Core”.
+Robert Spinner: Correct. Page 92, marked Latent No. 4.
+Mr. Nicola: And how many individualizing characteristics did you find on that print?
+Robert Spinner: 14 total.
+Mr. Nicola: Proceed to Exhibit 753, please -- 54, please. Is that next in order? Does that depict the defendant's right thumb on the magazine Penthouse, Sheriff's Item 317-S?
+Robert Spinner: Correct, page 63, Latent No. 1.
+Mr. Nicola: And how many individualizing characteristics are in that?
+Robert Spinner: 16 total.
+Mr. Nicola: 16?
+Robert Spinner: One-six.
+Mr. Nicola: Exhibit No. 755, please. And is that also the defendant's finger in Item 317-S, Penthouse?
+Robert Spinner: Yes, sir, page 87, latent -- marked Latent No. 1.
+Mr. Nicola: And how many individualizing characteristics in that print?
+Robert Spinner: 21.
+Mr. Nicola: Exhibit No. 756, please?
+Robert Spinner: I have it.
+Mr. Nicola: Okay. Is that the defendant's left thumb in the magazine “Visions of Fantasy”?
+Robert Spinner: “Visions of Fantasy, Hard-Rock Affair”, page three, marked Latent No. 1, and we had again 21 points.
+Mr. Nicola: Okay. Item 757, please. Is that Gavin Arvizo's right middle finger in the magazine “Visions of Fantasy”, or did I not --
+Robert Spinner: I don't think you changed it. We need 758.
+Mr. Nicola: That's where we are.
+Robert Spinner: Item 317-YY is “Al Goldstein's 100 Best Adult Videos”. It was from page A, marked Latent No. 1. And it's the left index finger of Gavin Arvizo. We had 18 total points.
+Mr. Nicola: Is 757 right under that exhibit?
+Robert Spinner: It's right here.
+Mr. Nicola: Okay. Let's do 757, then.
+Robert Spinner: Okay. 757 is from Item 317-U, union, page ten, marked Latent No. 1.
+Mr. Nicola: That would be Gavin Arvizo's right middle finger?
+Robert Spinner: That's correct, sir.
+Mr. Nicola: And how many individualizing characteristics in Exhibit 757?
+Robert Spinner: 20.
+Mr. Nicola: 20. Is 759 next on that stack?
+Robert Spinner: Correct.
+Mr. Nicola: Okay. And is that the defendant's right thumb on page three of Item 321-A, “Playboy Special Edition, Girlfriends”?
+Robert Spinner: Yes, sir, it is.
+Mr. Nicola: And how many individualizing characteristics in that exhibit, please?
+Robert Spinner: 26.
+Mr. Nicola: 26. Proceed to Exhibit 760, please.
+Robert Spinner: I have 760.
+Mr. Nicola: Is that also the defendant's right thumb in the same magazine at page 29?
+Robert Spinner: Yes, it is, sir.
+Mr. Nicola: And how many points of comparison in that exhibit?
+Robert Spinner: Approximately 30.
+Mr. Nicola: Can we go to Exhibit 761, please?
+Robert Spinner: I have it.
+Mr. Nicola: Exhibit 761, is that a positive identification of the defendant's left thumb on the magazine “Girls of Barely Legal”?
+Robert Spinner: Correct. Item 321-E, page one, Latent 1.
+Mr. Nicola: And how many individualizing characteristics in that diagram?
+Robert Spinner: 24.
+Mr. Nicola: Exhibit 762, please. And is that also the defendant's right thumb in the same magazine at page seven?
+Robert Spinner: Page seven, marked Latent No. 1.
+Mr. Nicola: How many individualizing characteristics in that?
+Robert Spinner: 19, 1-9.
+Mr. Nicola: Exhibit 763, please. This is Mr. Jackson's right thumb on the magazine “Finally Legal”?
+Robert Spinner: Yes, sir.
+Mr. Nicola: And how many individualizing characteristics on that exhibit?
+Robert Spinner: 16.
+Mr. Nicola: Is this also the exhibit that got switched into a different binder when it left your lab?
+Robert Spinner: Yes, sir, it was.
+Mr. Sanger: Well, I would object and move to strike as being a leading question.
+The Court: Sustained. Stricken.
+Mr. Nicola: Why does the picture say “321-D”?
+Robert Spinner: The picture says “321-D” because when it left the Santa Barbara lab, it was evidently switched and mismarked with Item 321-F, Frank. When it got to Santa Maria, they relied on that identification when they did the photodocumentation placard, so the placard would show on the whole picture the Item No. 321-D, not F, Frank.
+Mr. Nicola: Did you verify that you made the right comparison?
+Robert Spinner: Yes, I did.
+Mr. Nicola: And this is a photograph from which magazine, which page?
+Robert Spinner: This would be a photograph from a magazine which was originally 321-F, Frank, and the one that was mislabeled, and the one that Detective Sutcliffe and I depict was relied on that label when they did the photography.
+Mr. Nicola: Is there a woman's face in that Scenescope image? Do you see the side of her face?
+Robert Spinner: No. It must be the angle, sir.
+Mr. Nicola: Is Exhibit 764 next?
+Robert Spinner: That's correct. 764.
+Mr. Nicola: Okay. And is that Mr. Jackson's right thumb on the magazine “Club International”, March '98?
+Robert Spinner: Correct. Item 363-M, Mary, page 57, Latent No. 2.
+Mr. Nicola: And how many individualizing characteristics in that one?
+Robert Spinner: 19.
+Mr. Nicola: 19. That's the end of the exhibits, Your Honor. Sergeant Spinner, on how many occasions did you review the fingerprint identifications that you made in this case?
+Robert Spinner: Several.
+Mr. Nicola: And why did you do that?
+Robert Spinner: I usually review my work after it's completed to make sure there's no problem, something that was either missed, just to make sure that there's no problems in the future. And I'll again review them before I go to court.
+Mr. Nicola: Okay. If there is an issue in your mind about an identification, what is your habit and custom?
+Robert Spinner: I will correct -- if there is a problem, I'll make every effort to correct that problem.
+Mr. Nicola: And how would you do that?
+Robert Spinner: Write a report describing the issue at hand and what should be done, or what action should be taken or was taken.
+Mr. Nicola: Would you testify to a fingerprint that you had issues with?
+Robert Spinner: No.
+Mr. Nicola: In this case, did you have issues with a fingerprint?
+Robert Spinner: Yes, I did.
+Mr. Nicola: Do you recall which one it was?
+Robert Spinner: I believe it was off of Item No. 317-O, ocean. It was a thumbprint belonging to Mr. Jackson which was fraught with problems.
+Mr. Nicola: Okay. Is that the thumbprint that you testified in court today matched Mr. Jackson's thumb?
+Robert Spinner: No, it is not.
+Mr. Nicola: With respect to the other print, what did you do to remedy the situation that you had with it?
+Robert Spinner: The thumbprint?
+Mr. Nicola: Yes.
+Robert Spinner: Yes, sir, I wrote a report changing the classification of the print from an identification to an inconclusive identification.
+Mr. Nicola: Did you engage in a peer review of the fingerprints that you've identified today in court under oath?
+Robert Spinner: Yes, I did.
+Mr. Nicola: And how many people reviewed those findings?
+Robert Spinner: Two additional people.
+Mr. Nicola: Please explain to the jury what the function of a peer review is.
+Robert Spinner: A peer review is basically an extension of the ACE-V protocol methodology for fingerprints. It's also something recognized by a group known as SWGFST, which is a scientific working group for fingerprint work, and they have published guidelines in the past. And it's basically a way to verify what an individual has done and to kind of like -- in a way, it would be like a blind test to see whether any problems were encountered, or whether there was a different way of doing things, or whether the identifications which were made are correct, and get any feedback from that individual, maybe a different way of doing something or different way of handling a situation.
+Mr. Nicola: And -- you mentioned it's sort of a blind test. How does a peer review function?
+Robert Spinner: The latent prints and the purported matches would be sent to an individual without any marks on them whatsoever, and just questions asked, “Do you agree or disagree?”
+Mr. Nicola: Okay. And who did you use for the peer reviews in this case?
+Robert Spinner: Initially -- I.D. technician Hemman was off on maternity leave at the time we did this. I used Identification Technician Mike Allmeyer from the Santa Barbara Police Department for the initial.
+Mr. Nicola: Have you known him for some time?
+Robert Spinner: Yes, I have.
+Mr. Nicola: What does he do with the Santa Barbara Police Department?
+Robert Spinner: He's an identification technician in their lab.
+Mr. Nicola: How long were you professionally affiliated with him?
+Robert Spinner: Since he came to work for the sheriff's office initially, and then he went from the sheriff's office to the police department. I was going to guess about 13, 14 years.
+Mr. Nicola: I'm going to start going through some magazines with you, if that's all right. Did you process - and I'm talking “process”, photograph, slice, and direct to be bagged - all the magazines that came to you during the Michael Jackson case?
+Robert Spinner: That's correct, sir.
+Mr. Nicola: Okay. I'm going to go through these exhibits. And hopefully we'll do it very quickly, Your Honor. May I inquire from the well, Your Honor? It's quite a bit.
+The Court: It's a problem for people to hear. So you can try it, but if they can't hear --
+Mr. Nicola: May I try that, Your Honor?
+The Court: You can try.
+Mr. Nicola: Okay.
+The Bailiff: Don't get it too close to that other one.
+Mr. Nicola: Do you have a paper clip or something that I could....
+Mr. Nicola: I'm going to hand you Exhibit 542, marked Sheriff's Item 363-M. Is that one of the magazines that you processed and had placed in plastic sleeves?
+Robert Spinner: Yes, it is, sir.
+Mr. Nicola: Your Honor, we'd move this exhibit into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 541? And I apologize, these are not going to be in order. What is that magazine?
+Robert Spinner: It's Item No. 360-L, and it's a Plumpers magazine.
+Mr. Nicola: Is that one of the magazines that you processed, cut, placed in plastics sleeves?
+Robert Spinner: Yes.
+Mr. Nicola: We'd move 541 into evidence.
+The Bailiff: You're going to end up getting feedback if you put that microphone too close to that one.
+Mr. Nicola: He did it.
+The Bailiff: You can use it, but not that close.
+Mr. Nicola: Okay. 541's been admitted, Judge?
+The Court: It's admitted.
+Mr. Nicola: Exhibit 540?
+Robert Spinner: Yes, sir, this is Item No. 363-K, king.
+Mr. Nicola: Is that one of the magazines you processed, super glued, placed in --
+Robert Spinner: Sliced and diced, yes, sir.
+Mr. Nicola: Move 540 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 539, Item 6 -- Item 363-J. Did you process, super glue, fume, place in plastic sleeves that exhibit?
+Robert Spinner: Yes, sir, I did.
+Mr. Nicola: Move 539 in evidence, sir.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 538, Item 363-I. Similarly, did you process that magazine, Sergeant?
+Robert Spinner: Yes, I did.
+Mr. Nicola: Move 538 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 537, which sheriff's item is that?
+Robert Spinner: That is 363-H, Henry.
+Mr. Nicola: Did you process -- did you look at it?
+Robert Spinner: Yes, sir.
+Mr. Nicola: Did you process that item as well?
+Robert Spinner: Yes, I did.
+Mr. Nicola: Move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 536, Item 363-G, as in “golf”, did you process that item?
+Robert Spinner: Yes, I did, sir.
+Mr. Nicola: Move it into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: I'm handing you Exhibit 535.
+Robert Spinner: It's 363-F, Frank.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, sir, I did.
+Mr. Nicola: Move it into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 534, please.
+Robert Spinner: 363-E, Edward.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did.
+Mr. Nicola: Move it into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 532?
+Robert Spinner: 363-C, Charles.
+Mr. Nicola: Move that into evidence, Your Honor.
+Mr. Nicola: Did you process this?
+Robert Spinner: Yes, I did.
+Mr. Nicola: May we move it into evidence, Your Honor?
+The Court: It's admitted.
+Mr. Nicola: 533, did you process that item?
+Robert Spinner: Yes, I did. 363-D, David.
+Mr. Nicola: Move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 531?
+Robert Spinner: It's 363-B, boy.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did.
+Mr. Nicola: Move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Next I'm handing you Exhibit 530.
+Robert Spinner: 363-A, Adam.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did.
+Mr. Nicola: Move it into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: May I have just a moment to restack?
+Mr. Nicola: Picking up with Item Exhibit No. 543.
+Robert Spinner: Item 363-N, Nora. I processed this.
+Mr. Nicola: Move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 544?
+Robert Spinner: It's Item 363-O, ocean.
+Mr. Nicola: Did you process that one?
+Robert Spinner: Yes, I did.
+Mr. Nicola: Move it into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 545?
+Robert Spinner: Item 363-P, Paul. I processed this.
+Mr. Nicola: We'd move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Why don't you pull that out for just a second. Inside the front cover there's a little placard, isn't there?
+Robert Spinner: This is the photo slip I used to mark it, mark the magazine when I took the original photograph.
+Mr. Nicola: Just hold that up for the jury.
+Robert Spinner: I created this little slip when I took the original photographs of it so they could -- the photographs could be filed correctly, the correct item number, when they were put in the computer and retained as evidence.
+Mr. Nicola: And that's kept loosely in the binder?
+Robert Spinner: Yes, it is.
+Mr. Nicola: Is that how 321-D and F got switched at some point?
+Robert Spinner: I would --
+Mr. Sanger: I'm going to object. That's a leading question.
+Mr. Nicola: I'll withdraw it.
+The Court: Sustained.
+Mr. Nicola: Exhibit 546?
+Robert Spinner: This is Item No. 636-Q, queen. And I did process this item.
+Mr. Nicola: You did the same thing I did.
+Robert Spinner: 363, excuse me.
+Mr. Nicola: Move that into evidence, Your Honor.
+The Court: 546 is admitted.
+Mr. Nicola: Exhibit 547?
+Robert Spinner: 363-R, Robert. Yes, I processed this.
+Mr. Nicola: We'd like to move that into evidence as well, Your Honor.
+The Court: 547 is admitted.
+Mr. Nicola: Exhibit 548?
+Robert Spinner: This is Item No. 363-S, Sam.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did.
+Mr. Nicola: We'd like to move that into evidence, Your Honor.
+The Court: 548 is admitted.
+Mr. Nicola: 549 is next.
+Robert Spinner: Item No. 363-T, Tom.
+Mr. Nicola: Did you process that exhibit?
+Robert Spinner: Yes, I did.
+Mr. Nicola: We'd like to move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 550.
+Robert Spinner: Item 363-U, union, processed.
+Mr. Nicola: By you?
+Robert Spinner: I did process it, yes.
+Mr. Nicola: Move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 551?
+Robert Spinner: 363-V, Victor, and I did process this item.
+Mr. Nicola: We'd like to move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: If I may take a moment.
+Mr. Nicola: I'll show you Exhibit 580.
+The Court: All right. We're going to take our break, five minutes early.
+Recess Message: Recess taken.
+The Bailiff: Remain seated and come together. (Laughter.)
+The Bailiff: I don't think you can top that.
+The Court: She must already be at Easter service.
+The Bailiff: I'm going to sit down right now.
+The Court: Go ahead.
+Mr. Nicola: Thank you, Judge.
+Mr. Nicola: I've placed in front of you a bag marked Evidence Item 716. Do you recognize that?
+Robert Spinner: Yes. This is the magazine, Sheriff's Evidence Item 1002, along with the original evidence bag which it was received in when I got it, and I rebooked both items under 1002 and 1002-A.
+Mr. Nicola: Can you take the contents of 7 -- 716, the contents, each have individual exhibits numbers, please?
+Robert Spinner: That's correct. One is 587 and 586.
+Mr. Nicola: And what is Exhibit 587?
+Robert Spinner: 587 is Sheriff's Evidence Item 1002, which I processed.
+Mr. Nicola: We've move 587 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: And Exhibit No. 586, that is what, Detective Spinner?
+Robert Spinner: This is the original evidence bag this item was in when I obtained it from the property room.
+Mr. Nicola: We would move that into evidence.
+The Court: It's admitted.
+Mr. Nicola: And we would also move 716 into evidence.
+The Court: What is that?
+Mr. Nicola: Would you describe 716 one more time for the Court?
+Robert Spinner: Item 716 is a brown evidence bag containing Sheriff's Evidence Item No. 1002 and 1002-A. The 002 item is the magazine itself, and the 002-A is the original bag that it was -- that I received it in when I got it out of the property room to process it.
+The Court: All right. That's admitted.
+Mr. Nicola: Thank you, Your Honor.
+Mr. Nicola: Next we have Exhibit 174, which is a bag that contains Exhibit 585 and Exhibit 584. Sergeant Spinner, do you recognize these items? (Laughter.)
+Mr. Nicola: You missed it.
+The Bailiff: That's why you don't go in the well.
+Mr. Nicola: Okay. What is Exhibit 714?
+Robert Spinner: 714 is an evidence bag in which I returned Item 1001, which is Exhibit 585, back to the property room, along with the original bag, evidence bag, that I got the evidence item from, and I checked it out of the property room, which is Evidence Item 584.
+Mr. Nicola: We'd move those into evidence, Your Honor. (Laughter.)
+The Court: They're admitted.
+Mr. Nicola: We'd also move 714 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Thank you. Too much sugar at lunch.
+Mr. Nicola: Exhibit 580, please.
+The Court: Now you know why the rest of the attorneys stay behind counsel table. (Laughter.)
+The Court: Go ahead, Counsel.
+Mr. Nicola: Yes, I do.
+Mr. Nicola: Do you recognize --
+Robert Spinner: This is the original evidence bag in which I got Item -- Sheriff's Item 306 out of the property room, and I started processing. And this is the item, magazine, that was inside this evidence bag when I got it out of the property room. Both items were returned in the plastic evidence bag.
+Mr. Nicola: Okay. Your Honor, we would move, excuse me, 580 into evidence, please.
+The Court: It's admitted.
+Mr. Nicola: Okay. Showing you Exhibits 563 and 564.
+Robert Spinner: 563 is Sheriff's Evidence Item 304-C, Charles.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did, sir. And Exhibit No. 564 is Sheriff's Evidence Item No. 304-D, David, which I also processed. Both items were returned to the sheriff's property room by myself in this bag.
+Mr. Nicola: Okay. We'd move both of those exhibits into evidence, Your Honor.
+The Court: 563 and 564 are admitted.
+Mr. Nicola: Thank you.
+Mr. Nicola: Take those out one at a time, please. Exhibit 567 is?
+Robert Spinner: Sheriff's Evidence Item 309-B-2, which I processed.
+Mr. Nicola: We'd like to move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Next is Exhibit 566?
+Robert Spinner: 566 is Sheriff's Evidence Item No. 301-B-1, which I did process.
+Mr. Nicola: We'd move that into evidence, Your Honor.
+The Court: 566 is admitted.
+Mr. Nicola: Thank you.
+Mr. Nicola: Exhibit No. 554?
+Robert Spinner: This is Sheriff's Evidence Item No. 321-A, Adam.
+Mr. Nicola: You processed that item?
+Robert Spinner: I processed it or it was processed at my direction.
+Mr. Nicola: Move that into evidence.
+The Court: 554 is admitted.
+Mr. Nicola: Exhibit 555?
+Robert Spinner: 555 is Sheriff's Evidence Item No. 321-B, boy. And it was processed in the lab at my direction.
+Mr. Nicola: We'd move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: 321-C?
+Robert Spinner: 321-C is Sheriff's Evidence Item No. 321, and 556 is Item No. 321-C, Charles.
+Mr. Nicola: Processed --
+Robert Spinner: Processed at my direction.
+Mr. Nicola: Move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 557?
+Robert Spinner: 557 is Sheriff's Evidence Item No. 321-D, David.
+Mr. Nicola: Did you process that item?
+Robert Spinner: I did or at my direction.
+Mr. Nicola: Okay. I'd like you to take that back out for a moment, please, and find the placard that was used when you photographed it. I think it's behind the actual label on the front cover. The front cover. It's behind that label.
+Mr. Sanger: One of the problems is we can't see the witness if he's going to be doing something.
+Mr. Nicola: How's this?
+Mr. Sanger: Thank you.
+Mr. Nicola: You could just put that back in the front part. Is this an item that was processed by you or at your direction?
+Robert Spinner: Yes, sir, it is.
+Mr. Nicola: We'd move this into evidence, Your Honor. It's 557.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 321 -- excuse me, Exhibit No. 558?
+Robert Spinner: 558 is Sheriff's Evidence Item No. 321-E, Edward.
+Mr. Nicola: And was that processed by you?
+Robert Spinner: By me or at my direction.
+Mr. Nicola: Okay. Move 558 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 559?
+Robert Spinner: 559 is Sheriff's Evidence Item No. 321-F, Frank.
+Mr. Nicola: Did you process that?
+Robert Spinner: Yes, I did.
+Mr. Nicola: We would move 559 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 560, please?
+Robert Spinner: 560 is Sheriff's Evidence Item No. 321-G, George.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did, or at my direction.
+Mr. Nicola: We would move 560 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Sneddon: The label must have come off.
+The Clerk: Judge, each item is marked inside the book that they're looking at. They're looking for an exhibit tag. Mr. Nicola, that notebook, each item is marked inside the notebook.
+Mr. Nicola: Are they?
+Mr. Nicola: Sergeant Spinner, for the record, we have a black three-ring binder, with the numbers “317” and the lettering “Combined Items” on the spine. Inside are a number of individual pages with the exhibit numbers. Can you please flip to the first exhibit number, read it out?
+Robert Spinner: Exhibit No. is 7 -- or correction. 471.
+Mr. Nicola: Can you flip to the very last page, the last exhibit number?
+Robert Spinner: This is Exhibit 508.
+Mr. Nicola: Okay. Can you flip all the way through that binder, tell us whether or not you processed those items? Did you actually make this binder?
+Robert Spinner: Yes, I compiled this compilation myself in an attempt to not have one binder just for one page. So I put all the individual pages into one binder and marked it as such with the evidence items that were in that binder. And I did that with the front.
+Mr. Nicola: Okay. Just flip through that. Confirm it's accurate as to what you've done. Your Honor, while he's doing that, may I move Exhibits 774, 773 and 772 into evidence? They were the three Power Points regarding the print comparisons.
+The Court: All right. They're admitted.
+Mr. Nicola: We would also like to move Exhibit No. 529, which was testified to yesterday by Char Marie, containing Evidence Items 317 and booked into the DOJ Lab, I'd like to move that into evidence.
+The Court: It's admitted.
+Mr. Sanger: With regard to the description of that item, that's just the bag; is that right?
+The Court: Yes.
+Mr. Nicola: Yeah. I'm going to show him these next.
+Mr. Nicola: Are each of the items, Exhibit Nos. 471 through and including 508, items that you processed?
+Robert Spinner: Yes, they are.
+Mr. Nicola: Your Honor, we've move Exhibit Nos. 471 through 508 into evidence at this time.
+The Court: They're admitted.
+Mr. Nicola: Handing you Exhibit 511.
+Robert Spinner: Sheriff's Evidence Item No. 317-I, Ida, and I did process this.
+Mr. Nicola: Okay. We would move Exhibit 511 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 512?
+Robert Spinner: Sheriff's Evidence Item No. 317-K, king, and I did process this item.
+Mr. Nicola: We would move that into evidence, Your Honor.
+The Court: 512's admitted.
+Mr. Nicola: Exhibit No 509.
+Robert Spinner: Sheriff's Evidence Item No. 317-F, Frank, and I did process this item.
+Mr. Nicola: We would move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: 510, please?
+Robert Spinner: Sheriff's Evidence Item No. 317-G, George. And I did process this item.
+Mr. Nicola: We would move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: 512. We did 511, right?
+Robert Spinner: 512 is Sheriff's Evidence Item No. 317-K, king.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did.
+Mr. Nicola: We would move 512 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 513?
+Robert Spinner: This is Sheriff's Evidence Item No. 317-L, Lincoln, and I did process this item.
+Mr. Nicola: We would move that item into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 514, please.
+Robert Spinner: Sheriff's Evidence Item No. 317-M, Mary, and I did process this item.
+Mr. Nicola: We'd move that into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 515?
+Robert Spinner: Sheriff's Evidence Item No. 317-O, ocean.
+Mr. Nicola: Did you process --
+Robert Spinner: And I did process this item.
+Mr. Nicola: We would move this item into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 516?
+Robert Spinner: 516 is Sheriff's Evidence Item No. 317-P, Paul, and I did process this item.
+Mr. Nicola: We would move 516 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 517, 5-1-7?
+Robert Spinner: 5-1-7 is Sheriff's Evidence Item No. 317-Q, queen, and I did process this item.
+Mr. Nicola: We would move 517 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 518, 5-1-8?
+Robert Spinner: Sheriff's Item 518 is Item No. 317-R, Robert, and I did process this item.
+Mr. Nicola: We would move 5-1-8 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 519?
+Robert Spinner: 519 is Sheriff's Evidence Item No. 317-S, Sam, and I did process this item.
+Mr. Nicola: Your Honor, we'd like to move 519 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 520. Exhibit 520?
+Robert Spinner: Evidence 520 is Sheriff's Evidence Item No. 317-T, Tom, and I did process this item.
+Mr. Nicola: We would move 520 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 521, please?
+Robert Spinner: 521 is Sheriff's Evidence Item No. 317-U, union, and I did process this item.
+Mr. Nicola: We would move this item into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 522?
+Robert Spinner: 522 is Sheriff's Evidence Item No. 317-V, Victor, and I did process this item.
+Mr. Nicola: We would move 522 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit No. 523, please?
+Robert Spinner: No. 523 is Sheriff's Evidence Item No. 317- William, W.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did.
+Mr. Nicola: We'd like to move 523 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Handing you Exhibit 524.
+Robert Spinner: 524 is Sheriff's Item No. 317-X, X-ray, and I did process this item.
+Mr. Nicola: We'd like to move this item into evidence, Your Honor.
+The Court: 524 is admitted.
+Mr. Nicola: Exhibit No. 525?
+Robert Spinner: 525 is Sheriff's Evidence Item No. 317-BB, or boy-boy.
+Mr. Nicola: I'd like to move 525 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 526?
+Robert Spinner: 526 is Sheriff's Evidence Item No. 317-DDD, or David-David-David, and I did process this item.
+Mr. Nicola: We'd move 526 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 527?
+Robert Spinner: 527 is Sheriff's Evidence Item No. 317-EEE, or echo-echo-echo, and I did process this item.
+Mr. Nicola: We'd move 527 into evidence.
+The Court: It's admitted.
+Mr. Nicola: Exhibit 528?
+Robert Spinner: Sheriff's Item 5-2-8, or 528, is Sheriff's Item No. 317-FFF, or Frank-Frank-Frank.
+Mr. Nicola: Did you process that item?
+Robert Spinner: Yes, I did.
+Mr. Nicola: We would like to move 528 into evidence, Your Honor.
+The Court: It's admitted.
+Mr. Nicola: We admitted 529?
+The Clerk: Yes.
+Mr. Nicola: Good. It's a wrap for that.
+Mr. Nicola: I'd like to show you Exhibit No. 775; ask if you recognize what's depicted on Exhibit 775?
+Robert Spinner: On 775, there are pictures of fingerprint basic patterns: A plain arch, tented arch, a left slant loop, a right slant loop, a plain whorl, a central pocket loop whorl, double loop whorl, an accidental whorl.
+Mr. Nicola: Okay. We'd like to move this into evidence, Your Honor, and publish it for the jury.
+The Court: All right.
+Mr. Nicola: Can we have “Input 4”, Your Honor?
+Mr. Nicola: Can you explain to the jury what's in the first six boxes up there?
+Robert Spinner: In the box where the laser pointer is pointing now is a pattern known as a plain arch pattern. It's a class characteristic. And the ridges in a plain arch will flow in from one side, go through the arch pattern and out the other side. They do not re-curve or turn in any way.
+Mr. Nicola: What's next?
+Robert Spinner: On the next one is what we call a tented arch pattern. In this pattern, the ridges again will come in, flow through the pattern and come out. However, there will be some ridges which will come in either from the left or the right and will go into a vertical, or a near vertical, and the ridge end at that point, causing a tent to occur and the ridges that flow over that particular ending ridge.
+Mr. Nicola: Okay. Another example of a Class I characteristic?
+Robert Spinner: Yes, sir.
+Mr. Nicola: What's next?
+Robert Spinner: Next is a loop, where the ridges come in, in this case they come in from the left, go up through the pattern, re-curve, and go back out to the left. There's -- and then you have ridges that start on the other side, come all the way through and go through to the left. And then you have ridges that come through the left and go under the re-curving pattern. And you have in this position, about right here, what they call a delta or a tri-radius, where the ridges flow up and over. They flow around and they come under, so it's what they call a tri-radius, but it's what they refer to also as a delta.
+Mr. Nicola: Okay. Is there another kind of Class I characteristic up there?
+Robert Spinner: If you go to the -- let me explain one thing. As far as the loop goes, I use the term “left slant”. Prior to computers and computer matching, loop patterns were called “ulnar” or “radial” if they opened toward the thumb or the little finger, for the bones in the arm, ulnar bone, radial bone. Now computers won't recognize bones, so the people who have built the programs, we now call them “left slant” and “right slant” so everybody's talking about the same thing, because there's no way to tell without seeing four, five patterns in a row to know which way the arches actually flow or the loops actually flow. Okay. On top we have a plain whorl. In this case, you have a delta at this location and a delta at this location. Whorls have two deltas, and then the center ridge flow goes in a circular manner or angle, something like what I refer to as a hurricane. They just go around. And the next one down, we have what we call a central pocket loop whorl, in which we have a delta inside the pattern area, about where my laser pointer is, and we have another delta at this particular point creating the two-delta requirement for a whorl. To have a central pocket loop whorl, you have to have a re-curve under the center core area, but that re-curve could not be cut by a line which is drawn between the left-hand delta and the right-hand delta. On the bottom right, we have what we call a double loop whorl, in which case we have two re-curving patterns, one right here and we have one right here. Two separate patterns. We have two loops. So we call it a double loop whorl, because you have two loops within the pattern, plus the two deltas.
+Mr. Nicola: There are two more examples on this exhibit.
+Robert Spinner: On the bottom left, we have what we call right slant loop, again because the ridges come in from the right, flow in, re-curve, and flow out. We have the ridges coming in on the left going up over the re-curve and out the other side, and then we have our delta right at this location where the ridges come down and separate. And there would be more ridges under it if the picture was complete.
+Mr. Nicola: Okay.
+Robert Spinner: On the right side, we have what we call an accidental whorl, which has, in most cases, three delta areas. You have one right here, one right here, and one right here, and we have two distinct pattern types. This, if I could, it looks like it has either an upthrust or a re-curve, and we have a re-curve here. So you'd have delta, delta, delta, possibly tented arch, and then you would have a looping pattern, or you have a looping pattern and a looping pattern.
+Mr. Nicola: Okay. Are there more kinds of Class I characteristics that are just not on this sheet of paper?
+Robert Spinner: No, those are the basic Class I characteristics for fingerprints. There's four whorl types, two arch types, and two loop types.
+Mr. Nicola: Okay. Thank you, Sergeant Spinner. Your Honor, I have no further questions.
+The Court: Counsel?
+Mr. Sanger: Thank you.
+The Court: You don't need to start. I can't take any more. (Laughter.)
+A Juror: Good.
+The Court: Good. Let me -- just before I release you, remember, tomorrow morning we'll --
+The Jury: (In unison) Tomorrow?
+The Court: I mean Monday morning. Do you want to work tomorrow?
+The Jury: (In unison) No.
+The Court: Monday morning, 11:30.
+Mr. Auchincloss: Your Honor, I'm sorry. There was just one exhibit that we wanted to admit, 769.
+The Court: Let's do it later. We're past that. We're on our way. I want to give you another special admonition at this point. I've tried to remind you as we go along through the week, but it's important. It's extremely important that you don't read any newspaper accounts or watch television or listen to the radio concerning this case. We're at a point in the case where the news media is not restricted anymore from reporting pretty much almost entirely. There's just a few restrictions. So there's a lot of things they could report that's not for you to know about. That's frankly what it's about. There's things that jurors are not to know when they reach their decision. And those are the things that we discuss out of your presence, and it would be extremely unfortunate if you got that information from somewhere else. But I trust you not to do that, and that's why the restrictions don't exist anymore, because I do trust you not to do that. And I did mention to you to have some family member collect those items. You know, they can collect the newspaper articles, and they can record television programs, and you'll be, you know, very interested, I'm sure, when it's over to read all that and have that. So I hope you have somebody doing that for you, but they're not to relate those things to you now. Again, you can't talk to anybody about the case, including each other. It's extremely important that you not do that. I've said before that the community is watching. I don't mean people are spying on you. That's not the case at all. But the community is watching to see how the Court and the jurors, the attorneys, the witnesses behave in this case. And in that regard, I want to address particularly family members, because, you know, family members feel that they have an exception to the rule. You know, “Well, you're not supposed to discuss the case with anyone but me”, you know. And I like to joke about that and say, this is the one time that you have the opportunity to hold something over your spouse, you know, your special other, your children, and say, “No”, you know, “I'm not going to talk to you about this and you're not to talk to me about this. And I know you're watching television when I'm not here, and I know you're getting this information, but that's for you to keep to yourself”. And it's been important that you draw this hard line with your family, because that's the place. It's not some stranger that's going to walk up to you and say, “Did you know what they had on T.V. the other day?” It's going to be someone close to you. So if they do that, you know, you need to demonstrate your strength and tell them, “No, don't talk to me about this. The Judge has said we're not to talk about it, and I don't want to hear it about it, and if you keep doing it, I'm going to kick you out of the house” -- no, don't say that. But you know what I mean. Be firm with them. And I do like to hear laughter in the courtroom. I'll see you all Monday morning.
+The Jury: (In unison) Thank you.
+Adjourn Message: The proceedings adjourned at 2:15 p.m.
