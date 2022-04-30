@@ -1,0 +1,6384 @@
+
+12375
+
+1 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+2 IN AND FOR THE COUNTY OF SANTA BARBARA
+
+3 SANTA MARIA BRANCH; COOK STREET DIVISION
+
+4 DEPARTMENT SM-2 HON. RODNEY S. MELVILLE, JUDGE
+
+5
+
+6
+
+7 THE PEOPLE OF THE STATE OF )
+
+8 CALIFORNIA, )
+
+9 Plaintiff, )
+
+10 -vs- ) No. 1133603
+
+11 MICHAEL JOE JACKSON, )
+
+12 Defendant. )
+
+13
+
+14
+
+15
+
+16
+
+17 REPORTER’S TRANSCRIPT OF PROCEEDINGS
+
+18
+
+19 FRIDAY, MAY 27, 2005
+
+20
+
+21 8:36 A.M.
+
+22
+
+23 (PAGES 12375 THROUGH 12484)
+
+24
+
+25
+
+26
+
+27 REPORTED MICHELE MATTSON McNEIL, RPR, CRR, CSR #3304
+
+28 BY: Official Court Reporter 12375
+
+
+
+1 APPEARANCES OF COUNSEL:
+
+2
+
+3 For Plaintiff: THOMAS W. SNEDDON, JR.,
+
+4 District Attorney -and-
+
+5 RONALD J. ZONEN, Sr. Deputy District Attorney
+
+6 -and- GORDON AUCHINCLOSS,
+
+7 Sr. Deputy District Attorney -and-
+
+8 MAG NICOLA, Sr. Deputy District Attorney
+
+9 1112 Santa Barbara Street Santa Barbara, California 93101
+
+10
+
+11
+
+12 For Defendant: COLLINS, MESEREAU, REDDOCK & YU
+
+13 BY: THOMAS A. MESEREAU, JR., ESQ. -and-
+
+14 SUSAN C. YU, ESQ. 1875 Century Park East, Suite 700
+
+15 Los Angeles, California 90067
+
+16 -and-
+
+17 SANGER & SWYSEN BY: ROBERT M. SANGER, ESQ.
+
+18 233 East Carrillo Street, Suite C Santa Barbara, California 93101
+
+19
+
+20
+
+21 For Witness LAW OFFICES OF STEVEN GRAFF LEVINE Mark Geragos: BY: 
+STEVEN GRAFF LEVINE, ESQ.
+
+22 1112 Montana Avenue, Suite 309 Santa Monica, California 90403
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 12376
+
+
+
+1 I N D E X
+
+2
+
+3 Note: Mr. Sneddon is listed as “SN” on index.
+
+4 Mr. Zonen is listed as “Z” on index. Mr. Auchincloss is listed as “A” on index.
+
+5 Mr. Mesereau is listed as “M” on index. Ms. Yu is listed as “Y” on index.
+
+6 Mr. Sanger is listed as “SA” on index.
+
+7
+
+8 R E B U T T A L
+
+9 PLAINTIFF’S
+
+10 WITNESSES DIRECT CROSS REDIRECT RECROSS
+
+11 BONNER,
+
+12 Craig (Re-called) 12413-SN 12429-SA 12453-SN
+
+13 (Contd.)
+
+14 ROBEL, Steve
+
+15 (Re-called) 12464-SN 12469-SA 12474-SN 12475-SA
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 12377
+
+
+
+1 E X H I B I T S
+
+2 FOR IN PLAINTIFF’S NO. DESCRIPTION I.D. EVID.
+
+3
+
+4 460 Phone link chart prepared by Craig Bonner 12454
+
+5 889 Photos of Brett Barnes 12457
+
+6 890 Photos of Brett Barnes
+
+7 and Michael Jackson 12457
+
+8 891 Photos of Michael Jackson 12457
+
+9 892 Photos of Brett Barnes and Michael Jackson 12457
+
+10 893 Photos Brett Barnes
+
+11 and Michael Jackson 12457
+
+12 894 Photos of Michael Jackson 12457
+
+13 896 Photos of Michael Jackson
+
+14 and buildings 12457
+
+15 900 Sheriff’s interview of Gavin Arvizo 12467
+
+16 907 Diagram prepared by
+
+17 Craig Bonner 12418 12419
+
+18 908 DVD of a portion of December 2004 Neverland
+
+19 search 12416
+
+20 908-A Redacted version of 908 12417 12419
+
+21 909 Photo of sensor areas 12413 12414
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 12378
+
+
+
+1 Santa Maria, California
+
+2 Friday, May 27, 2005
+
+3 8:36 a.m.
+
+4
+
+5 (The following proceedings were held in
+
+6 open court outside the presence and hearing of the
+
+7 jury:)
+
+8
+
+9 THE COURT: Good morning.
+
+10 COUNSEL AT COUNSEL TABLE: (In unison)
+
+11 Good morning, Your Honor.
+
+12 THE COURT: Let’s see, we have a motion to
+
+13 quash a subpoena.
+
+14 Mr. Levine, is it?
+
+15 MR. LEVINE: Yes, Your Honor.
+
+16 Did the Court have an opportunity to read my
+
+17 motion?
+
+18 THE COURT: I’ve read your motion. I don’t
+
+19 have a copy of the subpoena.
+
+20 MR. LEVINE: Could you --
+
+21 MR. NICOLA: I have to get one.
+
+22 MR. LEVINE: I faxed it over, but I didn’t
+
+23 fax the subpoena, Your Honor. The content of what
+
+24 they want is pretty much everything in the file.
+
+25 And I think the Court has previously ruled twice
+
+26 that they were not entitled to that. And I think
+
+27 the Court told Mr. Zonen on two separate occasions,
+
+28 on the 13th and the 20th, that the Court wasn’t 12379
+
+
+
+1 going to order that. And I just wanted to point out --
+
+2 THE COURT: You must understand, though, I
+
+3 was telling them that they had to follow the proper
+
+4 legal process. They couldn’t just, in open court,
+
+5 ask me to order people to produce records. So
+
+6 you’ve misconstrued my refusals.
+
+7 MR. LEVINE: To the extent that that may
+
+8 be -- I will accept that, Your Honor. But I think
+
+9 what we have here is a very limited attorney-client
+
+10 waiver. There’s been no waiver of the attorney
+
+11 work-product privilege. And I think the law is very
+
+12 clear that that privilege is strictly with Mr.
+
+13 Geragos.
+
+14 THE COURT: I think you’re mistaken there.
+
+15 There was a waiver of the attorney work-product
+
+16 privilege, plus it’s very limited in criminal cases
+
+17 anyway. So it’s very, very limited, if at all.
+
+18 MR. LEVINE: Well, 105.46 of the discovery
+
+19 code incorporates the attorney work-product
+
+20 privilege. I mean, I understand that the waiver
+
+21 executed by Mr. Jackson purported to waive that
+
+22 privilege, but case law is very clear that that
+
+23 privilege rests solely with Mr. Geragos.
+
+24 THE COURT: Yes. It’s also very clear it’s
+
+25 very limited in criminal cases. We’ve been through
+
+26 this on numerous witnesses here, Counsel. We’ve
+
+27 been schooled well on this issue.
+
+28 MR. LEVINE: Okay. The point that I would 12380
+
+
+
+1 like to make, Your Honor, is that the request is
+
+2 just for everything. And I think that --
+
+3 THE COURT: I haven’t seen the subpoena.
+
+4 That’s the deficiency I’m dealing with here.
+
+5 MR. LEVINE: Could we wait, then, until
+
+6 after you review the subpoena?
+
+7 THE COURT: Sure.
+
+8 MR. LEVINE: Thanks.
+
+9 THE COURT: Okay. And somebody’s getting it
+
+10 for us?
+
+11 MR. ZONEN: Yes, Your Honor.
+
+12 MR. LEVINE: Yes.
+
+13 THE COURT: All right. There’s another issue
+
+14 here, the -- a couple of issues I want to bring up.
+
+15 One is the -- originally when we allowed the
+
+16 rebuttal tape in, I gave -- I guess the takeout
+
+17 tape. It was the takeout that -- no, it wasn’t the
+
+18 outtakes. It was the original Bashir tape; that the
+
+19 District Attorney asked that certain things that Mr.
+
+20 Jackson said be admitted for the truth of the matter
+
+21 asserted, and we instructed the jury that certain
+
+22 things would be -- that we’d advise them later.
+
+23 Someone brought this to my attention the
+
+24 other day, and I think the District Attorney should
+
+25 provide us with the portions of the tape -- not
+
+26 right now.
+
+27 (Laughter.)
+
+28 THE COURT: With the portions of the tape 12381
+
+
+
+1 that show -- that you intend to argue are
+
+2 admissions, so that perhaps the Court should be more
+
+3 specific; at least we should discuss in our
+
+4 preparation of final instructions what areas the
+
+5 jury might conceivably consider are admissions or
+
+6 not admissions, which ones you were thinking about,
+
+7 because it is ultimately a jury question, but there
+
+8 is some preliminary finding, maybe, that I should
+
+9 make.
+
+10 MR. SNEDDON: Yes. I’ll do that, Your
+
+11 Honor. I believe I have the notes that were made
+
+12 the day the Court ruled as to which ones would be
+
+13 admissible when we went through it. And I’ll take
+
+14 the responsibility for that, and share it with
+
+15 Mr. -- with counsel for the defense, and hopefully
+
+16 we can just come up with something we both agree on.
+
+17 It’s on the record. I remember we did it in open
+
+18 court, so -- and it was by page and line number, so
+
+19 it shouldn’t be that difficult to come by.
+
+20 THE COURT: And in connection with that,
+
+21 then you had asked for a special instruction along
+
+22 the same lines on the takeout tape.
+
+23 MR. SNEDDON: We did.
+
+24 THE COURT: The outtakes and -- so we should
+
+25 address -- I will give that instruction, but we
+
+26 should address the same issue on that tape.
+
+27 MR. SNEDDON: All right. I’ll review that
+
+28 tape. I don’t believe there’s any in there, but 12382
+
+
+
+1 that would be good for us to come to a consensus on.
+
+2 THE COURT: Yeah. I would want it.
+
+3 MR. SNEDDON: Okay. I’ll do that.
+
+4 THE COURT: And be sure that everyone agreed
+
+5 that was the case.
+
+6 MR. SNEDDON: That would be fine, Your
+
+7 Honor.
+
+8 MR. SANGER: I take it you’re going to give
+
+9 us an opportunity to argue that motion. I don’t
+
+10 think that’s actually been heard yet.
+
+11 THE COURT: What motion is that?
+
+12 MR. SANGER: The motion the prosecution made
+
+13 to limit the outtake tape.
+
+14 THE COURT: Oh, yeah. No. That’s why I
+
+15 didn’t give -- that’s what I’m talking about.
+
+16 MR. SANGER: Yes.
+
+17 THE COURT: I want some actual material,
+
+18 what we’re talking about; this piece of information,
+
+19 that piece of information, all the information. I
+
+20 want both sides to address that. I’m more
+
+21 concerned -- the tape’s been shown, you know. What
+
+22 we’re talking about is jury instructions on this
+
+23 issue.
+
+24 MR. SANGER: Right. Correct.
+
+25 THE COURT: So I’m just asking you to be
+
+26 prepared to discuss those as we get ready to discuss
+
+27 jury instructions.
+
+28 MR. SANGER: Yes, sir. 12383
+
+
+
+1 MR. SNEDDON: Judge, can I ask for a point
+
+2 of clarification on that?
+
+3 THE COURT: Yes.
+
+4 MR. SNEDDON: I understand exactly what the
+
+5 Court is saying, but, as I mentioned yesterday, I’m
+
+6 assuming -- and I don’t want to assume too much, but
+
+7 I’m assuming that some sort of a limiting
+
+8 instruction on the tape in general is going to be
+
+9 given; that it was not admitted for the truth of the
+
+10 matter, except for those portions that may --
+
+11 THE COURT: That’s the issue.
+
+12 MR. SNEDDON: Well, it would affect our
+
+13 rebuttal, because if the Court determines that those
+
+14 statements come in for the truth of the matter, then
+
+15 we obviously would be putting on evidence to show
+
+16 some of the statements made by Mr. Jackson during
+
+17 the course of those outtakes were not true. And so
+
+18 that’s why we filed it prior to the time that we sit
+
+19 down for instructions.
+
+20 I know I’m not -- I’m not asking the Court
+
+21 to carve out those portions of the tape where there
+
+22 may be -- may or may not be admissions by the
+
+23 defendant that would come in for the truth of the
+
+24 matter. But generally speaking, there’s a great
+
+25 deal of narrative, an interview by the defendant
+
+26 that has nothing to do with what I would believe to
+
+27 be an admission.
+
+28 And so I guess that’s what I’m asking the 12384
+
+
+
+1 Court now, because we need to know that before we
+
+2 rest, because, I mean, if some of that stuff comes
+
+3 in for the truth of the matter, we’re going to call
+
+4 witnesses to prove otherwise. That’s why we filed
+
+5 the motion, Your Honor.
+
+6 And I believe that the understanding on the
+
+7 original Bashir tape was that that was not for the
+
+8 truth of the matter, except for the admissions, and
+
+9 it seemed to me that the same thing should apply to
+
+10 the outtakes.
+
+11 THE COURT: That is true. That’s what the
+
+12 Bashir tape ruling was, and that’s the reason for
+
+13 admitting the outtakes. There really was not a
+
+14 truth-of-the-matter admission there. It was to
+
+15 balance the information. It was sort of the rest of
+
+16 the story.
+
+17 I kind of viewed it as a situation where you
+
+18 have a conversation and only part of the
+
+19 conversation is admitted, so you let the other side
+
+20 admit the conversation, or the document. Sometimes
+
+21 part of a document’s admitted. It’s not clear the
+
+22 total meaning unless the whole conversation -- or a
+
+23 whole document.
+
+24 So that’s why I admitted the outtakes, was
+
+25 to give the defense -- they had been requesting
+
+26 that. They wanted the balance of the total picture
+
+27 and --
+
+28 MR. SANGER: But in that case, it would come 12385
+
+
+
+1 in for the truth of the matter. The whole
+
+2 conversation comes in for the truth of the matter.
+
+3 THE COURT: Then the Bashir tape all comes in
+
+4 for the truth of the matter, right?
+
+5 MR. SANGER: No.
+
+6 THE COURT: You just want your side to have
+
+7 the truth of the matter.
+
+8 MR. SANGER: No, I understand the irony
+
+9 there, in a sense, but the fact is that the whole
+
+10 Bashir tape has all sorts of other hearsay. The
+
+11 only reason that it was admissible for the truth was
+
+12 that --
+
+13 THE COURT: I meant as to Mr. Jackson’s
+
+14 statements.
+
+15 MR. SANGER: As to his statements, yeah.
+
+16 If his statements come in for the truth of the
+
+17 matter --
+
+18 THE COURT: Whether they’re admissions or
+
+19 not. I don’t think you do understand the irony.
+
+20 But go ahead.
+
+21 MR. SANGER: No, no, I do. I’m wrestling
+
+22 with the irony at the moment. Ironically, it turns
+
+23 out.
+
+24 (Laughter.)
+
+25 MR. SANGER: I understand what the Court is
+
+26 saying, and I was just about to concede that, but I
+
+27 don’t know -- I’d have to think about the Bashir
+
+28 tape. But it seems to me, if Mr. Jackson said 12386
+
+
+
+1 things on the Bashir tape -- we had limited portions
+
+2 of the tape --
+
+3 THE COURT: We’ve already told them they are
+
+4 not to take that tape for the truth of the matter
+
+5 asserted except for certain parts, which we told
+
+6 them we’d advise them about later.
+
+7 MR. SANGER: Now, I’m not too worried about
+
+8 what Mr. Jackson said in the Bashir tape. What I’m
+
+9 worried about is -- you’re not suggesting, Your
+
+10 Honor, that what Mr. Bashir says and other people --
+
+11 THE COURT: No.
+
+12 MR. SANGER: Okay. So that would still not
+
+13 come in for the truth.
+
+14 Then the rest of the conversation, it would
+
+15 seem to me, whether it was on the Bashir tape or the
+
+16 outtakes, the whole conversation would come in for
+
+17 the truth of the matter as to what Mr. Jackson said.
+
+18 THE COURT: Well, what Mr. Jackson said
+
+19 there was hearsay, and it has to have an exception
+
+20 to the hearsay rule to come in for the truth of the
+
+21 matter asserted, and admissions is one exception.
+
+22 MR. SANGER: Well --
+
+23 THE COURT: Clearly you don’t let
+
+24 out-of-court statements of the defendant in that are
+
+25 not within the normal classifications, and that’s
+
+26 what you’re suggesting.
+
+27 MR. SANGER: Well, generally, under the
+
+28 Evidence Code, if the entire statement comes in -- 12387
+
+
+
+1 THE COURT: That doesn’t --
+
+2 MR. SANGER: -- it generally does all come
+
+3 in. I understand, Your Honor --
+
+4 THE COURT: As to one limited piece of the
+
+5 conversation. You know, if they said, “Okay. The
+
+6 admission is, ‘I sleep in the bed with young boys,’”
+
+7 and the other part of the conversation is, “But I
+
+8 don’t have sex,” then, yeah, that comes -- that’s
+
+9 it. But if, you know, part of the conversation was
+
+10 what he did in town yesterday, no. And that’s where
+
+11 we come in. There’s a lot of outtake material there
+
+12 that’s not material to the parts that are
+
+13 admissions.
+
+14 MR. SANGER: Well, and that -- I think
+
+15 that’s something we need to -- I don’t know that we
+
+16 can accomplish it right now, because --
+
+17 THE COURT: Well, the D.A. says he can’t rest
+
+18 until -- literally he can’t rest --
+
+19 MR. SANGER: The District Attorney is
+
+20 restless.
+
+21 MR. SNEDDON: That’s the most accurate thing
+
+22 you’ve said during this whole trial, Judge.
+
+23 MR. SANGER: Okay. Well, my first argument
+
+24 is, under the Evidence Code -- I understand what the
+
+25 Court just said, but under the Evidence Code,
+
+26 generally if they let in part of the conversation,
+
+27 the rest of it -- ordinary case, the rest of it
+
+28 comes in and it just comes in for the truth. 12388
+
+
+
+1 THE COURT: That’s your argument.
+
+2 MR. SANGER: Your Honor is saying, well, we
+
+3 need to do something to pare it down. In order to
+
+4 pare it down, it’s going to --
+
+5 THE COURT: We need to do something to give
+
+6 the jury some legal instruction, some help here, you
+
+7 know. We can talk about it, but they have to decide
+
+8 it.
+
+9 MR. SANGER: All right. Now, the tape
+
+10 itself also came in, the outtakes. The Hamid video
+
+11 came in also to show -- to rebut -- to rebut the
+
+12 contention that the Bashir tape was such a disaster
+
+13 and there was nothing that could be done except to
+
+14 do illegal things to the Arvizos.
+
+15 THE COURT: That’s right.
+
+16 MR. SANGER: And so it came in to show,
+
+17 “Well, no, we had this in the bank.” That was
+
+18 there. That was a strong piece of information or
+
+19 something that could be put out to the public.
+
+20 THE COURT: Let me ask the District Attorney
+
+21 what his --
+
+22 What is your position on the instruction we
+
+23 should give on the outtake tape that Mr. Sanger and
+
+24 I have just been discussing?
+
+25 MR. SNEDDON: Judge, our position is I think
+
+26 outlined in the papers we filed with you; that is,
+
+27 that the outtakes were admitted, as the Court has
+
+28 amply pointed out, as simply a further picture of 12389
+
+
+
+1 the entire portions of the interview of the Bashir
+
+2 documentary which was originally shown, and that
+
+3 they do not meet any exception to the hearsay rule,
+
+4 and therefore the limiting instruction that you gave
+
+5 the jury early on in this case with regard to the
+
+6 original documentary should be given with regard to
+
+7 the rest of the outtakes.
+
+8 Now, what we haven’t done, and the part
+
+9 where we addressed earlier in our conversation is, I
+
+10 can’t tell you, as I stand here, whether there are
+
+11 or are not any admissions by Mr. Jackson during the
+
+12 course of those outtakes.
+
+13 Frankly, my recollection is that there are
+
+14 not, because I recall that the tape -- the outtakes
+
+15 ended before the discussion began of his
+
+16 relationship with Gavin and his relationship with
+
+17 other boys and his -- and the questions asked by Mr.
+
+18 Bashir about, you know -- that dialogue about,
+
+19 “Well, isn’t it” -- “Shouldn’t an adult man not be
+
+20 sleeping with little boys?” So I don’t believe
+
+21 that’s on the outtakes.
+
+22 So I don’t think -- I believe that probably
+
+23 all of the outtakes are probably subject to the
+
+24 limiting instruction, except for one portion. And
+
+25 the one portion I would point out to the Court that
+
+26 we put in independent of the outtakes, actually we
+
+27 put in in our case, is the defendant’s statement
+
+28 about the Jesus Juice, as an admission that he did 12390
+
+
+
+1 use that term and it corroborates the statement of
+
+2 the kids.
+
+3 But other than that one statement, my
+
+4 recollection, as I stand before the Court right now
+
+5 is, I don’t believe there’s probably any other
+
+6 admissions that would qualify as those that we set
+
+7 out - when I say “we,” the Court, and counsel for
+
+8 the defendant, and us - in open court and delineated
+
+9 in the original Bashir, which may qualify as
+
+10 admissions.
+
+11 But I’ll tell you that my opinion is that
+
+12 the bulk of that tape, the outtakes takes are
+
+13 hearsay and should be subject to the same
+
+14 instruction as the original Bashir documentary.
+
+15 I hope that addresses what the Court asked.
+
+16 THE COURT: It does. Let me ask you a
+
+17 question now. On the tape of Garvin -- Gavin --
+
+18 MR. SNEDDON: Yes, sir.
+
+19 THE COURT: -- what’s your purpose in
+
+20 introducing that?
+
+21 MR. SNEDDON: Well, we indicated to the
+
+22 Court that there were two purposes. And of course
+
+23 one was prior consistent statements. And the other
+
+24 was that there has been an allegation on the part of
+
+25 the defense that this entire case, and the
+
+26 allegations made by Gavin in particular, was
+
+27 scripted by the mother. They presented several
+
+28 witnesses, most particularly Mary Holzer, to try to 12391
+
+
+
+1 infer from what happened, or what statements were
+
+2 made in prior cases, or a prior case, that this case
+
+3 is a similar situation.
+
+4 And so we are offering it for two purposes.
+
+5 One is the prior consistent under Evidence Code
+
+6 Section 791, but more importantly, we’re offering it
+
+7 for the -- it would be actually a nonhearsay
+
+8 purpose, which would be for the purpose of allowing
+
+9 the jury simply to examine the demeanor and the
+
+10 manner in which the disclosures were originally made
+
+11 by Gavin to the law enforcement agencies.
+
+12 And of course I realize that is a different
+
+13 type of a ruling for the Court. And when you ruled
+
+14 that we could show it, I realize that you just made
+
+15 the ruling and didn’t say on which basis. And so I
+
+16 do -- I do recognize, and I did recognize at the
+
+17 time, that there may be -- the way it would come in
+
+18 and whatever instructions you would give the jury
+
+19 may be different, and I do concede that, and so --
+
+20 THE COURT: If I didn’t say it - and I
+
+21 think, now that you mention it, I probably didn’t -
+
+22 my intent in allowing that, making that ruling, was
+
+23 to -- not for the impeachment statements, but for
+
+24 the purpose of allowing the jury to examine his
+
+25 demeanor and the manner in which he made the
+
+26 disclosures.
+
+27 And it’s been my thought to give some
+
+28 instruction along with that, or afterwards when we 12392
+
+
+
+1 give instructions, to limit the use of that tape not
+
+2 for the truth of the matter asserted.
+
+3 MR. SNEDDON: Judge, I have no problem with
+
+4 that. For us, the significance of it is simply the
+
+5 way the disclosure occurred, and his manner and the
+
+6 way he behaves and reacts to the officers in what he
+
+7 says. So that’s not a problem with us. And I
+
+8 understand the difference. And I kind of
+
+9 anticipated that might be what the Court had in
+
+10 mind.
+
+11 THE COURT: Mr. Sanger?
+
+12 MR. SANGER: Yes, sir.
+
+13 THE COURT: Would you address that point,
+
+14 please? You are doing that issue, aren’t you?
+
+15 MR. SANGER: Yes.
+
+16 I agree with the Court, it was not -- it
+
+17 should not be let in for prior consistent
+
+18 statements, because that should have been in the
+
+19 case-in-chief. And that’s why we argued that on
+
+20 this thin basis, that it’s collateral impeachment of
+
+21 Holzer, scripted, that may or may not apply to this
+
+22 situation.
+
+23 And we argued that it was very -- you know,
+
+24 to be able to play this at the end, as we cited the
+
+25 case several times, the Carter case from the Supreme
+
+26 Court, that says you shouldn’t be allowed to put
+
+27 dramatic evidence on at the end for a purpose that
+
+28 isn’t really -- or that goes beyond what the real 12393
+
+
+
+1 lawful purpose is, and we still believe that that’s
+
+2 the case. So that’s the first thing.
+
+3 Secondly, as far as the truth of the matter,
+
+4 I think the Court could frame an instruction. The
+
+5 danger, though, would be that no matter what the
+
+6 Court says, the jury’s going to sit here and listen
+
+7 to Gavin’s statement at the end of the case and
+
+8 they’re going to hear the words, and there’s no way
+
+9 that they’re going to be able to disregard what he’s
+
+10 saying.
+
+11 And if the Court limits it the way the Court
+
+12 limits it, there’s also the fact that then we can’t
+
+13 cross-examine even on some strange remarks that are
+
+14 made by Gavin that may not otherwise be picked up.
+
+15 Because it is our position that this was rehearsed.
+
+16 He had told Davellin this story. Davellin had told
+
+17 Dr. Katz. Davellin had told the police. And then
+
+18 he comes in, and by the end of the statement, he
+
+19 says, “I haven’t told my sister or my brother about
+
+20 this.”
+
+21 If we can’t -- if we can’t inquire about
+
+22 that -- the officer, when they put the tape on, for
+
+23 instance, and say, “Well,” you know, “he told
+
+24 you” -- “Isn’t it a fact that you already
+
+25 interviewed Davellin and she already told you that,
+
+26 and you are aware Dr. Katz interviewed Davellin and
+
+27 she had all the details?” You know, I’m just giving
+
+28 that as an example. 12394
+
+
+
+1 THE COURT: And to respond to that example,
+
+2 it seems to me that if the purpose is the
+
+3 spontaneity and demeanor of the child reporting it
+
+4 to the police for the first time, then in fact that
+
+5 cross-examination would be permitted, because -- not
+
+6 for the truth of the matter, but because it shows --
+
+7 or it’s evidence that a jury could infer shows lack
+
+8 of spontaneity.
+
+9 MR. SANGER: Okay.
+
+10 THE COURT: So it’s tricky business, I
+
+11 understand. You know, that’s why I --
+
+12 MR. SANGER: We can live with that. That
+
+13 would -- that makes sense. I appreciate what the
+
+14 Court just said. And that would make sense if we’re
+
+15 at least allowed to cross-examine on a couple of
+
+16 those issues like that.
+
+17 I still -- I don’t know if the Court was
+
+18 inviting a further argument it shouldn’t come in at
+
+19 all, but I certainly would argue that. I think the
+
+20 Court ruled previously, so I don’t mean to be
+
+21 arguing with the Court.
+
+22 THE COURT: I did. And I understand that.
+
+23 And all of these issues are -- they’re similar legal
+
+24 concepts, and that’s why it’s good to be discussing
+
+25 all of them at the same time, because invariably one
+
+26 side wants to produce evidence that’s very similar
+
+27 to what the other side wants to produce, and they
+
+28 both oppose the evidence. 12395
+
+
+
+1 MR. SANGER: Right. That’s our job.
+
+2 THE COURT: Well, but I like to make you look
+
+3 at it that way.
+
+4 MR. SANGER: No, I understand that.
+
+5 Well, and so in this -- if the Court was
+
+6 going to let it in -- I don’t know if the Court’s
+
+7 considering revisiting that decision.
+
+8 THE COURT: Well, I would consider -- since
+
+9 we’re rediscussing it, I would consider anything new
+
+10 that you want to say on that issue, if you felt that
+
+11 you were cut short. I don’t want to hear the
+
+12 argument again. I heard the argument. But if
+
+13 there’s something you thought of later, or in this
+
+14 conversation we’ve just had this morning, if there’s
+
+15 something else you want to say about that ruling,
+
+16 say it.
+
+17 MR. SANGER: What I would add to everything
+
+18 else I said is that -- and it’s actually become more
+
+19 clear right now, is that, by playing the tape, that
+
+20 could well lengthen the -- the surrebuttal process
+
+21 considerably. By not playing the tape, it would
+
+22 eliminate a good amount of surrebuttal that I don’t
+
+23 think -- I think by the time all the dust settles
+
+24 with that rebuttal and the surrebuttal, I don’t
+
+25 think the jury is going to be any further ahead in
+
+26 their process of finding out what happened, but --
+
+27 THE COURT: Well, in that regard -- let’s
+
+28 talk about your surrebuttal. If it’s admitted -- if 12396
+
+
+
+1 the tape’s admitted only for the purpose of the
+
+2 demeanor, spontaneity, that type of issue with
+
+3 Gavin, and not for prior consistent statements or
+
+4 the truth of the matter asserted, you’ll be required
+
+5 to address for me each issue, each witness that you
+
+6 intend to call on surrebuttal as to what the
+
+7 significance, relevance of that witness would be.
+
+8 MR. SANGER: Well, I understand. I could
+
+9 address that briefly so the Court has an idea. I
+
+10 mean, for instance, Gavin would be called and could
+
+11 be cross-examined on circumstances leading up to
+
+12 giving this interview, and whether or not he’s
+
+13 spontaneous during the particular interview. And
+
+14 there’s some particular issues I --
+
+15 THE COURT: I’m not really concerned about
+
+16 Gavin. I could clearly see that. But why would you
+
+17 re-call Mrs. Arvizo?
+
+18 MR. SANGER: Mrs. Arvizo, because she has --
+
+19 let me answer my part first, and I think Mr.
+
+20 Mesereau wants to add something there.
+
+21 But the -- but we’d call Mrs. Arvizo because
+
+22 that is the reason it’s called -- I mean, the reason
+
+23 it’s presented by the prosecution is they’re saying
+
+24 this rebuts somehow Holzer’s implication that
+
+25 because J.C. Penney’s was coached, that this was
+
+26 coached. Well, we can -- we would like to call her,
+
+27 now that we’ve had some further evidence in this
+
+28 case, and confront her with some issues that 12397
+
+
+
+1 suggested this was coached. And so --
+
+2 THE COURT: When you say that “this was
+
+3 coached,” you’re saying that this interview with the
+
+4 sheriff was coached.
+
+5 MR. SANGER: That’s correct.
+
+6 THE COURT: Okay.
+
+7 MR. SANGER: And then we have Dr. Katz,
+
+8 because Dr. Katz did the prior interviews where
+
+9 Davellin also told him all the details. And that
+
+10 obviously flies in the face of the idea that this is
+
+11 spontaneous and the police officers are somehow
+
+12 dragging this out of him. And Gavin also told
+
+13 all -- different details, but generally the same
+
+14 story, with some striking inconsistencies, but
+
+15 generally the same story he told to Dr. Katz.
+
+16 So we would need to go through and show that
+
+17 this is not as spontaneous as it appears. And I
+
+18 think if it’s looked at in those eyes, it isn’t
+
+19 spontaneous. But if it isn’t looked at through
+
+20 those eyes, then, you know, the People are going to
+
+21 say, “Well, look and see how spontaneous he is.”
+
+22 And so we need to do that.
+
+23 We also have Mr. Feldman --
+
+24 THE COURT: What I really wanted to be sure
+
+25 of was that you weren’t going down the street of now
+
+26 you have to impeach him with statements he made
+
+27 post. I mean, that’s how we -- you see what I’m
+
+28 saying? 12398
+
+
+
+1 If they’re not admitted for the truth of the
+
+2 matter asserted, we’re not -- we’re not admitting
+
+3 them for prior consistent statements, then we’re not
+
+4 going to admit them for inconsistent statements.
+
+5 MR. SANGER: And if the Court does that, if
+
+6 that’s -- if the Court’s going to allow the tape --
+
+7 and I’m urging the Court to reconsider that, because
+
+8 I think at this point it’s -- it shouldn’t be. But
+
+9 if the Court were to admit the tape, then I think
+
+10 that would be a good part of the instruction to give
+
+11 the jury, to let them know that we are not going to
+
+12 be attempting to impeach his statement, because it’s
+
+13 not offered for the truth. We’re not going to be
+
+14 attempting to impeach it at this time. Counsel’s
+
+15 not being allowed to, or however the Court would
+
+16 phrase it, go into the subsequent statements that
+
+17 were made.
+
+18 Now, we have introduced evidence of some of
+
+19 those previously, so they’re in evidence, but I
+
+20 think that would be fair. Otherwise, it will appear
+
+21 that we’re just kind of giving up or not challenging
+
+22 what was said. And I don’t think that would be fair
+
+23 to the defense.
+
+24 Could I have a second, just to see if Mr.
+
+25 Mesereau wanted --
+
+26 MR. SNEDDON: Judge, may I have a chance to
+
+27 respond just briefly to something?
+
+28 THE COURT: Yes. 12399
+
+
+
+1 MR. SNEDDON: I’ll wait for Mr. Mesereau.
+
+2 MR. SANGER: I’m sorry, I heard Mr.
+
+3 Sneddon’s voice, but I didn’t hear what he said
+
+4 because I was talking to Mr. Mesereau.
+
+5 THE COURT: Well --
+
+6 MR. SANGER: Too bad, I missed it?
+
+7 THE COURT: Well, I don’t know. It was
+
+8 pretty important.
+
+9 MR. SANGER: All right. Let me respond to
+
+10 that, Your Honor. Once again, Mr. Sneddon is wrong.
+
+11 THE COURT: He said, “Let me be” -- he wants
+
+12 to be heard.
+
+13 MR. SANGER: On this issue.
+
+14 THE COURT: On this issue.
+
+15 MR. SANGER: I would like to just remind the
+
+16 Court, please, on the outtakes, I did have a
+
+17 response. I would like to respond to what Mr.
+
+18 Sneddon said on that. But we are now talking about
+
+19 this other issue, so I’ll -- as long as you give me
+
+20 an opportunity to do that before we’re through.
+
+21 THE COURT: No, go ahead and respond to the
+
+22 outtakes.
+
+23 MR. SANGER: Okay. Switching gears here to
+
+24 the outtakes, Mr. Sneddon said the outtakes ended
+
+25 before the discussions about Gavin. Well, that’s
+
+26 not correct. That’s not even close to being
+
+27 correct. The outtakes are outtakes that were done
+
+28 in June, the end of June of 2002, the first two 12400
+
+
+
+1 tapes, and then the third disk is in January of
+
+2 2003. The third disk, actually, is at the very end.
+
+3 All of the other filming for the entire video, for
+
+4 the entire Bashir video, has been done at that time.
+
+5 In June, some of the videotaping has been done.
+
+6 But -- and the last -- the last one, all of it was
+
+7 done.
+
+8 Secondly, not all of the statements of
+
+9 Mr. Jackson were taken by Mr. Bashir’s film crew
+
+10 during the same time that Hamid was taping. So in
+
+11 other words, Bashir also taped at other times,
+
+12 obviously in Las Vegas and other places, at the
+
+13 ranch, at other dates undisclosed. We don’t know
+
+14 because he’s asserting the shield and won’t answer.
+
+15 So he has other material that he got, and we don’t
+
+16 have outtakes from that.
+
+17 So, first of all, on the outtakes, let me
+
+18 give an example here. If the Court is going to
+
+19 limit it, our first position is the outtakes come in
+
+20 for the truth of the matter because it’s part of the
+
+21 overall conversation. And there were cuts from that
+
+22 that were played in the actual Bashir, so the whole
+
+23 thing comes in.
+
+24 Second, if the Court says it doesn’t come in
+
+25 for the truth of the matter entirely, then we would
+
+26 ask that the Court look at this liberally. For
+
+27 instance - I was just thinking of an example -
+
+28 there’s a point at which Mr. Jackson talks about his 12401
+
+
+
+1 former wife, Debbie Rowe. And you recall there’s
+
+2 questions about the children and -- a number of
+
+3 questions that related to the children.
+
+4 If the Court is going to start carving
+
+5 things out, I suppose there could be an order that
+
+6 the statement as to the circumstances of the birth
+
+7 of his children would not be offered for the truth
+
+8 of the matter. But the statements that relate to
+
+9 his love for his children and his relationship with
+
+10 his children, particularly in direct response to
+
+11 questions from Mr. Bashir, would be admitted for the
+
+12 truth of the matter, because that goes directly to
+
+13 the issues in the Bashir tape where he talks about
+
+14 his love for children.
+
+15 What Bashir did is, he cleverly and
+
+16 surgically took out what he thought was the most
+
+17 sensational clips from all the footage he had, which
+
+18 included all of this, and he did not include
+
+19 extensive commentary by Mr. Jackson about how he
+
+20 loves children, and Mr. Bashir encouraging him, and
+
+21 Mr. Bashir saying, “Oh, this is wonderful. I’ve
+
+22 seen your relationship,” and he’s responding to it.
+
+23 Because that truly does put the statements on the
+
+24 tape in context. So, if we’re going to do it
+
+25 surgically, it would have to be somewhere along
+
+26 those lines.
+
+27 Now, the Court could probably -- if our
+
+28 motion to admit it all for the truth is denied, the 12402
+
+
+
+1 Court could probably give a general instruction,
+
+2 without going through and saying, “The tape up to
+
+3 this part is admissible for the truth of the matter,
+
+4 and then from this counter number to this counter
+
+5 number it isn’t.” And the Court could probably
+
+6 fashion something that covers the subject matter, in
+
+7 other words, saying that the entire tape -- give
+
+8 examples, perhaps.
+
+9 THE COURT: I understand your position.
+
+10 MR. SANGER: Okay. Very good.
+
+11 All right. So unless there’s a response to
+
+12 what Mr. Sneddon has on the other thing, I’ll submit
+
+13 it.
+
+14 THE COURT: All right. Mr. Sneddon?
+
+15 MR. SNEDDON: Judge, I’m done on the Bashir
+
+16 thing. I think the Court has our position on it.
+
+17 And we’ll look at the tape. If there’s something on
+
+18 there, there’s something on there. If there’s not,
+
+19 there’s not. I think I made that clear.
+
+20 With regard to the second part, however, I
+
+21 do want to say this, because I think there’s been
+
+22 the creation of a misimpression with this Court, and
+
+23 that is that -- the question that you asked about
+
+24 Dr. Katz and the reason that Dr. Katz would be
+
+25 called, and counsel’s reference of a fact that
+
+26 Davellin made statements to Dr. Katz about there had
+
+27 been previous disclosures, based upon my
+
+28 recollection of the testimony, is untrue. 12403
+
+
+
+1 There had been discussion by Gavin with
+
+2 Davellin with regard to certain incidents, including
+
+3 the showing of the pornography, adult materials, the
+
+4 drinking, the mannequin incident, but there had been
+
+5 no disclosure of the sexual activities between the
+
+6 defendant and Gavin. And I think Dr. Katz was very
+
+7 clear that, in Gavin’s conversation with him, there
+
+8 was no disclosure, and when he got to that point he
+
+9 just dropped his head and he wouldn’t talk anymore,
+
+10 and that’s why Dr. Katz felt he needed to make a
+
+11 mandated report.
+
+12 So I think what I’m saying to the Court
+
+13 simply is, before the Court opens up a lot of
+
+14 avenues for cross-examination or bringing these
+
+15 witnesses in, I think it’s incumbent on the defense
+
+16 to show where there’s some testimony in this case
+
+17 that there really was a disclosure of the sexual
+
+18 conduct between the defendant and the victim in this
+
+19 case on a prior occasion, before he disclosed on the
+
+20 video that we’re about to play.
+
+21 I believe the state of the evidence in this
+
+22 case is there was absolutely none. This was it.
+
+23 And that this would be collateral to the main issue
+
+24 as to why this tape is being shown. So --
+
+25 THE COURT: I think, so that you understand,
+
+26 I will require both sides, but in this case
+
+27 specifically the defense, to -- before a witness is
+
+28 called, to make an offer of proof on surrebuttal as 12404
+
+
+
+1 to why they’re calling the witness and how it
+
+2 relates to your rebuttal. I’m not opening up this
+
+3 trial again for anybody.
+
+4 MR. SNEDDON: Okay.
+
+5 THE COURT: So -- and at that time you’ll
+
+6 have an opportunity to address it. I just wanted --
+
+7 and I appreciate that Mr. Sanger gave me a picture
+
+8 of some of the material he thought he was going to
+
+9 be bringing in, and most of what he said seemed
+
+10 relevant. But I will look at each piece, and I’m
+
+11 going to hold people tight to this, because we’re on
+
+12 surrebuttal. The case is over. You’re on rebuttal.
+
+13 MR. SNEDDON: All right. Thank you, Your
+
+14 Honor.
+
+15 THE COURT: On your subpoena, come forward.
+
+16 MR. LEVINE: Yes, my more boring issue, Your
+
+17 Honor.
+
+18 Just to keep it very brief --
+
+19 THE COURT: I don’t think your issue is
+
+20 boring, Counsel.
+
+21 MR. LEVINE: Thank you, Your Honor.
+
+22 Compared to the others.
+
+23 With the benefit of hindsight, it seems
+
+24 that Mr. Geragos testified pretty much that he
+
+25 ordered surveillance in this case and the reasons
+
+26 why he did that. And I think that’s the extent of
+
+27 what both sides were getting at during the cross.
+
+28 We have here an attempt to basically try to 12405
+
+
+
+1 get billing statements, everything related to his
+
+2 representation. A lot of that, the Court can see,
+
+3 is irrelevant to what has occurred. It would be
+
+4 beyond the scope of both cross and direct. And I
+
+5 think to even -- and I think what he stated in his
+
+6 testimony is that he didn’t take any notes. He
+
+7 didn’t have any tapes. Whatever e-mails there were,
+
+8 the Court -- they have been provided by the defense
+
+9 to the prosecution.
+
+10 And I think that Brad Miller, who did the
+
+11 surveillance and would be the relevant witness as to
+
+12 what occurred during the surveillance, I think he
+
+13 was raided, and I think that there was a search
+
+14 warrant served on his offices. I don’t really think
+
+15 that the records, his billing records and what are
+
+16 other extraneous items that may be in the file, are
+
+17 really relevant at this point.
+
+18 I think both sides -- Mr. Zonen did a very
+
+19 effective cross-examination that lasted almost five
+
+20 hours. And I think that there’s really nothing left
+
+21 to do in this particular area. So, it appears that
+
+22 the request, as it’s framed in their subpoena, is
+
+23 just overbroad, putting aside any privileges or any
+
+24 other issues. And I think that it would be better
+
+25 if there was something specific that we can respond
+
+26 to.
+
+27 I mean, you have to understand, the file
+
+28 with Mr. Jackson, the brunt of it is just box -- I 12406
+
+
+
+1 don’t know how big it is. I haven’t seen it. But
+
+2 most of it is after he was arrested. So there would
+
+3 be a lot of --
+
+4 THE COURT: That seems to be one of the
+
+5 problems with the subpoena, now that I see it, is
+
+6 that the -- there’s not a limitation to the time
+
+7 period that the waiver purports to. You know, it
+
+8 appears to be overly broad from the standpoint that
+
+9 they subpoena everything, which, you know, clearly
+
+10 they are not entitled to subpoena records beyond the
+
+11 time waiver.
+
+12 MR. LEVINE: Even if we limit it to records
+
+13 within the time waiver, I mean, let’s say they add
+
+14 that sentence and it’s in there, which I think
+
+15 they -- I think that was their intent. Again, it’s
+
+16 just a situation here where, at this very late stage
+
+17 of the trial where everybody has rested, and we’re
+
+18 getting back into what seems to be very
+
+19 insignificant information. Mr. Geragos’s testimony
+
+20 was very collateral to -- it’s just ancillary, a
+
+21 very small part, and he just basically ordered
+
+22 surveillance. And it seems that --
+
+23 THE COURT: It’s a little more complicated
+
+24 than that.
+
+25 MR. LEVINE: I understand. I read --
+
+26 THE COURT: You didn’t see the trial, so
+
+27 I’ll accept --
+
+28 MR. LEVINE: I did see parts of it. It was 12407
+
+
+
+1 very compelling, Your Honor. I was here last week.
+
+2 But I think that it would be better if we
+
+3 can just have --
+
+4 THE COURT: One of the things I’m addressing
+
+5 is there was some testimony just yesterday about the
+
+6 number of phone calls between Mr. Geragos and other
+
+7 people involved during this period, which flies in
+
+8 the face of your assertion that he was just -- that
+
+9 he just ordered surveillance. You know, that’s not
+
+10 true. He was very involved in a lot of that, you
+
+11 know, what was going on, and that -- so I just --
+
+12 you know, I just have to tell you, your assertion
+
+13 doesn’t stand up. But --
+
+14 MR. LEVINE: I’m not suggesting that he
+
+15 didn’t talk to people. The fact that a phone call
+
+16 was made, again, I’m just really -- just seems --
+
+17 again, what the defense called him for was for that
+
+18 purpose. That other items came up, I understand.
+
+19 I’m just trying to --
+
+20 THE COURT: You have to realize that, until
+
+21 the defense called him, he claimed the privilege,
+
+22 and he -- the District Attorney couldn’t call him.
+
+23 They couldn’t subpoena his records. In fact, I had
+
+24 a special master spend months going through the
+
+25 e-mails, the computer hard drives that were seized,
+
+26 and segregating out the privileged material, only to
+
+27 have him come into court and have the privilege
+
+28 waived. So what may appear to you to be a late 12408
+
+
+
+1 subpoena isn’t late at all, considering when Mr.
+
+2 Geragos and Mr. Jackson waived the privilege.
+
+3 MR. LEVINE: All right. We didn’t like that
+
+4 argument. We didn’t like the attorney-client and
+
+5 not the attorney work-product. I understand that.
+
+6 THE COURT: I’ll just make this easy for
+
+7 you. I’m going to -- I’ll make it easy for me,
+
+8 excuse me, not for you.
+
+9 MR. LEVINE: Thank you, Your Honor.
+
+10 THE COURT: I’m going to allow the subpoena,
+
+11 but I’m going to limit it to materials that are
+
+12 within the scope of the waiver.
+
+13 MR. LEVINE: Okay. Is there a time frame as
+
+14 far as -- I know that the boxes are in storage
+
+15 somewhere and they have to be pulled out.
+
+16 THE COURT: Well, Mr. Geragos actually said
+
+17 he didn’t think there was much material.
+
+18 MR. LEVINE: I agree.
+
+19 THE COURT: So it can’t be very burdensome.
+
+20 He didn’t think there was hardly anything.
+
+21 MR. LEVINE: Well, that would be me, though.
+
+22 I would have to go through the boxes, Your Honor,
+
+23 so --
+
+24 THE COURT: All right. We’re back in session
+
+25 Tuesday. That’s when I want it here.
+
+26 MR. LEVINE: Thank you, Your Honor.
+
+27 MR. ZONEN: Your Honor, would it be possible
+
+28 to get it earlier than that? Given the reality of 12409
+
+
+
+1 our case, we’re going to be done Tuesday.
+
+2 THE COURT: They can’t hear you back there.
+
+3 MR. ZONEN: One of these days I’ll remember
+
+4 this.
+
+5 We believe that we will likely be resting on
+
+6 Tuesday. If we don’t get the materials until that
+
+7 time -- and frankly, if we have to wait till
+
+8 Tuesday, we would probably need Mr. Geragos’s
+
+9 presence here. If we could have it before Tuesday,
+
+10 we might be able to resolve a stipulation where he
+
+11 wouldn’t actually have to come; that we could
+
+12 perhaps stipulate to the admissibility of some
+
+13 materials. But we would need the materials in
+
+14 advance of that date. Otherwise, I’m afraid Mr.
+
+15 Geragos would have to be here on Tuesday, as he
+
+16 would be the only one to lay the foundation for the
+
+17 introduction of those documents, assuming there’s
+
+18 some relevant documents among the file.
+
+19 MR. LEVINE: I really have nothing to do
+
+20 this weekend, it being Memorial Day weekend. I’m
+
+21 happy to accommodate this request to go through it.
+
+22 I don’t really think there is much, because I think
+
+23 his testimony was he didn’t take notes, he didn’t
+
+24 have tapes. And I know that --
+
+25 THE COURT: That’s pretty much what he
+
+26 testified to.
+
+27 MR. LEVINE: He also turned over a lot of
+
+28 stuff to the defense, which I would assume they have 12410
+
+
+
+1 possession of and they would be obligated to turn
+
+2 over to the prosecution, given the fact that they
+
+3 waived the privilege that they had.
+
+4 THE COURT: They have different obligations.
+
+5 You’re only required to turn over what you have, not
+
+6 what’s been forwarded to other people.
+
+7 So in order to help bring this case to an
+
+8 end, and to ruin your weekend, I’ll order that you
+
+9 present it on Monday to the district attorneys.
+
+10 MR. LEVINE: It’s a lovely drive here from
+
+11 Los Angeles, Your Honor.
+
+12 MR. ZONEN: He’ll only have to go to Santa
+
+13 Barbara.
+
+14 MR. LEVINE: Okay.
+
+15 THE COURT: You should make an agreement how
+
+16 you’re going to get together.
+
+17 MR. ZONEN: I’ll do that. Thank you, Your
+
+18 Honor.
+
+19 MR. LEVINE: Thank you, Your Honor.
+
+20 THE COURT: Thank you.
+
+21 What I want to do is -- you want to say
+
+22 something?
+
+23 MR. SANGER: I do. I just missed the last
+
+24 part there.
+
+25 These are documents that are subpoenaed to
+
+26 the Court, not to the District Attorney’s Office.
+
+27 I don’t mind them being delivered to the District
+
+28 Attorney’s Office if we have an agreement that they 12411
+
+
+
+1 will immediately provide us with a copy.
+
+2 THE COURT: So ordered.
+
+3 MR. SANGER: Thank you.
+
+4 THE COURT: But I don’t think they were
+
+5 listening this time either.
+
+6 MR. AUCHINCLOSS: I was listening.
+
+7 THE COURT: Oh, you were. Okay.
+
+8 Oh, it was you that wasn’t listening last
+
+9 time. I get confused about who’s not listening.
+
+10 Don’t bring the jury in. I want to just
+
+11 take a couple minutes and look at some material here
+
+12 before you bring the jury in.
+
+13
+
+14 (The following proceedings were held in
+
+15 open court in the presence and hearing of the
+
+16 jury:)
+
+17
+
+18 THE COURT: (To the jury) I know what you’re
+
+19 thinking.
+
+20 JUROR NO. 7: Uh-oh.
+
+21 THE COURT: You’re probably thinking, “Well,
+
+22 if you don’t want us to come in until 9:15, then why
+
+23 do you have us here at 8:30?” Right?
+
+24 This is just a little bit more complicated.
+
+25 We’re in the rebuttal stage, and the legal issues
+
+26 become more complicated, and I’m just trying to take
+
+27 care of them as quickly as they come up and then get
+
+28 you in here. 12412
+
+
+
+1 Just think of it this way: You only have 15
+
+2 more minutes till the break.
+
+3 Counsel, you may proceed.
+
+4 MR. SNEDDON: Thank you, Your Honor.
+
+5
+
+6 CRAIG BONNER
+
+7 Having been previously sworn, resumed the
+
+8 stand and testified further as follows:
+
+9
+
+10 MR. SNEDDON: First of all, I’d like to
+
+11 begin by having another photograph marked as 909 for
+
+12 identification purposes. I’ve shown it to counsel
+
+13 and I’d like to approach the witness, with the
+
+14 Court’s permission.
+
+15 THE COURT: You may.
+
+16
+
+17 DIRECT EXAMINATION (Continued)
+
+18 BY MR. SNEDDON:
+
+19 Q. Detective Bonner, yesterday, we were talking
+
+20 during your testimony about the location of the two
+
+21 areas where the sensors were located in the
+
+22 downstairs area of Mr. Jackson’s bedroom suite,
+
+23 okay? And I’ve handed you the exhibit marked as
+
+24 People’s 909. Do you recognize that photograph?
+
+25 A. Yes, I do.
+
+26 Q. And have you seen that area before?
+
+27 A. Yes, I have.
+
+28 Q. And is that photograph an accurate depiction 12413
+
+
+
+1 of what it purports to represent?
+
+2 A. Yes, it is.
+
+3 MR. SNEDDON: Your Honor, I’d move that 909
+
+4 be admitted into evidence.
+
+5 MR. SANGER: No objection.
+
+6 THE COURT: It’s admitted.
+
+7 MR. SNEDDON: Your Honor, could we have the
+
+8 input for the Elmo, please?
+
+9 Q. We put on the board the photograph -- excuse
+
+10 me. There we go -- the photograph marked as 909,
+
+11 which is now in evidence. And do you recognize that
+
+12 photograph?
+
+13 A. Yes, I do.
+
+14 Q. Okay. And in that photograph, do you see
+
+15 the areas where the -- what you call the -- what do
+
+16 you call them? -- the enunciators are located?
+
+17 A. Yes.
+
+18 Q. And I guess I should give you the red --
+
+19 that’s the laser. Would you, first of all, point
+
+20 out the locations of what you call the enunciators?
+
+21 A. The two enunciators, or alarm speakers, were
+
+22 located, the first one, underneath this
+
+23 bookcase/cabinet, right down here.
+
+24 Q. You’re indicating in the lower left-hand
+
+25 corner of the Exhibit 909?
+
+26 A. Correct. Underneath it.
+
+27 Q. All right.
+
+28 A. The second enunciator was located underneath 12414
+
+
+
+1 this chair, or throne.
+
+2 Q. Okay. Now, I’m going to show you another
+
+3 photograph marked as 54, which is in evidence. Do
+
+4 you recognize that photograph?
+
+5 A. Yes, I do.
+
+6 Q. And that’s the same chair -- the chair
+
+7 that’s depicted in that photograph is the same chair
+
+8 depicted in photograph 909; is that correct?
+
+9 A. That’s correct.
+
+10 Q. And was that the location of the chair the
+
+11 time that you were out at the house in November of
+
+12 2003?
+
+13 A. Yes.
+
+14 Q. And was that the location of the sensor --
+
+15 or the enunciator that you mentioned on that
+
+16 occasion?
+
+17 A. Yes.
+
+18 Q. And the same thing in December of 2004?
+
+19 A. Yes.
+
+20 Q. So -- and this is -- which door is this?
+
+21 A. This is the doorway that leads from the
+
+22 hallway into the private area of Michael Jackson’s
+
+23 room, or the living space downstairs.
+
+24 Q. All right. Now, the next photograph is
+
+25 People’s 69, which is in evidence. You recognize
+
+26 that photograph?
+
+27 A. Yes, I do.
+
+28 Q. And is the cabinet depicted in that 12415
+
+
+
+1 photograph the same cabinet that you referenced
+
+2 earlier in your testimony?
+
+3 A. Yes, it is.
+
+4 Q. And the room just to the left of that
+
+5 cabinet is what room? What is that?
+
+6 A. That’s the bathroom with the Jacuzzi tub.
+
+7 Q. Okay. And again, was this the same
+
+8 location -- was this cabinet and the enunciator in
+
+9 the same location as depicted in this photograph on
+
+10 the 18th of November, 2003?
+
+11 A. Yes. However, due to the angle that the
+
+12 film -- or the photograph is taken at, you cannot
+
+13 see it in this photograph.
+
+14 Q. But you did see it personally?
+
+15 A. Yes.
+
+16 Q. And in December when you went out there in
+
+17 2004, was that cabinet still in the same location?
+
+18 A. Yes, it was.
+
+19 Q. And the enunciator was still in the same
+
+20 location?
+
+21 A. Yes, it was.
+
+22 MR. SNEDDON: We can have the lights, Your
+
+23 Honor.
+
+24 Now, Your Honor, I have an exhibit which has
+
+25 been marked as 908 for identification purposes, and
+
+26 I’ve indicated to counsel what portion of the
+
+27 exhibit that we want to play, and we have it pre-set
+
+28 to that portion. And what I’ve told counsel that we 12416
+
+
+
+1 would do, if this is okay with the Court, is that we
+
+2 will take the portion that’s played in court out of
+
+3 this exhibit and provide that, simply that portion,
+
+4 for the Court in case the jury wants to look at it
+
+5 later. In other words, we’ll substitute -- not --
+
+6 we won’t substitute. We will provide a 908-A, which
+
+7 will have just the portion that’s shown to the jury.
+
+8 THE COURT: That’s good.
+
+9 MR. SNEDDON: Because there’s other matters
+
+10 on here, and we didn’t have time to do the editing
+
+11 on it. And I think that’s acceptable to the Court
+
+12 and I think that’s acceptable to counsel.
+
+13 MR. SANGER: Yes, it is.
+
+14 THE COURT: All right. That’s good. I’d
+
+15 like you to do that.
+
+16 MR. SNEDDON: We will do that, Your Honor.
+
+17 So this is Exhibit 908, and we’re going to -- let me
+
+18 ask a few foundation questions and then we’ll show
+
+19 it.
+
+20 Q. Detective Bonner, you had occasion to review
+
+21 a DVD disk of some portions of the search warrant
+
+22 that was executed in December of 2004, correct?
+
+23 A. That’s correct.
+
+24 Q. And you were present when those portions of
+
+25 the video that the jury is about to see were filmed;
+
+26 is that correct?
+
+27 A. Yes, I was.
+
+28 Q. In fact, your voice can be heard on the 12417
+
+
+
+1 video?
+
+2 A. Correct.
+
+3 MR. SNEDDON: And with regard to the
+
+4 portions that we are about to see, Your Honor, I
+
+5 have another exhibit that I’d like to have marked as
+
+6 People’s 907 for identification purposes. I’ve
+
+7 shown it to counsel, and it’s a diagram. And I’d
+
+8 like to show it to the witness and authenticate it
+
+9 before we show the video.
+
+10 THE COURT: You may. How long is the video
+
+11 now?
+
+12 MR. SNEDDON: Very short. It’s --
+
+13 THE WITNESS: About 40 seconds, 45 seconds.
+
+14 MR. SNEDDON: 40 seconds. What’s the number
+
+15 on that? 907?
+
+16 THE WITNESS: Absolutely.
+
+17 MR. SNEDDON: Your Honor, can I ask the
+
+18 questions here? I’ll talk real loud, if that’s all
+
+19 right.
+
+20 I’ll go back and forth. I could use the
+
+21 exercise.
+
+22 Q. 907, do you recognize that?
+
+23 A. Yes, I do.
+
+24 Q. Did you prepare that?
+
+25 A. Yes, I did.
+
+26 Q. And is that -- does that purport to be to
+
+27 scale or just an illustration of the various
+
+28 locations of the rooms of the defendant’s master 12418
+
+
+
+1 bedroom?
+
+2 A. This is not in any way to scale. It’s just
+
+3 a quick drawing just to show relative location.
+
+4 MR. SNEDDON: With the Court’s permission, I
+
+5 move that be admitted for illustrative purposes of
+
+6 the witness’s testimony that he’s about to give.
+
+7 MR. SANGER: No objection.
+
+8 THE COURT: It’s admitted.
+
+9 MR. SNEDDON: All right. I think we’ll play
+
+10 the video and then we’ll go back to this exhibit.
+
+11 THE COURT: All right.
+
+12 (Whereupon, a portion of a DVD, People’s
+
+13 Exhibit 908 (to be later marked as 908-A) was played
+
+14 for the Court and jury.)
+
+15 MR. SNEDDON: All right. For the record,
+
+16 that portion of the video that was shown was 19:20
+
+17 to 19:55.
+
+18 Now, we could have the lights again, Your
+
+19 Honor.
+
+20 Q. Mr. -- Sergeant Bonner, where was the
+
+21 cameraman located at the time that those chimes were
+
+22 going off?
+
+23 A. He was standing directly in front of or on
+
+24 top of the area where the enunciator was located
+
+25 underneath the bookcase/cabinet.
+
+26 Q. All right. Let’s put this Exhibit 907 up on
+
+27 the board, if we can.
+
+28 Okay. This is Exhibit 907, correct? 12419
+
+
+
+1 A. That’s correct.
+
+2 Q. All right. Now, on the particular exhibit -
+
+3 you have the laser there - you have an “Enunciator
+
+4 1,” with a little square; is that correct?
+
+5 A. Correct.
+
+6 Q. Where is that located in relationship to the
+
+7 room?
+
+8 A. Enunciator 1 is located right here. This
+
+9 was where the bookcase was. And the enunciator was
+
+10 underneath the bookcase.
+
+11 Q. All right. And could you illustrate to the
+
+12 ladies and gentlemen of the jury the approximate
+
+13 location of the cameraman at the time that they
+
+14 heard the chimes going off in the Exhibit 908?
+
+15 A. Our cameraperson was standing right above
+
+16 that bookcase pointing down, at one point in time
+
+17 directly, the camera pointing directly at where that
+
+18 enunciator was at.
+
+19 Q. You’re indicating just to the top left of
+
+20 the small square, correct?
+
+21 A. Correct.
+
+22 Q. Or rectangle?
+
+23 A. Through the video, he moves -- he starts out
+
+24 approximately right here, and I believe he ends
+
+25 right about here.
+
+26 Q. Okay. And then with regard to the
+
+27 “Enunciator 2,” what does that relate to in your
+
+28 previous testimony? 12420
+
+
+
+1 A. Enunciator 2 was the nonworking enunciator
+
+2 that was underneath that red and gold chair.
+
+3 Q. Now, using this diagram as a further
+
+4 illustration, you were shown a photograph yesterday
+
+5 that showed one of the sensors up in the ceiling
+
+6 prior to -- close to the entrance of Mr. Jackson’s
+
+7 bedroom door, correct?
+
+8 A. Correct.
+
+9 Q. And would you show us the location of that
+
+10 on the diagram?
+
+11 A. It is right here, and I have called it
+
+12 “Curtain Sensor 1.”
+
+13 Q. Now, in November and December -- November of
+
+14 2003, let’s take them one at a time, was that
+
+15 curtain sensor working?
+
+16 A. Yes.
+
+17 Q. And in December of 2004, was that curtain
+
+18 sensor working?
+
+19 A. Yes.
+
+20 MR. SANGER: I’ll object, asked and
+
+21 answered, Your Honor.
+
+22 THE COURT: Overruled. Next question.
+
+23 Q. BY MR. SNEDDON: With regard to the exhibit,
+
+24 907, you have a second curtain sensor located on
+
+25 that exhibit, correct?
+
+26 A. Correct.
+
+27 Q. And why don’t you show the jury where that’s
+
+28 located? 12421
+
+
+
+1 A. That’s located prior to the doorway leading
+
+2 into the foyer. Right there.
+
+3 Q. And was that sensor active on November 18th,
+
+4 2003?
+
+5 A. It did not activate any alarms.
+
+6 Q. And with regard to December of 2004, was it
+
+7 working?
+
+8 A. Again, it did not activate any alarms.
+
+9 Q. You weren’t out at the ranch in February and
+
+10 March of 2003, correct?
+
+11 A. Correct.
+
+12 Q. All right. I’m just going to ask you one
+
+13 other thing and then we’ll be done.
+
+14 I’ve handed you the exhibit that -- it’s
+
+15 907, correct?
+
+16 A. Correct.
+
+17 Q. And would you please put on Exhibit 907,
+
+18 with the red pen I’ve given you, the approximate
+
+19 location of the sheriff’s department cameraman at
+
+20 the point where the video was played to the jury?
+
+21 So with regard to Exhibit 907, you’ve placed
+
+22 a little red figure on that; is that correct?
+
+23 A. Two circles with a line between the two,
+
+24 approximating the positions that you observe him to
+
+25 be in.
+
+26 Q. So he moved during the course of the
+
+27 filming; is that right?
+
+28 A. Correct. 12422
+
+
+
+1 Q. But in that area. That was the area during
+
+2 the entire time that the chimes were ringing?
+
+3 A. Correct.
+
+4 Q. Okay. You’ve had occasion to view the
+
+5 defense video of the three scenes where the chimes
+
+6 were filmed?
+
+7 A. Correct.
+
+8 Q. Okay. And with regard to the time that
+
+9 those were filmed, could you determine, from your
+
+10 experience of being out there twice, whether both of
+
+11 the enunciators were working on that day?
+
+12 A. I believe both enunciators were working when
+
+13 the defense did their video.
+
+14 MR. SANGER: I’m going to move to strike
+
+15 that. I didn’t understand the question. I move to
+
+16 strike the answer for the purpose of objecting.
+
+17 That would call for speculation. There’s no
+
+18 foundation. He wasn’t there.
+
+19 MR. SNEDDON: I’m about to ask him that
+
+20 question.
+
+21 THE COURT: All right. I’ll sustain the
+
+22 objection and strike the answer so you can --
+
+23 Q. BY MR. SNEDDON: Have you reviewed that
+
+24 video?
+
+25 A. Correct.
+
+26 Q. And from reviewing that video, are you able
+
+27 to determine whether or not both of those
+
+28 enunciators were working at the time that the 12423
+
+
+
+1 defense conducted their experiment?
+
+2 A. Yes.
+
+3 MR. SANGER: Objection. He answered. He
+
+4 just answered “yes” or “no,” so that’s fine.
+
+5 Q. BY MR. SNEDDON: And are you able to reach
+
+6 that opinion based upon your prior experiments and
+
+7 familiarity with how this system works?
+
+8 A. Yes.
+
+9 Q. When you were actually out there?
+
+10 A. Yes.
+
+11 Q. I would ask you how -- what is the basis of
+
+12 your opinion that both enunciators were working the
+
+13 day that the defense filmed their exhibit concerning
+
+14 the chimes in the Jackson suite?
+
+15 MR. SANGER: Objection, Your Honor. Assumes
+
+16 facts not in evidence. There’s no evidence as to
+
+17 his opinion, only that he had one. And I object to
+
+18 his opinion, to any opinion, as not being based on
+
+19 an adequate foundation.
+
+20 THE COURT: Overruled. I’ll allow the
+
+21 answer.
+
+22 THE WITNESS: There are two different
+
+23 enunciators located in two different locations.
+
+24 There are two different curtain sensors located in
+
+25 two different locations.
+
+26 We know, based upon our being there in
+
+27 December of ‘04 and on November 18th of ‘03, that
+
+28 Curtain Sensor 1 activated Enunciator 1, which is 12424
+
+
+
+1 located furthest from the stairwell, and that would
+
+2 presumably have a lower volume than if Enunciator 2
+
+3 was activated, based upon the filming with the
+
+4 individual in the upstairs.
+
+5 When you listen --
+
+6 MR. SANGER: Excuse me. First of all, it’s
+
+7 a narrative. And second of all, I move to strike
+
+8 the last part as being an opinion without a
+
+9 foundation.
+
+10 THE COURT: I am going to sustain the
+
+11 objection and strike the opinion.
+
+12 Q. BY MR. SNEDDON: Are you able to tell, from
+
+13 a review -- based upon your familiarity with the
+
+14 system and your having been out there, are you able
+
+15 to determine, “yes” or “no,” from a review of those
+
+16 films, that both enunciators were working that day?
+
+17 A. Yes.
+
+18 Q. And are you able to determine that based
+
+19 upon your review of the sounds, the differing sounds
+
+20 that the chimes make at certain portions during
+
+21 those scenes?
+
+22 A. Yes.
+
+23 Q. Were you also able to determine, when you
+
+24 were out there before, that the enunciators have
+
+25 three volume settings on them?
+
+26 A. No.
+
+27 Q. Multiple volume settings?
+
+28 MR. SANGER: Objection. Leading; asked and 12425
+
+
+
+1 answered.
+
+2 THE COURT: Overruled.
+
+3 THE WITNESS: No.
+
+4 Q. BY MR. SNEDDON: Did you determine that at
+
+5 some other point in time?
+
+6 A. Yes.
+
+7 MR. SNEDDON: All right. I have no further
+
+8 questions on this subject, Your Honor. But I
+
+9 believe at this point I would have this witness --
+
+10 I’ll ask one question, and then I think we have a
+
+11 stipulation to offer to the Court. And we can have
+
+12 the lights.
+
+13 MR. SANGER: First of all, I want to object
+
+14 to the last question and move to strike the last
+
+15 answer for the purpose of objecting to the question
+
+16 on the grounds there’s no foundation.
+
+17 THE COURT: Overruled.
+
+18 Q. BY MR. SNEDDON: During the course of your
+
+19 role in this investigation, was it your
+
+20 responsibility to review the items that had been
+
+21 obtained through the course of the search warrant
+
+22 process?
+
+23 A. Yes.
+
+24 Q. And was one of the assignments that you had
+
+25 to determine the items that were seized from the
+
+26 office of Investigator Brad Miller?
+
+27 A. Yes.
+
+28 Q. And during the course of that review, did 12426
+
+
+
+1 you determine whether or not there was a tape that
+
+2 was recovered from Mr. Miller’s office that dealt
+
+3 with an interview between Janet Arvizo and the
+
+4 Department of Child & Family Services in Los Angeles
+
+5 on February the 20th of 2003?
+
+6 A. There was not.
+
+7 MR. SNEDDON: All right. I believe the
+
+8 stipulation, Your Honor, is that --
+
+9 MR. SANGER: Tom?
+
+10 MR. MESEREAU: Oh.
+
+11 MR. SNEDDON: Do you want to read it?
+
+12 That’s fine, thank you.
+
+13 I’ll read the stipulation, Your Honor, into
+
+14 the record, if that’s appropriate for the Court.
+
+15 THE COURT: You may.
+
+16 MR. SNEDDON: Both sides are willing to
+
+17 stipulate to the following: That prior to the
+
+18 trial, both the prosecution and the defense
+
+19 exchanged documents and other evidence with each
+
+20 other, and on December the 6th of 2004, the defense
+
+21 provided to the prosecution a copy of the DCFS
+
+22 interview of February the 20th of 2003.
+
+23 THE COURT: Is that your agreement, Mr.
+
+24 Mesereau?
+
+25 MR. MESEREAU: The stipulation reads we
+
+26 provided the prosecution with our copy of that
+
+27 interview, I believe.
+
+28 THE COURT: All right. 12427
+
+
+
+1 MR. SNEDDON: That’s fine.
+
+2 THE COURT: Is that your agreement?
+
+3 MR. SNEDDON: That’s our agreement
+
+4 THE COURT: Is that your agreement?
+
+5 MR. MESEREAU: So stipulated, Your Honor,
+
+6 yes.
+
+7 THE COURT: I’ll approve that stipulation.
+
+8 (To the jury) When the parties stipulate to
+
+9 a fact, the jury is bound by that stipulation.
+
+10 MR. SNEDDON: Your Honor, I think probably
+
+11 to tie things together for the jury and the Court,
+
+12 we should indicate that the stipulation we entered
+
+13 into is directly related to the exhibit that has
+
+14 been played for the jury here in the courtroom. And
+
+15 I don’t have -- I’m sorry, I apologize for not
+
+16 having the exact exhibit number, but I will find
+
+17 that and provide that to the Court later, if you
+
+18 want.
+
+19 MR. MESEREAU: I’m not sure what that even
+
+20 refers to, Your Honor.
+
+21 MR. SNEDDON: I’m referring to the tape that
+
+22 was played of that conversation that the jury heard,
+
+23 which is the February 20th DCFS interview.
+
+24 MR. MESEREAU: I’m not stipulating to that.
+
+25 I’m just -- if he wants to argue that, he can. The
+
+26 stipulation is the stipulation.
+
+27 THE COURT: (To the jury) All right. So
+
+28 you’re not bound by what they don’t stipulate to. 12428
+
+
+
+1 All right. Let’s take our break.
+
+2 (Recess taken.)
+
+3 THE COURT: Go ahead.
+
+4 MR. SANGER: I believe Mr. Sneddon was
+
+5 concluded, so may I proceed, Your Honor?
+
+6 THE COURT: Yes.
+
+7 MR. SANGER: Thank you.
+
+8
+
+9 CROSS-EXAMINATION
+
+10 BY MR. SANGER:
+
+11 Q. Detective Bonner, how are you doing?
+
+12 A. Good.
+
+13 Q. All right. Now, there was a lot of
+
+14 testimony about “enunciators” and “curtain sensors”
+
+15 and things like that. Did you learn those terms
+
+16 when you were out there in December of 2004?
+
+17 A. The terminology, yes.
+
+18 Q. Okay. And you learned that because you were
+
+19 out there with some people who had some background
+
+20 in these items; is that right?
+
+21 A. Correct.
+
+22 Q. All right. You’re not an expert in any of
+
+23 this; is that correct?
+
+24 A. No.
+
+25 Q. And before December the 4th, 2004, if
+
+26 somebody said, “Where was the enunciator?” what
+
+27 would you have said?
+
+28 A. “What is an enunciator?” 12429
+
+
+
+1 Q. All right. And if somebody said, “Where is
+
+2 the curtain sensor?” what would you have said?
+
+3 A. “What’s a curtain sensor?”
+
+4 Q. All right. Now, you mentioned in the video
+
+5 that we saw that the person was pretty much standing
+
+6 right on top of that cabinet. Do you remember that
+
+7 testimony?
+
+8 A. Correct.
+
+9 Q. All right. In fact, the person with the
+
+10 camera was standing some distance away from the
+
+11 cabinet, wasn’t he?
+
+12 A. Not far.
+
+13 Q. Okay. Not far. But that’s some distance
+
+14 away. That’s not “on top of,” is it?
+
+15 A. He was -- in the position of the camera, the
+
+16 camera was on top of the location.
+
+17 MR. SANGER: Uh-huh. Do we have the Exhibit
+
+18 907? Oh. It’s right here. Thank you.
+
+19 May I put 907 up, Your Honor?
+
+20 THE COURT: Yes.
+
+21 MR. SANGER: Thank you.
+
+22 Q. I’m showing the exhibit tab, “907,” at the
+
+23 bottom and then I’ll shift back up here.
+
+24 This is your not-to-scale drawing, correct?
+
+25 A. Correct.
+
+26 Q. And you did not make that at the time that
+
+27 you were out there, did you?
+
+28 A. No, I did not. 12430
+
+
+
+1 Q. You made that when? Yesterday? Or --
+
+2 A. A couple days ago.
+
+3 Q. All right. Do you remember a piano in that
+
+4 room?
+
+5 A. Yes, I do.
+
+6 Q. It says, “First floor living room area.”
+
+7 Where is the piano?
+
+8 A. It’s not in there.
+
+9 Q. I know you didn’t draw it in there, but can
+
+10 I have the --
+
+11 A. It was located right about approximately
+
+12 where the “R” -- where the “O” is for “Enunciator
+
+13 1.”
+
+14 Q. All right. Well, anyway, everybody can see
+
+15 that, I suppose. We used to have a pointer.
+
+16 Do you have a pointer?
+
+17 MR. ZONEN: Yes.
+
+18 MR. SANGER: May I borrow it?
+
+19 MR. ZONEN: Certainly.
+
+20 MR. SANGER: Thank you.
+
+21 I’m not sure what you do to make it point.
+
+22 All right. Here you go. That’s it.
+
+23 Q. So the piano -- there’s a little alcove over
+
+24 here, is that right, with a window?
+
+25 A. Yes.
+
+26 Q. And the piano is right in that alcove; is
+
+27 that correct?
+
+28 A. Correct. 12431
+
+
+
+1 Q. Do you remember seeing the piano in the
+
+2 video, the little clip that we just saw?
+
+3 A. No.
+
+4 Q. All right. And the picture -- let’s see
+
+5 which one this is.
+
+6 May I put up 909, Your Honor?
+
+7 THE COURT: Yes.
+
+8 Q. BY MR. SANGER: In the picture, 909, the
+
+9 photographer was standing right in this area right
+
+10 here; is that correct?
+
+11 A. From that point to poss -- I believe a
+
+12 little bit left of where you’re pointing.
+
+13 MR. SNEDDON: I’m going to object as vague
+
+14 as to whether he’s talking about this photograph or
+
+15 the cameraman.
+
+16 THE COURT: Sustained.
+
+17 Q. BY MR. SANGER: I obviously meant the
+
+18 cameraman that you were talking about who’s taking
+
+19 the video. Because the photographer who took this
+
+20 picture, if he was standing there, you’d see him,
+
+21 right?
+
+22 A. Correct.
+
+23 Q. So the photographer who was taking the video
+
+24 was standing in approximately this location that
+
+25 we’re -- I’m pointing at on Exhibit 909; is that
+
+26 right?
+
+27 A. Correct, and then moved slightly to his left
+
+28 within the filming. 12432
+
+
+
+1 Q. Moved over here a little more; is that
+
+2 right?
+
+3 A. Up closer, but, yes.
+
+4 Q. Okay. All right. Now, you heard the video
+
+5 that was played, right?
+
+6 A. Which video are you talking about?
+
+7 Q. The one that was just played. I forget the
+
+8 number. It was --
+
+9 A. Our video.
+
+10 Q. -- your video.
+
+11 A. Yes.
+
+12 Q. I’m sorry, forgive me one second. 908-A
+
+13 theoretically is the video that was played.
+
+14 A. Right.
+
+15 Q. You heard that?
+
+16 A. Yes, I did.
+
+17 Q. All right. Now, were you aware that there’s
+
+18 a volume control on this video player here on the
+
+19 console in the middle of the courtroom?
+
+20 A. I am aware of that, yes.
+
+21 Q. Okay. Were you aware that all other videos
+
+22 that were played for all subject matter were played
+
+23 between Sound Level 7 and 9?
+
+24 A. Yes.
+
+25 Well, I’m sorry, I take that back. No, I am
+
+26 not.
+
+27 Q. Were you aware that Mr. Auchincloss set this
+
+28 video on 1, the sound level 1 to play the 908-A? 12433
+
+
+
+1 MR. SNEDDON: I move to strike this
+
+2 testimony as lack of foundation on the witness’s
+
+3 part and irrelevant as to the testimony.
+
+4 THE COURT: Sustained on foundation.
+
+5 Q. BY MR. SANGER: Okay. Do you know what
+
+6 setting Mr. Auchincloss put that on when he played
+
+7 it?
+
+8 A. No, I don’t.
+
+9 Q. You would agree that there’s generally
+
+10 volume controls when you’re playing videos, right?
+
+11 A. There are.
+
+12 Q. Now, you were asked some questions about
+
+13 being aware of the investigation in this case
+
+14 because of your position as one of the detectives in
+
+15 the case, right?
+
+16 A. Correct.
+
+17 Q. And are you aware that a number of people
+
+18 have testified that the bell that they heard at the
+
+19 time of the video that was played by the defense,
+
+20 that being the video of the test of the alarm, that
+
+21 that alarm is pretty much the alarm that they’ve
+
+22 been hearing at that ranch in that hallway for
+
+23 years? Were you aware of that?
+
+24 A. I’ve heard that secondhand, yes.
+
+25 Q. And you don’t have any decibel level tests
+
+26 to produce to the Court at this time?
+
+27 A. No. We attempted, and it was not -- it
+
+28 wasn’t worth doing. There was no -- it wasn’t 12434
+
+
+
+1 consistent would be the best way to describe it.
+
+2 Q. Well, decibel level tests really don’t do
+
+3 you much good unless you have something to compare
+
+4 it with; is that right?
+
+5 A. Correct.
+
+6 Q. So you’re basically saying, “Yeah, pretty
+
+7 much that’s what I heard. I heard a bell, and it
+
+8 sounded like a bell,” right?
+
+9 A. And the volume level, yes.
+
+10 Q. And other people have said they heard what
+
+11 they heard, right?
+
+12 A. Correct.
+
+13 Q. All right. And I think you answered this to
+
+14 Mr. Sneddon, but just to be certain, you personally
+
+15 have no idea how this system was functioning in
+
+16 February and March of 2003, correct?
+
+17 A. Correct.
+
+18 Q. All right. Okay. Let me go back to the
+
+19 phone records now, which is the first thing you
+
+20 testified to. And let me clear some of this out of
+
+21 the way.
+
+22 You have in front of you, I think, Exhibits
+
+23 460, 448 and 449; is that correct?
+
+24 A. Correct.
+
+25 Q. And those exhibits would be the packet of --
+
+26 let me withdraw that.
+
+27 Exhibit 460 would be the packet of materials
+
+28 that contain your various charts of phone calls made 12435
+
+
+
+1 to and from various people; is that correct?
+
+2 A. Correct.
+
+3 Q. And 460 also includes the list of the phone
+
+4 numbers that went to and from; is that correct?
+
+5 A. That’s correct.
+
+6 Q. That’s a chart that’s also in 460.
+
+7 All right. Now, 460 was your effort to add
+
+8 certain phone calls, based on records that you
+
+9 reviewed, to the charts that you made previously; is
+
+10 that right?
+
+11 A. Not necessarily, no.
+
+12 Q. Not necessarily. I always worry about an
+
+13 answer like that.
+
+14 A. Well, in certain situations, we did.
+
+15 However, in situations where the calls only showed
+
+16 calls between Bradley Miller and Mark Geragos and
+
+17 did not connect up to the alleged co-conspirators,
+
+18 then we did not include that data in there.
+
+19 Q. Okay. So what I’ll do -- I think, to be
+
+20 safe, I better take the actual exhibit.
+
+21 Your Honor, may I approach to retrieve the
+
+22 exhibits?
+
+23 THE COURT: Yes.
+
+24 MR. SANGER: Thank you.
+
+25 Just so we’re oriented, Your Honor, I’d like
+
+26 to put up the first page of Exhibit 460, if I may.
+
+27 THE COURT: All right.
+
+28 Q. BY MR. SANGER: So on page one on 460, you 12436
+
+
+
+1 show four calls going between Geragos & Geragos and
+
+2 Brad Miller, correct?
+
+3 A. Correct.
+
+4 Q. And to make that determination, you used the
+
+5 phone records that were in those other two exhibits,
+
+6 448 and 449; is that correct?
+
+7 A. Correct.
+
+8 Q. So 448 were the records of Brad Miller?
+
+9 A. Correct.
+
+10 Q. All right. And then 449 were the records of
+
+11 Geragos & Geragos?
+
+12 A. Correct.
+
+13 Q. Now, what phone was it that you looked at
+
+14 for the records of Geragos & Geragos?
+
+15 A. His cellular telephone ending in 3900. I’m
+
+16 sorry, ending in 2100.
+
+17 Q. 2100. Now, Freudian or otherwise, you said
+
+18 3900. Why would that --
+
+19 A. That is his office phone.
+
+20 Q. Did you analyze that phone number as well?
+
+21 A. We do not have those records.
+
+22 Q. Okay. Did you analyze that number when you
+
+23 looked at the Brad Miller records?
+
+24 A. Yes, I did.
+
+25 Q. Okay. So are some of the phone calls that
+
+26 you’ve identified on your chart? And I’m putting up
+
+27 the first page here of 460. Are some of those phone
+
+28 records phone calls that were made between the law 12437
+
+
+
+1 firm’s number of Geragos & Geragos and Brad Miller?
+
+2 A. Correct.
+
+3 Q. Brad Miller’s cell phone records have both
+
+4 incoming and outgoing calls; is that right?
+
+5 A. Correct.
+
+6 Q. So that’s not always the case, right? In
+
+7 phone records, you don’t always --
+
+8 A. That’s correct, yes.
+
+9 Q. So in this case, you could tell, by Brad
+
+10 Miller’s phone records, what calls were being made
+
+11 from that phone and what calls were received in most
+
+12 cases, correct?
+
+13 A. Correct.
+
+14 MR. SANGER: Now, let me skip ahead to the
+
+15 next page. And actually this is page three, because
+
+16 there’s a page -- if I may, Your Honor, there’s a
+
+17 page on the back of page one. They’re two-sided.
+
+18 So I’ll put up what is, in essence, page three.
+
+19 THE COURT: All right.
+
+20 Q. BY MR. SANGER: And this is for 2-12 of
+
+21 2003; is that correct?
+
+22 A. Correct.
+
+23 Q. And I think you told us, by the way, the
+
+24 first two pages say “’05” and they’re really “’03”?
+
+25 A. That’s correct.
+
+26 Q. I put one up there that said “’05,” but it’s
+
+27 really “’03.”
+
+28 Now, you have lines back and forth. You 12438
+
+
+
+1 still don’t show which direction the calls are going
+
+2 in your chart; is that right?
+
+3 A. Correct.
+
+4 Q. And if you go back to the records, you could
+
+5 figure that out, and you did on occasion; is that
+
+6 right?
+
+7 A. Correct.
+
+8 Q. Except for the three-way calls that you
+
+9 identified, of which there were a couple, I think
+
+10 you testified to --
+
+11 A. Correct.
+
+12 Q. -- the rest of them are calls between two
+
+13 different phones?
+
+14 A. Correct.
+
+15 Q. Okay. So once again, when you put everybody
+
+16 together, when you loop everybody together, it
+
+17 doesn’t mean that Brad Miller’s phone, for instance,
+
+18 in this -- if you look at this chart for 2-12, that
+
+19 Brad Miller’s phone has any connection to Vincent
+
+20 Amen’s phone; is that correct?
+
+21 A. Only in that they have Schaffel in common.
+
+22 Q. Well, but they don’t have Schaffel on the
+
+23 line at the same time; is that right?
+
+24 A. No.
+
+25 Q. All right. So from the standpoint of the
+
+26 theory of the prosecution that somehow these people
+
+27 are all related, that’s --
+
+28 MR. SNEDDON: I’m going to object to that 12439
+
+
+
+1 question as argumentative.
+
+2 THE COURT: Sustained.
+
+3 Q. BY MR. SANGER: When you say they have
+
+4 Schaffel in common, you’re simply showing that
+
+5 there’s phone calls from Miller to Schaffel, however
+
+6 you say his name, and there’s phone calls from
+
+7 Schaffel’s phone to Amen’s phone or vice versa,
+
+8 right?
+
+9 A. Correct.
+
+10 MR. SNEDDON: I object. That’s
+
+11 unintelligible and compound.
+
+12 THE COURT: Well, it’s compound for sure.
+
+13 MR. SANGER: Okay. Is it sustained, Your
+
+14 Honor? I couldn’t quite hear what you said.
+
+15 THE COURT: I said it’s compound. I didn’t
+
+16 rule on the other issue. Go ahead.
+
+17 MR. SANGER: Spared me an unintelligible
+
+18 ruling.
+
+19 THE COURT: Right.
+
+20 Q. BY MR. SANGER: Okay. Well, what I’m
+
+21 getting at here is, the Brad Miller phone and the
+
+22 Schaffel phone have calls that go one way or the
+
+23 other, three calls going one way or the other,
+
+24 right?
+
+25 A. Correct.
+
+26 Q. And then the Schaffel phone and the Amen
+
+27 phone have three calls going one way or the other,
+
+28 correct? 12440
+
+
+
+1 A. Correct.
+
+2 Q. You have no information from these phone
+
+3 records who was on any of those phones, correct?
+
+4 A. Yes and no.
+
+5 Q. Okay. You have phones that are registered
+
+6 or purchased by a certain person?
+
+7 A. And cellular phones at that.
+
+8 Q. And some are cellular phones, so you might
+
+9 assume that the person who has the cell phone is a
+
+10 person who’s making the calls, right?
+
+11 A. Correct.
+
+12 Q. All right. So -- but other than that, you
+
+13 don’t know --
+
+14 A. No.
+
+15 Q. -- who was on the phone?
+
+16 All right. And you certainly don’t know the
+
+17 subject matter of these calls, right?
+
+18 A. No.
+
+19 Q. Now, throughout here, and I’m not going to
+
+20 put all these up, you listed quite a number of phone
+
+21 calls between Brad Miller and -- Brad Miller’s phone
+
+22 and the Geragos & Geragos phones, right?
+
+23 A. Correct.
+
+24 Q. And those phone calls you listed starting on
+
+25 February the 4th of 2005, right?
+
+26 A. Correct.
+
+27 MR. SANGER: So I’ll go back -- with the
+
+28 Court’s permission, I’ll go back to that page. 12441
+
+
+
+1 THE COURT: Yes.
+
+2 Q. BY MR. SANGER: And you prepared this as an
+
+3 exhibit in the case of People versus Michael
+
+4 Jackson, correct?
+
+5 A. Correct.
+
+6 Q. And from these phone records, do you have
+
+7 any information that any of those four phone calls
+
+8 had anything to do with Michael Jackson or any of
+
+9 these other people who were doing whatever they were
+
+10 doing during this period of time?
+
+11 A. On that particular day, I do not.
+
+12 Q. Okay. In fact, you omitted to list a large
+
+13 number of telephone calls between the Geragos phone
+
+14 or phones and the Brad Miller phones during the
+
+15 period of time for which you had records, did you
+
+16 not?
+
+17 A. I don’t understand what you’re --
+
+18 MR. SANGER: Okay. Well, let’s do this.
+
+19 May I approach? I want to show the witness an
+
+20 exhibit.
+
+21 THE COURT: Yes.
+
+22 MR. SANGER: I’ll tell you what, I’ll do it
+
+23 this way, if it’s all right with the Court. I have
+
+24 Exhibit 903, which actually was introduced through
+
+25 the testimony of Mr. Dickerman, and I’d like to turn
+
+26 to a page several pages into it, and I’ll put that
+
+27 up.
+
+28 MR. SNEDDON: Can I see it, please? 12442
+
+
+
+1 MR. SANGER: Yeah.
+
+2 Q. I’m going to put this up here, and I’m
+
+3 really just showing the top part of it, which is the
+
+4 letterhead of Geragos & Geragos, right?
+
+5 A. Correct.
+
+6 Q. And you mentioned a 3900. It’s a little
+
+7 unclear, actually, as I look at it, but the phone
+
+8 number there is (213) 625-3900. That’s the main
+
+9 phone number for that law firm, correct?
+
+10 A. It appears by that particular document, yes.
+
+11 Q. And you had mentioned earlier 3900?
+
+12 A. Correct.
+
+13 Q. So you were aware that this is, in fact, the
+
+14 main phone number for the Geragos & Geragos law
+
+15 firm; is that right?
+
+16 A. 3900 or 3000.
+
+17 Q. 3900?
+
+18 A. 3900 is the information that I have received
+
+19 from the phone company.
+
+20 Q. Yeah. Okay. Well, now we’re having some --
+
+21 where do you get 3000 from? Does that look like
+
+22 3000? It does, a little bit, to me.
+
+23 A. It does -- it does when I’m looking at it
+
+24 here.
+
+25 MR. SANGER: May I approach, Your Honor?
+
+26 THE COURT: Yes.
+
+27 Q. BY MR. SANGER: That was my concern, too.
+
+28 So let me just show you the document. 12443
+
+
+
+1 When you look at it -- if I may ask the
+
+2 question here, when you look at it, it really is
+
+3 3900, correct?
+
+4 A. Correct.
+
+5 Q. Okay. I’ll put it back up, and maybe I can --
+
+6 there we go. That’s the way it is. So that number,
+
+7 (213) 625-3900, that is the number that you looked
+
+8 for when you looked for phone numbers starting with
+
+9 February 4, 2005, correct?
+
+10 A. Correct.
+
+11 Q. Were you aware that Brad Miller was a
+
+12 private investigator?
+
+13 A. Yes.
+
+14 Q. Were you aware that Brad Miller was working
+
+15 for Mr. Geragos during the time period 2003,
+
+16 February through March?
+
+17 A. That is my understanding.
+
+18 Q. Were you aware that Mr. Miller was working
+
+19 for Mr. Geragos on other cases during that time?
+
+20 A. I am not aware personally, no.
+
+21 Q. Not personally, but through your
+
+22 investigation, you became aware of that, did you
+
+23 not?
+
+24 MR. SNEDDON: I’ll move to strike as
+
+25 hearsay; lack of foundation.
+
+26 THE COURT: Overruled.
+
+27 You may answer.
+
+28 THE WITNESS: As of, I believe, yesterday, I 12444
+
+
+
+1 heard somebody mention another case that they were
+
+2 working on together.
+
+3 Q. BY MR. SANGER: High-profile case, right?
+
+4 A. Correct.
+
+5 Q. And you would expect a lawyer and an
+
+6 investigator working on a high-profile case --
+
+7 having nothing to do with Mr. Jackson, right? The
+
+8 case you just heard about, the case you heard about
+
+9 had nothing to do with Mr. Jackson, correct?
+
+10 A. Correct.
+
+11 Q. You would expect that Mr. Geragos and Mr.
+
+12 Miller, his investigator, would be having telephone
+
+13 conversations about that high-profile case,
+
+14 independent of anything to do with Mr. Jackson or
+
+15 anybody associated with Mr. Jackson, right?
+
+16 MR. SNEDDON: Same objection, Your Honor.
+
+17 Lack of foundation; calls for speculation.
+
+18 THE COURT: Sustained.
+
+19 Q. BY MR. SANGER: In fact, when you look at
+
+20 the records --
+
+21 And I have here, Your Honor, 448, and this
+
+22 is an envelope of records which were the Bradley
+
+23 Miller records. And I want to turn to certain
+
+24 pages.
+
+25 Okay. As luck would have it, they’re in a
+
+26 different order. Give me just one second, Your
+
+27 Honor.
+
+28 I’m going to turn to the page that is the 12445
+
+
+
+1 telephone bill of January 8, 2003, and it’s page 6
+
+2 of 29, and I’d like to put that page up on the
+
+3 screen, and it would be from Exhibit 448.
+
+4 THE COURT: All right.
+
+5 MR. SANGER: Thank you.
+
+6 Q. I’m not going to go through all of these,
+
+7 because they’re in evidence, but just as an
+
+8 example -- take a few examples here. Here on
+
+9 November 30th of 2002, there is a call from the
+
+10 Geragos law firm to Mr. Miller’s phone; is that
+
+11 correct?
+
+12 MR. SNEDDON: Your Honor, I’m going to
+
+13 object to this. November is way out of the time
+
+14 frame of the purported testimony offered by the
+
+15 prosecution. This is irrelevant and immaterial.
+
+16 THE COURT: Overruled.
+
+17 MR. SANGER: I don’t know if there was an
+
+18 answer, Your Honor.
+
+19 THE COURT: No, there wasn’t.
+
+20 Q. BY MR. SANGER: So my question was, it
+
+21 appears November 30th, 2002, there was a telephone
+
+22 call from the Geragos & Geragos telephone system to
+
+23 Mr. Miller; is that correct?
+
+24 A. Correct.
+
+25 Q. And let’s see if we can -- I’m not going to
+
+26 go through all of these again, but let me just do
+
+27 some representative ones here.
+
+28 If we -- I’d like to put up page 9 of 29, 12446
+
+
+
+1 the January 8th phone bill from Exhibit 448, if I
+
+2 may.
+
+3 Do you see an incoming call? Brad Miller’s
+
+4 phone receives a call from the Geragos & Geragos law
+
+5 firm on December 5, 2002, correct?
+
+6 A. That’s correct.
+
+7 Q. And you see down here a couple of calls.
+
+8 One is an incoming call from the cell phone number
+
+9 you had for Geragos & Geragos; is that correct?
+
+10 A. That’s correct.
+
+11 Q. And that would be December 6th, 2002?
+
+12 A. Correct.
+
+13 Q. And it’s followed by an outgoing call to the
+
+14 Geragos cell phone on that same date, three minutes
+
+15 later, right?
+
+16 A. Correct.
+
+17 Q. In fact, if we go through the records prior
+
+18 to February 4, 2003, the records that you have that
+
+19 start about November of 2002 and go through February
+
+20 3, 2003, there’s quite a number of calls, dozens of
+
+21 calls between Mr. Miller’s phone and the Geragos &
+
+22 Geragos phones; is that correct?
+
+23 A. I know now that there are three. We did not
+
+24 extend beyond the relevant time frame during our
+
+25 analysis.
+
+26 Q. Well, and how did you determine the relevant
+
+27 time frame?
+
+28 A. Based upon what was happening with the 12447
+
+
+
+1 family and the events that occurred beginning in the
+
+2 beginning of February and ending mid March.
+
+3 Q. So when you say you’re showing the phone
+
+4 calls that are in the relevant time period, you’re
+
+5 saying that you believe somehow support your theory
+
+6 in this case against Mr. Jackson; is that right?
+
+7 MR. SNEDDON: I’m going to object to that
+
+8 and ask counsel be admonished. It’s argumentative.
+
+9 THE COURT: Sustained.
+
+10 Q. BY MR. SANGER: Saying the relevant time
+
+11 period, you’re talking about the time period that
+
+12 you believe pertains to this case, right?
+
+13 A. Correct.
+
+14 Q. But you don’t know that the phone calls were
+
+15 made during that period of time. Let me withdraw
+
+16 that.
+
+17 You don’t know whether or not the phone
+
+18 calls made during that period of time had any
+
+19 relation to this case?
+
+20 A. I think I can, yes.
+
+21 Q. You think some of them did?
+
+22 A. Correct.
+
+23 Q. Some of them -- there are calls being made
+
+24 between Mr. Miller and Mr. Geragos that have
+
+25 something to do with what he testified to that he
+
+26 was doing in this case, we would assume, right?
+
+27 A. Well, in addition to that, you have direct
+
+28 calls between Mr. Geragos and the alleged 12448
+
+
+
+1 co-conspirators. You also have direct calls between
+
+2 Mr. Miller and the alleged co-conspirators.
+
+3 Q. That’s right.
+
+4 A. And calls between Mr. Geragos and Mr. Miller
+
+5 during that same time frame.
+
+6 Q. That’s right. But when you put the calls
+
+7 between Mr. Geragos and Mr. Miller up there, you
+
+8 don’t know how many of those pertain to this case
+
+9 and how many of those pertain to the other
+
+10 high-profile case you talked about, right?
+
+11 MR. SNEDDON: Your Honor, I’m going to
+
+12 object. It’s argumentative and asked and answered.
+
+13 THE COURT: Overruled.
+
+14 THE WITNESS: No.
+
+15 Q. BY MR. SANGER: And you also don’t know how
+
+16 many calls pertained to other things that relate
+
+17 maybe to other cases or other matters, do you?
+
+18 A. Not necessarily, no.
+
+19 Q. Okay. Now, you said you only know of three.
+
+20 I think I showed you four so far, but --
+
+21 A. I remembered three, but if you showed me
+
+22 four, I know four.
+
+23 Q. All right. Let me ask you to do this,
+
+24 because I really don’t want to take up the Court’s
+
+25 time doing this, if I may.
+
+26 What I’d like to do is take this off the
+
+27 board, and I’m going to -- with the Court’s
+
+28 permission, I’m going to take Exhibit 448, which is 12449
+
+
+
+1 the actual court exhibit of the Brad Miller phone
+
+2 records, and I’m going to also bring up a book with
+
+3 some markers on it and let the witness take a look
+
+4 at all of that and see if we can’t identify some
+
+5 more phone calls more quickly.
+
+6 May I do that?
+
+7 THE COURT: Fine.
+
+8 MR. SANGER: Thank you.
+
+9 THE WITNESS: Thank you.
+
+10 Q. BY MR. SANGER: That’s 448, and I’ll show
+
+11 you my book there, and you can do whatever you want
+
+12 to answer this question. But what I’m going to ask
+
+13 you, after you have a chance to flip through, there
+
+14 appears to be some phone numbers that we already
+
+15 highlighted and put some post-its there so you can
+
+16 find them.
+
+17 And what I’m going to ask you is, after you
+
+18 reviewed that, if that would give you sufficient
+
+19 information to tell me whether or not there appear
+
+20 to be dozens of phone calls between Mr. Miller
+
+21 and -- Mr. Miller’s office and Mr. Geragos’s office
+
+22 prior to February the 4th, 2003.
+
+23 A. I did it.
+
+24 Dozens, as long as you’re talking multiple,
+
+25 as in two or three dozen, yes.
+
+26 Q. Two or three dozen, all right.
+
+27 May I approach with another exhibit, Your
+
+28 Honor? 12450
+
+
+
+1 THE COURT: Yes.
+
+2 Q. BY MR. SANGER: I was going to say while
+
+3 counsel is looking at that, but by the way, the Law
+
+4 Firm of Geragos & Geragos, you determined, has a
+
+5 number of lawyers in it; is that correct?
+
+6 A. I know of at least two --
+
+7 Q. Okay.
+
+8 A. -- personally.
+
+9 Q. Personally you know of two?
+
+10 A. Yes.
+
+11 Q. All right. In fact, besides personally
+
+12 knowing of two, there’s five or six lawyers in the
+
+13 firm, is there not?
+
+14 A. I don’t know.
+
+15 MR. SNEDDON: I’m going to object to that.
+
+16 Calls for speculation
+
+17 THE COURT: It’s overruled. He said he
+
+18 doesn’t know.
+
+19 MR. SANGER: All right. I’m going to show
+
+20 you what’s been marked for identification as Exhibit
+
+21 5108.
+
+22 And, Your Honor, this was previously marked
+
+23 for identification perhaps at a point when the jury
+
+24 wasn’t in the room, so if I may recite what it is.
+
+25 It is a page from a telephone bill of February the
+
+26 25th, 2003, to a number at the ranch, 688-1679. And
+
+27 I believe Mr. Sneddon agreed to the foundation for
+
+28 that. It hasn’t been offered yet. 12451
+
+
+
+1 Q. Okay. So I’m asking you to look at Exhibit
+
+2 5108. You’ve got that in front of you. And I’d
+
+3 like you to look at the first entry, which is on
+
+4 line 13, for February the 12th, a call at 12:55 a.m.
+
+5 A. Okay.
+
+6 Q. Does it appear that a call was made at 12:55
+
+7 a.m. from the ranch to a particular number that’s
+
+8 shown there? Do you see it?
+
+9 A. Yes.
+
+10 Q. And it lasted about seven minutes. They
+
+11 were billed for seven minutes?
+
+12 A. Correct.
+
+13 Q. All right. Do you recognize the number to
+
+14 which that call was placed?
+
+15 A. I do not.
+
+16 Q. But you would agree that there is a call at
+
+17 2:55 a.m. that’s made from the ranch elsewhere; is
+
+18 that correct?
+
+19 A. 12:55 a.m.
+
+20 Q. I’m sorry, 12:55 a.m., and it’s made to a
+
+21 local (805) area code --
+
+22 A. Correct.
+
+23 Q. -- destination.
+
+24 All right. Thank you. And I have no
+
+25 further questions.
+
+26 //
+
+27 //
+
+28 // 12452
+
+
+
+1 REDIRECT EXAMINATION
+
+2 BY MR. SNEDDON:
+
+3 Q. Detective Bonner, with regard to the exhibit
+
+4 that was played for the jury, 808, I believe is the
+
+5 exhibit --
+
+6 MR. SANGER: It was 908-A.
+
+7 MR. SNEDDON: I’m sorry.
+
+8 MR. SANGER: 908.
+
+9 MR. SNEDDON: 908? Thank you.
+
+10 Q. 908-A, the one that was played in the
+
+11 courtroom, the one that you marked the location of
+
+12 the cameraman at the time it was made --
+
+13 A. Correct.
+
+14 Q. -- you were there at that location when that
+
+15 film was made; is that correct?
+
+16 A. Yes, I was.
+
+17 Q. And you were obviously in the courtroom when
+
+18 you heard it played for the jury?
+
+19 A. Yes, I was.
+
+20 Q. Was the sound of those chimes louder or
+
+21 softer at the time that you were standing next to
+
+22 the cameraman in the room than in the courtroom
+
+23 here?
+
+24 A. I would say it was consistent.
+
+25 MR. SNEDDON: All right. Thank you very
+
+26 much.
+
+27 MR. SANGER: I have no further questions.
+
+28 MR. SNEDDON: Oh. 12453
+
+
+
+1 MR. SANGER: Oh, maybe I do.
+
+2 MR. SNEDDON: I’m just reminded, yeah,
+
+3 before the witness leaves, that there was -- we
+
+4 moved 416 into evidence and the Court held it back
+
+5 until after Mr. Sanger had cross-examination, and we
+
+6 would now move that 416 -- 460, I’m sorry. That’s
+
+7 how these problems occur -- 460 be admitted into
+
+8 evidence.
+
+9 MR. SANGER: Those are the --
+
+10 MR. SNEDDON: Charts.
+
+11 MR. SANGER: -- the charts. They’re
+
+12 cumulative to a certain extent, but I’ll submit it.
+
+13 THE COURT: Admitted.
+
+14 Any other questions?
+
+15 MR. SNEDDON: No, I don’t have any
+
+16 questions.
+
+17 THE COURT: All right. You may step down.
+
+18 THE WITNESS: Thank you, Your Honor.
+
+19 THE COURT: Call your next witness.
+
+20 MR. SNEDDON: Your Honor, at this time I
+
+21 have a document which I’d like to move -- I’ve had
+
+22 marked as People’s 902 for identification purposes.
+
+23 I gave counsel a copy of it yesterday. I’ll let him
+
+24 examine it to make sure it’s --
+
+25 MR. SANGER: No, no. That’s all right.
+
+26 MR. SNEDDON: It’s a document from the
+
+27 Superior Court, the State of California, the County
+
+28 of Los Angeles, and it’s a five-page document, and 12454
+
+
+
+1 it is part of the lawsuit involving the Arvizos and
+
+2 J.C. Penney. And I would move that this document be
+
+3 admitted into evidence. It is certified by the
+
+4 Clerk of the Court May 26th of 2005.
+
+5 MR. SANGER: Your Honor, I have an objection
+
+6 to that which I’ll state in legal terms first.
+
+7 The objection is that the document contains
+
+8 hearsay, and the Court will have to look at it to
+
+9 see what I’m talking about. There’s a declaration
+
+10 that’s just hearsay, opinion.
+
+11 Secondly, it’s an incomplete document.
+
+12 THE COURT: Wait. Who has the document?
+
+13 MR. SNEDDON: I do, Your Honor. I’ll --
+
+14 MR. SANGER: It’s an incomplete -- if I may
+
+15 just finish my objection. Is that all right, Your
+
+16 Honor?
+
+17 THE COURT: Yes.
+
+18 MR. SANGER: It’s an incomplete document in
+
+19 that it refers to Exhibits, I believe, A and B that
+
+20 are not attached to this particular document, and it
+
+21 is also one document that, besides being hearsay, is
+
+22 out of context without those exhibits and without
+
+23 the other documents surrounding it.
+
+24 If you’d want us to approach, I was going to
+
+25 pinpoint the objection.
+
+26 MR. SNEDDON: I could state the relevancy,
+
+27 which probably might be helpful to the Court. I
+
+28 could do it from here or I could do it at the bench. 12455
+
+
+
+1 THE COURT: Why don’t you approach.
+
+2 (Discussion held off the record at sidebar.)
+
+3 MR. SNEDDON: Your Honor, there is another
+
+4 item.
+
+5 THE COURT: All right.
+
+6 MR. SNEDDON: There is a series of
+
+7 photographs marked 889 through 897, which are the
+
+8 photographs I believe that were relevant to the
+
+9 testimony of Brett Barnes, and they were marked for
+
+10 identification. They were authenticated by at least
+
+11 two witnesses, and we move that they be admitted
+
+12 into evidence.
+
+13 MR. SANGER: And I missed the numbers on
+
+14 that. I’m sorry.
+
+15 MR. SNEDDON: 889 and 897. I believe the
+
+16 letter is 897. The photographs are 889 to 896. And
+
+17 there might even be a blank space in there.
+
+18 MR. SANGER: Before we get to that, Your
+
+19 Honor, just so the record is clear, I don’t think
+
+20 the Court ruled on the record.
+
+21 BAILIFF CORTEZ: Your microphone’s off, sir.
+
+22 MR. SANGER: My fault, I’m sorry.
+
+23 I don’t think the Court ruled on the record
+
+24 with regard to 902.
+
+25 THE COURT: All right. I’m ruling at this
+
+26 point, without further information, it’s
+
+27 inadmissible.
+
+28 MR. SANGER: Now, with regard to what was 12456
+
+
+
+1 just offered, quite frankly, I’d have to take look
+
+2 at it to see what we’re talking about.
+
+3 THE COURT: 889 --
+
+4 MR. SANGER: Could I approach your clerk? I
+
+5 believe she’s retrieving them.
+
+6 THE COURT: Yeah. 889 through 897. 895 has
+
+7 not been identified, so it wouldn’t include 895.
+
+8 MR. SANGER: Let me show them to Mr.
+
+9 Mesereau.
+
+10 (Off-the-record discussion held at counsel
+
+11 table.)
+
+12 MR. SANGER: Your Honor, as far as the
+
+13 photographs are concerned, which are 889 through
+
+14 896, minus 895, which is not being offered, we would
+
+15 have no objection to that series.
+
+16 With regard to the letter, which is 897,
+
+17 that’s hearsay, and we would object.
+
+18 THE COURT: 889 - let me see those, please -
+
+19 through 896 are admitted.
+
+20 895, not having been identified, it’s not
+
+21 one of the ones I’m admitting.
+
+22 MR. SANGER: With regard to the letter -- I
+
+23 just gave it back. Whatever number that was. 897?
+
+24 THE COURT: Yes.
+
+25 MR. SANGER: I’ll object as hearsay, but I’d
+
+26 also object that this is not proper rebuttal. This
+
+27 is something that occurred during the defense case
+
+28 or was brought up during the defense case, and if it 12457
+
+
+
+1 was going to be moved in, it should have been moved
+
+2 in then. But it’s still hearsay, so I don’t think
+
+3 it comes in either way.
+
+4 THE COURT: Do you want to speak to the
+
+5 hearsay issue?
+
+6 MR. ZONEN: Yes, Your Honor.
+
+7 It’s reflective of the declarant’s state of
+
+8 mind. She was cross-examined extensively about that
+
+9 letter. The author of that letter was a witness for
+
+10 the defense during the defense case. And that
+
+11 letter, without getting into the content of it,
+
+12 reflects her feelings and views of the relationship
+
+13 between she, the defendant and her child, and I
+
+14 believe it’s relevant for that, in that regard.
+
+15 THE COURT: I’ll take this up later.
+
+16 MR. ZONEN: Would you like a typed copy of
+
+17 that? It’s easier to read in a typed copy.
+
+18 THE COURT: If you have one.
+
+19 MR. ZONEN: I don’t know that I have one
+
+20 here, but I will get one for you as soon as
+
+21 possible.
+
+22 THE COURT: Okay.
+
+23 MR. SANGER: Will you give us a copy of the
+
+24 typed copy?
+
+25 MR. ZONEN: Yes.
+
+26 THE COURT: Go ahead.
+
+27 MR. AUCHINCLOSS: Your Honor, at this time
+
+28 we would like to publish for the jury seven 12458
+
+
+
+1 different documents from the 400 series of
+
+2 documents, all in the 400 notebook. These were the
+
+3 documents that were admitted pursuant to a search of
+
+4 the home of Marc Schaffel.
+
+5 I can proceed in a couple of ways. There’s
+
+6 two of the documents that will require reading,
+
+7 either by myself or by the jury. So those will take
+
+8 just a little bit of time. And I can publish them
+
+9 on the Elmo and give the jury time to read them.
+
+10 The other documents are short and should be pretty
+
+11 quick to get on and off the screen.
+
+12 So I’m happy to proceed any way you’d like
+
+13 me to. These documents, by the way, are not part of
+
+14 our rebuttal case. They were admitted at the end of
+
+15 the People’s case, and we did not have a chance to
+
+16 publish them because of that.
+
+17 THE COURT: And I said I would allow you to
+
+18 publish them.
+
+19 MR. AUCHINCLOSS: How would you like me to
+
+20 proceed? Just to put them on the Elmo and give the
+
+21 jury time to read them?
+
+22 THE COURT: That’s fine.
+
+23 MR. AUCHINCLOSS: All right. Very well.
+
+24 I’ll just mention each document as I’m placing it on
+
+25 the Elmo.
+
+26 THE COURT: All right.
+
+27 MR. SANGER: Your Honor, could we just
+
+28 approach for a moment? Could we approach for a 12459
+
+
+
+1 moment?
+
+2 THE COURT: Yes.
+
+3 MR. SANGER: Thank you.
+
+4 (Discussion held off the record at sidebar.)
+
+5 (Off-the-record discussion held at counsel
+
+6 table.)
+
+7 MR. AUCHINCLOSS: I believe counsel’s just
+
+8 going to take a moment to look at the documents
+
+9 before I publish them.
+
+10 THE COURT: That’s what we agreed to.
+
+11 MR. SANGER: Based on the representation
+
+12 that each of these has actually been received -- I
+
+13 know the Court had some rulings, but based on that
+
+14 representation, I have no objection.
+
+15 THE COURT: All right. Thank you.
+
+16 MR. AUCHINCLOSS: All right. Your Honor, if
+
+17 I could please have the Elmo.
+
+18 MR. SANGER: I would object to any reading.
+
+19 I mean, introduce what it is, but I don’t think
+
+20 there should be further discussion, except to say,
+
+21 “This is Exhibit so and so.”
+
+22 MR. AUCHINCLOSS: That’s my intention.
+
+23 And if I could confirm with Madam Clerk, was
+
+24 419 received into evidence? 419, page three?
+
+25 THE CLERK: Yes. Yes. Yes, it was.
+
+26 MR. AUCHINCLOSS: Thank you.
+
+27 The first exhibit will be 419, page three,
+
+28 Your Honor. 12460
+
+
+
+1 (Whereupon, People’s Exhibit 419, page
+
+2 three, was published to the Court and jury.)
+
+3 MR. AUCHINCLOSS: The next exhibit will be
+
+4 418-A.
+
+5 THE CLERK: 418-A was not received.
+
+6 MR. AUCHINCLOSS: 418-A?
+
+7 THE CLERK: 418, page three, was received.
+
+8 MR. AUCHINCLOSS: Yes, okay. But 418-A?
+
+9 THE CLERK: Was not received.
+
+10 MR. AUCHINCLOSS: Not received, okay.
+
+11 418?
+
+12 THE CLERK: That was received.
+
+13 (Whereupon, People’s Exhibit 418 was
+
+14 published to the Court and jury.)
+
+15 MR. AUCHINCLOSS: The next exhibit I’ll ask
+
+16 to publish is Exhibit 417, page 12.
+
+17 (Whereupon, People’s Exhibit 417, page 12,
+
+18 was published to the Court and jury.)
+
+19 MR. AUCHINCLOSS: I’ll show a wide-angle
+
+20 view, and then I’ll close in on the text portion.
+
+21 THE COURT: Counsel, we’re going to stop just
+
+22 for a second.
+
+23 Go ahead, Alternate.
+
+24 MR. SANGER: Could we use the moment to
+
+25 approach on a different matter at this time?
+
+26 THE COURT: Yeah.
+
+27 MR. SANGER: I think with Mr. Sneddon on
+
+28 this one. 12461
+
+
+
+1 I’m sorry, Mr. Sneddon.
+
+2 MR. SNEDDON: What’s the matter?
+
+3 MR. SANGER: Approach.
+
+4 MR. SNEDDON: May I know what it’s about?
+
+5 (Off-the-record discussion held at counsel
+
+6 table.)
+
+7 (Discussion held off the record at sidebar.)
+
+8 MR. AUCHINCLOSS: May I proceed, Your Honor?
+
+9 THE COURT: Yes.
+
+10 MR. AUCHINCLOSS: The next exhibit I will be
+
+11 publishing will be Exhibit No. 410, page two.
+
+12 (Whereupon, People’s Exhibit 410, page two,
+
+13 was published to the Court and jury.)
+
+14 MR. AUCHINCLOSS: And the next exhibit I
+
+15 will be publishing will be 407, pages two and three.
+
+16 And this one will take a little bit of time. These
+
+17 next two are -- have some text in them, so I’ll
+
+18 probably move in close and then gradually move down
+
+19 the page, with the Court’s permission.
+
+20 (Whereupon, People’s Exhibit 407, page two,
+
+21 was published to the Court and jury.)
+
+22 MR. AUCHINCLOSS: If I may, I’ll move the
+
+23 letter down.
+
+24 (Whereupon, People’s Exhibit 407, page two,
+
+25 continued to be published to the Court and jury.)
+
+26 MR. AUCHINCLOSS: And finally, I’ll move on
+
+27 to page three now.
+
+28 (Whereupon, People’s Exhibit 407, page 12462
+
+
+
+1 three, was published to the Court and jury.)
+
+2 MR. AUCHINCLOSS: And then the last exhibit
+
+3 we’ll be publishing at this time is Exhibit No. 405.
+
+4 I’ll also move this down slowly to give everyone a
+
+5 chance to read it.
+
+6 (Whereupon, People’s Exhibit 405 was
+
+7 published to the Court and jury.)
+
+8 MR. AUCHINCLOSS: All right. Thank you very
+
+9 much, Your Honor.
+
+10 THE COURT: Mr. Sneddon?
+
+11 MR. SNEDDON: Yes, Your Honor.
+
+12 THE COURT: Do you have the -- remember that
+
+13 short brief you gave me on the issue on this tape,
+
+14 on this DVD?
+
+15 MR. SNEDDON: Do I remember the issue?
+
+16 THE COURT: Do you have the brief that you
+
+17 provided me with?
+
+18 MR. SNEDDON: On this issue?
+
+19 THE COURT: Yeah.
+
+20 MR. SNEDDON: I -- I -- I’m not sure if I
+
+21 do. Could I check my briefcase?
+
+22 THE COURT: Yes. I don’t have mine at bench,
+
+23 so I was just wondering if someone had it.
+
+24 MR. SNEDDON: Oh, on the -- yes, sir, I know
+
+25 what you’re talking about.
+
+26 I’m sorry, Your Honor, I did not bring my
+
+27 copy with me. I think Mr. Auchincloss can retrieve
+
+28 it on his computer, but to get it printed out would 12463
+
+
+
+1 be another thing.
+
+2 THE COURT: Okay. Are you going to -- are
+
+3 you preparing to play that now?
+
+4 MR. SNEDDON: I was. I have a few questions
+
+5 to ask to lay the foundation, but I can have
+
+6 somebody run upstairs and print it out. It may be
+
+7 on -- should be on Mag’s computer, isn’t it?
+
+8 Your Honor, I think Mr. Nicola has it on his
+
+9 computer as well, and we can go up and print it out
+
+10 and have it down here, I think, in just a couple of
+
+11 minutes.
+
+12 THE COURT: All right. I appreciate it.
+
+13 MR. SNEDDON: Would you like me to go ahead
+
+14 and at least lay the foundation?
+
+15 THE COURT: Yes. Go ahead.
+
+16 MR. SNEDDON: All right. I’ll call Sergeant
+
+17 Robel back to the stand, Your Honor.
+
+18 THE COURT: You’re still under oath. You may
+
+19 be seated.
+
+20
+
+21 STEVE ROBEL
+
+22 Having been previously sworn, resumed the
+
+23 stand and testified further as follows:
+
+24
+
+25 DIRECT EXAMINATION
+
+26 BY MR. SNEDDON:
+
+27 Q. Sergeant Robel, in conjunction with your
+
+28 assignment involved in this investigation, did you 12464
+
+
+
+1 conduct an interview with Gavin Arvizo?
+
+2 A. Yes, I did.
+
+3 Q. Do you recall when the first time it was
+
+4 that you interviewed Gavin Arvizo?
+
+5 A. Yes, I do.
+
+6 Q. And when was that?
+
+7 A. I believe it was July the 6th, 2003.
+
+8 Q. And where did that interview take place?
+
+9 A. In the City of Santa Barbara.
+
+10 Q. And where in the City of Santa Barbara?
+
+11 A. At the SART Cottage.
+
+12 Q. And what does “SART” stand for?
+
+13 A. Sexual Assault Response Team. It’s a
+
+14 building that we use to conduct forensic interviews.
+
+15 Q. And was the conversation and interview that
+
+16 you conducted that day with Gavin Arvizo
+
+17 tape-recorded?
+
+18 A. Yes, it was.
+
+19 Q. Was it also videoed?
+
+20 A. Yes, it was.
+
+21 Q. And was there another officer who
+
+22 participated with you in that interview?
+
+23 A. Yes, there was.
+
+24 Q. And who was that?
+
+25 A. Detective Paul Zelis.
+
+26 Q. Now, you have had occasion since then to
+
+27 review the tape of the interview with Gavin Arvizo,
+
+28 correct? 12465
+
+
+
+1 A. Yes, I have.
+
+2 Q. And you’ve actually done that on a number of
+
+3 occasions?
+
+4 A. Yes, I have.
+
+5 Q. Now, with regard to the original interview,
+
+6 what media format was that done in?
+
+7 A. VHS.
+
+8 Q. And you’ve reviewed that VHS tape; is that
+
+9 correct?
+
+10 A. Yes, I have.
+
+11 Q. And later, for purposes -- well, later, that
+
+12 VHS was converted into a digital form; is that
+
+13 correct?
+
+14 A. Correct.
+
+15 Q. And have you had occasion to review the
+
+16 digital form of the interview between you and Gavin
+
+17 Arvizo?
+
+18 A. Yes, I have.
+
+19 Q. And have you -- with regard to the VHS
+
+20 original and the DVD copy that was made, do they
+
+21 appear to you to be the same?
+
+22 A. Yes, they do.
+
+23 MR. SNEDDON: Your Honor, I believe that we
+
+24 have previously marked People’s 900, and it was
+
+25 marked for identification purposes at that time, and
+
+26 we would now move that People’s Exhibit 900 be
+
+27 admitted into evidence.
+
+28 MR. SANGER: We object, of course, but if 12466
+
+
+
+1 it’s admitted, it’s admitted for a limited purpose.
+
+2 THE COURT: It is.
+
+3 MR. SNEDDON: With that understanding, Your
+
+4 Honor, and --
+
+5 THE COURT: It’s admitted.
+
+6 MR. SNEDDON: -- I’m afraid I’ve stalled as
+
+7 long as I can.
+
+8 THE COURT: Maybe we’ll just start the break.
+
+9 The reason I wanted that is, I want to give
+
+10 a limiting instruction, and I’m trying to develop
+
+11 some words, and so I think we’ll just break early so
+
+12 I can look at that. I don’t want to show the tape
+
+13 till we’ve done that.
+
+14 MR. SNEDDON: I understand. That’s -- I
+
+15 understand fully. Thank you.
+
+16 THE COURT: Send it back to me as soon as
+
+17 you --
+
+18 MR. SNEDDON: I’m sorry?
+
+19 THE COURT: Send it back as soon as you get
+
+20 it.
+
+21 MR. SNEDDON: Oh, send it back. Yes, sir.
+
+22 (Recess taken.)
+
+23 THE COURT: (To the jury) I was going to
+
+24 say, “Would you step out for a minute?” but I got
+
+25 the laugh anyway.
+
+26 All right. What I’ve been working on, what
+
+27 we’ve been working on, is an instruction here, and
+
+28 this is an instruction as it relates to this 12467
+
+
+
+1 evidence that the District Attorney is about to
+
+2 present:
+
+3 You have previously heard evidence of
+
+4 Gavin’s statements presented by both the prosecution
+
+5 and the defense. You are about to hear and see a
+
+6 tape-recording of the interview of Gavin Arvizo by
+
+7 Sergeant Robel and Detective Zelis in July of 2003.
+
+8 This is being shown to you only to observe
+
+9 the demeanor, manner and attitude of the witness.
+
+10 His statements are not to be considered for the
+
+11 truth of the matter stated.
+
+12 Since the evidence is offered for this
+
+13 limited purpose, the defense is only permitted to
+
+14 offer rebuttal evidence for this limited purpose.
+
+15 All right. You may proceed.
+
+16 MR. SNEDDON: Your Honor, we’re prepared to
+
+17 show the video at this time, and I would request
+
+18 that Sergeant Robel be allowed to sit back here so
+
+19 he wouldn’t be in the way for people to see the
+
+20 video.
+
+21 THE COURT: Yes.
+
+22 MR. SNEDDON: Is that okay with the Court?
+
+23 THE COURT: Yes.
+
+24 MR. SNEDDON: All right. Fine.
+
+25 I think I should indicate for the record,
+
+26 this is Exhibit 900. It’s in evidence.
+
+27 THE COURT: And you should tell everyone
+
+28 about how long it will take to play it. 12468
+
+
+
+1 MR. SNEDDON: Oh, okay. It’s about one hour
+
+2 and four minutes long.
+
+3 THE COURT: All right.
+
+4 (Whereupon, a DVD, People’s Exhibit 900, was
+
+5 played for the Court and jury.)
+
+6 MR. SNEDDON: I have no further questions,
+
+7 Your Honor.
+
+8 THE COURT: Mr. Sanger?
+
+9
+
+10 CROSS-EXAMINATION
+
+11 BY MR. SANGER:
+
+12 Q. All right. I only have a couple of areas to
+
+13 cover with you here.
+
+14 The first one is that there’s sniffling you
+
+15 hear throughout that tape. Did you hear that?
+
+16 A. Yes.
+
+17 Q. That was Detective Zelis; is that right?
+
+18 A. On a couple occasions it was Detective
+
+19 Zelis. He had a cold.
+
+20 Q. A couple of occasions?
+
+21 A. There were occasions that it was Gavin as
+
+22 well.
+
+23 Q. And I saw you giving Gavin Kleenex to help
+
+24 him with his sniffling?
+
+25 A. No, he was wiping his nose with his finger.
+
+26 Q. And you would agree, if people watch that,
+
+27 they can form their own opinion on that?
+
+28 MR. SNEDDON: I’ll object as argumentative. 12469
+
+
+
+1 THE COURT: Sustained.
+
+2 Q. BY MR. SANGER: All right. Now, the other
+
+3 thing I want to ask you about is, and this relates
+
+4 to the demeanor of Gavin Arvizo, because that’s our
+
+5 limited scope here, okay?
+
+6 The demeanor of somebody when you’re --
+
+7 well, let me put this in context. Excuse me.
+
+8 I think we’ve already been over this, but
+
+9 you’ve been a police officer for a long time,
+
+10 correct?
+
+11 A. Correct.
+
+12 Q. And you’ve conducted many, many interviews;
+
+13 is that correct?
+
+14 A. That’s correct.
+
+15 Q. And you’ve conducted many, many
+
+16 interrogations; is that correct?
+
+17 A. Correct.
+
+18 Q. All right. And there’s a difference between
+
+19 an interview and an interrogation, correct?
+
+20 A. Correct.
+
+21 Q. An interview, you’re listening, you’re
+
+22 taking notes, you’re hearing what has to be said,
+
+23 right?
+
+24 A. Correct.
+
+25 Q. An interrogation, you’re trying to get
+
+26 somebody to tell you something. You think they’re
+
+27 not maybe being forthcoming. You want to
+
+28 interrogate them and get it out of them; is that 12470
+
+
+
+1 right?
+
+2 A. That’s correct.
+
+3 Q. All right. This was an interview, not an
+
+4 interrogation, correct?
+
+5 A. Correct.
+
+6 Q. And the demeanor of a person will differ --
+
+7 in your vast experience in this regard, the demeanor
+
+8 of a person is going to be affected by whether or
+
+9 not you’re doing an interrogation or an interview,
+
+10 correct?
+
+11 A. In a way, I don’t agree totally with that.
+
+12 Q. Let’s start with this: Do you agree mostly
+
+13 with that?
+
+14 A. When you’re interviewing adults versus
+
+15 children, there is a difference in their demeanor,
+
+16 whether -- and even interviewing children, there’s a
+
+17 major change in their -- even if it’s a friendly
+
+18 interview, you’re going to see behavioral changes in
+
+19 a child versus an adult.
+
+20 Q. All right. You may be reading more into the
+
+21 question than I thought there, but the fact is, if
+
+22 you’re saying to somebody in a situation where you
+
+23 are interrogating them and challenging what they are
+
+24 telling you, that is likely to have an effect on
+
+25 their demeanor, as opposed to simply interviewing
+
+26 them and listening to what they have to say, right?
+
+27 A. That is correct.
+
+28 Q. And in this particular case, Gavin was 13 12471
+
+
+
+1 when you did this interview; is that correct?
+
+2 A. Yes, he was.
+
+3 Q. And, for instance, there’s a part where you
+
+4 ask him what an erection was, if he knew what an
+
+5 erection was; is that right?
+
+6 A. Yes.
+
+7 Q. And this 13-year-old boy told you he knew
+
+8 what it was because Michael Jackson had told him.
+
+9 Remember that?
+
+10 A. He shook his head and -- I even had a hard
+
+11 time hearing what he said, but he shook his head as
+
+12 “Yes.” I couldn’t say exactly if he said it was
+
+13 Michael or not at this point.
+
+14 Q. Okay. Whatever it is, it’s on there.
+
+15 A. Right.
+
+16 MR. SNEDDON: Your Honor, I’m going to
+
+17 object to counsel’s statements and move to strike.
+
+18 THE BAILIFF: Can’t hear you.
+
+19 MR. SNEDDON: Object to counsel’s statements
+
+20 and move to strike.
+
+21 MR. SANGER: It’s actually foundational to
+
+22 the next question.
+
+23 MR. SNEDDON: Well, it --
+
+24 MR. SANGER: But, whatever.
+
+25 THE COURT: Sustained.
+
+26 Q. BY MR. SANGER: Okay. My point is, whatever
+
+27 he said, whatever he said in response to the
+
+28 questions as to whether or not this 13-year-old boy 12472
+
+
+
+1 knew what an erection was, you did not challenge him
+
+2 at that point and say, “Well, what do you mean?
+
+3 You’re 13 and you’re telling me you don’t know what
+
+4 an erection is,” right?
+
+5 A. No, I did not.
+
+6 Q. All right. And you would agree that if you
+
+7 had conducted an interview in that fashion, that
+
+8 that might have resulted in a different demeanor on
+
+9 the part of the witness that you were interrogating;
+
+10 is that correct?
+
+11 A. Can you ask that again, please?
+
+12 MR. SANGER: Probably not.
+
+13 THE COURT: Do you want it read back?
+
+14 THE WITNESS: Yes, please.
+
+15 MR. SANGER: If we can read have it back, if
+
+16 that’s all right, Your Honor.
+
+17 (Record read.)
+
+18 MR. SANGER: Now that it was read back, I
+
+19 actually used two words there that probably aren’t
+
+20 compatible. Can I withdraw it and make it more
+
+21 clear?
+
+22 THE COURT: Yes.
+
+23 Q. BY MR. SANGER: You indicated you were
+
+24 conducting an interview and not an interrogation, so
+
+25 my question is, if you had used interrogative
+
+26 techniques in response to questions like that, you
+
+27 would expect to see a different demeanor on the part
+
+28 of the subject, no matter who it is, right? 12473
+
+
+
+1 A. Asking that particular question? Is that --
+
+2 Q. Sure. I was just using that as an example.
+
+3 A. Under interrogation versus interview.
+
+4 Q. Yeah. You’d expect to see a different
+
+5 demeanor, correct?
+
+6 A. Possibly.
+
+7 MR. SANGER: Okay. Thank you. I have no
+
+8 further questions.
+
+9
+
+10 REDIRECT EXAMINATION
+
+11 BY MR. SNEDDON:
+
+12 Q. Sergeant Robel, in the course of your
+
+13 training, you have been to a number of classes and
+
+14 training exercises dealing with the specific
+
+15 interview of child sexual assault cases, have you
+
+16 not?
+
+17 A. Yes. Several.
+
+18 Q. And have you ever been to a class where
+
+19 they’ve told you to use the interrogation and
+
+20 techniques that you would use with an adult with a
+
+21 kid in that setting?
+
+22 A. No.
+
+23 MR. SANGER: I would object, Your Honor, as
+
+24 beyond the scope of cross and outside the limited
+
+25 issue.
+
+26 THE COURT: Sustained.
+
+27 Q. BY MR. SNEDDON: Would you ever use an
+
+28 interrogation technique with a child molestation 12474
+
+
+
+1 victim?
+
+2 A. No, I wouldn’t.
+
+3 MR. SANGER: Objection; outside the scope.
+
+4 MR. SNEDDON: Judge, he asked specifically
+
+5 that question.
+
+6 THE COURT: Overruled.
+
+7 You may answer.
+
+8 THE WITNESS: I would not. It’s --
+
+9 Q. BY MR. SNEDDON: Why?
+
+10 A. Because interviewing a child, he is -- this
+
+11 person is a victim, not a suspect, and in this
+
+12 particular interview, I was trained in forensic
+
+13 interviewing, and that is interviewing and not
+
+14 interrogation.
+
+15 MR. SNEDDON: Nothing further.
+
+16
+
+17 RECROSS-EXAMINATION
+
+18 BY MR. SANGER:
+
+19 Q. And that decision is based on the fact that
+
+20 you assumed that this individual was a victim,
+
+21 correct?
+
+22 A. I assumed to -- the charges that I was
+
+23 investigating, the alleged charges, yes.
+
+24 MR. SANGER: Thank you. No further
+
+25 questions.
+
+26 MR. SNEDDON: Nothing further, Your Honor.
+
+27 THE COURT: Thank you. You may step down.
+
+28 MR. SNEDDON: Your Honor, we have no further 12475
+
+
+
+1 evidence to present in rebuttal.
+
+2 I would indicate to the Court, however, that
+
+3 with regard to the document that we went to the
+
+4 Court -- to sidebar on, which I believe is 902, that
+
+5 I would like the opportunity to present further
+
+6 documentation on Tuesday morning on that issue, so I
+
+7 could rest contingent upon that.
+
+8 THE COURT: Is that agreeable with you?
+
+9 MR. MESEREAU: Yes, sir.
+
+10 THE COURT: All right.
+
+11 MR. SNEDDON: Thank you, Your Honor.
+
+12 Thank you, Counsel.
+
+13 THE COURT: I was trying to remember what
+
+14 document that was, but now I do remember.
+
+15 MR. SNEDDON: Do you remember now?
+
+16 THE COURT: I do. So now I’m -- I would
+
+17 allow you to try to resubmit that. That was taken
+
+18 under that --
+
+19 MR. SNEDDON: Thank you.
+
+20 MR. SANGER: Before we proceed, could we
+
+21 have a moment to talk?
+
+22 THE COURT: Well, you can have a break if
+
+23 you’d like.
+
+24 MR. SANGER: Very well.
+
+25 THE COURT: But I wouldn’t want to have to
+
+26 take a break and then come back and you weren’t
+
+27 going to do anything.
+
+28 MR. MESEREAU: Let me talk to counsel if I 12476
+
+
+
+1 can, Your Honor.
+
+2 MR. SANGER: Can we just have a moment?
+
+3 THE COURT: Yeah.
+
+4 Let me make a ruling. Counsel? You don’t
+
+5 have to move. I’m just -- I am going to sustain the
+
+6 hearsay objection to 897.
+
+7 (Discussion held off the record among the
+
+8 defense team.)
+
+9 MR. MESEREAU: Your Honor, the defense
+
+10 rests.
+
+11 THE COURT: All right. Both sides have
+
+12 rested subject to one document.
+
+13 MR. SNEDDON: That’s correct, Your Honor.
+
+14 MR. ZONEN: Your Honor, there’s one
+
+15 additional document that the Court has under
+
+16 submission as well. That’s the letter. And I did
+
+17 furnish --
+
+18 MR. SNEDDON: He just ruled on that.
+
+19 MR. ZONEN: Oh.
+
+20 THE COURT: I just ruled it was hearsay.
+
+21 MR. ZONEN: Oh, I’m sorry.
+
+22 MR. SNEDDON: You lost it.
+
+23 THE COURT: And I sustained the objection.
+
+24 MR. ZONEN: It’s not the first time.
+
+25 THE COURT: (To the jury) All right. Then
+
+26 you have heard all of the evidence that you’re going
+
+27 to hear in this case. What remains for the Court
+
+28 and the attorneys is the process to agree and work 12477
+
+
+
+1 out jury instructions.
+
+2 It’s hard for me to estimate how much time
+
+3 that’s going to take. I know it’s going to take a
+
+4 day. I know that. I mean, that’s a minimum. And
+
+5 that means that you would not come in on Tuesday.
+
+6 So Monday is a holiday, right?
+
+7 Okay. Tuesday you’re not going to come in
+
+8 because we’re going to go over jury instructions.
+
+9 Now, what I’m going to have you do is to
+
+10 call in on Tuesday afternoon at -- let’s say, you
+
+11 know, not before -- say at four o’clock, and there
+
+12 will be a message on whether you’re to come back in
+
+13 on Wednesday or -- yeah, Wednesday or Thursday. And
+
+14 that depends on whether we get all of our jury
+
+15 instructions done, and I think we will. I really
+
+16 think we will, but I don’t want you coming in and,
+
+17 you know, have to wait around. I just don’t want
+
+18 that. I want us to be done with our job before you
+
+19 come back.
+
+20 Now, is there a number -- what number can I
+
+21 give them? What’s your number, Leslie?
+
+22 THE BAILIFF: Mine?
+
+23 THE COURT: No, no.
+
+24 THE BAILIFF: Mine?
+
+25 THE COURT: No, I need -- what’s a number to
+
+26 give them so that we can have a message for them?
+
+27 Should they call Jury Services?
+
+28 THE BAILIFF: Jury Services would be the 12478
+
+
+
+1 best number.
+
+2 THE COURT: You know what? If you’ll go back
+
+3 in the jury room, I’ll release -- just stay there
+
+4 until the bailiff comes back and gives you a number
+
+5 to call. So it’s kind of -- I know it puts you on
+
+6 this kind of a situation, but it’s better to do it
+
+7 Tuesday afternoon than Wednesday morning.
+
+8 MR. SANGER: Your Honor, could there be an
+
+9 admonition, given the long weekend?
+
+10 THE COURT: Oh, yes.
+
+11 MR. SANGER: Thank you.
+
+12 THE COURT: I will admonish you to remember
+
+13 you’re not to discuss the case with anyone. You’re
+
+14 still not to form any opinions or conclusions,
+
+15 because until you know the law, until you hear the
+
+16 law, until you hear the argument of counsel, you
+
+17 really aren’t allowed to decide this case. You’ve
+
+18 got to wait till that moment when everything has
+
+19 been done for you to decide the case.
+
+20 You’re not to go to any place mentioned in
+
+21 the evidence for the purpose of investigation or
+
+22 trying to find out for yourself. You’re not to
+
+23 consult any written works, legal works or other
+
+24 works, to try and help you in this case. Remember,
+
+25 you can only decide the case from what you hear on
+
+26 the witness stand and the evidence that comes in.
+
+27 You’re not to watch any news events, any
+
+28 news programs. You’re not to read any newspapers or 12479
+
+
+
+1 magazines relating to this case.
+
+2 And there’s an admonition, too, that I never
+
+3 have to give a jury, and you’re going to hear about
+
+4 it in the final instructions, but there is a rule of
+
+5 law that prevents jurors, after the case is over,
+
+6 from charging compensation for giving information or
+
+7 accepting compensation for giving information about
+
+8 your experience.
+
+9 And I alert you to that, because it’s not
+
+10 something we usually read, you know. It’s not
+
+11 something you really -- jurors aren’t usually
+
+12 offered compensation or have that opportunity. But
+
+13 I wanted to just advise you in advance there is some
+
+14 specific laws about that that affect all of you, and
+
+15 I will give you the actual law when I read it to you
+
+16 next week.
+
+17 And I’ll see you probably on Wednesday, but
+
+18 we’ll get this phone number for you in just a couple
+
+19 minutes.
+
+20 Take them back and --
+
+21 BAILIFF CORTEZ: Yes, sir.
+
+22
+
+23 (The following proceedings were held in
+
+24 open court outside the presence and hearing of the
+
+25 jury:)
+
+26
+
+27 THE COURT: All right. Is there any reason
+
+28 not to recess until -- 12480
+
+
+
+1 MR. MESEREAU: I don’t think so, Your Honor.
+
+2 THE COURT: -- until Tuesday morning?
+
+3 MR. MESEREAU: I don’t think so.
+
+4 THE COURT: You’ll be prepared in every
+
+5 respect with your jury instructions, any that you
+
+6 don’t have?
+
+7 MR. MESEREAU: If I may, Your Honor, I think
+
+8 I may have spoken prematurely. There was an issue
+
+9 yesterday that --
+
+10 THE BAILIFF: Can’t hear you.
+
+11 MR. MESEREAU: There was an issue
+
+12 yesterday --
+
+13 MR. SNEDDON: Microphone.
+
+14 Gordon? He wants to use the mike.
+
+15 MR. AUCHINCLOSS: Oh.
+
+16 THE COURT: My secretary’s reminding me that
+
+17 there was a motion that you’re going to file to seal
+
+18 those phone records, Mr. Geragos’s phone records.
+
+19 MR. SNEDDON: I’ll take care of that. We’ll
+
+20 have it on Tuesday morning.
+
+21 MR. SANGER: I believe the representation
+
+22 was that the motion was going to be to seal
+
+23 everybody’s phone records.
+
+24 THE COURT: All phone records, yeah. Okay.
+
+25 MR. MESEREAU: Your Honor, there was an
+
+26 issue yesterday where I stipulated to some e-mails
+
+27 that it appeared had been sent from Mr. Miller’s
+
+28 office to Mr. Geragos’s office. I later learned 12481
+
+
+
+1 that there was some documents attached to that
+
+2 exhibit that were not strictly e-mails. I think Ms.
+
+3 Yu and Mr. Zonen met with you about that.
+
+4 THE COURT: They did.
+
+5 MR. MESEREAU: And I was not stipulating to
+
+6 the non-e-mail documents. And I did discuss that
+
+7 with Mr. Zonen as well. I don’t -- I think --
+
+8 THE COURT: They’re not -- that was
+
+9 explained to me. Those are not in evidence.
+
+10 MR. MESEREAU: Yeah, okay. Thank you, Your
+
+11 Honor.
+
+12 MR. ZONEN: The entire packet has been
+
+13 withdrawn; is that right?
+
+14 THE COURT: The entire packet has been
+
+15 withdrawn. Make sure my clerk knows the number of
+
+16 that packet.
+
+17 MR. ZONEN: Okay.
+
+18 THE COURT: Anything else?
+
+19 MR. MESEREAU: Not from the defense, Your
+
+20 Honor.
+
+21 MR. AUCHINCLOSS: Just one minor detail,
+
+22 Your Honor. We now have the redacted portion of
+
+23 908-A, and we’ll submit that to the Court for
+
+24 admission at this time.
+
+25 908, we will -- it’s marked, and it will be
+
+26 an exhibit, but we will not ask for its admission.
+
+27 MR. SANGER: And out of an abundance of
+
+28 caution, it’s the old pig in a poke as opposed to 12482
+
+
+
+1 the horse in the arena thing. I should probably
+
+2 listen to it once. It’s only 40 seconds.
+
+3 MR. AUCHINCLOSS: I have a copy for defense
+
+4 counsel.
+
+5 MR. SANGER: Maybe what I could do is just
+
+6 play it here. After you leave the bench, play it
+
+7 here real quick, listen to it. If it’s okay, we
+
+8 will submit it. If not, we’ll bring it up Tuesday
+
+9 morning.
+
+10 THE COURT: That’s fine.
+
+11 MR. SNEDDON: What time did the Court want
+
+12 us here Tuesday morning, Your Honor?
+
+13 THE COURT: We’re going to conduct court the
+
+14 same time as we have.
+
+15 MR. SNEDDON: Regular hours, okay.
+
+16 THE COURT: Okay?
+
+17 MR. SANGER: Okay. Thank you, Your Honor.
+
+18 THE COURT: I intend to do that during
+
+19 deliberations, too. Deliberations will only be
+
+20 during the same hours as we’ve had court.
+
+21 (The proceedings adjourned at 1:25 p.m.)
+
+22 --o0o--
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 12483
+
+
+
+1 REPORTER’S CERTIFICATE
+
+2
+
+3
+
+4 THE PEOPLE OF THE STATE OF )
+
+5 CALIFORNIA, )
+
+6 Plaintiff, )
+
+7 -vs- ) No. 1133603
+
+8 MICHAEL JOE JACKSON, )
+
+9 Defendant. )
+
+10
+
+11
+
+12 I, MICHELE MATTSON McNEIL, RPR, CRR, CSR
+
+13 #3304, Official Court Reporter, do hereby certify:
+
+14 That the foregoing pages 12379 through 12483
+
+15 contain a true and correct transcript of the
+
+16 proceedings had in the within and above-entitled
+
+17 matter as by me taken down in shorthand writing at
+
+18 said proceedings on May 27, 2005, and thereafter
+
+19 reduced to typewriting by computer-aided
+
+20 transcription under my direction.
+
+21 DATED: Santa Maria, California,
+
+22 May 27, 2005.
+
+23
+
+24
+
+25
+
+26 MICHELE MATTSON McNEIL, RPR, CRR, CSR #3304
+
+27 OFFICIAL COURT REPORTER
+
+28 12484
+
+
+

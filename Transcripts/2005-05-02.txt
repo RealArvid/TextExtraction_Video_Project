@@ -1,0 +1,9749 @@
+
+
+
+8305
+
+1 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+2 IN AND FOR THE COUNTY OF SANTA BARBARA
+
+3 SANTA MARIA BRANCH; COOK STREET DIVISION
+
+4 DEPARTMENT SM-2 HON. RODNEY S. MELVILLE, JUDGE
+
+5
+
+6
+
+7 THE PEOPLE OF THE STATE OF )
+
+8 CALIFORNIA, )
+
+9 Plaintiff, )
+
+10 -vs- ) No. 1133603
+
+11 MICHAEL JOE JACKSON, )
+
+12 Defendant. )
+
+13
+
+14
+
+15
+
+16
+
+17 REPORTER’S TRANSCRIPT OF PROCEEDINGS
+
+18
+
+19 MONDAY, MAY 2, 2005
+
+20
+
+21 8:30 A.M.
+
+22
+
+23 (PAGES 8305 THROUGH 8351)
+
+24
+
+25
+
+26
+
+27 REPORTED MICHELE MATTSON McNEIL, RPR, CRR, CSR #3304
+
+28 BY: Official Court Reporter 8305
+
+
+
+1 APPEARANCES OF COUNSEL:
+
+2
+
+3 For Plaintiff: THOMAS W. SNEDDON, JR.,
+
+4 District Attorney -and-
+
+5 RONALD J. ZONEN, Sr. Deputy District Attorney
+
+6 -and- GORDON AUCHINCLOSS,
+
+7 Sr. Deputy District Attorney -and-
+
+8 MAG NICOLA, Sr. Deputy District Attorney
+
+9 1112 Santa Barbara Street Santa Barbara, California 93101
+
+10
+
+11
+
+12 For Defendant: COLLINS, MESEREAU, REDDOCK & YU
+
+13 BY: THOMAS A. MESEREAU, JR., ESQ. -and-
+
+14 SUSAN C. YU, ESQ. 1875 Century Park East, Suite 700
+
+15 Los Angeles, California 90067
+
+16 -and-
+
+17 SANGER & SWYSEN BY: ROBERT M. SANGER, ESQ.
+
+18 233 East Carrillo Street, Suite C Santa Barbara, California 93101
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 8306
+
+
+
+1 I N D E X
+
+2
+
+3 Note: Mr. Sneddon is listed as “SN” on index.
+
+4 Mr. Zonen is listed as “Z” on index. Mr. Auchincloss is listed as “A” on index.
+
+5 Mr. Nicola is listed as “N” on index. Mr. Mesereau is listed as “M” on index.
+
+6 Ms. Yu is listed as “Y” on index. Mr. Sanger is listed as “SA” on index.
+
+7
+
+8
+
+9 PLAINTIFF’S
+
+10 WITNESSES DIRECT CROSS REDIRECT RECROSS
+
+11 WAGNER, Beverly 8311-A 8316-SA 8321-A
+
+12 BONNER, Craig
+
+13 (Re-called) 8322-N
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 8307
+
+
+
+1 E X H I B I T S
+
+2 FOR IN PLAINTIFF’S NO. DESCRIPTION I.D. EVID.
+
+3
+
+4 200-218 Turnberry Isle Resort & Club records 8309 8309
+
+5 255-258 The Beverly Hilton records 8309 8310
+
+6 418 Copy of check for
+
+7 $1,000,000 8312
+
+8 419 Copy of check for $500,000 8314
+
+9 859 Visual chart documenting
+
+10 phone calls 8325 8327
+
+11 860-867 Linked phone calls record 8325 8328
+
+12 871 Chart and spreadsheet for February 20, 2003 8325 8328
+
+13 875-879 Charts for March 5, 2003,
+
+14 to March 9, 2003 8325 8328
+
+15 880 Linked phone calls and Excel spreadsheet 8325
+
+16 881 Linked phone calls and
+
+17 Excel spreadsheet 8325
+
+18 882 Linked phone calls and Excel spreadsheet 8325
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 8308
+
+
+
+1 Santa Maria, California
+
+2 Monday, May 2, 2005
+
+3 8:30 a.m.
+
+4
+
+5 THE COURT: Good morning, everyone.
+
+6 THE JURY: (In unison) Good morning.
+
+7 THE COURT: Call your next witness.
+
+8 MR. SNEDDON: Good morning, Your Honor.
+
+9 Before we get started this morning, we have
+
+10 some records that we want to move into evidence.
+
+11 I’ve discussed it with Mr. Sanger.
+
+12 And the first set of records involves the
+
+13 documents that have been marked as Exhibits 200
+
+14 through 218 for identification. We have the
+
+15 custodian of records certification from the
+
+16 Turnberry Inn, and we would move at this time that
+
+17 the documents 200 through 218 be admitted into
+
+18 evidence as business records and duly certified.
+
+19 MR. SANGER: No objection.
+
+20 THE COURT: They’re admitted, 200 through
+
+21 218.
+
+22 MR. SNEDDON: In addition to that, Your
+
+23 Honor, we would be moving that the records that are
+
+24 No. 255 through 258, which again bear the
+
+25 custodian’s certification from the Beverly Hilton
+
+26 Hotel, be admitted into evidence as Items 255
+
+27 through 258.
+
+28 MR. SANGER: No objection. 8309
+
+
+
+1 THE COURT: They’re admitted.
+
+2 MR. SNEDDON: And then one other item of
+
+3 business, Your Honor, that we will complete at the
+
+4 break, but I wanted to bring to the Court’s
+
+5 attention, we have some records that have been
+
+6 produced pursuant to a subpoena duces tecum from the
+
+7 Calabasas Inn & Country Suites, which are documents
+
+8 219 through 222. And while there are copies in the
+
+9 Court’s original, we want to be able to check the
+
+10 ones that came in to make sure they’re exactly like
+
+11 the ones that are in the document, and we’ll do that
+
+12 during the break.
+
+13 And we’ll be offering those later after
+
+14 Mr. Sanger and I have had a chance to review it, but
+
+15 I’d like just a stipulation that the clerk can
+
+16 provide that to us to examine during the course of
+
+17 the break.
+
+18 THE COURT: Do you agree, Mr. Sanger?
+
+19 MR. SANGER: Yes, Your Honor.
+
+20 THE COURT: All right. That will be the
+
+21 order.
+
+22 MR. SNEDDON: Thank you very much, Your
+
+23 Honor.
+
+24 MR. AUCHINCLOSS: Good morning, Your Honor.
+
+25 The People call Beverly Wagner.
+
+26 THE COURT: When you get to the witness
+
+27 stand, please remain standing.
+
+28 Look over here. Face the clerk, raise your 8310
+
+
+
+1 right hand.
+
+2
+
+3 BEVERLY WAGNER
+
+4 Having been sworn, testified as follows:
+
+5
+
+6 THE WITNESS: Yes.
+
+7 THE CLERK: Please be seated. State and
+
+8 spell your name for the record.
+
+9 THE WITNESS: Sure.
+
+10 My name is Beverly Wagner. B-e-v-e-r-l-y.
+
+11 W-a-g-n-e-r.
+
+12 THE CLERK: Thank you.
+
+13
+
+14 DIRECT EXAMINATION
+
+15 BY MR. AUCHINCLOSS:
+
+16 Q. Good morning, Miss Wagner.
+
+17 A. Good morning.
+
+18 Q. Who do you work for, please?
+
+19 A. U.S. Bank.
+
+20 Q. What do you do for U.S. Bank?
+
+21 BAILIFF CORTEZ: Your microphone, sir.
+
+22 MR. AUCHINCLOSS: I’m sorry.
+
+23 Q. What do you do for U.S. Bank?
+
+24 A. I’m the bank manager at the bank.
+
+25 Q. Which bank?
+
+26 A. Right now I’m at the 4th and Wilshire
+
+27 office.
+
+28 Q. In the year 2003, did you work at a 8311
+
+
+
+1 different branch?
+
+2 A. Yes.
+
+3 Q. What branch was that?
+
+4 A. The 23rd and Santa Monica branch.
+
+5 Q. And were you branch manager for that
+
+6 particular branch?
+
+7 A. Yes.
+
+8 Q. That second branch, what is the city that
+
+9 that’s located in?
+
+10 A. Santa Monica --
+
+11 Q. Okay.
+
+12 A. -- California.
+
+13 Q. What is the branch that you worked at in
+
+14 2003? Where was that? What city was that in?
+
+15 A. 2221 Santa Monica Boulevard in Santa Monica.
+
+16 Q. In Santa Monica, all right. Very good.
+
+17 May I approach, Your Honor?
+
+18 THE COURT: You may.
+
+19 Q. BY MR. AUCHINCLOSS: I’m going to show you
+
+20 two exhibits, which appear to be copies of checks.
+
+21 The first one has been marked as People’s Exhibit
+
+22 418, page three. It appears to be a check from
+
+23 Neverland Valley Entertainment dated April 2nd,
+
+24 2003.
+
+25 Do you recognize that check?
+
+26 A. Yes.
+
+27 Q. How is it that you recognize that check?
+
+28 A. From the name on the account and the routing 8312
+
+
+
+1 number for U.S. Bank, and the account number.
+
+2 Q. All right. Did you participate personally
+
+3 in the cashing of that check as branch manager for
+
+4 U.S. Bank?
+
+5 A. Yes.
+
+6 Q. And were you working at the Santa Monica
+
+7 branch at that time?
+
+8 A. Yes.
+
+9 Q. And did you -- how is it that you personally
+
+10 participated in the cashing of that check?
+
+11 A. This is way above the approval limit for a
+
+12 branch manager, and I had to get authority to even
+
+13 cash the check, so it had to come through my hands.
+
+14 Q. How much is that check for?
+
+15 A. One million dollars.
+
+16 Q. And can you tell me in what manner that
+
+17 check was cashed? In other words, was it deposited?
+
+18 Was it -- did the bank disburse those funds in other
+
+19 methods? Tell me exactly how the individual cashed
+
+20 that check.
+
+21 A. Cash.
+
+22 Q. They walked in with this check and walked
+
+23 out with one million dollars in cash?
+
+24 A. Yes.
+
+25 Q. Did the bank have to make any special
+
+26 arrangements to put together that much money in
+
+27 cash?
+
+28 A. Yes. 8313
+
+
+
+1 Q. How much advance time is necessary for an
+
+2 individual to notify the bank that it will need to
+
+3 have certain funds on hand for a large cash
+
+4 disbursement like this?
+
+5 MR. SANGER: Objection; relevance.
+
+6 THE COURT: Overruled.
+
+7 You may answer.
+
+8 THE WITNESS: A minimum of about seven days.
+
+9 MR. AUCHINCLOSS: All right.
+
+10 THE COURT: What’s the exhibit number,
+
+11 Counsel?
+
+12 MR. AUCHINCLOSS: It’s --
+
+13 THE CLERK: 418.
+
+14 MR. AUCHINCLOSS: -- 418, page three.
+
+15 THE COURT: Thank you.
+
+16 Q. BY MR. AUCHINCLOSS: All right. I now show
+
+17 you Exhibit 419, page three. Did you also
+
+18 participate in the cashing of that check?
+
+19 A. Yes.
+
+20 Q. That check is for how much?
+
+21 A. $500,000.
+
+22 Q. And did the same individual who cashed this
+
+23 first check cash that second check?
+
+24 A. Yes.
+
+25 Q. Was this check also cashed for currency?
+
+26 A. Yes.
+
+27 Q. So the individual walked in with this check
+
+28 and walked out with $500,000 in U.S. currency? 8314
+
+
+
+1 A. Yes.
+
+2 Q. The individual who cashed these two checks,
+
+3 what is his name?
+
+4 A. Fred Schaffel.
+
+5 MR. AUCHINCLOSS: If I may ask Madam Clerk
+
+6 to help me find a photograph.
+
+7 If I can just have a moment, Your Honor.
+
+8 Q. Miss Wagner, I show you People’s Exhibit 16.
+
+9 Do you recognize that individual?
+
+10 A. Yes.
+
+11 Q. Who is that?
+
+12 A. Fred Schaffel.
+
+13 MR. AUCHINCLOSS: Thank you. I have no
+
+14 further questions.
+
+15 THE COURT: Cross-examine?
+
+16 MR. SANGER: Thank you, Your Honor.
+
+17 Do you want to take your book there? Are
+
+18 the exhibits up there?
+
+19 MR. AUCHINCLOSS: Yeah.
+
+20 MR. SANGER: Excuse me one second.
+
+21 May I confer with counsel?
+
+22 Do you have the official exhibit book there?
+
+23 MR. AUCHINCLOSS: Yes.
+
+24 (Off-the-record discussion held at counsel
+
+25 table.)
+
+26 MR. SANGER: May I proceed, Your Honor?
+
+27 THE COURT: Yes.
+
+28 MR. SANGER: Thank you. 8315
+
+
+
+1 CROSS-EXAMINATION
+
+2 BY MR. SANGER:
+
+3 Q. Miss Wagner, how are you?
+
+4 A. I’m good, thank you.
+
+5 Q. You were the branch manager at the 2nd and
+
+6 Santa Monica branch, is that what you said?
+
+7 A. The 23rd and Santa Monica branch.
+
+8 Q. 23rd. I can’t read my handwriting. Sorry.
+
+9 A. Okay.
+
+10 Q. In any event, is that a branch where
+
+11 Frederic Marc Schaffel had one or more accounts?
+
+12 A. Yes, sir.
+
+13 Q. How many accounts did he have?
+
+14 A. I believe it was three.
+
+15 Q. Okay. And you produced records for his
+
+16 accounts, correct?
+
+17 A. Pardon me?
+
+18 Q. You produced records for his accounts to the
+
+19 Court?
+
+20 A. Um -- what -- I’m not sure what records
+
+21 you’re talking about.
+
+22 Q. Okay.
+
+23 A. Oh, yes. For -- yes, we did. U.S. Bank.
+
+24 Yeah. I’m sorry.
+
+25 Q. Yes. I believe -- the District Attorney
+
+26 referred to you at one point as a custodian of
+
+27 records?
+
+28 A. Yes. 8316
+
+
+
+1 Q. Excuse me. So you were responsible for
+
+2 having records sent to the Court --
+
+3 A. Yes, sir.
+
+4 Q. -- at some earlier time?
+
+5 A. Uh-huh.
+
+6 Q. And now you’ve identified two checks. And
+
+7 you’re telling us on these two checks, Exhibits 418
+
+8 and 419, page three in each one, that you personally
+
+9 participated in those transactions?
+
+10 A. Yes, sir.
+
+11 Q. So you remember Mr. Schaffel coming in and
+
+12 getting cash for those two checks; is that correct?
+
+13 A. Yes, sir.
+
+14 Q. All right. Now, you see my client, Mr.
+
+15 Jackson, sitting there, correct?
+
+16 A. Yes, sir.
+
+17 Q. Okay. Did Mr. Jackson come in the bank?
+
+18 A. No.
+
+19 Q. Have you ever seen Mr. Jackson before in
+
+20 person?
+
+21 A. No.
+
+22 Q. All right. Now, with regard to Mr. Schaffel
+
+23 and the records you produced, is it true that in his
+
+24 three accounts during, let’s say, the first six
+
+25 months of 2003, that millions of dollars went
+
+26 through his accounts?
+
+27 MR. AUCHINCLOSS: I’m going to object to
+
+28 reference to records that are not exhibits in this 8317
+
+
+
+1 case as well as beyond the scope.
+
+2 THE COURT: Sustained.
+
+3 Q. BY MR. SANGER: Well, let’s put it this way:
+
+4 You -- as the branch manager and as the custodian of
+
+5 records, you reviewed the records before they were
+
+6 sent up here, right?
+
+7 A. Not fully.
+
+8 Q. Okay. Were you aware that Mr. Schaffel was
+
+9 a customer of the bank?
+
+10 A. Yes.
+
+11 Q. Okay. And you knew that personally; is that
+
+12 correct?
+
+13 A. Yes.
+
+14 Q. And you knew it personally in part because
+
+15 you cashed these two checks for him, right?
+
+16 A. Yes.
+
+17 Q. Did you have other dealings with him?
+
+18 A. No.
+
+19 Q. So the two times you really remember seeing
+
+20 Mr. Schaffel in person were with regard to these two
+
+21 checks; is that right?
+
+22 A. Yes.
+
+23 Q. Okay. All right. A little hesitancy. You
+
+24 may have seen them --
+
+25 A. More than twice, yes.
+
+26 Q. But the two that stick out in your mind were
+
+27 these two, I take it?
+
+28 A. Yes, sir. 8318
+
+
+
+1 Q. I guess what I’m getting at is, to cash
+
+2 these checks, you had to make sure he really was a
+
+3 customer of your bank, right?
+
+4 A. Yes, sir.
+
+5 Q. All right. And had he been a customer of
+
+6 your bank for a long time?
+
+7 A. Yes.
+
+8 Q. All right. And during the course of his
+
+9 being a customer for your bank, did you conclude
+
+10 that he was trustworthy as far as dealing with him
+
+11 on these two rather large checks?
+
+12 A. Yes.
+
+13 Q. Now, the checks were drawn on an account
+
+14 that’s called Neverland Valley Entertainment; is
+
+15 that correct?
+
+16 A. Yes, sir.
+
+17 Q. And was it your understanding that Mr.
+
+18 Schaffel was the signatore on that account?
+
+19 A. Yes.
+
+20 Q. Was there anybody else who was a signatore
+
+21 on that account?
+
+22 A. Yes.
+
+23 Q. Who else?
+
+24 A. Michael Jackson.
+
+25 Q. Did Mr. Jackson ever sign any checks, to
+
+26 your knowledge, or sign any documents whatsoever on
+
+27 that account?
+
+28 A. Yes. 8319
+
+
+
+1 Q. Other than the signature cards?
+
+2 A. I’m not sure.
+
+3 MR. AUCHINCLOSS: Objection; foundation.
+
+4 THE COURT: Sustained.
+
+5 MR. SANGER: All right.
+
+6 Q. Did you review the records to determine
+
+7 whether or not Mr. Jackson ever signed anything
+
+8 other than the signature cards on that account?
+
+9 A. No, sir.
+
+10 Q. All right. And you did not verify Mr.
+
+11 Jackson’s signature other than it was on the
+
+12 signature card; is that correct?
+
+13 A. Yes.
+
+14 Q. Okay. In other words, he didn’t come in and
+
+15 sign in your presence?
+
+16 A. No.
+
+17 Q. You ended up looking in your records and you
+
+18 saw a signature card that appeared to have a
+
+19 signature for Michael Jackson; is that right?
+
+20 A. Yes.
+
+21 Q. All right. And other than that, all of your
+
+22 dealings, as far as you know, were with Frederic
+
+23 Marc Schaffel, is that correct, on these accounts?
+
+24 A. No.
+
+25 Q. Were there other people that may have come
+
+26 in?
+
+27 A. Not come in. But that I spoke with.
+
+28 Q. Spoke with. Okay. All right. And you do 8320
+
+
+
+1 not know what happened to this money after Mr.
+
+2 Schaffel walked out of the bank with it; is that
+
+3 correct?
+
+4 A. No.
+
+5 MR. SANGER: All right. And I have no
+
+6 further questions.
+
+7
+
+8 REDIRECT EXAMINATION
+
+9 BY MR. AUCHINCLOSS:
+
+10 Q. Were Michael Jackson and Frederic Marc
+
+11 Schaffel the only two authorized individuals as far
+
+12 as to remove funds from this account?
+
+13 A. Yes.
+
+14 Q. And you said you spoke to someone else other
+
+15 than Marc Schaffel about these accounts. Who was
+
+16 that?
+
+17 A. I think at one time I spoke with Michael.
+
+18 Q. Do you remember what that was about?
+
+19 MR. SANGER: I’m going to object. That
+
+20 calls for hearsay. Calls for hearsay and there’s a
+
+21 lack of foundation.
+
+22 MR. AUCHINCLOSS: Offered as an admission.
+
+23 THE COURT: The objection is overruled.
+
+24 You may answer.
+
+25 Q. BY MR. AUCHINCLOSS: Do you remember what
+
+26 that was about?
+
+27 A. No. Not really.
+
+28 Q. Did it have something to do with this 8321
+
+
+
+1 account?
+
+2 MR. SANGER: I’m going to object. That’s
+
+3 leading and no foundation.
+
+4 THE COURT: Overruled.
+
+5 You may answer.
+
+6 THE WITNESS: Yes.
+
+7 MR. AUCHINCLOSS: All right. Thank you very
+
+8 much.
+
+9 MR. SANGER: No further questions.
+
+10 THE COURT: All right. Thank you. You may
+
+11 step down.
+
+12 THE WITNESS: Thank you.
+
+13 THE COURT: Call your next witness.
+
+14 MR. NICOLA: The next witness will be Craig
+
+15 Bonner.
+
+16 THE COURT: You may be seated. You’re still
+
+17 under oath.
+
+18
+
+19 CRAIG BONNER
+
+20 Having been previously sworn, resumed the
+
+21 stand and testified further as follows:
+
+22
+
+23 DIRECT EXAMINATION
+
+24 BY MR. NICOLA:
+
+25 Q. Good morning, Sergeant Bonner.
+
+26 A. Good morning.
+
+27 Q. With respect to your investigation in this
+
+28 case, did you have occasion to gather, sort and 8322
+
+
+
+1 analyze telephone records and subscriber
+
+2 information?
+
+3 A. Yes, I did.
+
+4 Q. Do you see the stack of phone exhibits
+
+5 sitting on counsel table? I believe they’re 450
+
+6 through 459.
+
+7 A. Yes, I’m quite familiar with them.
+
+8 Q. Do you recognize those exhibits?
+
+9 A. I’m quite familiar, yes.
+
+10 Q. And did you play a role in putting those
+
+11 exhibits together and analyzing the information that
+
+12 was contained within them?
+
+13 A. I did.
+
+14 Q. Can you briefly and generally explain to the
+
+15 jury the process that was used to -- the initial
+
+16 step used in getting a handle on the information
+
+17 that’s in those exhibits?
+
+18 A. Yes. Basically we obtained quite a number
+
+19 of telephone records through search warrant and
+
+20 subpoena. We amassed those records and brought them
+
+21 into a computer database, used that computer
+
+22 database to compile and sort those records into a
+
+23 format where we could begin to see patterns of calls
+
+24 and who was calling whom.
+
+25 We then utilized that information to cut out
+
+26 the unnecessary material, or the material which we
+
+27 could not substantiate through other evidence, and
+
+28 we have brought that together now into exhibits that 8323
+
+
+
+1 will show just those phone calls that are pertinent,
+
+2 and we have done that in a visual manner as well as
+
+3 in a document that will back up that visual manner.
+
+4 Q. Okay. I think we missed a step. With
+
+5 respect to the information that was generated and
+
+6 you created a spreadsheet from it, can you explain
+
+7 to the jury how you verified the information that
+
+8 was in your spreadsheets?
+
+9 A. The computer database basically put together
+
+10 a list of the calls that it said occurred between
+
+11 our involved parties to ensure that that list was
+
+12 correct. We then went into those records, which are
+
+13 the actual records sent by the phone companies, and
+
+14 we verified each and every call that the computer
+
+15 said occurred, and we have noted where that call
+
+16 occurs within those records.
+
+17 Q. Okay. Did you prepare some exhibits for
+
+18 court today to demonstrate your testimony?
+
+19 A. I did.
+
+20 Q. As soon as I finish marking the last of
+
+21 these pages I’ll show you the exhibit, okay? I
+
+22 apologize.
+
+23 I’ll ask you whether you reviewed the
+
+24 records from the Turnberry Resort - and I’ll show
+
+25 you those documents in a minute - while you were
+
+26 conducting your phone analysis?
+
+27 A. That’s correct.
+
+28 Q. Did you review records from The Beverly 8324
+
+
+
+1 Hilton? And I’ll also show you those exhibits in a
+
+2 minute.
+
+3 A. Yes, I did.
+
+4 Q. Did you examine the record from Huntel with
+
+5 respect to air-ground communication for a flight
+
+6 occurring on February 7th of 2003?
+
+7 A. Yes, I did.
+
+8 (Off-the-record discussion held at counsel
+
+9 table.)
+
+10 Q. BY MR. NICOLA: Detective Bonner, with the
+
+11 Court’s permission, I’d like to approach and show
+
+12 you Exhibits No. 859 through No. 882.
+
+13 MR. SANGER: Excuse me. Let me just see
+
+14 what we have here.
+
+15 (Off-the-record discussion held at counsel
+
+16 table.)
+
+17 MR. SANGER: All right. Go ahead.
+
+18 Q. BY MR. NICOLA: I ask if you recognize
+
+19 Exhibit 859?
+
+20 A. Yes, I do.
+
+21 Q. What does 859 contain?
+
+22 A. 859 is the visual chart documenting
+
+23 telephone calls between the involved parties on
+
+24 February 5th, 2003.
+
+25 Q. Is there also a document behind the visual
+
+26 chart?
+
+27 A. There is. It’s an Excel spreadsheet, which
+
+28 is the verification of each call that is claimed on 8325
+
+
+
+1 the visual chart.
+
+2 Q. And did you create or cause to be created
+
+3 these charts?
+
+4 A. I did.
+
+5 Q. And did you cause to be created 859 through
+
+6 882?
+
+7 A. I did.
+
+8 Q. Okay. Now, with respect to testifying about
+
+9 the contents of these exhibits, 859 through 882, did
+
+10 you delegate some other of your colleagues to assist
+
+11 you?
+
+12 A. I did.
+
+13 Q. And which exhibits will you be testifying to
+
+14 today, if you could please the tell jury now?
+
+15 A. I will testify to 859, 860, 861, 862, 863,
+
+16 864, 865, 866, 867, 871, 875, 876, 877, 878 and 879.
+
+17 Q. Okay. With respect to Exhibit Nos. 859
+
+18 through 867, are those telephone charts and
+
+19 spreadsheets between the period of February 5th of
+
+20 2003 and February 16th of 2003?
+
+21 A. That’s correct.
+
+22 Q. Exhibit 871, is that the chart and the
+
+23 spreadsheet for February 20th of 2003?
+
+24 A. That’s correct.
+
+25 Q. And with respect to Exhibits No. 875 through
+
+26 879, do those cover the dates of March 5th, 2003,
+
+27 through March 9th of 2003?
+
+28 A. That’s correct. 8326
+
+
+
+1 Q. Turning your attention to Exhibit No. 859,
+
+2 would you briefly describe for us in general terms
+
+3 what is depicted on the chart?
+
+4 A. This chart depicts a number of calls that
+
+5 occur between various individuals that have came up
+
+6 during this investigation, including Frank Cascio,
+
+7 Marc Schaffel, Jay Jackson, Evelyn Tavasci, as well
+
+8 as a number of telephones that come back registered
+
+9 to the Turnberry Resort in Florida.
+
+10 Q. Okay. And do the numbers and links on that
+
+11 chart accurately reflect the information that you
+
+12 gleaned from the telephone records you’ve testified
+
+13 about previously?
+
+14 A. That’s correct.
+
+15 Q. And does the information supporting the
+
+16 links you make on Chart 859 provided in the Excel
+
+17 spreadsheets an accurate depiction of what is on the
+
+18 charts?
+
+19 A. That is correct.
+
+20 MR. NICOLA: Your Honor, I would move 859
+
+21 into evidence at this time.
+
+22 MR. SANGER: I have a concern about
+
+23 foundation and relevance as to all of the entries,
+
+24 but I’ll submit it at this point subject to
+
+25 cross-examination.
+
+26 THE COURT: All right. I’ll admit them.
+
+27 Q. BY MR. NICOLA: I’d ask you the same
+
+28 questions about Exhibits 860 through 867. Do each 8327
+
+
+
+1 of those charts represent individuals that came up
+
+2 in your investigation, including the people you just
+
+3 mentioned, and link telephone calls between phones
+
+4 registered in their names?
+
+5 A. That’s correct.
+
+6 Q. And do each of those exhibits also contain a
+
+7 spreadsheet supporting the information you placed on
+
+8 the flow chart?
+
+9 A. That is correct.
+
+10 MR. NICOLA: Your Honor, at this time we’d
+
+11 move 860 through 867 into evidence as well.
+
+12 MR. SANGER: Same objection, Your Honor.
+
+13 THE COURT: All right. They’re admitted.
+
+14 Q. BY MR. NICOLA: I have the same question
+
+15 about Exhibit 871 and Exhibits 875 through 879. Do
+
+16 each of the charts in those exhibits accurately
+
+17 reflect the telephone calls between the phones
+
+18 listed on the charts that are connected to
+
+19 individuals in this investigation, and is there an
+
+20 Excel spreadsheet accompanying each chart supporting
+
+21 the information that’s in the charts?
+
+22 A. That’s correct.
+
+23 MR. NICOLA: We’d move 871 and 875 through
+
+24 879 into evidence, Your Honor.
+
+25 MR. SANGER: Same objection.
+
+26 THE COURT: All right. They’re admitted.
+
+27 MR. NICOLA: Madam Clerk, may I have the
+
+28 Turnberry records that were just admitted, please? 8328
+
+
+
+1 I believe they’re 200. Thank you.
+
+2 May I approach the witness, Your Honor?
+
+3 THE COURT: Yes.
+
+4 Q. BY MR. NICOLA: Detective Bonner, I’m going
+
+5 to hand you a binder containing records from the
+
+6 Turnberry, Exhibits 200 through 218, and I’d ask if
+
+7 you’d review that.
+
+8 And when you’re finished, please tell us
+
+9 whether you recognize the contents and whether you
+
+10 used the contents in generating your charts and
+
+11 spreadsheets?
+
+12 A. I recognize these charts as being the hotel
+
+13 records for the Turnberry Resort. And we utilized
+
+14 these charts in that they are the documents within
+
+15 our charts, in that they contain telephone records.
+
+16 Q. Okay. Do you recognize the exhibits?
+
+17 A. Yes.
+
+18 MR. NICOLA: Your Honor, may I have “Input 4,”
+
+19 please, and may I publish?
+
+20 THE COURT: Yes.
+
+21 (Off-the-record discussion held at counsel
+
+22 table.)
+
+23 Q. BY MR. NICOLA: Detective Bonner, I’m going
+
+24 to place on the Elmo what appears to be Exhibit 859;
+
+25 is that correct?
+
+26 A. That’s correct.
+
+27 Q. Okay. Just starting in the upper left-hand
+
+28 corner, where there’s a little telephone symbol and 8329
+
+
+
+1 the name “Frank Cascio,” can you just give all of us
+
+2 a very general description of what is intended to be
+
+3 depicted in this exhibit?
+
+4 A. Absolutely. What we have again are a number
+
+5 of individuals whom we have determined through our
+
+6 investigation to be involved or associated with Mr.
+
+7 Jackson, including Mr. Cascio, Mr. Schaffel, Evelyn
+
+8 Tavasci, Chris Carter, Debbie Rowe, and these are
+
+9 the hotels -- the Turnberry Hotel records that we
+
+10 have just spoke of, and these are calls between
+
+11 these individuals.
+
+12 Here we have telephones that belong to Frank
+
+13 Cascio, telephones that belong to Mr. Schaffel, and
+
+14 we have indicated that there are nine telephone
+
+15 calls that occurred between telephones belonging to
+
+16 Mr. Cascio and Mr. Schaffel, and each one of these
+
+17 links tells the same information.
+
+18 We have three calls that occurred between
+
+19 telephones belonging to this, which is Evelyn
+
+20 Tavasci’s home telephone number, and Frank Cascio’s
+
+21 telephone numbers.
+
+22 We have one call that occurred between Jay
+
+23 Jackson’s telephone number and Evelyn Tavasci’s home
+
+24 telephone number.
+
+25 We have one call that occurred between the
+
+26 Presidential Suite at the Turnberry, which was under
+
+27 the name of Fred Macy, to Jay Jackson’s telephone
+
+28 number. 8330
+
+
+
+1 And again, each one of these links tells you
+
+2 that there is a call that occurred between phones
+
+3 belonging to this person and a phone over here, and
+
+4 the number of calls is indicated in the link.
+
+5 Q. Okay. I’m going to put up the first page of
+
+6 the spreadsheet behind the chart for 2-5-03.
+
+7 MR. SANGER: That’s part of --
+
+8 MR. NICOLA: That’s a part of 859.
+
+9 MR. SANGER: Part of 859.
+
+10 Q. BY MR. NICOLA: I’m only going to put up a
+
+11 portion of it, Detective, just so we’re not
+
+12 publishing a bunch of home numbers.
+
+13 Could you please describe what is intended
+
+14 by the numbers and the headings across this exhibit,
+
+15 please?
+
+16 A. Okay. Starting over on the left, we have
+
+17 this number right here, (702) 234-9059. That is a
+
+18 telephone number that came back registered to
+
+19 Christopher Carter, which is indicated in the next
+
+20 one. And then we have the date of the call, which
+
+21 is 2-5-2003. We have the time of the call, which is
+
+22 at 2322 hours, 11:22 p.m. We have the duration of
+
+23 the call, one minute. We then have the number that
+
+24 he dialed, (201) 213-0763, which comes back
+
+25 registered to Frank Cascio. This is the source of
+
+26 that information that’s detailed right here, which
+
+27 is -- came from T-Mobile records. This is the
+
+28 exhibit number which corresponds to one of those 8331
+
+
+
+1 exhibits. This is the tab number within that
+
+2 exhibit. And this is the page number at which this
+
+3 record can be found within this exhibit.
+
+4 Q. Okay. So the Chris Carter to Frank Cascio
+
+5 call occurring at 11:22 p.m. on February 5th, 2003,
+
+6 is found in the T-Mobile exhibit, which is 452,
+
+7 under the first tab, and under the page marked 11 of
+
+8 23?
+
+9 A. That’s correct.
+
+10 Q. Is that how all of the entries in all of
+
+11 these spreadsheets work?
+
+12 A. Fundamentally. Different records have
+
+13 different means by which we were able to identify
+
+14 specific calls. Some of them actually had an exact
+
+15 call number to correspond to that call. And in that
+
+16 case we gave that exact call number to go along with
+
+17 it.
+
+18 Q. Okay. Did you index the phone calls from
+
+19 the hotel records the same way?
+
+20 A. Similarly, yes.
+
+21 MR. NICOLA: If I may, Counsel, the second
+
+22 page.
+
+23 MR. SANGER: Same exhibit?
+
+24 MR. NICOLA: Same exhibit.
+
+25 MR. SANGER: All right.
+
+26 Q. BY MR. NICOLA: Would you turn to page two
+
+27 of your spreadsheet, and please go to the line with
+
+28 the heading “Macy Presidential”? 8332
+
+
+
+1 THE COURT: What number exhibit is the
+
+2 spreadsheet?
+
+3 MR. NICOLA: This exhibit is also Exhibit
+
+4 859, Your Honor.
+
+5 Q. Do you see on the bottom line up there?
+
+6 A. I do.
+
+7 Q. Is that the entry for the Presidential Suite
+
+8 at the Turnberry Isle Resort?
+
+9 A. That’s correct.
+
+10 Q. I’m going to blow it up just a little bit so
+
+11 we can see portions of it. This doesn’t want to
+
+12 focus.
+
+13 Okay. How about we do it like this,
+
+14 Detective?
+
+15 Okay. So the time of the call from the
+
+16 Turnberry Isle, from the Presidential Suite to Major
+
+17 Jackson, occurred at what time in the morning?
+
+18 A. 0958 hours, or 9:58 a.m.
+
+19 Q. And that’s Florida time, correct?
+
+20 A. Correct.
+
+21 Q. And when you indexed the hotel records, you
+
+22 referenced the exhibit, correct, 202 in this case?
+
+23 A. That’s correct.
+
+24 Q. And then what does the T794, page six, mean
+
+25 in the last column?
+
+26 A. T794 is a reference number that is on the
+
+27 documents pertaining to the Fred Macy Presidential
+
+28 Suite, and page six indicates that that particular 8333
+
+
+
+1 telephone call is found on page six of the documents
+
+2 labeled T794.
+
+3 Q. Okay. Would you turn to the Turnberry
+
+4 exhibit, please, 202, find the page where that phone
+
+5 call is and remove it for me, please.
+
+6 MR. SANGER: What exhibit number?
+
+7 MR. NICOLA: This is 202, page six.
+
+8 Q. I’m going to put on the screen Exhibit 202,
+
+9 page six. And the call that you’re referring to, is
+
+10 that the first entry for the date of 2-5 on this
+
+11 exhibit?
+
+12 A. Yes. The first telephone call entry.
+
+13 Q. Okay. And that appears to have lasted for
+
+14 27 minutes?
+
+15 A. Correct.
+
+16 Q. And is that represented on your chart by the
+
+17 link between Fred Macy Presidential Suite and Jay
+
+18 Jackson?
+
+19 A. Yes, it is.
+
+20 Q. Okay. I’d like to flip this over to page
+
+21 five, if I may.
+
+22 These appear to be phone entries for the
+
+23 date of February 4th, correct?
+
+24 A. That’s correct.
+
+25 Q. With respect to the bottom two telephones --
+
+26 telephone entries ending in 6162, one at 1935 hours
+
+27 and one at 2054 hours, do you recognize those
+
+28 numbers from these exhibits? 8334
+
+
+
+1 A. Yes, I do.
+
+2 Q. And who do those belong to?
+
+3 A. Those belong to David Ventura. That would
+
+4 be Janet Arvizo’s parents.
+
+5 Q. Okay. If we could go to the date of
+
+6 February 6th, please. Just have that ready.
+
+7 I’d like to finish discussing these records
+
+8 for the 5th.
+
+9 Finishing up with Exhibit 859, Detective,
+
+10 with your pointer, please, and with respect to the
+
+11 call from -- the calls from Frank Cascio to Marc
+
+12 Schaffel, over what period of time did those occur?
+
+13 A. I’ll have to refer back to the spreadsheet.
+
+14 Q. Please do.
+
+15 A. Okay. The first call I have is in the early
+
+16 morning hours, specifically right before 1 a.m., and
+
+17 the last call I see is after 9 p.m.
+
+18 Q. And did a number of these calls last for two
+
+19 minutes or more?
+
+20 A. Yes.
+
+21 Q. And did one of them last 15 minutes?
+
+22 A. Yes. One call at 1:00, a little after 1
+
+23 p.m.
+
+24 Q. How many times did Mr. Cascio call the home
+
+25 of the defendant’s personal assistant, Miss Tavasci?
+
+26 A. Three times.
+
+27 Q. And over what period of time did those calls
+
+28 occur? 8335
+
+
+
+1 A. Again, the first call occurred -- I’m sorry.
+
+2 The first call occurred at 3:42 p.m. The last call
+
+3 occurred a little after 9 p.m.
+
+4 Q. So those are within the times that Mr.
+
+5 Cascio was ringing Mr. Schaffel?
+
+6 A. That’s correct.
+
+7 Q. Or at least his phone was calling Mr.
+
+8 Schaffel’s phone?
+
+9 A. Correct.
+
+10 Q. Okay. In the bottom left-hand corner,
+
+11 there’s a symbol that says, “Tavasci, Evelyn, MJJ
+
+12 Prod, Unit 1.” Can you explain that for the jury,
+
+13 please?
+
+14 A. That is a phone record. We took the naming
+
+15 of that right off of the phone record, which is a
+
+16 Nextel record.
+
+17 Q. Is that a telephone number of (310)
+
+18 864-7791?
+
+19 A. Yes, it is.
+
+20 Q. And are all the calls either going to or
+
+21 coming out of your flow chart for that telephone
+
+22 number, the 7791 number?
+
+23 A. I’m sorry, what was the question?
+
+24 Q. Are all the numbers going to that Unit 1
+
+25 number and going out to the same number, the 7791
+
+26 number? Do you understand? You don’t.
+
+27 A. No.
+
+28 Q. The calls from Chris Carter -- 8336
+
+
+
+1 A. Okay.
+
+2 Q. -- to the Unit 1 number, and the calls from
+
+3 Frank Cascio to the Unit 1 number, those are all to
+
+4 the same number, the 7791 number, correct?
+
+5 A. Correct, the one for -- that’s indicated as
+
+6 Unit 1.
+
+7 Q. Okay. And there are other Tavasci, Evelyn,
+
+8 MJJ Production phones later on that have different
+
+9 telephone numbers, correct?
+
+10 A. Correct.
+
+11 Q. That’s why I was asking about this one.
+
+12 The calls in between Chris Carter and the
+
+13 Turnberry Resort and Marc Schaffel going to the link
+
+14 in the bottom right, the Turnberry Isle Resort, are
+
+15 those incoming or outgoing calls; do you know?
+
+16 A. Those are both outgoing from the individual,
+
+17 i.e., Marc Schaffel or Chris Carter, going to the
+
+18 Turnberry Resort.
+
+19 Q. Okay. And the Andy Brandon room in the
+
+20 middle, is that the only room where both the Cascio
+
+21 phones and the Schaffel phones were connected during
+
+22 this period of time?
+
+23 A. On that date, that’s correct.
+
+24 Q. Can you tell us the period of time in which
+
+25 the calls between Schaffel and the Brandon room
+
+26 occurred, please?
+
+27 A. Okay. With regard to Andy Brandon room to
+
+28 Marc Schaffel, I have the first call at about 10:40 8337
+
+
+
+1 in the morning, and ending at right after 10 p.m.
+
+2 Q. All day long?
+
+3 A. All day long.
+
+4 Q. With respect to the call between Major
+
+5 Jackson and Evelyn Tavasci’s home, can you tell us
+
+6 whether Mr. Jackson called Miss Tavasci or whether
+
+7 it was the other way around?
+
+8 MR. SANGER: Well, I’m going to object.
+
+9 We’re referring to an individual making a call as
+
+10 opposed to somebody at one phone calling somebody at
+
+11 another phone.
+
+12 THE COURT: Sustained.
+
+13 Q. BY MR. NICOLA: With respect to the phone
+
+14 call between the Evvy Tavasci phone and the Jay
+
+15 Jackson phone, can you tell us which way that call
+
+16 went?
+
+17 A. Okay. That was Evelyn Tavasci’s telephone
+
+18 calling Jay Jackson’s telephone.
+
+19 Q. And how long did that -- how long was that
+
+20 call?
+
+21 A. Three minutes.
+
+22 Q. And was that after the call between the Fred
+
+23 Macy Presidential Suite and the Jay Jackson phone?
+
+24 A. That appears to be prior to.
+
+25 Q. In Pacific time or Eastern time, Sergeant
+
+26 Bonner?
+
+27 A. That would have been Pacific time.
+
+28 Q. So it’s listed as 7:27 Pacific time? 8338
+
+
+
+1 A. It actually -- yeah, 7:27 a.m. Pacific,
+
+2 which would be after, I’m sorry.
+
+3 Q. Okay. So the call from the Presidential
+
+4 Suite came first, and then the call from the Tavasci
+
+5 home came second?
+
+6 A. That’s correct.
+
+7 Q. Okay. If you could please turn to Exhibit
+
+8 860. I’m going to put this chart up. And briefly
+
+9 if you could summarize this chart for the jury,
+
+10 using your laser.
+
+11 A. Okay. As with the previous date, we’re
+
+12 again showing the connections of telephone calls
+
+13 between telephones belonging to various individuals
+
+14 identified throughout this investigation. Again, we
+
+15 have Frank Cascio, Marc Schaffel, Evelyn Tavasci,
+
+16 Christopher Carter, Hamid Moslehi, David Ventura,
+
+17 that’s Janet Arvizo’s parents, Jay Jackson, Deborah
+
+18 Rowe, and again, telephones at the Turnberry Resort.
+
+19 Q. Can you tell us, please, when the first call
+
+20 between the Cascio phone and the Schaffel phone
+
+21 occurred?
+
+22 A. The first call that I have between the
+
+23 Cascio phone and the Schaffel phone occurs slightly
+
+24 before 1 a.m. at 0039 hours.
+
+25 Q. And your chart indicates there were 19 calls
+
+26 between the two phones?
+
+27 A. That’s correct.
+
+28 Q. And did those last essentially throughout 8339
+
+
+
+1 the day?
+
+2 A. Yes. The last call occurred a few minutes
+
+3 before midnight at 2351 hours.
+
+4 Q. With respect to the calls between the Cascio
+
+5 phone and the rooms named “Stressler” and “Franklin”
+
+6 at the Turnberry, starting with the Stressler room,
+
+7 can you tell us whether that was incoming or
+
+8 outgoing?
+
+9 A. It’s an outgoing call from the Stressler
+
+10 room to Frank Cascio’s telephone.
+
+11 Q. What about the Franklin room?
+
+12 A. Again, that would be an outgoing call from
+
+13 the Franklin room to the Cascio telephone.
+
+14 Q. And the calls between the Brandon room and
+
+15 the Schaffel phone?
+
+16 A. That is an outgoing call from the Brandon
+
+17 room to Schaffel’s telephone.
+
+18 Q. Do you have a time for the phone call
+
+19 between the Schaffel phone and the Deborah Rowe
+
+20 phone?
+
+21 A. 2116 hours.
+
+22 Q. Which direction was that call going?
+
+23 A. That was from Deborah Rowe to Marc
+
+24 Schaffel’s telephone.
+
+25 Q. Okay. From Ms. Rowe’s phone to Mr.
+
+26 Schaffel’s phone?
+
+27 A. That’s correct.
+
+28 Q. You show two calls between the Schaffel 8340
+
+
+
+1 phone and phones registered to David LeGrand?
+
+2 A. Correct.
+
+3 Q. And can you tell us when the first phone
+
+4 call was?
+
+5 A. The first phone call was at 1:48 p.m.
+
+6 Q. And how long did that last?
+
+7 A. Five minutes.
+
+8 Q. And the second phone call?
+
+9 A. Was at 2:30 p.m., again for five minutes.
+
+10 Q. Okay. With respect to the calls from the
+
+11 Gavin Franklin room to Janet’s parents and the Jay
+
+12 Jackson phone, it’s a little blurry from here. Can
+
+13 you tell us how many calls there were from the
+
+14 Franklin room just to Janet’s parents?
+
+15 A. There were eight calls.
+
+16 Q. Were there two rooms registered under Gavin?
+
+17 A. Correct.
+
+18 Q. Okay. And in your Excel spreadsheet, did
+
+19 you separate the rooms out?
+
+20 A. Yes, we did.
+
+21 Q. Do you know how many calls came from either
+
+22 room, and if you could give us the room designation?
+
+23 A. There are two room designations. One would
+
+24 be T597, the other would be T309. With regard to
+
+25 T597, I have six of those calls to the Venturas’
+
+26 residence coming from T597, and I have two of the
+
+27 calls coming from T309.
+
+28 Q. Is Room T597 Exhibit 216 in the Turnberry 8341
+
+
+
+1 book?
+
+2 A. That’s correct.
+
+3 Q. Would you please remove the page that
+
+4 contains the phone calls you’re referring to?
+
+5 Sergeant Bonner, I’m going to put page one
+
+6 of Exhibit 216 on the board and I’ll blow that up.
+
+7 Okay. The calls, at least two of the calls, between
+
+8 Room T597 registered under Gavin Franklin, are those
+
+9 right in the middle of the exhibit?
+
+10 A. Yes, right here.
+
+11 Q. Okay. And the first call lasted four
+
+12 minutes and the second one four minutes?
+
+13 A. Correct.
+
+14 Q. Okay. And those are the first phone calls
+
+15 for the 6th, correct?
+
+16 A. Correct.
+
+17 Q. Showing you page two of the same exhibit,
+
+18 the last call to the 6162 number on the 6th is 11:53
+
+19 p.m., top line?
+
+20 A. Yes. All this is -- this one appears to be
+
+21 at straight-up midnight, so depending on which day
+
+22 you want to count that one to.
+
+23 Q. I count midnight as tomorrow.
+
+24 A. Either one.
+
+25 Q. That will work, okay. And then the bottom
+
+26 three numbers, those are Jay Jackson?
+
+27 A. Correct.
+
+28 Q. And they’re dated 2-6, but clearly they 8342
+
+
+
+1 occur after midnight, right?
+
+2 A. Correct.
+
+3 Q. So did you put those on the charts for 2-7?
+
+4 A. I would have put these on 2-7, that’s
+
+5 correct.
+
+6 Q. Can you tell us, please, at what time the
+
+7 Cascio phone and the phone registered to Mr.
+
+8 Jackson’s personal assistant, Miss Tavasci, what
+
+9 time those occurred?
+
+10 A. The first call occurred at 5:34 p.m.; the
+
+11 second call at 8:17 p.m.
+
+12 Q. And shortly after getting -- shortly after
+
+13 the phone call between Cascio and Tavasci, after the
+
+14 first one, were there two calls immediately to Mr.
+
+15 Schaffel, 1750 and 1757?
+
+16 MR. SANGER: I’m going to object, again.
+
+17 MR. NICOLA: To the Schaffel phone, excuse
+
+18 me.
+
+19 MR. SANGER: No foundation.
+
+20 MR. NICOLA: I’ll rephrase.
+
+21 THE COURT: Is that the same objection as
+
+22 using the phone instead of the person?
+
+23 MR. SANGER: Yes, sir.
+
+24 THE COURT: All right. Sustained.
+
+25 MR. SANGER: There are actually several
+
+26 numbers as well.
+
+27 MR. NICOLA: Okay.
+
+28 Q. Between -- let me start this over. 8343
+
+
+
+1 After the phone calls between the Cascio
+
+2 phone and the Tavasci phone, were there two phone
+
+3 calls immediately following -- to the Schaffel phone
+
+4 from the Cascio phone?
+
+5 A. There were two calls, one to one number
+
+6 associated with Schaffel and another to another
+
+7 number associated with Schaffel. The first one at
+
+8 1750. The second one at 1757 hours, or 5:50 and
+
+9 5:57 p.m.
+
+10 Q. Okay. So the 5:57 one lasted for seven
+
+11 minutes?
+
+12 A. That’s correct.
+
+13 Q. If we could turn to Exhibit 861, those are
+
+14 phone calls occurring on the 7th of February,
+
+15 correct?
+
+16 A. That’s correct.
+
+17 Q. Okay. Again, you’ve mapped calls from the
+
+18 Turnberry out to other individuals?
+
+19 A. Correct.
+
+20 Q. There is a “Fred Macy, regular room,” kind
+
+21 of in the middle of this exhibit. Can you explain
+
+22 to us what you mean by that?
+
+23 A. There were two different rooms that were
+
+24 registered to Fred Macy. One was the Presidential
+
+25 Suite that cost several thousand dollars a night.
+
+26 There was also a Fred Macy room that was a room that
+
+27 cost about $400 a night, which is what all of the
+
+28 other rooms cost. These are two separate records, 8344
+
+
+
+1 and to designate that, we had “Fred Macy
+
+2 Presidential” and “Fred Macy regular room.”
+
+3 Q. Okay. And the calls from the -- the rooms,
+
+4 the individual rooms at the Turnberry and the phone
+
+5 registered to Mr. Christopher Carter, were all those
+
+6 outgoing calls?
+
+7 A. No. They are, with the exception of this
+
+8 call right here, where there’s one call. That is an
+
+9 incoming call from Carter’s -- or a telephone
+
+10 associated with Carter to the Turnberry Isle Resort.
+
+11 Q. Okay. But the individual rooms are all
+
+12 outgoing calls, correct?
+
+13 A. Correct.
+
+14 Q. You can’t see incoming calls on the
+
+15 individual room bills; isn’t that right?
+
+16 A. No.
+
+17 Q. Okay. And the Turnberry Isle Resort number,
+
+18 that’s the main line?
+
+19 A. Yes.
+
+20 Q. The calls from Schaffel -- the Schaffel
+
+21 phone, excuse me, to the Turnberry Isle Resort, are
+
+22 all those going from Schaffel to the Turnberry Isle?
+
+23 A. This specific connection right here, these
+
+24 are calls from Schaffel to the Turnberry. However,
+
+25 these two are not.
+
+26 Q. Okay. And the call from the Chris Franklin
+
+27 room to Neverland Valley Ranch, can you tell us
+
+28 whether that occurred before or after the outgoing 8345
+
+
+
+1 call to the Chris Carter phone? You can look at
+
+2 your records.
+
+3 A. Let me just clarify that. You want to know
+
+4 whether or not this call here occurred before or
+
+5 after that call there?
+
+6 Q. No. There are two calls coming out of the
+
+7 Chris Franklin room, correct?
+
+8 A. Correct.
+
+9 Q. One to the Neverland Valley Ranch?
+
+10 A. Okay.
+
+11 Q. Okay. And the other one to the Chris Carter
+
+12 phone?
+
+13 A. Correct.
+
+14 Q. Which one occurred first, please?
+
+15 A. Okay.
+
+16 The first call occurred to the Neverland
+
+17 Valley Ranch at 9:06 a.m.
+
+18 Q. What time was the second call?
+
+19 A. It occurred at 803 p.m.
+
+20 Q. I placed in front of you Exhibit No. 850.
+
+21 Do you recognize that document?
+
+22 A. Yes, I do.
+
+23 Q. What is that?
+
+24 A. This is a billing record for air-to-ground
+
+25 telephone calls that occurred on an Xtra Jet flight
+
+26 on February 7th, 2003.
+
+27 Q. And does it appear that calls were made from
+
+28 that flight to the phone registered to Janet’s 8346
+
+
+
+1 parents?
+
+2 A. Yes, there were three calls.
+
+3 Q. And did those occur in time after the ten
+
+4 calls from the Gavin Franklin rooms to the phone at
+
+5 Janet’s parents?
+
+6 A. The telephone calls on the airplane occurred
+
+7 after the telephone calls from the Gavin Franklin
+
+8 room.
+
+9 Q. Okay. Do those -- did they occur -- did the
+
+10 phone calls from the aircraft occur after the phone
+
+11 calls from the Gavin Franklin rooms to the Jay
+
+12 Jackson phone?
+
+13 A. They occurred after.
+
+14 Q. And were there also phone calls placed from
+
+15 that aircraft to numbers registered to Neverland
+
+16 Valley Ranch?
+
+17 A. Yes, there were.
+
+18 Q. Two of them?
+
+19 A. Yes.
+
+20 Q. And how long did those calls last?
+
+21 A. I have one for one minute. And one for two
+
+22 minutes.
+
+23 Q. And the three calls that were placed from
+
+24 the aircraft to the phone at Janet’s parents’ house,
+
+25 were they interspersed with the calls to the
+
+26 Neverland phone or did one group come before the
+
+27 other?
+
+28 A. They were interspersed. 8347
+
+
+
+1 Q. Sergeant Bonner, if you could turn to
+
+2 Exhibit No. 862, please, and the supporting chart.
+
+3 MR. SANGER: That’s 2-8?
+
+4 MR. NICOLA: 2-8.
+
+5 Q. Do you have this? If you could please
+
+6 describe each one of the phones and monikers you’ve
+
+7 given them on this exhibit, please, 2-8. Exhibit
+
+8 862 for February 8th of 2003.
+
+9 A. Okay. Starting in the top left, we have a
+
+10 cellular telephone that came back -- the records
+
+11 said -- indicated MJJ Productions, Miko Brando. We
+
+12 then had another phone that came back to Evelyn
+
+13 Tavasci, MJJ Productions, Unit 1. This one came
+
+14 back to just MJJ Productions, Evelyn Tavasci,
+
+15 without a unit number. This was a telephone
+
+16 registered to Christopher Carter. These were
+
+17 telephone lines that came back to Neverland Valley
+
+18 Ranch. These are telephone lines that came back to
+
+19 Marc Schaffel. Telephones associated with Debbie
+
+20 Rowe. Telephones associated with Frank Cascio.
+
+21 Telephones associated with Vincent Amen. Telephones
+
+22 associated with Christian Robinson, under the
+
+23 business name Site LLC. And a telephone associated
+
+24 with Rudy Provencio.
+
+25 Q. With respect to the contacts between the
+
+26 Cascio phone and the Vince Amen phones, if you could
+
+27 find those in your records, please.
+
+28 A. Okay. I have those. 8348
+
+
+
+1 Q. Could you tell us what time the first call
+
+2 between those two phones occurred?
+
+3 A. The first time is 11:13 a.m.
+
+4 Q. And that was a call for three minutes?
+
+5 A. Correct.
+
+6 Q. Which direction did it go?
+
+7 A. From Amen to Cascio.
+
+8 Q. And the second phone call?
+
+9 A. Occurred at 2:47 p.m., again, from Amen to
+
+10 Cascio.
+
+11 Q. And that was a one-minute call, correct?
+
+12 A. Correct.
+
+13 Q. With respect to the call between the Cascio
+
+14 phone and the Neverland Valley Ranch number, would
+
+15 you tell us what time that occurred?
+
+16 A. The first call occurred at five --
+
+17 correction, 11:48 a.m.
+
+18 Q. The call between the Chris Carter phone and
+
+19 the Neverland Valley Ranch phone, can you tell us
+
+20 what time that occurred, please?
+
+21 A. At four -- or, correction, 2:44 in the
+
+22 morning.
+
+23 Q. Was there a call between the Cascio phone
+
+24 and the phones at Neverland Ranch at around that
+
+25 same time?
+
+26 A. That’s correct. There was a call at 2:34
+
+27 a.m. from Neverland Ranch to Cascio.
+
+28 Q. And that showed as an incoming call on Mr. 8349
+
+
+
+1 Cascio’s phone record, correct?
+
+2 A. That’s correct.
+
+3 THE COURT: All right. We’ll take our break.
+
+4 (Recess taken.)
+
+5 --o0o--
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 8350
+
+
+
+1 REPORTER’S CERTIFICATE
+
+2
+
+3
+
+4 THE PEOPLE OF THE STATE )
+
+5 OF CALIFORNIA, )
+
+6 Plaintiff, )
+
+7 -vs- ) No. 1133603
+
+8 MICHAEL JOE JACKSON, )
+
+9 Defendant. )
+
+10
+
+11
+
+12 I, MICHELE MATTSON McNEIL, RPR, CRR,
+
+13 CSR #3304, Official Court Reporter, do hereby
+
+14 certify:
+
+15 That the foregoing pages 8309 through 8350
+
+16 contain a true and correct transcript of the
+
+17 proceedings had in the within and above-entitled
+
+18 matter as by me taken down in shorthand writing at
+
+19 said proceedings on May 2, 2005, and thereafter
+
+20 reduced to typewriting by computer-aided
+
+21 transcription under my direction.
+
+22 DATED: Santa Maria, California,
+
+23 May 2, 2005.
+
+24
+
+25
+
+26
+
+27 MICHELE MATTSON McNEIL, RPR, CRR, CSR #3304
+
+28 8351
+
+
+
+1 SUPERIOR COURT OF THE STATE OF CALIFORNIA
+
+2 IN AND FOR THE COUNTY OF SANTA BARBARA
+
+3 SANTA MARIA BRANCH; COOK STREET DIVISION
+
+4 DEPARTMENT SM-2 HON. RODNEY S. MELVILLE, JUDGE
+
+5
+
+6
+
+7 THE PEOPLE OF THE STATE OF )
+
+8 CALIFORNIA, )
+
+9 Plaintiff, )
+
+10 -vs- ) No. 1133603
+
+11 MICHAEL JOE JACKSON, )
+
+12 Defendant. )
+
+13
+
+14
+
+15
+
+16
+
+17 REPORTER’S TRANSCRIPT OF PROCEEDINGS
+
+18
+
+19 MONDAY, MAY 2, 2005
+
+20
+
+21 8:30 A.M.
+
+22
+
+23 (PAGES 8352 THROUGH 8472)
+
+24
+
+25
+
+26
+
+27 REPORTED MICHELE MATTSON McNEIL, RPR, CRR, CSR #3304
+
+28 BY: Official Court Reporter 8352
+
+
+
+1 APPEARANCES OF COUNSEL:
+
+2
+
+3 For Plaintiff: THOMAS W. SNEDDON, JR.,
+
+4 District Attorney -and-
+
+5 RONALD J. ZONEN, Sr. Deputy District Attorney
+
+6 -and- GORDON AUCHINCLOSS,
+
+7 Sr. Deputy District Attorney -and-
+
+8 MAG NICOLA, Sr. Deputy District Attorney
+
+9 1112 Santa Barbara Street Santa Barbara, California 93101
+
+10
+
+11
+
+12 For Defendant: COLLINS, MESEREAU, REDDOCK & YU
+
+13 BY: THOMAS A. MESEREAU, JR., ESQ. -and-
+
+14 SUSAN C. YU, ESQ. 1875 Century Park East, Suite 700
+
+15 Los Angeles, California 90067
+
+16 -and-
+
+17 SANGER & SWYSEN BY: ROBERT M. SANGER, ESQ.
+
+18 233 East Carrillo Street, Suite C Santa Barbara, California 93101
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 8353
+
+
+
+1 I N D E X
+
+2
+
+3 Note: Mr. Sneddon is listed as “SN” on index.
+
+4 Mr. Zonen is listed as “Z” on index. Mr. Auchincloss is listed as “A” on index.
+
+5 Mr. Nicola is listed as “N” on index. Mr. Mesereau is listed as “M” on index.
+
+6 Ms. Yu is listed as “Y” on index. Mr. Sanger is listed as “SA” on index.
+
+7
+
+8
+
+9 PLAINTIFF’S
+
+10 WITNESSES DIRECT CROSS REDIRECT RECROSS
+
+11 BONNER, Craig 8393-SA 8446-N 8450-SA
+
+12 (Re-called)
+
+13 ZELIS, Paul (Re-called) 8451-N 8467-SA
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28 8354
+
+
+
+1 E X H I B I T S
+
+2 FOR IN PLAINTIFF’S NO. DESCRIPTION I.D. EVID.
+
+3
+
+4 868 Linked phone calls and Excel spreadsheet 8452 8452
+
+5 869 Linked phone calls and
+
+6 Excel spreadsheet 8453 8453
+
+7 870 Linked phone calls and Excel spreadsheet 8453 8453
+
+8 880 Linked phone calls and
+
+9 Excel spreadsheet 8325 8454
+
+10 881 Linked phone calls and Excel spreadsheet 8325 8454
+
+11 882 Linked phone calls and
+
+12 Excel spreadsheet 8325 8454
+
+13 883 Correction to People’s Exhibit No. 879 8447 8448
+
+14
+
+15
+
+16
+
+17
+
+18 DEFENDANT’S NO.
+
+19 5011 Hand-drawn diagram
+
+20 re phone calls 8402 8404
+
+21 5012 Hand-drawn diagram re phone calls 8419 8419
+
+22 5013 Hand-drawn diagram
+
+23 re phone calls 8427 8427
+
+24
+
+25
+
+26
+
+27
+
+28 8355
+
+
+
+1
+
+2 THE COURT: Go ahead.
+
+3 MR. NICOLA: Thank you, Your Honor.
+
+4 Q. Sergeant Bonner, with respect to the call
+
+5 between --
+
+6 BAILIFF CORTEZ: Microphone, sir.
+
+7 MR. NICOLA: Thank you.
+
+8 Q. Sergeant Bonner, with respect to the call
+
+9 between the Cascio phone and the Neverland Valley
+
+10 Ranch phones occurring at 1544, or 3:44 in the
+
+11 afternoon, was that a four-minute call?
+
+12 A. That was a four-minute call.
+
+13 Q. Okay. And were there also calls between the
+
+14 Cascio phone and the Neverland Ranch phone that
+
+15 occurred from between 35 and 45 seconds, in addition
+
+16 to that one?
+
+17 A. I see two other calls.
+
+18 Q. Okay. And did they last for that period of
+
+19 time, between 35 and 45 seconds?
+
+20 A. Correction, I’m sorry. There’s three other
+
+21 calls. Yes, 35 seconds and 45 seconds.
+
+22 Q. If you could turn to the next exhibit in
+
+23 order, please, Exhibit 863.
+
+24 MR. SANGER: Which is what, 2-12?
+
+25 MR. NICOLA: 2-12.
+
+26 Q. Is that 2-12, Detective?
+
+27 A. That’s correct.
+
+28 Q. Now, to your knowledge, was February 12th 8356
+
+
+
+1 the day the Arvizos left Neverland Ranch the first
+
+2 time?
+
+3 A. I believe it is about that time frame, yes.
+
+4 Q. And beginning at the upper left-hand corner,
+
+5 please, can you indoctrinate the jury as to the
+
+6 individual names you have up there by those phones?
+
+7 MR. SANGER: I’m not sure “indoctrinate” was
+
+8 the correct word, so I object.
+
+9 THE COURT: All you do is quibble.
+
+10 (Laughter.)
+
+11 THE COURT: Is that an objection?
+
+12 MR. SANGER: It’s an objection.
+
+13 THE COURT: All right. Sustained.
+
+14 Q. BY MR. NICOLA: Could you explain, please?
+
+15 A. Absolutely. The first phone we have is a
+
+16 telephone number that is registered to the Law Firm
+
+17 of Geragos & Geragos. We then have a telephone that
+
+18 is registered to Ann Kite, a telephone that is
+
+19 registered to Azia Pryor. And the telephone number
+
+20 that is registered to David Ventura, Janet Arvizo’s
+
+21 parents. Again, we have telephones that are
+
+22 registered to Frank Cascio and telephones that are
+
+23 registered to Marc Schaffel. We also have a
+
+24 telephone registered to Christopher Carter,
+
+25 Neverland Valley Ranch, and a couple of telephones
+
+26 associated with Evelyn Tavasci’s residence. One is
+
+27 the primary, another is a secondary line. We then
+
+28 have a telephone registered to Hamid Moslehi. 8357
+
+
+
+1 Again, one registered to Christian Robinson under
+
+2 the business name Site LLC. A telephone associated
+
+3 with Vincent Amen. And a telephone associated with
+
+4 David LeGrand.
+
+5 Q. Beginning right in the middle of the
+
+6 chart -- maybe it will show clearer if I blow that
+
+7 up. Well, that wasn’t the right button.
+
+8 Is that a “38” between the phones of Mr.
+
+9 Cascio and Mr. Schaffel?
+
+10 A. That’s correct.
+
+11 Q. Okay. When did the first of the 38 phone
+
+12 calls between the two phones occur?
+
+13 A. The first call that I have is at 0024 hours,
+
+14 or shortly after midnight.
+
+15 Q. And how long did that call last?
+
+16 A. One minute in length.
+
+17 Q. Was there another call from the Cascio phone
+
+18 to the Schaffel phone immediately thereafter?
+
+19 A. Yes, there was.
+
+20 Q. And at what time?
+
+21 A. 0025 hours. Four minutes.
+
+22 Q. How long did that last?
+
+23 A. Four minutes.
+
+24 Q. Was there another one immediately after
+
+25 that?
+
+26 A. We then jumped to 0037 hours for one minute.
+
+27 Q. Next?
+
+28 A. 0039 for nine minutes. 8358
+
+
+
+1 Q. Was that one outgoing or incoming to the
+
+2 Cascio phone?
+
+3 A. The last two were actually incoming calls.
+
+4 Q. Okay. What about the next call?
+
+5 A. That’s an incoming call at 0047 hours.
+
+6 Q. How long did that last?
+
+7 A. For seven minutes.
+
+8 Q. And the next call?
+
+9 A. Again, an incoming call at 0054 hours for
+
+10 two minutes.
+
+11 Q. And that’s going from the Schaffel phone to
+
+12 the Cascio phone, correct?
+
+13 A. Correct.
+
+14 Q. Is there another call from Schaffel phone to
+
+15 Cascio phone?
+
+16 A. Yeah, at 0056. I have a two-minute incoming
+
+17 call from the Schaffel phone to the Cascio phone.
+
+18 Q. Was there another call after that?
+
+19 A. 0058 hours. Again, an incoming call from
+
+20 the Schaffel phone to the Cascio phone for five
+
+21 minutes.
+
+22 Q. Can you tell us when the next call between a
+
+23 Schaffel phone and a Cascio phone occurred?
+
+24 A. We then skip to 10:52 a.m.
+
+25 Q. And which direction is that call going?
+
+26 A. That is, again, an incoming call from a
+
+27 Schaffel phone to a Cascio phone for six minutes.
+
+28 Q. Immediately after the incoming call from 8359
+
+
+
+1 Schaffel phone to Cascio phone, was there a call
+
+2 placed from the Vinnie Amen phone to a Marc Schaffel
+
+3 phone? Take a look at 11:01.
+
+4 A. That’s correct, I have a call at 1101 hours
+
+5 for two minutes, and this is a direct call from
+
+6 Vincent Amen to Marc Schaffel.
+
+7 Q. You mean their phones, right?
+
+8 A. Yes.
+
+9 Q. And at 11:02 p.m., was there a one-minute
+
+10 call between Frank Cascio’s phone and Vince Amen’s
+
+11 phone?
+
+12 A. That’s correct. For one minute. Again,
+
+13 this one would be Cascio calling Amen.
+
+14 Q. And immediately after that, at 11:03, was
+
+15 there a call from the Cascio phone to the Chris
+
+16 Carter phone?
+
+17 A. That’s correct. One minute. It’s an
+
+18 outgoing from Cascio to Carter’s phone.
+
+19 Q. Was there a phone call between the Cascio
+
+20 phone and the Vince Amen phone at 11:06?
+
+21 A. That’s correct. It’s an outgoing call from
+
+22 Frank Cascio’s phone to Vincent Amen’s phone for
+
+23 four minutes in length.
+
+24 Q. And at the same time was there an incoming
+
+25 call from the Marc Schaffel phone to Frank Cascio’s
+
+26 phone, again at 11:06?
+
+27 A. That’s correct. I have a three-minute
+
+28 incoming call on Cascio’s phone from a phone 8360
+
+
+
+1 registered to Marc Schaffel.
+
+2 Q. When was the next call between Vince Amen --
+
+3 Vince Amen’s phone, excuse me, and Frank Cascio’s
+
+4 phone?
+
+5 A. At 1113 hours for one minute.
+
+6 Q. And that was from a Cascio phone to an Amen
+
+7 phone?
+
+8 A. Correct.
+
+9 Q. Okay. Was there a call placed between Marc
+
+10 Schaffel phone and the phone belonging to Ann Kite?
+
+11 A. Yes, there was.
+
+12 Q. Do you also know her as Ann Gabriel?
+
+13 A. Yes.
+
+14 Q. What time was that phone call and how long
+
+15 did it last, please?
+
+16 A. The first call was at 11:40 a.m. for 11
+
+17 minutes in length.
+
+18 Q. If you could find the record for Frank
+
+19 Cascio/Marc Schaffel at 12:41.
+
+20 A. Okay. I have that.
+
+21 Q. You’ve got it? Okay. The call between
+
+22 Frank Cascio’s phone and Marc Schaffel’s phone at
+
+23 12:41, how long did that last?
+
+24 A. Three minutes.
+
+25 Q. Okay. And then at 1312, 1:12 in the
+
+26 afternoon, was there a call placed between a phone
+
+27 belonging to Frank Cascio and Chris Carter? Chris
+
+28 Carter’s phone, excuse me. 8361
+
+
+
+1 A. That’s correct, a one-minute call.
+
+2 Q. And immediately after that, was there a
+
+3 seven-minute call placed by the Frank Cascio phone
+
+4 to Neverland Valley Ranch?
+
+5 A. Correct, at 1313 hours for seven minutes.
+
+6 Q. After that phone call, was there a call
+
+7 placed from the Frank Cascio phone to the firm
+
+8 Geragos & Geragos?
+
+9 A. Correct. At 1333 hours.
+
+10 Q. And after the phone call to Geragos &
+
+11 Geragos, was there a call between Frank Cascio’s
+
+12 phone and the home of defendant Jackson’s personal
+
+13 assistant, Evelyn Tavasci?
+
+14 A. Correct, at 1343 hours.
+
+15 Q. How long was that call?
+
+16 A. One minute in length.
+
+17 Q. Was there another call placed exactly one
+
+18 minute after that?
+
+19 A. Correct. At 1344 for three minutes.
+
+20 Q. To the home of Evelyn Tavasci?
+
+21 A. Correct.
+
+22 Q. After that three-minute phone call, was
+
+23 there a call between the Frank Cascio phone and the
+
+24 Marc Schaffel phone?
+
+25 A. Which call were you interested in?
+
+26 Q. 1348 hours.
+
+27 A. That’s correct, for two minutes 11 seconds.
+
+28 Q. So the call at 1344 to the home of Evelyn 8362
+
+
+
+1 Tavasci from the Cascio phone lasted three minutes,
+
+2 and then the next call from the Cascio phone was to
+
+3 the Schaffel phone at 1338, which lasted for two
+
+4 minutes, correct?
+
+5 A. Correct.
+
+6 Q. With respect to the link between the Evelyn
+
+7 Tavasci home number and the phone registered to
+
+8 Mr. Moslehi, did that occur at 2:11 in the
+
+9 afternoon, 1411?
+
+10 A. Correct. 2:11 for one minute.
+
+11 Q. Were there additional phone calls between
+
+12 the Frank Cascio phone and the Geragos & Geragos
+
+13 phone? Specifically at 1527 and 1542 in the
+
+14 afternoon.
+
+15 A. That’s correct. The first at 1527 was a
+
+16 55-second incoming call. The second at 1542 was a
+
+17 five-minute 54-second call.
+
+18 Q. And in between those two calls to the
+
+19 Geragos phones from the Cascio phone, was there a
+
+20 call by the Cascio phone to the Marc Schaffel phone
+
+21 at 1540?
+
+22 A. That’s correct. I have a one-minute call
+
+23 between the Cascio phone and the Schaffel phone.
+
+24 Q. Was there a call placed from a Schaffel
+
+25 phone to the phone of David LeGrand at 1547 hours?
+
+26 A. That’s correct. Three minutes in length.
+
+27 Q. And at 1727 hours, is that the next phone
+
+28 call between the Cascio phones and the Schaffel 8363
+
+
+
+1 phones?
+
+2 A. That’s correct.
+
+3 Q. Did that last for seven minutes?
+
+4 A. Yes, that was seven minutes in length.
+
+5 Q. And shortly after that phone call at 1742,
+
+6 was there an incoming call from the second home line
+
+7 of Mr. Jackson’s personal assistant to the phone
+
+8 registered to Frank Cascio?
+
+9 A. That is correct. For one minute and ten
+
+10 seconds.
+
+11 Q. Are there additional phone calls between Ann
+
+12 Kite -- between the Ann Kite phone and the Marc
+
+13 Schaffel phone in the evening, approximately 8:24?
+
+14 A. 6:24 p.m.
+
+15 Q. Okay. How long did that call last?
+
+16 A. Four minutes in length.
+
+17 Q. Now, with respect to the 19 calls between
+
+18 the Cascio phone and the Amen phone, and the 38
+
+19 calls between the Cascio phone and the Schaffel
+
+20 phone, did one group of phone calls occur before,
+
+21 after, or interspersed with the others?
+
+22 A. They were interspersed.
+
+23 Q. Throughout the entire day?
+
+24 A. Correct.
+
+25 Q. If you could turn your attention to the
+
+26 phone call between the Christian Robinson phone and
+
+27 the Moslehi phone. If you could find that.
+
+28 A. I have it. 8364
+
+
+
+1 Q. Which direction was that phone call in?
+
+2 A. Christian Robinson contacting Hamid
+
+3 Moslehi’s phone.
+
+4 Q. Okay. With respect to the phone calls in
+
+5 the upper right-hand corner between Janet’s parents’
+
+6 phone and the phone registered to Azia Pryor, was
+
+7 there a call placed at approximately eight o’clock
+
+8 at night, 2000 hours?
+
+9 A. Correct. At 8:06 p.m. for a little over one
+
+10 minute.
+
+11 Q. One minute, or one hour 33 minutes?
+
+12 A. I’m sorry. One hour 33 minutes.
+
+13 Q. Okay. Do you know which direction that call
+
+14 went?
+
+15 A. That call was from the Venturas’ residence
+
+16 to Azia Pryor’s phone.
+
+17 Q. Okay. If you could turn your attention to
+
+18 Exhibit -- 863 or 864, which one’s next?
+
+19 A. 864.
+
+20 MR. SANGER: What’s that, 2-13?
+
+21 MR. NICOLA: That’s 2-13, Counsel.
+
+22 Q. Without trying to indoctrinate, could you
+
+23 explain for the jury what’s on that?
+
+24 A. Again, we have telephone numbers that are
+
+25 associated with the various individuals. I believe
+
+26 all of these we’ve already spoke of. Hamid Moslehi,
+
+27 Christian Robinson, Vincent Amen, Evelyn Tavasci,
+
+28 David Ventura, Janet’s parents, Frank Cascio, 8365
+
+
+
+1 Neverland Valley Ranch, Azia Pryor, Marc Schaffel,
+
+2 Ann Kite, the law offices of Geragos & Geragos, and
+
+3 Deborah Rowe Jackson.
+
+4 MR. MESEREAU: Excuse me.
+
+5 MR. NICOLA: Bless you.
+
+6 MR. MESEREAU: Thank you.
+
+7 Q. BY MR. NICOLA: If we could go to the bottom
+
+8 right-hand corner specifically with respect to the
+
+9 phone calls between the Ann Kite phone and the
+
+10 Geragos & Geragos phone, how many were there?
+
+11 Because we can’t quite see it.
+
+12 A. Four.
+
+13 Q. And in which direction?
+
+14 A. All four calls were from Ann Kite to the law
+
+15 offices of Geragos & Geragos.
+
+16 Q. Is that five calls between the Ann Kite
+
+17 phone and the Schaffel phone?
+
+18 A. That’s correct.
+
+19 Q. With respect to the four calls between the
+
+20 Ann Kite phone and the Geragos & Geragos phone, what
+
+21 was the shortest call?
+
+22 A. One minute in length.
+
+23 Q. And there were two of those?
+
+24 A. Correct.
+
+25 Q. Was there also a six-minute call and a
+
+26 two-minute call respectively?
+
+27 A. Correct. At 10:05 and 3:48 p.m.
+
+28 Q. Okay. So at 10:05 a.m., there is a 8366
+
+
+
+1 one-minute call between the Ann Kite phone and the
+
+2 Geragos & Geragos phone, correct?
+
+3 A. Correct.
+
+4 Q. Also at 10:05 a.m. is another one-minute
+
+5 call between the Ann Kite phone and the Geragos &
+
+6 Geragos phone?
+
+7 A. That’s correct.
+
+8 Q. And also at 10:05 a.m., there’s a six-minute
+
+9 call between the Ann Kite phone and the Geragos &
+
+10 Geragos phone?
+
+11 A. Correct.
+
+12 Q. Okay. And the last call between the Ann
+
+13 Kite phone and the Geragos & Geragos phone?
+
+14 A. Was at 3:48 p.m. for two minutes.
+
+15 Q. Okay. And in between the time interval that
+
+16 you’ve just testified about, how many times did Ms.
+
+17 Kite’s phone contact the Schaffel phones?
+
+18 A. Two times.
+
+19 Q. Is one of those times at 10:11 in the
+
+20 morning?
+
+21 A. Correct.
+
+22 Q. That was immediately after the 10:05 call to
+
+23 the Geragos & Geragos firm?
+
+24 A. Correct.
+
+25 Q. How long did that 10:11 call to the Schaffel
+
+26 phone last?
+
+27 A. 11 minutes. Correction. 17 minutes.
+
+28 Q. Was there another call at 11:30 to the 8367
+
+
+
+1 Schaffel phone?
+
+2 A. That’s correct. For 13 minutes.
+
+3 Q. Okay. Was there a call at 7:06 a.m. between
+
+4 the Ann Kite phone and the Marc Schaffel phone?
+
+5 A. Correct. One minute in length.
+
+6 Q. And immediately after that call, was there a
+
+7 call between the Schaffel phone and Neverland Valley
+
+8 Ranch?
+
+9 A. There was also a call at 7:06 from Schaffel
+
+10 to Neverland Valley Ranch for 17 minutes in length.
+
+11 Q. After the call to Neverland Valley Ranch,
+
+12 was there a call between the Marc Schaffel phone
+
+13 going from the Marc Schaffel phone to the Ann Kite
+
+14 phone?
+
+15 A. Correct. At 0759 for 15 minutes.
+
+16 Q. Do your records show a phone call between
+
+17 the Frank Cascio phone and the David Ventura
+
+18 phones -- phone?
+
+19 A. That’s correct. I have outgoing calls from
+
+20 the Ventura to the Cascio phone.
+
+21 Q. And what time are those two calls?
+
+22 A. Two calls. The first one at 11:35 p.m. for
+
+23 four minutes. Second one at 11:43 p.m. for three
+
+24 minutes.
+
+25 Q. Immediately preceding those two outgoing
+
+26 calls from the Ventura phones to the Cascio phones,
+
+27 were there a number of phone calls from the Ventura
+
+28 line to the Azia Pryor line? 8368
+
+
+
+1 A. I have three calls from the Ventura line to
+
+2 the Azia Pryor line. The first one at 5:47 p.m. for
+
+3 nine minutes. The second one at 6:37 p.m. for 14
+
+4 minutes. And the last one at 7:21 p.m. for two
+
+5 minutes.
+
+6 Q. If you could turn your attention to the
+
+7 calls surrounding Frank Cascio’s phone. With
+
+8 respect to the one call going between the Frank
+
+9 Cascio phone and the Evelyn Tavasci phone, what time
+
+10 did that occur, please?
+
+11 A. That occurred at 5:37 p.m., four minutes in
+
+12 length.
+
+13 Q. With respect to the 12 calls between the
+
+14 Amen phone and the Cascio phone, can you tell us
+
+15 generally what time of day those 12 calls occurred?
+
+16 A. With the exception of one call, they
+
+17 occurred in the afternoon to evening time frame.
+
+18 Q. And was that first call the exception, at
+
+19 054 in the morning?
+
+20 A. Correct.
+
+21 Q. And how long did that last?
+
+22 A. Four minutes.
+
+23 Q. And which direction was that going?
+
+24 A. Frank Cascio calling Vincent Amen.
+
+25 Q. Immediately prior to that was a one-minute
+
+26 call between the Frank Cascio phone and the Marc
+
+27 Schaffel phone at 052 in the morning?
+
+28 A. That’s correct. One minute in length. 8369
+
+
+
+1 Q. Sergeant Bonner, if you could turn to
+
+2 Exhibit 865, please. Could you please explain the
+
+3 chart for February 14th of 2003, Exibit 865.
+
+4 A. Again, as with the other ones, we have a
+
+5 number of telephone numbers that are associated with
+
+6 individuals that have came out during this
+
+7 investigation. And we start with Vincent Amen,
+
+8 Hamid Moslehi, David LeGrand, Frank Cascio, Marc
+
+9 Schaffel, Christian Robinson, Ann Kite, the Law
+
+10 Offices of Geragos & Geragos, Evelyn Tavasci, David
+
+11 Ventura, and Azia Pryor.
+
+12 Q. If you could begin in the center with the
+
+13 Moslehi, Schaffel and Christian Robinson phones, can
+
+14 you tell us first which direction the call from --
+
+15 in between Moslehi and Schaffel occurred, between
+
+16 their phones?
+
+17 A. The Marc Schaffel phone contacted the Hamid
+
+18 Moslehi phone for one minute in length at 8:42 p.m.
+
+19 Q. What about the contact between the Christian
+
+20 Robinson phone and the Marc Schaffel phone?
+
+21 A. That was a call from the Christian Robinson
+
+22 phone to the Marc Schaffel phone, one minute in
+
+23 length, at 10:18 p.m.
+
+24 Q. And in between the call from the Schaffel
+
+25 phone to the Moslehi phone, and the Christian
+
+26 Robinson phone and the Schaffel phone, were there
+
+27 two calls placed to Frank Cascio, one from the
+
+28 Ventura phone at 2105 hours? 8370
+
+
+
+1 A. I have a phone call from the David Ventura
+
+2 residence to a Frank Cascio phone at 2105 hours, two
+
+3 minutes in length.
+
+4 Q. And at 2130 hours, 9:30 p.m., was there a
+
+5 call between the Vince Amen phone and a Frank Cascio
+
+6 phone?
+
+7 A. That’s correct. 2130 hours, one minute in
+
+8 length.
+
+9 Q. It’s not clear on the chart, from here
+
+10 anyway, but how many times was there contact between
+
+11 the Cascio phone and the Ventura phone, Janet’s
+
+12 parents?
+
+13 A. There were four calls.
+
+14 Q. Can you tell us what time the first call was
+
+15 made on Valentine’s Day 2003?
+
+16 A. The first call I have is from the Ventura
+
+17 residence to a Cascio phone at 4:45 p.m., one minute
+
+18 in length.
+
+19 Q. Okay. When was the next call, please?
+
+20 A. The next call occurred at 7:29 p.m. This
+
+21 one was from the Cascio phone to the Venturas’
+
+22 residence, two minutes in length.
+
+23 Q. And the next one, please?
+
+24 A. Was at 7:45 p.m., again from the Cascio
+
+25 phone to the Ventura residence, for 59 seconds.
+
+26 Q. Is the next one the call that occurs at
+
+27 2105, 9:05 p.m., between the Ventura residence and
+
+28 the Cascio phone? 8371
+
+
+
+1 A. That’s correct. Two minutes in length.
+
+2 Q. Okay. Are there also a number of calls
+
+3 between the Ventura phone and the Azia Pryor phone?
+
+4 A. Yes, there are.
+
+5 Q. And are they going in one direction or both
+
+6 directions, generally?
+
+7 A. They’re going in both directions.
+
+8 Q. And what time is the first call between
+
+9 those two phones, please?
+
+10 MR. SANGER: Your Honor, I’m going to object
+
+11 at this point. I’ve been waiting, but it does seem
+
+12 that this is cumulative, and the relevance in these
+
+13 details -- I’ll object on relevance.
+
+14 THE COURT: Overruled.
+
+15 THE WITNESS: The first call occurred at
+
+16 2:20 p.m., one minute in length, from the Ventura
+
+17 residence to the Azia Pryor telephone.
+
+18 Q. BY MR. NICOLA: Do you have an entry there
+
+19 marked 1250 in the morning?
+
+20 A. I’m sorry, that’s correct. That’s the first
+
+21 one. 1250, one minute 30 seconds in length, from
+
+22 Azia Pryor’s phone to the Ventura residence.
+
+23 Q. One minute 30 seconds?
+
+24 A. I’m sorry, one hour 30 minutes. They’re
+
+25 numbers.
+
+26 Q. You bill like phone companies, in reverse.
+
+27 And when was the last call between the
+
+28 Ventura phones and the Azia Pryor phones for the 8372
+
+
+
+1 14th?
+
+2 A. The last call I have is at 11:40 p.m. for
+
+3 two minutes in length from the Ventura phone to the
+
+4 Azia Pryor phone.
+
+5 Q. Okay. And in total, there was contact
+
+6 between the LeGrand phone and the Kite phone just
+
+7 one time?
+
+8 A. Correct.
+
+9 Q. And two times between the Kite phone and the
+
+10 Geragos & Geragos phones that day?
+
+11 A. Correct.
+
+12 Q. If you could please continue to Exhibit 866,
+
+13 the chart for February 15th. And please explain
+
+14 this exhibit for the jury, please.
+
+15 A. It’s a little off center.
+
+16 Q. Okay.
+
+17 A. Okay. Again, we have a number of
+
+18 individuals who we have identified as being
+
+19 associated with this investigation, and these are
+
+20 telephones that are associated with those
+
+21 individuals: Hamid Moslehi, Rudy Provencio, Vincent
+
+22 Amen, Marc Schaffel, Frank Cascio, Neverland Valley
+
+23 Ranch, Ann Kite, Law Offices of Geragos & Geragos,
+
+24 Evelyn Tavasci, Jay Jackson, a second line into
+
+25 Evelyn Tavasci’s residence, David Ventura and Azia
+
+26 Pryor.
+
+27 Q. Was the first call between the Cascio phone
+
+28 and the Jay Jackson phone at 2:11 in the morning? 8373
+
+
+
+1 Look on page two, four up from the bottom.
+
+2 A. The David Ventura phone.
+
+3 Q. Oh, I’m sorry. Was that the first of five
+
+4 calls to the David Ventura phone at 2:11 in the
+
+5 morning?
+
+6 A. Correct.
+
+7 Q. And can you tell us when the first call was
+
+8 between the Cascio phone and the Jackson phone that
+
+9 morning, that day?
+
+10 A. The first call I show is at 10:17 a.m. from
+
+11 the Jay Jackson phone to the Cascio phone.
+
+12 Q. Of the 14 calls between the Jay Jackson
+
+13 phone and the Frank Cascio phone, how many of them
+
+14 lasted more than one minute?
+
+15 A. 11 of them.
+
+16 Q. Was there a call between the Frank Cascio
+
+17 phone and the Geragos & Geragos phone that day as
+
+18 well?
+
+19 A. Yes, there was.
+
+20 Q. And what time was that?
+
+21 A. That occurred at 2:45 p.m., for 44 seconds,
+
+22 from Cascio to Geragos phones.
+
+23 Q. And prior to that phone contact between the
+
+24 Cascio phone and the Geragos & Geragos phone, was
+
+25 there a 15-minute phone call beginning at 1424 hours
+
+26 between the Cascio phone and the Jay Jackson phone?
+
+27 A. That’s correct.
+
+28 Q. And immediately after the phone call between 8374
+
+
+
+1 the Cascio phone to the Geragos & Geragos phone,
+
+2 were there two more calls placed between the Cascio
+
+3 phone and the Jackson phone?
+
+4 A. Correct. At 1501 and 1502, first one for
+
+5 one minute and the second one for three minutes.
+
+6 Q. And at the end of the three-minute call at
+
+7 1502 between the Cascio phone and the Jackson phone,
+
+8 was there a call between Frank Cascio’s phone and
+
+9 Marc Schaffel’s phone?
+
+10 A. That’s correct, at 1505 hours for three
+
+11 minutes.
+
+12 Q. Of the three calls between the Cascio phone
+
+13 and the Tavasci home phone, can you tell us what
+
+14 time the first call was?
+
+15 A. The first call occurred at 5:45 p.m., six
+
+16 minutes in length.
+
+17 Q. And which direction was that call going?
+
+18 A. That was from Cascio to the Tavasci phone.
+
+19 Q. At that same time, at 5:45 p.m., was there a
+
+20 call from the Vince Amen phone to the same Frank
+
+21 Cascio phone that dialed the Evvy Tavasci home
+
+22 phone?
+
+23 A. That’s correct. It was seven minutes in
+
+24 length from Amen to Cascio.
+
+25 Q. And at the same time, the Cascio phone
+
+26 called the Tavasci home?
+
+27 A. Correct.
+
+28 Q. And that was for six minutes? 8375
+
+
+
+1 A. Correct.
+
+2 Q. Is that what’s known as a three-way call,
+
+3 Sergeant?
+
+4 A. It is potentially a three-way call.
+
+5 Q. Immediately after that call between the
+
+6 Amen/Cascio, Cascio/Tavasci phones, was there a call
+
+7 placed from the Cascio phone to the Schaffel phone?
+
+8 A. That’s correct. I have a two-minute call at
+
+9 1755 hours from the Cascio phone to a Schaffel
+
+10 phone.
+
+11 Q. Okay. And then were there two calls after
+
+12 that between the Cascio phone and one of the Evelyn
+
+13 Tavasci home phone numbers and the Cascio phone and
+
+14 the other Tavasci home number, the second line, at
+
+15 1825 and 1843 hours?
+
+16 A. That’s correct. I have the first call at
+
+17 1825 hours for three minutes and 33 -- correction,
+
+18 three minutes and 36 seconds, and that is from the
+
+19 Cascio phone to the Tavasci, Evelyn, home phone.
+
+20 And the second call is at 1843 hours, one
+
+21 minute 47 seconds in length, and that goes from the
+
+22 Cascio to the Evelyn Tavasci second home line.
+
+23 Q. At 1851 hours, was there a phone call
+
+24 between the Cascio phone and the Jay Jackson phone?
+
+25 A. That’s correct. Two minutes in length.
+
+26 Q. This would be the call immediately after the
+
+27 call from Cascio’s line to the second home line at
+
+28 Evvy Tavasci’s? 8376
+
+
+
+1 A. A few minutes later, correct.
+
+2 Q. Okay. And that was a two-minute call?
+
+3 A. Correct.
+
+4 Q. At the end of that phone call at 1853 was
+
+5 there another call placed from the Cascio line to
+
+6 the same Jay Jackson line?
+
+7 A. That’s correct. We have a call at 1853, for
+
+8 17 minutes in length.
+
+9 Q. And at the end of that call, at 1910 hours,
+
+10 was there another call placed from the Frank Cascio
+
+11 phone to the Jay Jackson phone?
+
+12 A. Correct. Three minutes 19 seconds in
+
+13 length.
+
+14 Q. And immediately after that call, was there --
+
+15 excuse me. Were there two calls placed from the
+
+16 Frank Cascio phone to the Frank Schaffel phone?
+
+17 A. Okay. Yes, we have one at 7:14 p.m., one
+
+18 minute in length. And another one at 7:16 p.m.,
+
+19 four minutes in length.
+
+20 Q. After the phone call at 7:16 p.m. between
+
+21 the Cascio phone and the Schaffel phone, did the
+
+22 phone belonging to Jay Jackson connect with a phone
+
+23 belonging to Frank Cascio, in that direction?
+
+24 A. That’s correct. At 8:43 p.m. for four
+
+25 minutes 15 seconds.
+
+26 Q. Was there another call between the same two
+
+27 phones and in the same direction at 8:48 p.m. that
+
+28 lasted for two minutes? 8377
+
+
+
+1 A. Correct.
+
+2 Q. And immediately after that phone call at
+
+3 8:48, was there a call between the Frank Cascio
+
+4 phone and the Evvy Tavasci home phone?
+
+5 A. That’s correct, at 8:56 p.m., two minutes 28
+
+6 seconds in length.
+
+7 Q. Was there a call approximately ten minutes
+
+8 later from the Cascio phone to the Amen phone at
+
+9 2108?
+
+10 A. Correct. Six minutes in length.
+
+11 Q. At the end of that six-minute call, was
+
+12 there a call between the Cascio phone and the
+
+13 Neverland Valley Ranch phone?
+
+14 A. That’s correct. 2126 hours. That’s an
+
+15 incoming call from Neverland Valley to the Cascio
+
+16 phone, three minutes 41 seconds in length.
+
+17 Q. If you could turn to Exhibit 867, please.
+
+18 And is that the chart for Sunday, February 16th, of
+
+19 2003?
+
+20 A. That’s correct.
+
+21 Q. If you could explain to the jury what’s
+
+22 depicted in this exhibit, please.
+
+23 A. Once more, we have a number of telephones
+
+24 that are associated with individuals that have came
+
+25 up during this investigation; namely, starting on
+
+26 the left, Chris Tucker, Vincent Amen, Rudy
+
+27 Provencio, Evelyn Tavasci, Azia Pryor, Neverland
+
+28 Valley Ranch, Marc Schaffel, Chris Carter, David 8378
+
+
+
+1 Ventura, Jay Jackson, Frank Cascio, another call
+
+2 from Marc Schaffel, and Christian Robinson as Site
+
+3 LLC.
+
+4 Q. With respect to the calls between the Cascio
+
+5 phone and the Jay Jackson phone, the chart shows a
+
+6 “2” over a “1.” Were there 21 calls between the
+
+7 two, or what?
+
+8 A. No, there was not. That should indicate
+
+9 that there were two calls from one direction and one
+
+10 call from the other direction.
+
+11 Q. Which direction were the two calls from?
+
+12 A. From Jay Jackson to Frank Cascio. And one
+
+13 call from Frank Cascio to Jay Jackson.
+
+14 Q. Okay. Can you tell us the time of the first
+
+15 call between Jay Jackson and the Frank Cascio phone?
+
+16 A. The first call occurred at 4:32 p.m., four
+
+17 minutes in length, from Jay Jackson to Frank Cascio
+
+18 telephones.
+
+19 Q. And when was the last call between the two
+
+20 phones?
+
+21 A. At 11:26 p.m., two minutes 30 seconds in
+
+22 length, from the Frank Cascio phone to Jay Jackson
+
+23 phone.
+
+24 Q. In between the first and last calls between
+
+25 the Jay Jackson phone and the Cascio phone, was
+
+26 there contact between the Cascio phone and the
+
+27 Neverland Valley Ranch phone?
+
+28 A. The only call I’m showing was at 0100 hours. 8379
+
+
+
+1 Q. So there was not?
+
+2 A. Correct.
+
+3 Q. When was the first call between the Vince
+
+4 Amen phone and the Frank Cascio phone?
+
+5 A. 0844 hours, or 8:44 a.m.
+
+6 Q. If you could turn to Exhibit 871, I believe.
+
+7 Is that the chart for February 20th?
+
+8 A. That’s correct.
+
+9 Q. Is it Detective Zelis who will have all the
+
+10 fun with the charts on the 17th, 18th and 19th?
+
+11 A. That’s correct.
+
+12 Q. I placed Exhibit 871, or a reasonable
+
+13 likeness, up on the board. Do you know whether this
+
+14 date, February 20th, coincided with the filming of a
+
+15 rebuttal video?
+
+16 A. That is my understanding, correct.
+
+17 Q. Okay. And explain to the jury, please,
+
+18 what’s depicted in this exhibit.
+
+19 A. Again, we have icons which are associated
+
+20 with telephones registered to individuals that have
+
+21 came up during this investigation. Starting at the
+
+22 top left, we have Frank Cascio, Marc Schaffel, David
+
+23 Ventura, Jay Jackson, Evelyn Tavasci second line,
+
+24 Evelyn Tavasci’s home line, Neverland Valley Ranch,
+
+25 Vincent Amen, the Turnberry Isle Resort, Christopher
+
+26 Carter and Rudy Provencio.
+
+27 Q. If you could begin, please, with the phone
+
+28 calls between the Vincent Amen line and the Jay 8380
+
+
+
+1 Jackson line, tell us what time the first call was
+
+2 placed.
+
+3 A. The first call occurred at 10:02 a.m., two
+
+4 minutes in length, from Amen to Jackson.
+
+5 Q. Would you look at the time stamp, 9:51 on
+
+6 your chart, please?
+
+7 A. I’m sorry, they’re out of order. 9:51 would
+
+8 be the first call.
+
+9 Q. And the second call would be at 10:02 a.m.?
+
+10 A. Correct.
+
+11 Q. How many times did the Vince Amen phone
+
+12 contact the Marc Schaffel phone that day?
+
+13 A. I have five calls.
+
+14 Q. And was the first call placed at nearly one
+
+15 o’clock in the morning or just before one o’clock in
+
+16 the morning?
+
+17 A. Five minutes prior, at 0055 hours.
+
+18 Q. And how many times was there contact between
+
+19 the Vince Amen phone and the Frank Cascio phone that
+
+20 day? You could refer to the chart itself if it
+
+21 helps you.
+
+22 A. I’m just double-checking. I have 31 calls.
+
+23 Q. Was the first call a call that was placed
+
+24 between Frank Cascio’s phone and Vince Amen’s phone
+
+25 at 1:25 in the morning?
+
+26 A. That’s correct.
+
+27 Q. And how many times was there contact between
+
+28 the Cascio phone and the Schaffel phone on the 8381
+
+
+
+1 morning -- on the day of the 20th?
+
+2 A. I have 11 calls. And I have two -- two
+
+3 more, so a total of 13.
+
+4 Q. Of the two calls between the Cascio phone
+
+5 and the Evvy Tavasci home phone, can you tell us
+
+6 whether they were going in one direction or both
+
+7 ways?
+
+8 A. It appears they were going just from Cascio
+
+9 to Evelyn Tavasci.
+
+10 Q. From the Cascio phone to the Tavasci phone?
+
+11 A. Correct.
+
+12 Q. And what time is the first call from the
+
+13 Cascio phone to the Tavasci phone?
+
+14 A. At 1:26 p.m., three minutes in length.
+
+15 Q. If you would please turn to the next exhibit
+
+16 that you have, which is No. 875 -- actually, before
+
+17 we leave 871, the chart shows seven calls between
+
+18 Neverland Valley Ranch and Frank Cascio’s number; is
+
+19 that correct?
+
+20 A. That’s correct.
+
+21 Q. And what time did those calls begin and in
+
+22 which direction were they going, please?
+
+23 A. I believe each of these calls was an
+
+24 incoming call. I’m sorry, they’re going both
+
+25 directions. And they start at a little after 2 p.m.
+
+26 and end a little after 9 p.m.
+
+27 Q. Okay. Now you can turn to Exhibit 875,
+
+28 please. 8382
+
+
+
+1 MR. SANGER: Is that March 5?
+
+2 MR. NICOLA: It’s March 2.
+
+3 THE WITNESS: March 5th.
+
+4 MR. SANGER: March 5 is what mine says.
+
+5 Q. BY MR. NICOLA: Is there an exhibit tag on
+
+6 March 2nd?
+
+7 A. Yeah. It’s not mine, though.
+
+8 Q. Okay. I’m sorry. 875 is March 5th. And
+
+9 who’s doing March 2nd, 3rd and 4th?
+
+10 A. Chief Investigator Dave Saunders.
+
+11 Q. I’m sorry. Is this a chart for Wednesday,
+
+12 March 5th?
+
+13 A. It is.
+
+14 Q. Okay. Explain to the jury what’s on this
+
+15 exhibit, please.
+
+16 A. Okay. Again, we have a number of icons that
+
+17 are associated with telephones that are registered
+
+18 to individuals that have came up during this
+
+19 investigation. Starting on the left, we have Frank
+
+20 Cascio, Neverland Valley Ranch, Evelyn Tavasci/MJJ
+
+21 Productions, another number, MJJ Productions/Miko
+
+22 Brando, Evelyn Tavasci home, Rudy Provencio, Paul
+
+23 Hugo and David LeGrand.
+
+24 Q. Let’s talk about the Frank Cascio phone and
+
+25 the Neverland Valley Ranch phone. Can you tell us
+
+26 when they first -- when they first begin and which
+
+27 direction they went?
+
+28 A. They first started at shortly before 2 a.m. 8383
+
+
+
+1 in the morning, which was an incoming call from
+
+2 Neverland to Frank Cascio, and it ended at 6:15
+
+3 p.m., again with an incoming call from Neverland to
+
+4 Frank Cascio. In between that we had two calls from
+
+5 Cascio to Neverland.
+
+6 Q. Okay. Can you tell us what time the call
+
+7 between the Paul Hugo phone and the Rudy Provencio
+
+8 phone was?
+
+9 A. Okay. That was at 2109 hours for one minute
+
+10 in length.
+
+11 Q. And also between the Paul Hugo phone and the
+
+12 David LeGrand phone, please?
+
+13 A. That was 2134 hours, or 9:34 p.m., for two
+
+14 minutes in length.
+
+15 Q. Okay. If you could move to Exhibit No. 876,
+
+16 please. And if you could explain to the jury what’s
+
+17 on this exhibit?
+
+18 A. Okay. As with the other exhibits, we have a
+
+19 number of telephones associated with individuals
+
+20 and/or locations that have came up during this
+
+21 investigation. I’ll start on the left. We have
+
+22 Paul Hugo, Marc Schaffel and Vincent Amen. We have
+
+23 Frank Cascio, Neverland Valley Ranch. This was a
+
+24 room at the Beverly Hilton that was registered under
+
+25 Christopher Carter. We have the MJJ
+
+26 Productions/Miko Brando phone, Evelyn Tavasci/MJJ
+
+27 Productions phone, Evelyn Tavasci second home line,
+
+28 and the Evelyn Tavasci home line. 8384
+
+
+
+1 Q. Could you turn to the exhibit book on your
+
+2 right, please, and find Exhibit No. 255? Are those
+
+3 The Beverly Hilton records?
+
+4 A. These are.
+
+5 Q. Okay. Exhibit 255, is that the room bill
+
+6 for Chris Carter, Room 429, from The Beverly Hilton?
+
+7 A. Yes, it is.
+
+8 Q. Okay. Did the phone charge -- do the phone
+
+9 charges on The Beverly Hilton records include
+
+10 minutes?
+
+11 A. I don’t immediately recognize anything as
+
+12 being specific to length of call.
+
+13 Q. And indeed, there are no minutes on your
+
+14 chart for The Beverly Hilton calls, correct?
+
+15 A. Correct.
+
+16 Q. Do you show three calls going from The
+
+17 Beverly Hilton out of the Chris Carter room on the
+
+18 6th to Ms. Evelyn Tavasci’s home or second home
+
+19 numbers?
+
+20 A. That’s correct.
+
+21 Q. And what time is the first call?
+
+22 A. I have two calls that occur at 1136 hours.
+
+23 One to the home line; the second one to the second
+
+24 home line.
+
+25 Q. Okay. Can you remove the page you’re
+
+26 looking at in Exhibit 255?
+
+27 MR. SANGER: Which one?
+
+28 MR. NICOLA: March 5. 8385
+
+
+
+1 Q. Showing you page one of Exhibit 255, just
+
+2 generally the time stamp in the middle column on the
+
+3 left, for example, eleven-three -- 11:36, that’s the
+
+4 time that corresponds to the call in your charts,
+
+5 correct?
+
+6 A. That’s correct.
+
+7 Q. And there’s nothing on the right that
+
+8 indicates the length of the time; isn’t that right?
+
+9 A. I don’t recognize anything as being a
+
+10 length.
+
+11 Q. Can you tell us at approximately what time
+
+12 the call between the -- between the Hugo phone and
+
+13 the Schaffel phone was, please?
+
+14 A. 15 -- or 3:59 p.m.
+
+15 Q. How long did that call last?
+
+16 A. Two minutes in length.
+
+17 Q. And can you tell us what time the calls
+
+18 between the Amen phone and the Schaffel phone were?
+
+19 A. At 12:21 p.m. and 12:17 p.m., four minutes
+
+20 and three minutes respectively.
+
+21 Q. And your records show the only place of
+
+22 relevance to your investigation that the Cascio
+
+23 phone called was the Neverland Valley Ranch line?
+
+24 A. That’s correct.
+
+25 Q. If you could move on to Exhibit 877, please.
+
+26 And is 877 the chart for Friday, the 7th of March,
+
+27 2003?
+
+28 A. That’s correct. 8386
+
+
+
+1 Q. Again, the only calls from Frank Cascio that
+
+2 you registered were to Neverland Valley Ranch?
+
+3 A. That’s correct.
+
+4 Q. Can you tell us what time the first call was
+
+5 and what time the last one was?
+
+6 A. The first call occurred five minutes after
+
+7 midnight, at 0005 hours, and the last call occurred
+
+8 at 12:03 p.m.
+
+9 Q. Sergeant Bonner, can you tell us about the
+
+10 middle icon, The Beverly Hilton Kenneth Morgan room?
+
+11 A. As with the Chris Carter room on the
+
+12 previous day, this was a room at The Beverly Hilton
+
+13 which was registered under the name Kenneth Morgan.
+
+14 Q. And in which exhibit did you find the
+
+15 Kenneth Morgan phone records from The Beverly
+
+16 Hilton?
+
+17 A. It was under Exhibit 256.
+
+18 Q. Would you find those in the exhibit book,
+
+19 please?
+
+20 A. Done.
+
+21 Q. Done. When was the first call made from
+
+22 that room and to what number?
+
+23 A. The first call occurred on 3-7, 2003, at
+
+24 9:21 p.m. to the Evelyn Tavasci home line.
+
+25 Q. How many calls were placed to the Evelyn
+
+26 Tavasci home line from the Kenneth Morgan room?
+
+27 A. On the 7th?
+
+28 Q. Yes, please. 8387
+
+
+
+1 A. I have a total of four calls.
+
+2 Q. And when was the last phone call between the
+
+3 Kenneth Morgan room and the Evvy Tavasci home?
+
+4 A. At 9:51 p.m.
+
+5 Q. Is there a room charge visible on Exhibit
+
+6 256?
+
+7 A. There is; in the amount of $850.
+
+8 Q. Per night?
+
+9 A. Correct.
+
+10 Q. I believe the next exhibit is 878.
+
+11 MR. SANGER: Your Honor, I’m going to move
+
+12 to strike the last answer for the purpose of
+
+13 objecting to the question. I didn’t know where he
+
+14 was going, but it’s not going anywhere and violates
+
+15 the Court’s rule -- ruling, the room charge.
+
+16 THE COURT: Sustained.
+
+17 MR. SANGER: Stricken?
+
+18 THE COURT: Stricken.
+
+19 MR. NICOLA: Stricken?
+
+20 THE COURT: Yes.
+
+21 Q. BY MR. NICOLA: Exhibit 878, is that March
+
+22 8th? I haven’t put it up yet.
+
+23 A. That’s correct.
+
+24 Q. Okay. What do you have listed in Exhibit
+
+25 878?
+
+26 A. Again, we have icons representing telephones
+
+27 associated with individuals and/or locations that
+
+28 have came up during this investigation; namely, 8388
+
+
+
+1 starting on the left, Neverland Valley Ranch, Evelyn
+
+2 Tavasci/MJJ Productions, MJJ Productions/Miko
+
+3 Brando, Beverly Hilton, again the Kenneth Morgan
+
+4 room, Evelyn Tavasci/MJJ Productions, and Evelyn
+
+5 Tavasci, home.
+
+6 Q. Are the phone calls between the Evvy Tavasci
+
+7 home and the Kenneth Morgan room also contained in
+
+8 Exhibit 256?
+
+9 A. Yes, they are.
+
+10 Q. And of the 12 calls you have listed, can you
+
+11 tell us which direction they were going?
+
+12 A. All of those are outgoing calls.
+
+13 Q. And over what --
+
+14 A. From the Kenneth Morgan room to the Evelyn
+
+15 Tavasci room, or line.
+
+16 Q. And over what period of time did those 12
+
+17 phone calls span?
+
+18 A. The first call I have occurs at 8:35 a.m. in
+
+19 the morning and the last call occurs at 6:57 p.m. in
+
+20 the evening.
+
+21 Q. Were there calls from the Kenneth Morgan
+
+22 room to two other phones registered to Evvy Tavasci
+
+23 through MJJ Productions?
+
+24 A. There were.
+
+25 Q. And on the right-hand side of that exhibit
+
+26 appears to be the number “3” in the middle of a
+
+27 link. Can you tell us about that phone number,
+
+28 please, between the Kenneth Morgan room and the 8389
+
+
+
+1 Evelyn Tavasci MJJ Production phone?
+
+2 A. Okay. That is the -- the phone number is
+
+3 (818) 402-7087. It comes back registered to Evelyn
+
+4 Tavasci, MJJ Productions.
+
+5 Q. And in the top center of the page, there’s
+
+6 another telephone with the same icon. Is that a
+
+7 different number with the four connections?
+
+8 A. Actually, I’m sorry, that -- the four is the
+
+9 7087 number. The four calls were to that (818)
+
+10 402-7087. And the three calls were to (310)
+
+11 717-8984.
+
+12 Q. The next exhibit in order, please, Exhibit
+
+13 879. Is this the exhibit for Sunday, March the 9th?
+
+14 A. Yes, it is.
+
+15 Q. Can you tell us what time the phone call
+
+16 between the Cascio phone and the Evvy Tavasci second
+
+17 home line was?
+
+18 A. It occurred at 11:34 p.m., and that was an
+
+19 incoming call from Tavasci to the Cascio line.
+
+20 Q. Can you tell us about the phone calls
+
+21 between the Cascio phone and the Schaffel phone on
+
+22 that day?
+
+23 A. I have two telephone calls from the Cascio
+
+24 phone to -- correction, one from the Cascio phone to
+
+25 the Schaffel phone. Another one that was an
+
+26 incoming from Schaffel to Cascio. First one was one
+
+27 minute prior to 7 p.m., and the second one was at
+
+28 9:31 p.m. 8390
+
+
+
+1 Q. Can you tell us about the 12 phone calls
+
+2 between the Evvy Tavasci/MJJ Production phone and
+
+3 the Schaffel phone, please? Do you know when the
+
+4 first one occurred?
+
+5 A. No. There appears to be an error.
+
+6 Q. That should say “Neverland Valley Ranch”?
+
+7 A. It should.
+
+8 Q. Okay. Can you tell us what time the first
+
+9 call to Neverland Valley Ranch occurred?
+
+10 MR. SANGER: I’m just going to object for
+
+11 the moment, that there is a reference to, “That
+
+12 should be Neverland Valley Ranch,” and it’s not
+
+13 clear what that reference is to.
+
+14 THE COURT: Sustained.
+
+15 Q. BY MR. NICOLA: The 12 phone calls I was
+
+16 referring to should have been referred to as the
+
+17 Neverland Valley Ranch, correct?
+
+18 A. That’s correct.
+
+19 Q. So the link between the Tavasci/MJJ
+
+20 Productions phone and the Marc Schaffel phone is
+
+21 incorrect; is that what you’re saying?
+
+22 A. That’s correct.
+
+23 Q. Okay. Were there any calls between the
+
+24 Schaffel phone and the Tavasci phone for that day?
+
+25 A. No.
+
+26 Q. Okay. So the 12 calls between the
+
+27 Tavasci/MJJ Production phone and the Neverland
+
+28 Valley Ranch phone began at what time that day? 8391
+
+
+
+1 A. 8:48 a.m.
+
+2 Q. And what time did they cease?
+
+3 A. At 8:19 p.m.
+
+4 Q. Is the chart -- excuse me, is the
+
+5 spreadsheet behind the chart accurate, to your
+
+6 recollection?
+
+7 A. Yes, it is.
+
+8 Q. Okay. And is that how you realized the
+
+9 actual chart that’s up on the screen is incorrect
+
+10 with respect to the link between the Evvy Tavasci
+
+11 phone and the Marc Schaffel phone?
+
+12 A. That’s correct.
+
+13 Q. The call between the Amen phone and the
+
+14 Schaffel phone, what time did that occur, please?
+
+15 A. At 1757 hours.
+
+16 Q. And that was a one-minute call?
+
+17 A. One-minute duration.
+
+18 MR. NICOLA: Your Honor, I’ll move to strike
+
+19 this chart, Exhibit 879.
+
+20 It is 879, correct?
+
+21 THE WITNESS: Correct.
+
+22 MR. NICOLA: Pending correction.
+
+23 MR. SANGER: Well, I object to that. It’s
+
+24 been referred to in front of the jury, so it should
+
+25 remain. And they can present a corrected chart if
+
+26 they want.
+
+27 MR. NICOLA: We can do that.
+
+28 THE COURT: I think that’s the way to do it. 8392
+
+
+
+1 Q. BY MR. NICOLA: Did that take you through
+
+2 your daily obligation?
+
+3 A. It did.
+
+4 MR. NICOLA: Thank you.
+
+5 Your Honor, I have no further questions at
+
+6 this time.
+
+7 THE COURT: All right. We’ll take our break
+
+8 and then you can do your cross.
+
+9 (Recess taken.)
+
+10 THE COURT: Okay. Mr. Sanger, you ready?
+
+11 MR. SANGER: Yes.
+
+12 Before we do, I was right in the middle of
+
+13 trying to find Exhibits 451 and 458. They’re in a
+
+14 binder.
+
+15 MR. NICOLA: The originals? They’re all
+
+16 right here.
+
+17 MR. SANGER: There we go. All right. I’ll
+
+18 get to them in a minute.
+
+19 May I proceed, Your Honor?
+
+20 THE COURT: Yes.
+
+21
+
+22 CROSS-EXAMINATION
+
+23 BY MR. SANGER:
+
+24 Q. Okay. Some big-picture questions. First of
+
+25 all -- I don’t really want to go through the exact
+
+26 times of minutes of everything, but there are some
+
+27 big-picture questions.
+
+28 First of all, in all these phone records 8393
+
+
+
+1 that you analyzed, were you able to determine from
+
+2 the phone records whether or not Michael Jackson was
+
+3 ever on a single call?
+
+4 A. No.
+
+5 Q. And as to some of the other records, for
+
+6 instance, those pertaining to Marc Schaffel,
+
+7 Frederic Marc Schaffel, there are several telephone
+
+8 numbers associated with Mr. Schaffel, correct?
+
+9 A. That is correct.
+
+10 Q. And you’re one of the lead detectives in
+
+11 this case, correct?
+
+12 A. Correct.
+
+13 Q. Based on your investigation, during the
+
+14 period of time February and March of 2003, Mr.
+
+15 Schaffel had converted his house into an office; is
+
+16 that right?
+
+17 A. It’s the first I’ve heard of it, but --
+
+18 Q. Were you aware that he had a number of
+
+19 people working out of his house?
+
+20 A. Yes.
+
+21 Q. All right. And they had different offices
+
+22 set up in his house?
+
+23 A. The interviews that I’ve conducted,
+
+24 basically people were working -- doing work out of
+
+25 his house, but not necessarily separate offices.
+
+26 Q. Okay. All right. Now, I notice on the
+
+27 summary charts, sometimes, in fact most of the time,
+
+28 you included one-minute calls? 8394
+
+
+
+1 A. Correct.
+
+2 Q. Sometimes you did not, correct?
+
+3 A. Usually -- I mean, we tried to include
+
+4 everything that was a one-minute call.
+
+5 Q. Okay. For instance - and I’ll find the
+
+6 chart here - but there was a chart, I believe, where
+
+7 you had not shown two calls from Jay Jackson’s house
+
+8 because apparently they were very short calls. They
+
+9 were one-minute calls.
+
+10 MR. NICOLA: Objection. The question is
+
+11 vague.
+
+12 THE COURT: Overruled.
+
+13 Q. BY MR. SANGER: Do you recall that?
+
+14 A. I think I can clarify that. The records
+
+15 that were introduced into evidence show that those
+
+16 calls were actually less than 30 seconds in length,
+
+17 and that’s why we removed those calls from the
+
+18 overall count.
+
+19 Q. All right. So some of these phone
+
+20 records -- you looked at phone records from various
+
+21 carriers and from hotels; is that correct?
+
+22 A. Correct.
+
+23 Q. And some of the carriers bill a call as a
+
+24 minute, no matter how long it takes?
+
+25 A. Correct.
+
+26 Q. If it’s under a minute, I should say, of
+
+27 course.
+
+28 A. Yes. 8395
+
+
+
+1 Q. And sometimes the carrier will show a
+
+2 specific number of seconds; is that correct?
+
+3 A. Correct.
+
+4 Q. All right. Now, another big-picture item,
+
+5 if we can. There are some calls that you showed
+
+6 were placed to the law firm of Geragos & Geragos?
+
+7 A. That’s correct.
+
+8 Q. And some of those calls -- and we can go
+
+9 through if you want, but some of those calls were a
+
+10 minute or less, correct?
+
+11 A. That’s correct.
+
+12 Q. Do you have any reason to believe that the
+
+13 caller was able to get through the receptionist and
+
+14 to an attorney there?
+
+15 A. I wouldn’t necessarily think an incoming
+
+16 call less than a minute, but an out -- I’m sorry, an
+
+17 incoming call from Geragos to the cell phone could
+
+18 result in a connection in less than a minute.
+
+19 However, I would highly doubt that a call from the
+
+20 cell phone to Geragos would probably result in a
+
+21 call.
+
+22 Q. In other words, his law firm has a
+
+23 receptionist; is that correct?
+
+24 A. I would assume so.
+
+25 Q. Okay. And there are a number of people that
+
+26 work at his law firm besides Mr. Geragos himself?
+
+27 A. That’s correct.
+
+28 Q. All right. Another overall question. When 8396
+
+
+
+1 there are phone calls that are placed to -- they’re
+
+2 coming into a place like the Turnberry or one of the
+
+3 other hotels, those calls go to a switchboard; is
+
+4 that correct?
+
+5 A. Correct.
+
+6 Q. And then the switchboard would send the
+
+7 calls to particular rooms or particular staff people
+
+8 or guests or whatever, correct?
+
+9 A. Correct.
+
+10 Q. And so, number one, you have no way of
+
+11 determining where those calls ended up, correct?
+
+12 A. Other than to say they went to the Turnberry
+
+13 itself, no.
+
+14 Q. That’s right. As far as you could trace it,
+
+15 it got to the reception desk, and then where it went
+
+16 from there we don’t know?
+
+17 A. Correct.
+
+18 Q. Okay. And once again, if there’s a
+
+19 one-minute call to one of those hotels, there’s no
+
+20 reason to believe that the call actually got
+
+21 completed to a guest in the hotel?
+
+22 A. Not necessarily, no.
+
+23 Q. Okay. All right. One more overall question
+
+24 here. You mentioned Rudy Provencio in your
+
+25 analysis, correct?
+
+26 A. Correct.
+
+27 Q. And the first call that you show Rudy
+
+28 Provencio was involved in was on February the 8th of 8397
+
+
+
+1 2003; is that correct?
+
+2 A. That’s correct.
+
+3 Q. And there are some other references to Mr.
+
+4 Provencio from time to time being involved in phone
+
+5 calls after that date, correct?
+
+6 A. That’s correct.
+
+7 Q. But you have no phone calls showing that
+
+8 Rudy Provencio was involved in making or receiving
+
+9 calls from any of the people involved in this
+
+10 investigation before February the 8th, 2003,
+
+11 correct?
+
+12 A. Not that has made it into these exhibits.
+
+13 Q. Well, based on your analysis of the records
+
+14 and everybody else that was helping you - right? --
+
+15 A. Correct.
+
+16 Q. -- you have no indication that Rudy
+
+17 Provencio talked to anybody on the phone associated
+
+18 with this case before February the 8th, 2003; is
+
+19 that correct?
+
+20 A. Again, I’d have to -- to say that it’s based
+
+21 within these exhibits, no, there is not. However, I
+
+22 am aware that there are some records that did not
+
+23 make it into the computer to get analyzed with this,
+
+24 and I can’t tell you whether or not there are or are
+
+25 not calls in those records.
+
+26 Q. Okay. So you’re saying -- you’re leaving
+
+27 the door open that, you know, there’s some other
+
+28 records, but you did your best job at analyzing what 8398
+
+
+
+1 you thought was important for this case, right?
+
+2 A. That’s correct.
+
+3 Q. Okay. And you tried to put in all the phone
+
+4 calls that you thought would be important to the
+
+5 investigation, right?
+
+6 A. Correct.
+
+7 MR. SANGER: Okay. Now, let me ask if I can
+
+8 retrieve from the District Attorney, I think I need
+
+9 the original of 451 and 458.
+
+10 MR. NICOLA: Help yourself.
+
+11 MR. SANGER: May I walk around here?
+
+12 THE COURT: Yes.
+
+13 Q. BY MR. SANGER: Now, Detective Bonner, did
+
+14 you prepare these charts, these actual charts that
+
+15 you have shown?
+
+16 A. I had them prepared, correct.
+
+17 Q. Okay. And some of these were finalized just
+
+18 this morning or late last night; is that correct?
+
+19 A. Late last night.
+
+20 Q. Okay. So we were handed the final versions
+
+21 of some of them just this morning. They were handed
+
+22 to the defense this morning, correct?
+
+23 A. I don’t know when you were handed. I do
+
+24 know that we finalized them late last night.
+
+25 Q. All right. Did you do a chart for February
+
+26 the 4th, 2003?
+
+27 A. No.
+
+28 Q. Were you aware that there were telephone 8399
+
+
+
+1 calls relating to some of the people in this case on
+
+2 February the 4th, 2003?
+
+3 A. Yes.
+
+4 Q. And specifically let me ask you if those
+
+5 were from the SBC Pac-Bell phone records, or, I
+
+6 don’t know anymore, AT&T phone records?
+
+7 A. I’d have to refer to the records.
+
+8 Q. Okay. I’m sorry, just one second.
+
+9 Okay. Let me get you the original.
+
+10 All right. May I approach the witness, Your
+
+11 Honor?
+
+12 THE COURT: Yes.
+
+13 Q. BY MR. SANGER: I’m going to show you
+
+14 Exhibit 451 and I’ve turned it to Tab No. 6, and see
+
+15 if you’re oriented as to what that is.
+
+16 A. Okay. This is a telephone record, a Pacific
+
+17 Bell telephone record for the Jay Jackson line,
+
+18 (213) 739-9279, and it shows two calls on February
+
+19 4th to a phone number ending in 1861.
+
+20 MR. SANGER: And, Your Honor, with your
+
+21 permission, may I put a copy of that one page up?
+
+22 THE COURT: Yes.
+
+23 MR. SANGER: All right. This is 451, Tab 6.
+
+24 Q. All right. And that -- the two calls that
+
+25 I’m referring to there say, “FE04.” Is that
+
+26 February 4th? Is that correct?
+
+27 A. Correct.
+
+28 Q. 6:11 p.m. and 6:14 p.m.; is that correct? 8400
+
+
+
+1 A. Correct.
+
+2 Q. It says -- oh, thank you. There’s a point
+
+3 up there, I think we all know but -- all right. And
+
+4 it says, “Reseda.” Is that where it’s going or
+
+5 where it came from?
+
+6 A. I believe that’s where it’s going to.
+
+7 Q. And that’s the phone number that it’s going
+
+8 to, correct?
+
+9 A. Correct.
+
+10 Q. And this is the phone number that it’s
+
+11 coming from; is that correct?
+
+12 A. Correct.
+
+13 Q. All right. And both of those phone calls
+
+14 were four minutes apiece?
+
+15 A. Correct.
+
+16 Q. All right. The phone that this was coming
+
+17 from was Jay Jackson’s phone; is that correct?
+
+18 A. Correct.
+
+19 Q. The phone number it’s going to is whose
+
+20 phone?
+
+21 A. I don’t immediately recognize that number.
+
+22 Q. All right. Let’s see if we can figure it
+
+23 out here.
+
+24 If you turn to Tab 9, please, and look at
+
+25 those documents and see if those are the types of
+
+26 documents that would assist you in determining who
+
+27 is assigned a particular phone number.
+
+28 A. It is. That phone number, (818) 757-1861, 8401
+
+
+
+1 comes back to Chris Tucker.
+
+2 Q. Chris Tucker. Okay.
+
+3 What I’m going to propose, with the Court’s
+
+4 permission, is I’m going to write on a piece of
+
+5 paper here illustrative of the witness’s testimony.
+
+6 I’ll take it piece by piece, and if he agrees, I’m
+
+7 going ask to admit it and publish it.
+
+8 So I’m going to start with a blank piece of
+
+9 paper, and I guess we should have that marked as
+
+10 defense next in order, if we may.
+
+11 THE COURT: That’s fine.
+
+12 MR. SANGER: Thank you.
+
+13 THE CLERK: That’s 5011.
+
+14 MR. SANGER: 5011? Okay. Why don’t we go
+
+15 ahead and mark that piece of paper.
+
+16 Okay. Thank you.
+
+17 Q. Okay. Now, you would agree that the phone
+
+18 records that we just referred to up here, which is
+
+19 from Tab No. 6 of Exhibit 451 - okay? - the one
+
+20 that’s on the board - all right? - you would agree
+
+21 that those relate to February 4th of 2003; is that
+
+22 correct?
+
+23 A. Correct.
+
+24 Q. So I’m going to write at the top “02-04-03.”
+
+25 Now, your chart started -- Exhibit 859 started on
+
+26 02-05-03; is that right?
+
+27 A. Correct.
+
+28 Q. That was a Wednesday. So what day of the 8402
+
+
+
+1 week would 04 be?
+
+2 A. Tuesday.
+
+3 Q. There you go. You paid attention in grammar
+
+4 school and it paid off, all right.
+
+5 All right. I’m going to write that on the
+
+6 top of the page.
+
+7 Now, the one telephone that we’re dealing
+
+8 with here belongs to Jay Jackson; is that correct?
+
+9 A. Correct. The 9279.
+
+10 Q. Okay. So I’m going to draw a telephone.
+
+11 And I’m going to put “Jay Jackson” under it. And
+
+12 now that you’ve looked at the other phone records,
+
+13 you determined that that call was placed to who?
+
+14 A. Chris Tucker’s phone.
+
+15 Q. Chris Tucker’s phone. I’m going to draw
+
+16 another telephone, not very well, by the way, and
+
+17 I’m going to put the number “2” on the bar. That’s
+
+18 what you were doing if you were showing two calls,
+
+19 correct?
+
+20 A. Correct.
+
+21 Q. And these two calls go from Jay Jackson’s
+
+22 telephone to Chris Tucker’s telephone, correct?
+
+23 A. Correct.
+
+24 Q. So I’ll write “Chris Tucker.” And remind us
+
+25 who Chris Tucker is.
+
+26 A. He is an entertainer, comedian.
+
+27 Q. And he was in the movies with Jackie Chan?
+
+28 A. Yes. 8403
+
+
+
+1 Q. There you go. And I’m going to do one other
+
+2 thing, if it’s all right with you. I’m going to do
+
+3 an arrow at the end of the bar to show which
+
+4 direction those calls were going. Would that be all
+
+5 right?
+
+6 A. Sounds good.
+
+7 Q. Does that make sense to you?
+
+8 Okay. And can you tell us what time of day
+
+9 those telephone calls occurred?
+
+10 A. 6:11 and 6:14 p.m.
+
+11 Q. Okay. So I’m going to write down 6:11 and
+
+12 6:14 p.m. under the line.
+
+13 May I approach the witness?
+
+14 THE COURT: Yes.
+
+15 MR. SANGER: I’ll show you what I did.
+
+16 Who’s looking at this? Oh, that’s right. Sorry.
+
+17 MR. NICOLA: That’s a beautiful chart.
+
+18 MR. SANGER: Thank you. Others will be the
+
+19 judge of that.
+
+20 THE WITNESS: You appear to have paid more
+
+21 attention in art class than I did.
+
+22 Q. BY MR. SANGER: There you go. All right.
+
+23 I want to ask you, does that appear to be an
+
+24 accurate depiction?
+
+25 A. Correct.
+
+26 MR. SANGER: Your Honor, I would move into
+
+27 evidence 5011.
+
+28 THE COURT: It’s admitted. 8404
+
+
+
+1 MR. SANGER: Thank you. And I’d ask
+
+2 permission to place that up on the board.
+
+3 THE COURT: You may.
+
+4 MR. SANGER: Thank you. Or on the screen.
+
+5 Q. Okay. Did it the old-fashioned way.
+
+6 Now, does that accurately represent -- I
+
+7 don’t want to beat this to death here, but does that
+
+8 accurately represent the date at the top, right?
+
+9 A. Correct.
+
+10 Q. And then we have a call from Jay Jackson’s
+
+11 telephone, two calls, 6:11 and 6:14 p.m., to Chris
+
+12 Tucker’s telephone, correct?
+
+13 A. That’s correct.
+
+14 Q. Okay. Thank you.
+
+15 All right. Now I want to go to some other
+
+16 telephone calls at the end. And let me take this
+
+17 down. I’m sorry, not at the end. I want to go to
+
+18 the middle, to 2-11. Excuse me.
+
+19 Oh, I’m sorry, excuse me. Before I leave
+
+20 that, you have the book up there with the 200
+
+21 series, I believe; is that correct?
+
+22 A. Appears to be from -- correction. Or -- it
+
+23 is the 200 series.
+
+24 Q. So if you look at Exhibit 223 --
+
+25 And that’s already been received into
+
+26 evidence, Your Honor, and I’m going to ask
+
+27 permission to put that up.
+
+28 THE COURT: All right. 8405
+
+
+
+1 MR. SANGER: Thank you.
+
+2 Q. There’s two pages to 223; is that correct,
+
+3 sir?
+
+4 A. That’s correct.
+
+5 Q. Okay. The first page I’ll put up on the
+
+6 board, and that’s the itinerary that we’ve seen --
+
+7 you weren’t in the room, I don’t think, but we’ve
+
+8 seen this before. It’s an itinerary for a flight
+
+9 that apparently did not occur, no tickets were
+
+10 issued on this. But it’s an itinerary. But do you
+
+11 see that? Do you recognize that to be what it is?
+
+12 MR. NICOLA: Objection; lack of foundation,
+
+13 Judge.
+
+14 THE COURT: Overruled.
+
+15 You may answer.
+
+16 THE WITNESS: I recognize it as an itinerary.
+
+17 However, I’m not familiar enough with it to tell you
+
+18 whether or not a ticket was issued or not.
+
+19 Q. BY MR. SANGER: That’s fair enough. In any
+
+20 event, there’s an itinerary there, and that’s for a
+
+21 flight that’s scheduled to go at two o’clock in the
+
+22 afternoon; is that correct?
+
+23 A. It appears to be the case.
+
+24 Q. All right. And if we look at -- keeping
+
+25 that in mind for a moment, if we look at page two
+
+26 down at the bottom, there’s a fax transmittal that
+
+27 shows this document was faxed or attempted to be
+
+28 faxed at 11:31 in the morning on February 5, 8406
+
+
+
+1 correct?
+
+2 A. Correct.
+
+3 Q. It shows, “NG,” it didn’t go through, but at
+
+4 least they were trying to fax it at that time,
+
+5 correct?
+
+6 A. Correct.
+
+7 Q. All right. Now, on your February 5
+
+8 document, if we look at page -- if the summary is
+
+9 page one, then this would be page three. It’s the
+
+10 second page of phone summary records.
+
+11 A. Okay.
+
+12 Q. All right. Did I tell you Exhibit 859?
+
+13 A. That’s correct.
+
+14 Q. Did I say that? Okay. So that’s for the
+
+15 5th of February. And if you look down the list --
+
+16 Your Honor, may I inquire of counsel?
+
+17 Has this page been changed?
+
+18 THE WITNESS: I don’t believe so.
+
+19 MR. SANGER: Okay. May I inquire of the
+
+20 witness? All right. Why don’t I just approach so
+
+21 we don’t have a problem, Your Honor.
+
+22 THE COURT: You may.
+
+23 Q. BY MR. SANGER: Let me just make sure
+
+24 we’re -- maybe compare the top and the bottom to see
+
+25 if they’re the same.
+
+26 A. Yes.
+
+27 MR. SANGER: Okay. May I publish this page?
+
+28 It’s already been admitted. 8407
+
+
+
+1 THE COURT: Yes.
+
+2 Q. BY MR. SANGER: It actually says page two of
+
+3 three at the bottom, sir?
+
+4 A. That’s correct.
+
+5 Q. It’s actually page three of the exhibit,
+
+6 because the first page is your summary, right?
+
+7 A. Correct.
+
+8 Q. All right. I’ll put that up. Let’s see if
+
+9 it settles there.
+
+10 All right. I’m hoping it’s going to get a
+
+11 little clearer, but it doesn’t seem to want to do
+
+12 that. I guess we cut off part of it here. Let’s
+
+13 see if that....
+
+14 All right. Before I refer to -- I’m going
+
+15 to refer to this particular line here.
+
+16 A. Can you show me which one again?
+
+17 Q. Yeah, it’s -- there you go. You have to
+
+18 hold it just right. I’m going to refer to this
+
+19 particular line here, which is 2-5-03 at 9:58.
+
+20 A. Okay.
+
+21 Q. Okay? And before we talk about that
+
+22 particularly, let me ask you some general questions
+
+23 that will cover other entries as well.
+
+24 In general, through your investigation in
+
+25 this case, did you determine that when Mr. Jackson
+
+26 travels, the people that arrange his travel often
+
+27 will take a name that is not Mr. Jackson’s name and
+
+28 use that for the purpose of booking hotels? 8408
+
+
+
+1 A. That’s correct.
+
+2 Q. And is that something common with
+
+3 celebrities, to book rooms under other names,
+
+4 whether it’s a staff person or just a fictitious
+
+5 name?
+
+6 A. I don’t have personal knowledge. This is
+
+7 the only instance that I’ve personally been involved
+
+8 in.
+
+9 Q. All right. Have you ever seen other
+
+10 celebrities book rooms?
+
+11 A. No.
+
+12 Q. Okay. All right. Anyway, it makes sense to
+
+13 you. You don’t want to put your own name down there
+
+14 if you’re going to attract a lot of attention,
+
+15 right?
+
+16 A. Correct.
+
+17 Q. And sometimes in your investigation, just to
+
+18 cover the big picture, you will see in the documents
+
+19 that the name that is used appears to have -- the
+
+20 last name that’s used appears to have no relation to
+
+21 anybody we know of, right?
+
+22 A. Correct.
+
+23 Q. So it just might be a name like “Mason” or
+
+24 something like that; is that correct?
+
+25 A. Could be, yes.
+
+26 Q. On the other hand, sometimes you’ll see
+
+27 rooms are booked in the name of somebody who is
+
+28 actually working for MJJ Productions or in some 8409
+
+
+
+1 other way associated with that organization, such as
+
+2 Chris Carter?
+
+3 A. Correct.
+
+4 Q. So Chris Carter might reserve rooms in his
+
+5 name, right?
+
+6 A. Correct.
+
+7 Q. You never saw rooms reserved in the name of
+
+8 Michael Jackson himself, correct?
+
+9 A. No.
+
+10 Q. All right. And the records are kept openly
+
+11 in that regard, correct? In other words, through
+
+12 the records that you found both at Neverland and
+
+13 from the various places where records were
+
+14 subpoenaed or obtained by search warrants,
+
+15 internally there was no effort to hide the fact that
+
+16 these were Mr. Jackson’s rooms, right?
+
+17 A. No.
+
+18 Q. All right. So, going to these -- we can
+
+19 look at all these rooms down here. These are
+
+20 basically a series of phone numbers that are
+
+21 associated with rooms or suites at that hotel; is
+
+22 that correct?
+
+23 A. Correct.
+
+24 Q. And the Presidential Suite, or the top one
+
+25 that we’re looking at here, was a multi-room suite;
+
+26 is that correct?
+
+27 A. I don’t know for certain. I just simply
+
+28 went off the records themselves. 8410
+
+
+
+1 Q. In your investigation, the course of your
+
+2 investigation, did you determine that the
+
+3 Presidential Suite was a multi-room suite?
+
+4 A. Not personally, no.
+
+5 Q. You heard that though?
+
+6 A. I have heard that, yes.
+
+7 Q. Do you know how many telephones were located
+
+8 in that suite?
+
+9 A. I do not.
+
+10 Q. Do you know how many people associated with
+
+11 MJJ Productions or with other people in this case,
+
+12 or in or out of this case, how many people were
+
+13 associated with that room?
+
+14 A. I don’t know.
+
+15 Q. Do you know how many people came in and out
+
+16 of that room?
+
+17 A. No, I do not.
+
+18 Q. Do you know how many people -- how many
+
+19 people used the phone or phones in that room?
+
+20 A. Of course not.
+
+21 Q. Pardon?
+
+22 A. Of course not.
+
+23 Q. Yeah, okay.
+
+24 That’s a question like Tuesday comes before
+
+25 Wednesday. I just wanted to get it on the record.
+
+26 Thank you.
+
+27 Okay. Now, as we look here, this appears --
+
+28 this particular call appears to have occurred at 8411
+
+
+
+1 9:58 in the morning, correct?
+
+2 A. Correct.
+
+3 Q. That’s two minutes of 10:00, right?
+
+4 A. Correct.
+
+5 Q. And that would have been Florida time,
+
+6 right?
+
+7 A. Yes.
+
+8 Q. And Florida is three hours -- what time
+
+9 would it be in California if it was 9:58 in Florida?
+
+10 A. It would be two minutes before 7 a.m.,
+
+11 California time.
+
+12 Q. All right. So there’s some call from
+
+13 somebody at two minutes to 7:00 that lasts 27
+
+14 minutes that was placed from the Turnberry and was
+
+15 made to Jay Jackson, correct?
+
+16 A. Correct.
+
+17 Q. Now, in the course of your investigation, I
+
+18 think we’ve already shown you, and I won’t put it
+
+19 back up, Exhibit 223. That at least has an
+
+20 itinerary for people to fly commercially at two
+
+21 o’clock on the 5th, right?
+
+22 A. Correct.
+
+23 Q. In the course of your investigation, you
+
+24 determined that in fact, Chris Tucker was the person
+
+25 who arranged for a private jet to take the Arvizos
+
+26 to Florida; is that correct?
+
+27 A. That is my understanding.
+
+28 Q. And you do not have any other calls, other 8412
+
+
+
+1 than those on the 4th, between members associated
+
+2 with the Arvizos - that is, Jay Jackson and the
+
+3 Venturas or anybody else associated with the Arvizos -
+
+4 and Chris Tucker; is that correct?
+
+5 A. I believe there was one call later on that
+
+6 we covered.
+
+7 Q. When was that?
+
+8 A. It was in the March time frame.
+
+9 Q. Okay. I’m sorry, I meant in this time
+
+10 period, February the 4th and the 5th, regarding this
+
+11 flight to Miami.
+
+12 A. No. No.
+
+13 Q. Okay. All right. Now I’d like to turn to
+
+14 Exhibit 458, if we can, please, and I’ll take this
+
+15 off in a moment. And 458 relates to whom?
+
+16 A. You’ll have to bring me the record.
+
+17 Q. Oh, I’m sorry.
+
+18 May I approach, Your Honor?
+
+19 THE COURT: Yes.
+
+20 THE WITNESS: Thank you.
+
+21 MR. SANGER: Sure.
+
+22 Q. 458 relates to whom?
+
+23 A. This appears to be a billing for Jay Jackson
+
+24 telephone line.
+
+25 Q. And what company?
+
+26 A. I believe this is the Talk America records.
+
+27 Q. And that would be the long-distance carrier
+
+28 for Jay Jackson? 8413
+
+
+
+1 A. Correct.
+
+2 Q. Okay. So the phone records that we just saw
+
+3 up on the board were the local phone records for Jay
+
+4 Jackson; is that correct?
+
+5 A. Or local toll or -- yeah. Not long
+
+6 distance.
+
+7 Q. Not long distance. There are toll charges?
+
+8 A. Correct.
+
+9 Q. But not technically long distance.
+
+10 All right. So looking at 458, these appear
+
+11 to indicate phone calls made long distance by Jay
+
+12 Jackson. And if I’m correct -- if you’ll bear with
+
+13 me, just hold on to that. Don’t go anywhere for a
+
+14 moment.
+
+15 Look at your exhibits that you just talked
+
+16 about today, Exhibits 859 through 881, whatever it
+
+17 was, and you testified to some of them, but not all
+
+18 of them, we know that, okay? And I’m going to ask
+
+19 you to look in particular at 862 and 863.
+
+20 While the witness is doing that, I’d like to
+
+21 have marked next in order two more blank pieces of
+
+22 paper.
+
+23 THE COURT: You may.
+
+24 MR. SANGER: Thank you. Separate numbers.
+
+25 Q. All right. Are you looking at 862 and 863?
+
+26 A. Yes.
+
+27 Q. Okay. Not a big thing. It’s just you
+
+28 jump -- 862 is for February the 8th, and then the 8414
+
+
+
+1 next summary chart you have is for February the
+
+2 12th; is that correct?
+
+3 A. That’s correct.
+
+4 Q. All right. So you did not do a summary
+
+5 chart for February the 11th, correct?
+
+6 A. No.
+
+7 Q. Now, on February 11th, based on your
+
+8 investigation, the night of February 11th, right at
+
+9 the end of the night, were you aware that Janet
+
+10 Arvizo had asked somebody to give her a ride?
+
+11 A. The 11th or the 12th. I’m not sure which
+
+12 day.
+
+13 Q. And the ride actually occurred at -- the
+
+14 ride -- the Rolls Royce left the ranch at about 1:52
+
+15 in the morning; is that correct?
+
+16 A. The person I interviewed wasn’t real certain
+
+17 about times, so --
+
+18 Q. You’re familiar with the gate logs, right?
+
+19 A. Yes. But --
+
+20 Q. Did you look at the entries on the gate
+
+21 logs?
+
+22 A. I did. But not having them in front of me,
+
+23 I couldn’t state with certainty.
+
+24 Q. Whatever time it was, it was sometime in the
+
+25 early morning hours of the 12th when the Rolls Royce
+
+26 left the property; is that your understanding?
+
+27 A. Yes.
+
+28 Q. So my question was, were you aware that she 8415
+
+
+
+1 was asking, around midnight, somewhere just before
+
+2 midnight on the 11th, for a ride?
+
+3 A. That is my understanding, yes.
+
+4 Q. All right. There you go.
+
+5 So on the 11th, I want to follow the same
+
+6 procedure, with the Court’s permission, and I’m
+
+7 going to write up at the top “02-11-03.” And since
+
+8 the 12th was a Wednesday, the 11th had to be a
+
+9 Tuesday. We learned that. Right?
+
+10 A. Sounds good.
+
+11 Q. Okay. And now I’m going to ask, with the
+
+12 Court’s permission, to put up page two of Exhibit
+
+13 458.
+
+14 THE COURT: All right.
+
+15 MR. SANGER: All right.
+
+16 Q. Page two of 458. All right. Now, referring
+
+17 to -- I’m going to refer to these three calls down
+
+18 here. Hit the line numbers, I’ll make it easier.
+
+19 Referring to these three calls down here
+
+20 that say “Santa Barbara,” so that looks like 17, 18
+
+21 and 19, correct?
+
+22 A. Correct.
+
+23 Q. And I think you told us these are the phone
+
+24 records of Jay Jackson, correct?
+
+25 A. Correct.
+
+26 Q. The long-distance phone records, correct?
+
+27 A. Correct.
+
+28 Q. And it appears that on line 17, on 2-11-03 8416
+
+
+
+1 at 2322 hours -- that would be 11:22 at night,
+
+2 correct?
+
+3 A. Correct.
+
+4 Q. Jay Jackson calls from Los Angeles, where
+
+5 his phone’s located, to Santa Barbara, correct?
+
+6 A. Correct.
+
+7 Q. And then you look right below it, at 2323,
+
+8 in other words, one minute later, he makes another
+
+9 call to Santa Barbara, correct?
+
+10 A. Correct.
+
+11 Q. And then on the 19th -- I’m sorry, on line
+
+12 19, the same evening, at 2349 or 11:49 at night, he
+
+13 makes another call to Santa Barbara, correct?
+
+14 A. Correct.
+
+15 Q. So, once again, I’m going to draw one of
+
+16 those little phones and I’m going to put “Jay
+
+17 Jackson” under it, and I’m going to put -- there’s
+
+18 two different numbers that are called, right?
+
+19 A. That’s correct.
+
+20 Q. I’m going to put two arrows, do it a little
+
+21 differently than your chart, but not much, and I’ll
+
+22 put “1” for one number and “2” for the other
+
+23 numbers, and then I will draw two phones quickly.
+
+24 All right. Now, let me ask you if you
+
+25 recognize the first number that was called on that
+
+26 evening.
+
+27 A. The 2300 number?
+
+28 Q. Yeah. 8417
+
+
+
+1 A. I’m not certain, but it may be the Santa
+
+2 Barbara Police Department.
+
+3 Q. The Santa Barbara -- that’s the Santa
+
+4 Barbara Police Department in downtown Santa Barbara,
+
+5 correct?
+
+6 A. The police department as opposed to the
+
+7 sheriff’s department.
+
+8 Q. Yes, sir. I was going to let you explain
+
+9 that. For those who don’t know, but probably
+
+10 everybody does, the police department has
+
+11 jurisdiction over the City of Santa Barbara?
+
+12 A. Within the city limits, correct.
+
+13 Q. Within the city limits in the South County?
+
+14 A. Correct.
+
+15 Q. Okay. The sheriff’s department has
+
+16 jurisdiction over the entire county, but primarily
+
+17 the incorporated areas; is that correct?
+
+18 A. Correct.
+
+19 Q. And I guess by contract, some of the
+
+20 unincorporated areas like Buellton, Solvang, so on?
+
+21 A. A few of them, yes.
+
+22 Q. Okay. So the first call we believe is to
+
+23 the police department, right?
+
+24 A. It’s my guess, based on the number.
+
+25 Q. Okay. So I’m going to put a little
+
+26 shield-looking thing there that says “SBPD,” and I’m
+
+27 going to show you this in a minute.
+
+28 The next two calls are made to what number? 8418
+
+
+
+1 A. (805) 683-2724.
+
+2 Q. What number is that?
+
+3 A. I don’t know.
+
+4 Q. Is that the sheriff’s department, by any
+
+5 chance?
+
+6 A. It’s not a number I recognize as being the
+
+7 sheriff’s department.
+
+8 Q. All right. So you don’t know that number at
+
+9 this point?
+
+10 A. No.
+
+11 Q. So I’m going to just write “2724” on there.
+
+12 I won’t put the whole number down. And then we’ll
+
+13 deal with that later.
+
+14 May I approach the witness, Your Honor?
+
+15 THE COURT: Yes.
+
+16 Q. BY MR. SANGER: I’m just going to ask you to
+
+17 take a look at that.
+
+18 THE COURT: State the exhibit number.
+
+19 MR. SANGER: Yes, I’m sorry.
+
+20 THE WITNESS: 5012. And it appears to be an
+
+21 accurate representation.
+
+22 MR. SANGER: Thank you.
+
+23 MR. NICOLA: May I see that?
+
+24 MR. SANGER: Oh, yeah.
+
+25 MR. NICOLA: Thank you.
+
+26 MR. SANGER: I’d move 5012 in.
+
+27 THE COURT: It’s admitted.
+
+28 MR. SANGER: Thank you. May I publish it? 8419
+
+
+
+1 THE COURT: Yes.
+
+2 MR. SANGER: By now everybody’s got it, all
+
+3 right?
+
+4 Q. So we have -- on 2-11, we’ve got three calls
+
+5 from Jay Jackson to numbers in Santa Barbara. One
+
+6 is the Santa Barbara police, we believe, and the
+
+7 other is a number ending in 2724?
+
+8 A. That’s correct.
+
+9 Q. Okay. Thank you.
+
+10 All right. I’d like you to go to Exhibit
+
+11 451, Tab No. 5.
+
+12 And, Your Honor, I’m going to follow the
+
+13 same procedure, with the Court’s permission, with
+
+14 one variation. Rather than doing a separate page
+
+15 for a number of days, one separate page for each day
+
+16 over a number of days, I will do one page for a
+
+17 series of phone calls over a series of days.
+
+18 THE COURT: All right.
+
+19 MR. SANGER: Thank you.
+
+20 Q. I’m going to ask you to look at the -- under
+
+21 No. 5, tell me whose phone records those are.
+
+22 A. These are the phone records for David
+
+23 Ventura, Janet Arvizo’s parents.
+
+24 Q. Now, you did not do all of the summary
+
+25 charts in this case. I think we’ve established
+
+26 that.
+
+27 A. Correct.
+
+28 Q. Would you agree that the last summary chart 8420
+
+
+
+1 that was prepared and submitted, although you
+
+2 haven’t testified to it - somebody else will - will
+
+3 be Exhibit 882?
+
+4 A. That’s correct.
+
+5 Q. And so the last summary chart, then, was for
+
+6 March the 12th of 2003?
+
+7 A. Correct.
+
+8 Q. And what was the significance of the date
+
+9 March the 12th, 2003?
+
+10 A. The 12th was the day we believed the Arvizo
+
+11 family left Neverland Ranch.
+
+12 Q. All right. Now -- may I approach just to
+
+13 make sure we have the same pages here?
+
+14 THE COURT: Yes.
+
+15 MR. SANGER: Thank you.
+
+16 Q. We’re looking at Exhibit -- I shouldn’t talk
+
+17 up here, so excuse me. I just want you to look at
+
+18 these pages here.
+
+19 A. 8-1.
+
+20 Q. And dash 2.
+
+21 MR. SANGER: Your Honor, if I may speak
+
+22 loudly just briefly so I can get oriented.
+
+23 THE COURT: All right.
+
+24 MR. SANGER: Thank you.
+
+25 Q. On these, I believe you have to look at the
+
+26 date of the bill and then reference the page
+
+27 numbers. Do you want to --
+
+28 A. I just got to find it. 8421
+
+
+
+1 Q. Okay. Excuse me one second.
+
+2 A. Okay. I have them all.
+
+3 Q. Why don’t you put a post-it sign on each one
+
+4 of those that you just found.
+
+5 All right. Now, Exhibit 882, the reason I
+
+6 put post-its there, I need to flip back and forth a
+
+7 little bit. So look at Exhibit 882, first of all,
+
+8 8-8-2. 882, that’s the exhibit number. Sorry to
+
+9 say it three times.
+
+10 That’s a summary chart for 3-12-03, correct?
+
+11 A. Correct.
+
+12 Q. On that summary chart - I realize you did
+
+13 not prepare it, and I’m not going to go into any
+
+14 detail except to ask, do any of the phone calls to
+
+15 Buellton or Guadalupe that are shown on Exhibit 451,
+
+16 Tab 5, the page that says March 26th, 8-1 -- 8-1
+
+17 of 9, that’s the first half -- the first post-it.
+
+18 Are any of those phone calls shown on that summary
+
+19 chart?
+
+20 A. Do you mean the calls from the --
+
+21 Q. The David Ventura telephone to Buellton and
+
+22 Guadalupe on the 12th.
+
+23 A. On 2-12?
+
+24 No, they’re not.
+
+25 MR. SANGER: All right. Now, Your Honor,
+
+26 may I put up that page of Exhibit 451-5, and it’s
+
+27 the March 26th, 8-1 of 9.
+
+28 THE COURT: Yes. 8422
+
+
+
+1 MR. SANGER: And I did this before, Your
+
+2 Honor, and I apologize. And I apologize, there’s
+
+3 some little pen marks there that should be ignored.
+
+4 They’re not on the original exhibit.
+
+5 Q. But I’d like to direct your attention to the
+
+6 telephone calls here to -- on March the 12th. It’s
+
+7 Line No. 4, March the 12th, 5:08 p.m. to Buellton.
+
+8 Do you see that?
+
+9 A. I do.
+
+10 Q. About a four-minute call?
+
+11 A. Four-minute call, correct.
+
+12 Q. And March the 12th, a 7:02 call to Buellton,
+
+13 a one-minute call, correct?
+
+14 A. Correct.
+
+15 Q. And March the 12th at 11:25 p.m. to
+
+16 Guadalupe, 35-minute call?
+
+17 A. Correct.
+
+18 Q. All right. Now, I’m going to put at the top
+
+19 of this page -- there’s an overlap, because you
+
+20 already have a 3-12 exhibit, but I’m going to
+
+21 overlap and it’s going to be 03-12-03 to 03-21-03.
+
+22 And then we’re going to start with the telephone
+
+23 number that this comes from, and I’m going to risk
+
+24 drawing another telephone here.
+
+25 And whose phone do all of these calls come
+
+26 from on those three pages that I’ve asked you to
+
+27 look at on page Exhibit 451, Tab 5?
+
+28 A. David Ventura. 8423
+
+
+
+1 Q. I’m going to write “David Ventura. And
+
+2 based on your investigation, by 3-12-03, you
+
+3 believed that the children, as well as Janet Arvizo,
+
+4 had left the ranch; is that correct?
+
+5 A. Correct.
+
+6 Q. And they went to David Ventura’s house; is
+
+7 that correct?
+
+8 A. I’m not certain where they went, but I do
+
+9 know they left.
+
+10 Q. All right. Now, I’m just going to look at
+
+11 the phone number that ends in 5002, which is shown
+
+12 here on line 6, all right? It says “Guadalupe,”
+
+13 line 6, 5002, okay?
+
+14 Did you determine whose telephone that was?
+
+15 A. No.
+
+16 Q. Okay. I’ll put a phone there, and I’m going
+
+17 to write the last digits of the number, “5002,” and
+
+18 I’ll put “in Guadalupe.”
+
+19 All right. Now what we’ll do is, we’ll
+
+20 start here with what we have, and I’m going to put
+
+21 arrows for these various phone calls from the David
+
+22 Ventura telephone to the 5002 phone in Guadalupe.
+
+23 And I’m going to put the date and time on each call,
+
+24 because this chart is going to span several days.
+
+25 So when’s the first call to Guadalupe?
+
+26 A. The first call to Guadalupe was at 11:25
+
+27 p.m.
+
+28 Q. So I’ll put -- it was on 3-12-03, correct? 8424
+
+
+
+1 A. Correct.
+
+2 Q. 11:25 p.m. All right. When’s the next call
+
+3 to Guadalupe? I think if you look at the page
+
+4 that’s on the screen there.
+
+5 A. March 13th, 8:45 p.m.
+
+6 Q. And while we’re at it, I’m going to put down
+
+7 the duration here. So the first call was a duration
+
+8 of 35 minutes; is that correct?
+
+9 A. Correct.
+
+10 Q. The second call?
+
+11 A. 64 minutes.
+
+12 Q. 64 minutes. Okay. Now, I’m going to -- are
+
+13 there any other calls to Guadalupe on that page?
+
+14 A. No.
+
+15 Q. All right. With the Court’s permission,
+
+16 I’ll go to the next page, 451, Tab 5. What’s the
+
+17 next call to Guadalupe?
+
+18 A. March 14th, 8:12 p.m.
+
+19 Q. How many minutes?
+
+20 A. One minute.
+
+21 Q. The next call?
+
+22 A. March 16th?
+
+23 Q. Yes.
+
+24 A. 26 minutes.
+
+25 Q. What time was that?
+
+26 A. 12:01 a.m.
+
+27 Q. 12:01 a.m. So one minute after midnight?
+
+28 A. Correct. 8425
+
+
+
+1 Q. And how many minutes? I’m sorry.
+
+2 A. 26 minutes.
+
+3 Q. Okay. Next?
+
+4 A. March 16th, 10:14 p.m., six minutes.
+
+5 Q. Next call?
+
+6 A. March 17th, 7 -- 6:28 p.m., one minute.
+
+7 Q. Next call?
+
+8 A. March 17th, 8:51 p.m., one minute.
+
+9 Q. Yes. Next one?
+
+10 A. March 17th, 8:57 p.m., one minute.
+
+11 Q. And again, when you say one-minute calls,
+
+12 they could be less than that?
+
+13 A. Correct.
+
+14 Q. Somebody picks it up and they say, “He’s not
+
+15 here.”
+
+16 A. Correct.
+
+17 Q. Next call?
+
+18 A. March 18th, 3:26 p.m., 22 minutes.
+
+19 Q. Okay.
+
+20 A. March 18th, 9:29 p.m., 26 minutes.
+
+21 Q. 26 minutes.
+
+22 All right. And then I’ll put up the last
+
+23 page from -- or the third page I identified from
+
+24 Exhibit 451, Tab 5, and ask if that shows additional
+
+25 calls and times.
+
+26 A. It does.
+
+27 Q. And if you’d go ahead, and we’ll continue to
+
+28 add them here. 8426
+
+
+
+1 A. 3-19, 1910, or 7:10 p.m., 36 minutes.
+
+2 Q. Okay. Go ahead.
+
+3 A. 3-19, 8:01 p.m., 17 minutes.
+
+4 Q. Yes.
+
+5 A. 3-19, 10:50 p.m., three minutes.
+
+6 Q. Okay.
+
+7 A. 3-20, 2:57 p.m., three minutes.
+
+8 Q. Yes.
+
+9 A. 3-20, 7:52 p.m., three minutes.
+
+10 Q. Okay.
+
+11 A. 3-20, 7:55 p.m., 20 minutes.
+
+12 Q. So it looks like 7:52, there was a hang-up
+
+13 and then a call back pretty much right away; is that
+
+14 right?
+
+15 A. Appears to be the case.
+
+16 Q. And that last one was 20 minutes; is that
+
+17 right?
+
+18 A. Correct.
+
+19 Q. Okay.
+
+20 A. And finally, 3-21, 9:37 p.m., one minute.
+
+21 MR. SANGER: All right. May I approach the
+
+22 witness --
+
+23 THE COURT: Yes.
+
+24 Q. BY MR. SANGER: Ask you to take a look at
+
+25 this and see if that’s --
+
+26 THE COURT: Give us the exhibit number.
+
+27 MR. SANGER: Yes, I’m sorry, that’s Exhibit
+
+28 No. 5013. 8427
+
+
+
+1 THE WITNESS: It appears to be correct.
+
+2 MR. SANGER: All right. May I retrieve the
+
+3 exhibit?
+
+4 THE COURT: Yes.
+
+5 MR. SANGER: Thank you.
+
+6 And I would move into evidence 5013 and ask
+
+7 to publish it.
+
+8 THE COURT: All right. It’s admitted.
+
+9 MR. SANGER: Thank you.
+
+10 Q. All right. We won’t go over all this again,
+
+11 but this is a summary of what you just testified to,
+
+12 correct?
+
+13 A. Correct.
+
+14 Q. All right. Now, we talked about that phone
+
+15 number and -- well, it ends in 5002. We don’t have
+
+16 to say the whole number again here. Do you know if
+
+17 anybody -- as one of the detectives in the case, do
+
+18 you know if anybody made an effort to find out whose
+
+19 number that was?
+
+20 A. No.
+
+21 Q. Do you know if the defense turned over
+
+22 information to the prosecution indicating whose
+
+23 number that was?
+
+24 A. I don’t know, no.
+
+25 Q. Do you know if anybody tried to find a
+
+26 number for a Mr. Vivanco?
+
+27 A. I have -- somebody has asked me to go in --
+
+28 we went in and researched our record and found no 8428
+
+
+
+1 record other than a Santa Maria number for him.
+
+2 Q. You found a number for Mr. Vivanco?
+
+3 A. Yes, but he gave our sheriff’s detectives,
+
+4 when we served a search warrant in November of 2003,
+
+5 he gave a Santa Maria number.
+
+6 Q. And you -- did you go along and interview
+
+7 him at that time?
+
+8 A. I didn’t interview him. I was at Neverland,
+
+9 but that was the phone number that was given to the
+
+10 detective who put it onto his report.
+
+11 Q. Okay. So you checked that phone number from
+
+12 November and it’s a different number than this
+
+13 number; is that correct?
+
+14 A. Correct.
+
+15 Q. Have you subsequently learned, from
+
+16 information turned over from the defense, that there
+
+17 is some relationship between Mr. Vivanco and that
+
+18 number?
+
+19 A. No. I --
+
+20 MR. NICOLA: Objection, Your Honor. Asked
+
+21 and answered.
+
+22 THE COURT: Overruled. The answer was,
+
+23 “No.” Next question.
+
+24 Q. BY MR. SANGER: Have you done anything to
+
+25 follow up on that, to your knowledge? And by “you,”
+
+26 I mean your department.
+
+27 MR. NICOLA: Objection, Your Honor, it calls
+
+28 for speculation. And it’s asked and answered. It’s 8429
+
+
+
+1 beyond the scope.
+
+2 THE COURT: Overruled.
+
+3 You may answer.
+
+4 THE WITNESS: Again, I have not personally
+
+5 had anything to do with attempting to find out what
+
+6 that number comes back to. I was asked to research
+
+7 Vivanco to find out what number he gave to us and
+
+8 that’s what I did.
+
+9 MR. SANGER: Okay. All right. I’ll take
+
+10 that down now, Your Honor.
+
+11 Q. All right. I want to go through just a few
+
+12 of your summary charts here and try to do it in a
+
+13 way that is representative, rather than going
+
+14 through every single thing.
+
+15 First of all, in your analysis of the phone
+
+16 records, you determined that there are a lot of
+
+17 telephone calls that are placed to phone numbers
+
+18 associated with Evvy Tavasci; is that correct?
+
+19 A. That’s correct.
+
+20 Q. And you understand that Evvy Tavasci works
+
+21 for MJJ Productions; is that right?
+
+22 A. That’s correct.
+
+23 Q. And she’s also responsible for securing
+
+24 phones for a number of people; is that right?
+
+25 A. Correct.
+
+26 Q. She also has other people who assist her in
+
+27 the office; is that your understanding?
+
+28 A. One other person that I know of, yes. 8430
+
+
+
+1 Q. Okay. And is it also your understanding
+
+2 that Miss Tavasci tends to be the person that people
+
+3 go to at MJJ Productions to obtain information, make
+
+4 reservations, all that sort of thing?
+
+5 A. I know that she is the administrative
+
+6 assistant, but I think that’s what she does, based
+
+7 on what she’s described to us.
+
+8 Q. Okay. The District Attorney several times
+
+9 referred to her as Mr. Jackson’s personal assistant.
+
+10 Did you hear that?
+
+11 A. I did.
+
+12 Q. Okay. And in addition to that, she fulfills
+
+13 the function of facilitating the purchase of
+
+14 supplies, tickets, travel arrangements, all sorts of
+
+15 things; is that right?
+
+16 A. I would believe that to be the case.
+
+17 Q. Okay. So she’s not just doing this for Mr.
+
+18 Jackson. She is working for -- or she is providing
+
+19 these services to anybody associated with MJJ
+
+20 Productions who needs to have such things; is that
+
+21 right?
+
+22 MR. NICOLA: I’ll object. Lack of
+
+23 foundation. Compound.
+
+24 THE COURT: Sustained.
+
+25 MR. SANGER: On compound or lack of
+
+26 foundation?
+
+27 THE COURT: Lack of foundation.
+
+28 MR. SANGER: Okay. 8431
+
+
+
+1 Q. Based on your investigation, did you
+
+2 determine what her duties were, what Evvy Tavasci’s
+
+3 duties were?
+
+4 MR. NICOLA: Objection. Relevance at this
+
+5 point.
+
+6 THE COURT: Overruled.
+
+7 THE WITNESS: Based on the investigation, I
+
+8 think we’ve seen a few different things that, in
+
+9 addition to coordinating for Mr. Jackson’s personal
+
+10 calendar, that she also is a coordinator for travel
+
+11 arrangements for various other subjects.
+
+12 Q. BY MR. SANGER: All right. Now, the summary
+
+13 charts in general show that there’s a bunch of
+
+14 people, or at least their telephones, talking to
+
+15 each other here during a period of time. That’s
+
+16 pretty much what you’re showing, right?
+
+17 A. Correct.
+
+18 Q. You’re aware that a number of these people
+
+19 were involved in putting together rebuttal videos,
+
+20 correct?
+
+21 A. Correct.
+
+22 Q. Based on your investigation, there was the
+
+23 first rebuttal video, the actual one that was aired,
+
+24 that was hosted by Maury Povich; is that right?
+
+25 A. Correct.
+
+26 Q. And then there was a second one called,
+
+27 “Michael Jackson Home Movies”; is that right?
+
+28 A. I don’t know if that was a rebuttal, but I 8432
+
+
+
+1 do remember that we have a video of that.
+
+2 Q. All right. During the period of time that
+
+3 Mr. Schaffel was involved, based on your review of
+
+4 the records and as a lead detective in this case,
+
+5 you were aware that he was working on doing a
+
+6 three-television-show package surrounding Mr.
+
+7 Jackson at this period of time; is that right?
+
+8 MR. NICOLA: Objection, Your Honor.
+
+9 Relevance to this testimony. Beyond the scope.
+
+10 THE COURT: Sustained.
+
+11 Q. BY MR. SANGER: All right. I’d like to go
+
+12 to February the 7th and I would like to -- I’m not
+
+13 sure I have the absolute latest chart on each one of
+
+14 these. I’m not saying it wasn’t given to me this
+
+15 morning, but I’m not sure that I have the latest on
+
+16 each one. So I’d like you to look at that and then
+
+17 I’m going to take it away from you and put it on the
+
+18 board, if I may.
+
+19 May I approach for that purpose?
+
+20 THE COURT: Yes.
+
+21 MR. SANGER: Thank you.
+
+22 THE WITNESS: Do you need the Excel sheets
+
+23 also?
+
+24 MR. SANGER: I’ll leave those with you.
+
+25 I’ll just take this. Thank you.
+
+26 Q. So this is the first page of 861, which is
+
+27 the summary, and I’m putting that up on the board.
+
+28 And again, I’m not going to go through all 8433
+
+
+
+1 of these. I’ve skipped there. I’m going to skip a
+
+2 few more places and then we’ll be done. But just of
+
+3 interest, you had -- there you go -- you had
+
+4 commented on these telephone calls that are in the
+
+5 upper right-hand corner?
+
+6 A. Correct.
+
+7 Q. Now, you do not have directions on your
+
+8 lines. You don’t have arrows. You just have lines.
+
+9 A. No.
+
+10 Q. Hence, we were talking about whether it was
+
+11 placed to or placed from a different number,
+
+12 correct?
+
+13 A. Correct.
+
+14 Q. You also -- well, we’re going to have to use
+
+15 this as -- you also have some lines that go from one
+
+16 place in a straight line down to another place.
+
+17 This does not suggest that these are pass-through
+
+18 calls or three-way calls or anything like that,
+
+19 correct?
+
+20 A. No, they do not.
+
+21 Q. It’s just a chart that shows these phone
+
+22 calls went there, and that phone was used to make
+
+23 some other phone calls, right?
+
+24 A. Correct.
+
+25 Q. So the connections are -- the important
+
+26 connections in the chart are really just between one
+
+27 phone and another, correct?
+
+28 A. That’s correct. 8434
+
+
+
+1 Q. All right. So let’s go back up to this
+
+2 corner here where we’re at. And all of these calls,
+
+3 there are 16 phone calls from the Gavin Franklin
+
+4 rooms at the Turnberry -- I’m sorry, let me
+
+5 withdraw.
+
+6 There are 13 phone calls from the Gavin
+
+7 Franklin room at the Turnberry to Jay Jackson, or
+
+8 Jay Jackson’s phone, and the grandparents’ phone or
+
+9 Janet’s parents’ phone, right?
+
+10 A. Correct.
+
+11 Q. All of those calls were made on Mr.
+
+12 Jackson’s nickel, right?
+
+13 A. Correct.
+
+14 Q. Okay. So in other words, they’re charged to
+
+15 the room. There is also three phone calls from the
+
+16 Xtra Jet flying up in the air to the Ventura
+
+17 telephone number, correct?
+
+18 A. Correct.
+
+19 Q. And once again, all of these phone calls
+
+20 were placed to those two phones. There were no
+
+21 calls that were made back to either the Turnberry or
+
+22 to the Xtra Jet?
+
+23 A. Correct.
+
+24 Q. And when we say “Turnberry,” if there were,
+
+25 they would show up over here, correct, to the resort
+
+26 main number?
+
+27 A. Correct.
+
+28 Q. So there are no phone calls from either the 8435
+
+
+
+1 David Ventura phone or the Jay Jackson phone to the
+
+2 Turnberry Hotel itself at all, to any phone number
+
+3 there, correct?
+
+4 A. Correct.
+
+5 Q. Okay. Let me skip ahead here, and we’ll go
+
+6 to 864.
+
+7 May I approach to exchange documents?
+
+8 THE COURT: Yes.
+
+9 MR. SANGER: Let me give you 861.
+
+10 Okay. Thank you.
+
+11 May I put 864 up?
+
+12 THE COURT: Yes.
+
+13 MR. SANGER: Thank you.
+
+14 Q. Again, we’ll just take a representative
+
+15 instance here to talk about them, and rather than
+
+16 going through all the phone calls. Looking at the
+
+17 calls between Ann Kite and Geragos & Geragos, there
+
+18 are four calls there, right?
+
+19 A. That’s correct.
+
+20 Q. Two of the calls were one minute long; is
+
+21 that right?
+
+22 A. Correct.
+
+23 Q. Three of the calls -- I may be wrong --
+
+24 three of the calls were placed in the same minute;
+
+25 isn’t that right?
+
+26 A. Correct.
+
+27 Q. So to add to Mr. Nicola’s conspiracy theory
+
+28 with the phone company, they managed to charge for 8436
+
+
+
+1 three minutes, all of the calls made in the very
+
+2 same minute, right?
+
+3 A. That’s correct.
+
+4 Q. All right. That doesn’t mean that Ann Kite
+
+5 actually talked to a lawyer at Geragos & Geragos
+
+6 four times?
+
+7 A. No. Two times.
+
+8 Q. It strongly suggests that, at most, there
+
+9 was -- there was one or two phone calls that might
+
+10 have gotten through to somebody; is that true?
+
+11 A. Probably two that were conversations.
+
+12 Q. Okay. All right. I’m going to skip ahead
+
+13 to Exhibit 866.
+
+14 And may I do the same thing, approach and
+
+15 exchange here?
+
+16 THE COURT: Yes.
+
+17 MR. SANGER: May I put 866 up?
+
+18 THE COURT: Yes.
+
+19 Q. BY MR. SANGER: All right. Now, this is for
+
+20 February the 15th, and this is the second time that
+
+21 Rudy Provencio’s phone number shows up; is that
+
+22 correct?
+
+23 A. I believe so.
+
+24 Q. All right. So for Rudy Provencio we had
+
+25 oneth -- “oneth,” sorry. Let me try it again.
+
+26 For Rudy Provencio, we had one call on
+
+27 February 8th, and then another call on February
+
+28 15th? 8437
+
+
+
+1 A. Correct.
+
+2 Q. All right. I’d like to direct your
+
+3 attention now to the phone calls here. We have Jay
+
+4 Jackson and Frank Cascio. There are 18 calls. I’m
+
+5 sorry -- well, I’m not sure.
+
+6 You have 14, and I have I guess an earlier
+
+7 version that says 18. How many calls were there
+
+8 between Frank Cascio and Jay Jackson’s phone, Frank
+
+9 Cascio’s phone and Jay Jackson’s phone?
+
+10 A. 14.
+
+11 Q. Okay. Of those 14 calls, how many calls
+
+12 were placed from Jay Jackson, Jay Jackson’s phone to
+
+13 Frank Cascio’s phone?
+
+14 A. Eight of the calls.
+
+15 Q. I’m sorry, eight?
+
+16 A. Eight.
+
+17 Q. And of the five phone calls from the Ventura
+
+18 phone, how many phone calls were made from the
+
+19 Ventura phone to the Cascio phone?
+
+20 A. There was one call from the Ventura phone to
+
+21 the Cascio phone.
+
+22 Q. And so one of the five, somebody in the
+
+23 Ventura residence called Frank Cascio’s phone,
+
+24 right?
+
+25 A. Correct.
+
+26 Q. And that call lasted for eight minutes and
+
+27 22 seconds; is that correct?
+
+28 A. Correct. 8438
+
+
+
+1 MR. SANGER: All right. May I approach
+
+2 again, Your Honor, just to compare a page?
+
+3 THE COURT: Yes.
+
+4 MR. SANGER: Now, Detective -- oh, excuse me
+
+5 one second.
+
+6 THE COURT: Counsel, it’s necessary to break
+
+7 early. We’ll take our break early.
+
+8 (Recess taken.)
+
+9 THE COURT: Go ahead.
+
+10 MR. SANGER: May I proceed?
+
+11 Q. All right. Just for reference, we have
+
+12 Exhibit 866 --
+
+13 BAILIFF CORTEZ: Microphone, sir.
+
+14 MR. SANGER: Oops.
+
+15 Q. Just for reference, we have Exhibit 866 up
+
+16 on the board, which is where it was when we took our
+
+17 break. And we were talking about the 14 telephone
+
+18 calls between the Cascio phone and the Jay Jackson
+
+19 residence phone, correct?
+
+20 A. Correct.
+
+21 Q. And you had told us that in your summary you
+
+22 had identified eight of those 14 calls as being
+
+23 placed by Jay Jackson’s phone or from Jay Jackson’s
+
+24 phone to the Cascio phone, correct?
+
+25 A. Correct.
+
+26 MR. SANGER: All right. Now, with the
+
+27 Court’s permission, I’ll put up the last page of
+
+28 866, which is actually marked 3 of 3, but it’s the 8439
+
+
+
+1 fourth page, because that’s the first page.
+
+2 THE COURT: All right.
+
+3 MR. SANGER: That’s a little crooked there.
+
+4 Sorry.
+
+5 Q. Okay. And on your summary page you
+
+6 summarized the phone records by putting this into a
+
+7 spreadsheet computer program, correct?
+
+8 A. Correct.
+
+9 Q. And you have the eight phone calls here from
+
+10 the phone at Jay Jackson’s house to the Frank Cascio
+
+11 telephone, correct?
+
+12 A. Correct.
+
+13 Q. And these eight phone calls, all on the
+
+14 15th, right? They’re all on the 15th? That was the
+
+15 question. Sorry.
+
+16 A. That’s correct.
+
+17 Q. And that would have been the day before the
+
+18 Brad Miller interview; is that correct?
+
+19 A. I believe so, yes.
+
+20 Q. And these particular eight phone calls all
+
+21 last a number of minutes; is that correct?
+
+22 A. With the exception of the third to the last
+
+23 one, which was less than one minute. I’m sorry.
+
+24 And the three up from that is also less than one
+
+25 minute. You have one for 47 seconds, and one for 57
+
+26 seconds.
+
+27 Q. Yes, absolutely. Actually, sorry, I was
+
+28 looking at the wrong column. 8440
+
+
+
+1 Okay. So let me point here. All right?
+
+2 Let’s just go through very quickly, and we’ll just
+
+3 round it off. We’ve got a six-and-a-half-minute
+
+4 call; a three-and-a-half-minute call; a call that’s
+
+5 three seconds short of a minute; eight seconds over
+
+6 a minute; a minute and a half; 47 seconds; four
+
+7 minutes and 15 seconds; two minutes and six seconds,
+
+8 correct?
+
+9 A. Correct.
+
+10 Q. And we also see that these telephone calls
+
+11 were placed from 10 -- that’s 10:17 in the morning
+
+12 to 8:48 at night; is that correct?
+
+13 A. Correct.
+
+14 Q. And then you also have the call that was
+
+15 placed to Mr. Cascio’s phone from the Venturas’
+
+16 residence. That was at 8:22 in the morning, and
+
+17 that lasted for two minutes, correct?
+
+18 A. Correct.
+
+19 Q. So basically you have more calls being made
+
+20 from these phone numbers to Mr. Cascio’s phone than
+
+21 you do from Mr. Cascio’s phone to these two numbers?
+
+22 A. That’s correct.
+
+23 Q. Looks like somebody was trying to get ahold
+
+24 of Mr. Cascio and talk to him, or somebody at Mr.
+
+25 Cascio’s phone, correct?
+
+26 A. I don’t know that I can say what they were
+
+27 trying to do, but I can say that they were calling
+
+28 numerous times. 8441
+
+
+
+1 Q. All right. Now, we have the -- we have
+
+2 these eight phone calls you just talked about. And
+
+3 I’m going to put up -- let me take off that page,
+
+4 which is 866, and I’ll put it back together with the
+
+5 exhibit and I’ll deliver that up to you in just a
+
+6 moment.
+
+7 Your Honor, with the Court’s permission, I’m
+
+8 going to put up Exhibit 458. And this would be
+
+9 page 2 of 458.
+
+10 THE COURT: All right.
+
+11 MR. SANGER: Is that going to work? Excuse
+
+12 me one second. Can I borrow your stapler?
+
+13 It’s on this podium here and kind of
+
+14 bubbling up. See if that makes it any better. I
+
+15 don’t know if that makes it better or worse. It
+
+16 doesn’t, all right.
+
+17 Q. The point of this is -- I showed you this at
+
+18 the break; is that correct?
+
+19 A. Correct.
+
+20 Q. And you counted there are actually 12 phone
+
+21 calls to the phone number of -- associated with Mr.
+
+22 Cascio from Mr. Jackson’s telephone; is that
+
+23 correct?
+
+24 A. 12 attempts or phone calls, yes.
+
+25 Q. All right. And in essence, you eliminated
+
+26 four of those and you only showed eight -- I’m
+
+27 sorry, Major Jackson, Jay Jackson’s telephone. When
+
+28 we’re talking about Jackson here, we’re talking 8442
+
+
+
+1 about Jay Jackson.
+
+2 A. Understood.
+
+3 Q. Okay. Make sure there’s no question.
+
+4 And in fact, this Exhibit 458 is an exhibit
+
+5 from the phone records of Major Jay Jackson,
+
+6 correct?
+
+7 A. Correct.
+
+8 Q. All right. And your understanding is this
+
+9 was a land-based phone in his house?
+
+10 A. Correct.
+
+11 Q. Okay. So back to our story, it’s very hard
+
+12 to read there because of the glassine envelope, but
+
+13 it’s 2-15, February 15th. Those are all February
+
+14 15th calls and there are 12 of them, correct?
+
+15 A. There are 12 calls or attempts to call,
+
+16 correct.
+
+17 Q. And you did not include some of these in
+
+18 your summary charts because you felt that they were
+
+19 too short?
+
+20 A. Yes, there were several of them that were
+
+21 two, three seconds and less -- and the other two
+
+22 that were less than 30 seconds.
+
+23 Q. So there are a couple that are just a couple
+
+24 of seconds. And I can’t read it from here, but
+
+25 there was one 15 seconds, I think.
+
+26 Anyway, your criteria was if they broke it
+
+27 down, if they broke it down into seconds less than a
+
+28 minute, you would eliminate anything under 30 8443
+
+
+
+1 seconds, correct?
+
+2 A. We did that with all records, correct.
+
+3 Q. All right. But if they didn’t break it down
+
+4 and they said one minute, then you would record it?
+
+5 A. We have no other way of doing it, correct.
+
+6 Q. So using those criteria you eliminated four
+
+7 of these calls, right?
+
+8 A. Correct.
+
+9 Q. But nevertheless -- as an evidentiary or as
+
+10 a matter of your investigation, nevertheless, it
+
+11 does show that somebody from Jay Jackson’s phone was
+
+12 at least dialing the number for Mr. Cascio’s phone;
+
+13 is that correct?
+
+14 A. That is correct.
+
+15 Q. And it was dialed a total of 12 times from
+
+16 Jay Jackson’s phone and one time from David
+
+17 Ventura’s phone, right?
+
+18 A. Correct.
+
+19 Q. And more calls were dialed -- in fact, more
+
+20 calls were completed to the Cascio phone than were
+
+21 made from the Cascio phone to those phones; is that
+
+22 correct?
+
+23 A. Correct.
+
+24 Q. So you would agree that for the purpose of
+
+25 getting down to the actual facts here, the original
+
+26 exhibits being the exhibits of the actual phone
+
+27 records, are going to be more detailed and more
+
+28 reliable than the summary charts; is that correct? 8444
+
+
+
+1 A. More detailed --
+
+2 MR. NICOLA: I’m going to object. That’s
+
+3 argumentative, Your Honor.
+
+4 MR. SANGER: Let’s start with more detailed.
+
+5 MR. NICOLA: They’re different records.
+
+6 MR. SANGER: Let me withdraw it so it’s not
+
+7 compound.
+
+8 THE COURT: All right. Go ahead.
+
+9 Q. BY MR. SANGER: Would you agree that there
+
+10 would be more detail in the actual records than
+
+11 shows up in the summary charts?
+
+12 A. Correct. Yes.
+
+13 Q. And you identified at least one chart where
+
+14 the -- there was actually an error, correct?
+
+15 A. Correct. 3-9.
+
+16 Q. Okay. And 879?
+
+17 And may I approach? And I’ll exchange 866.
+
+18 I don’t want to leave these things out of the book,
+
+19 so if I may --
+
+20 THE COURT: All right. Go ahead.
+
+21 MR. SANGER: Okay. Thank you. Oops. Yes.
+
+22 879, that’s right.
+
+23 I think it was offered. I think this was
+
+24 received, 879? It was -- it was shown and I think
+
+25 it was found to be in error, but I’d like to put it
+
+26 up.
+
+27 THE COURT: It’s in evidence, I think. The
+
+28 error was found later. 8445
+
+
+
+1 MR. SANGER: Okay. May I put it up?
+
+2 THE COURT: Yes.
+
+3 Q. BY MR. SANGER: And the error on 879 is that
+
+4 there were not 12 calls between a phone associated
+
+5 with Evvy Tavasci and Marc Schaffel, but instead,
+
+6 between Evvy Tavasci’s phone and Neverland Ranch,
+
+7 correct?
+
+8 A. Correct.
+
+9 Q. And you -- based on your review of the
+
+10 records, you would expect, in the ordinary course of
+
+11 business, that Evvy Tavasci’s phones would be in
+
+12 contact with Neverland Ranch, right?
+
+13 A. At minimum, occasionally, yes.
+
+14 Q. And you understood that Miko Brando,
+
+15 although he’s the son of Marlon Brando, was an
+
+16 employee of MJJ Productions, correct?
+
+17 A. Correct.
+
+18 Q. And he’s one of the longer-term employees.
+
+19 He’s been there a number of years; is that right?
+
+20 A. I don’t know.
+
+21 MR. SANGER: May I have just a moment, Your
+
+22 Honor, please?
+
+23 THE COURT: Yes.
+
+24 MR. SANGER: Thank you.
+
+25 All right. We can take this down. And may
+
+26 I approach to return it?
+
+27 THE COURT: Yes.
+
+28 MR. SANGER: And I have no further 8446
+
+
+
+1 questions.
+
+2 MR. NICOLA: May I have that exhibit again,
+
+3 please? And 879, please.
+
+4
+
+5 REDIRECT EXAMINATION
+
+6 BY MR. NICOLA:
+
+7 Q. Detective Bonner, during the break, did you
+
+8 make a correction to another copy of Exhibit 879,
+
+9 which is the chart for March 9th of 2003?
+
+10 A. I did.
+
+11 MR. SANGER: Do you have a copy for me, or --
+
+12 MR. NICOLA: I don’t.
+
+13 MR. SANGER: Okay. That’s fine.
+
+14 Q. BY MR. NICOLA: I’d like to put the 879 on
+
+15 the board that we’ve already moved into evidence.
+
+16 And I’d like to show you Exhibit No. 883 and ask if
+
+17 this is your corrected exhibit.
+
+18 A. It is.
+
+19 Q. Using the original 879, could you just point
+
+20 out for the jury what -- what the difference is?
+
+21 And then we’ll show 883 in a moment.
+
+22 A. I recognize that the mistake that was made
+
+23 is that on Marc Schaffel, the records say “Neverland
+
+24 Valley Entertainment,” and what we did is we
+
+25 accidentally made a mix-up between Neverland Valley
+
+26 Ranch and Neverland Valley Entertainment, so I have
+
+27 relabeled “Neverland Valley Entertainment -
+
+28 Schaffel” into “Neverland Valley Ranch,” and 8447
+
+
+
+1 “Neverland Valley Ranch” into “Marc Schaffel - NVE.”
+
+2 And this connection has gone from here to here and
+
+3 we have erased or removed this connection right
+
+4 here.
+
+5 Q. You did that yourself?
+
+6 A. I did.
+
+7 Q. Okay. And is that depicted on Exhibit 883?
+
+8 A. It is.
+
+9 MR. NICOLA: We’d offer that into evidence
+
+10 at this time, Your Honor.
+
+11 MR. SANGER: No objection, but I’d ask,
+
+12 since nobody has a copy of it, if we might be
+
+13 allowed to have a copy, if the clerk can make one,
+
+14 if that would be possible.
+
+15 THE COURT: That’s fine. I’ll admit it.
+
+16 The clerk will give you a copy.
+
+17 MR. NICOLA: Thank you, Your Honor.
+
+18 And with the Court’s permission, I’d just
+
+19 publish it just briefly.
+
+20 THE COURT: Go ahead.
+
+21 Q. BY MR. NICOLA: Okay. These are the changes
+
+22 that you were talking about, Detective Bonner?
+
+23 A. That’s correct. The switch of the name
+
+24 here, and here, and then removing this connection
+
+25 and making it go from here to here.
+
+26 Q. Okay. Mr. Sanger was asking you about
+
+27 dropping phone calls from your analysis that lasted
+
+28 roughly 30 seconds or less. In particular with Jay 8448
+
+
+
+1 Jackson’s phone records found in Exhibit 458, did
+
+2 you follow that procedure for dropping numbers that
+
+3 were in the 30-second range and less for everybody?
+
+4 A. Yes.
+
+5 Q. So everyone who had seconds in their cell
+
+6 phone records, you would drop those calls?
+
+7 A. Correct.
+
+8 MR. SANGER: Objection. Asked and answered
+
+9 and actually misstates the testimony.
+
+10 THE COURT: I’ll sustain the objection.
+
+11 Q. BY MR. NICOLA: Did you drop calls that were
+
+12 30 seconds or less on Frank Cascio’s records?
+
+13 A. Yes, we did.
+
+14 Q. And Vinnie Amen’s records?
+
+15 A. I don’t believe Vinnie Amen had any seconds
+
+16 on his.
+
+17 Q. Just the ones that were billed in seconds
+
+18 that you could locate?
+
+19 A. Correct.
+
+20 Q. Let me ask you about the minutes.
+
+21 Specifically with respect to Exhibit 451, that’s the
+
+22 exhibit that Mr. Sanger --
+
+23 May I have your exhibit, please?
+
+24 MR. SANGER: The ones we did?
+
+25 MR. NICOLA: Uh-huh.
+
+26 MR. SANGER: I gave them back to the clerk.
+
+27 Q. BY MR. NICOLA: Specifically with respect to
+
+28 Exhibit No. 5011, now you testified under 8449
+
+
+
+1 cross-examination that the call at 6:11 lasted four
+
+2 minutes and the call at 6:14 also lasted four
+
+3 minutes. And is it your understanding that a
+
+4 four-minute call on those records can be anywhere
+
+5 between three and four minutes?
+
+6 A. Correct.
+
+7 MR. NICOLA: Okay. I have no further
+
+8 questions, Judge.
+
+9 RECROSS-EXAMINATION
+
+10 BY MR. SANGER:
+
+11 Q. You talked about getting Neverland Valley
+
+12 Entertainment confused with Neverland Ranch.
+
+13 A. Correct.
+
+14 Q. And Neverland Valley Entertainment was a
+
+15 separate entity, correct?
+
+16 A. Yes, it is.
+
+17 Q. And it seemed to have been run by Marc
+
+18 Schaffel; is that correct?
+
+19 A. Correct. Records came back to his home
+
+20 address.
+
+21 Q. And did it appear to you that Marc Schaffel
+
+22 was attempting to use a similar name for the purpose
+
+23 of suggesting that he was part of Mr. Jackson’s
+
+24 business enterprise?
+
+25 MR. NICOLA: Objection, Your Honor. Calls
+
+26 for speculation. Beyond the scope of redirect.
+
+27 THE COURT: Sustained.
+
+28 MR. SANGER: Okay. Thank you. No further 8450
+
+
+
+1 questions, Your Honor.
+
+2 MR. NICOLA: No questions.
+
+3 THE COURT: All right. Thank you. You may
+
+4 step down.
+
+5 Call your next witness.
+
+6 MR. NICOLA: We call Detective Paul Zelis,
+
+7 Your Honor.
+
+8 THE COURT: You may be seated. You’re still
+
+9 under oath.
+
+10 DETECTIVE ZELIS: Thank you.
+
+11
+
+12 PAUL ZELIS
+
+13 Having been previously sworn, resumed the
+
+14 stand and testified further as follows:
+
+15
+
+16 DIRECT EXAMINATION
+
+17 BY MR. NICOLA:
+
+18 Q. Good afternoon.
+
+19 A. Good afternoon.
+
+20 Q. Detective Zelis, did you participate with
+
+21 the team analyzing certain phone records for certain
+
+22 dates arising out of the records which were seized
+
+23 in this case?
+
+24 A. Yes, I did.
+
+25 Q. And to that end, did you examine the records
+
+26 pertaining to these following days: February 17th
+
+27 of 2003, February 18th of 2003, February 19th of
+
+28 2003, March 10th of 2003, March 11th, and March 12th 8451
+
+
+
+1 of 2003?
+
+2 A. Yes, I did.
+
+3 Q. Okay. Are you familiar with the phone
+
+4 records to the left of me, sitting on the end of
+
+5 counsel table? The other left.
+
+6 A. Oh, I’m sorry. Yes, I am.
+
+7 Q. Did you actually receive copies of all that
+
+8 and go through and --
+
+9 A. Yes.
+
+10 Q. I’d like to begin with the date of February
+
+11 17th of 2003, and ask if you’d turn to the exhibit
+
+12 corresponding to that in the exhibit binder.
+
+13 A. Okay.
+
+14 Q. Is that Exhibit 868?
+
+15 A. Yes, it is.
+
+16 Q. And have you gone over the contents of both
+
+17 the link chart on the front page and the supporting
+
+18 documents behind it?
+
+19 A. Yes, I have.
+
+20 Q. And did you participate in creating both of
+
+21 those documents in 868?
+
+22 A. I did.
+
+23 Q. And to your knowledge, do the contents of
+
+24 868 accurately reflect your analysis of the phone
+
+25 calls conducted on 2-17 of ‘03?
+
+26 A. Yes, they do.
+
+27 MR. NICOLA: Your Honor, we’d offer 868 into
+
+28 evidence. 8452
+
+
+
+1 MR. SANGER: No objection.
+
+2 THE COURT: It’s admitted.
+
+3 Q. BY MR. NICOLA: Detective Zelis, if you
+
+4 would just save us a step and go to Exhibit 869 and
+
+5 870, I’d ask if 869 corresponds to February 18th.
+
+6 A. Yes, it does.
+
+7 Q. And if 870 corresponds to February 19th of
+
+8 2003.
+
+9 A. Yes.
+
+10 Q. Do both of those exhibits accurately reflect
+
+11 your analysis of the phone calls on those particular
+
+12 days?
+
+13 A. Yes, they do.
+
+14 MR. NICOLA: We’d offer 869 and 870 into
+
+15 evidence at this time.
+
+16 THE COURT: Admitted.
+
+17 Q. BY MR. NICOLA: If you could turn to Exhibit
+
+18 No. 880.
+
+19 A. Okay.
+
+20 Q. IS that one of your exhibits?
+
+21 A. Yes.
+
+22 Q. Okay. And what’s the date on that?
+
+23 A. March 10th of 2003.
+
+24 Q. And how about 882?
+
+25 A. Yes, that reflects March 12th of 2003.
+
+26 Q. And right in the middle is 881, right?
+
+27 A. Correct.
+
+28 Q. Does the information contained in Exhibit 8453
+
+
+
+1 880, 881 and 882 accurately reflect the analysis
+
+2 that you conducted on March 10th for the phone
+
+3 calls -- excuse me, for March 10th, March 11th and
+
+4 March 12th of 2003?
+
+5 A. Yes, they do.
+
+6 MR. NICOLA: We’d offer those into evidence
+
+7 at this time, Your Honor.
+
+8 THE COURT: Admitted.
+
+9 MR. SANGER: No objection.
+
+10 Q. BY MR. NICOLA: Detective Zelis, if you
+
+11 could please turn back to Exhibit No. 868, we’ll
+
+12 start with February 17th of 2003.
+
+13 If I may have “Input 4,” Your Honor.
+
+14 Is this Exhibit 868 that is in the book?
+
+15 A. Yes.
+
+16 Q. If you could please describe the contents
+
+17 for the jury, please.
+
+18 A. It is a visual graph that shows the calls
+
+19 between different parties on the date of February
+
+20 17th, 2003.
+
+21 Q. Could you be more specific and point to the
+
+22 sections with your laser and tell the jury what
+
+23 you’re trying to convey with that exhibit?
+
+24 A. This exhibit basically shows different
+
+25 parties involved, the number of calls between the
+
+26 two telephone numbers and how they are connected.
+
+27 Q. Starting in the upper left-hand portion, you
+
+28 have a phone symbol, which we understand is 8454
+
+
+
+1 connected to a Christopher Carter?
+
+2 A. Correct.
+
+3 Q. That’s how these charts work, right?
+
+4 A. Yes.
+
+5 Q. And you show 12 links between phones
+
+6 belonging to Mr. Carter and Mr. Jay Jackson?
+
+7 A. Correct.
+
+8 Q. Can you tell us when those phone calls first
+
+9 began and who placed them?
+
+10 A. I’d have to refer to the Excel spreadsheet.
+
+11 Q. Go ahead. It’s attached, right?
+
+12 A. Yes.
+
+13 They began just shortly before ten o’clock
+
+14 at night. It shows 2151 hours, which is military
+
+15 for 9:51.
+
+16 Q. And in which direction were those calls
+
+17 going?
+
+18 A. All 12 calls were in the direction of Chris
+
+19 Carter to Jay Jackson.
+
+20 Q. Were any of those 12 calls longer than one
+
+21 minute?
+
+22 A. No, they show that all of them were exactly
+
+23 one minute long.
+
+24 Q. And did they occur at a fairly regular
+
+25 interval?
+
+26 A. The 12 calls are approximately 10 to 15
+
+27 minutes apart.
+
+28 Q. After the first four calls and at 2224 in 8455
+
+
+
+1 the evening, was there a phone call placed from the
+
+2 Carter phone to Neverland Valley Ranch?
+
+3 A. Yes.
+
+4 Q. And how long did that call last?
+
+5 A. Four minutes.
+
+6 Q. Was there another call immediately
+
+7 thereafter to Neverland Valley Ranch from the Chris
+
+8 Carter phone?
+
+9 A. Yes. At 2228.
+
+10 Q. After that phone call to Neverland Valley
+
+11 Ranch, did the calls from the Chris Carter phone to
+
+12 the Jay Jackson phone continue?
+
+13 A. Yes.
+
+14 Q. And did they continue at the same interval
+
+15 of frequency, approximately 10, 15 minutes apart?
+
+16 A. Yes.
+
+17 Q. And were any of those calls longer than one
+
+18 minute?
+
+19 A. No.
+
+20 Q. Of the four phone calls between Marc
+
+21 Schaffel and Rudy Provencio, can you tell us how
+
+22 many were going in which direction, please?
+
+23 A. It shows the direction is Rudy Provencio to
+
+24 Marc Schaffel.
+
+25 Q. All four calls?
+
+26 A. Correct.
+
+27 Q. And the calls between Frank Cascio and
+
+28 Vincent Amen, it appears there were seven of them. 8456
+
+
+
+1 A. Yes.
+
+2 Q. Were they in a predominantly one-sided
+
+3 direction or were they mixed?
+
+4 A. Predominantly in one direction. The
+
+5 records -- or the record source is from T-Mobile,
+
+6 which belongs to Mr. Amen, and it shows five of the
+
+7 calls being incoming. Five of the seven, I should
+
+8 say.
+
+9 Q. At what time were the calls between Jay
+
+10 Jackson’s phone and Frank Cascio’s phone?
+
+11 A. Did you want the times? I’m sorry.
+
+12 Q. Yes, the times.
+
+13 A. The first call was at 1441 hours, which was
+
+14 at 2:41, and 1423, which is 2:23.
+
+15 Q. And then which direction were the two calls
+
+16 going?
+
+17 A. One was outgoing and one was incoming.
+
+18 Q. So one in each direction?
+
+19 A. Correct.
+
+20 Q. Which one was first?
+
+21 A. The call from Frank Cascio to Jay Jackson.
+
+22 Q. How long did that call last?
+
+23 A. Three minutes and 37 seconds.
+
+24 Q. I’d like to turn your attention to Exhibit
+
+25 869, please.
+
+26 A. Okay.
+
+27 Q. Is that the chart for February 18th?
+
+28 A. Yes. 8457
+
+
+
+1 Q. Can you tell us which phone initiated the
+
+2 call for the Jay Jackson symbol in the middle?
+
+3 A. Jay Jackson.
+
+4 Q. And which phone did he call first?
+
+5 A. Christopher Carter.
+
+6 Q. That registered for 33 seconds?
+
+7 A. Correct. At six o’clock in the morning.
+
+8 Q. At 6 a.m.?
+
+9 A. Correct.
+
+10 Q. When was the last call on the 17th from
+
+11 Christopher Carter to the Jay Jackson phone?
+
+12 A. 2331, which would be at 11:31 at night.
+
+13 Q. Okay. At what time was the call between the
+
+14 Jay Jackson phone and the Frank Cascio phone?
+
+15 A. On the 18th?
+
+16 Q. Yes. I’m sorry.
+
+17 A. At 1806 hours, which would have been 6:06 in
+
+18 the evening.
+
+19 Q. Was there a phone call between Frank Cascio
+
+20 and Vince Amen -- excuse me, Vince Amen at 26
+
+21 minutes after midnight?
+
+22 A. Yes.
+
+23 Q. And after that phone call -- how long did
+
+24 that call last?
+
+25 A. Six minutes and 27 seconds.
+
+26 Q. After that phone call, was there a call
+
+27 between Frank Cascio’s phone and Evvy Tavasci’s home
+
+28 phone? 8458
+
+
+
+1 A. Yes.
+
+2 Q. And what time was that call?
+
+3 A. 33 minutes past midnight.
+
+4 Q. Okay. How long did that phone call last?
+
+5 A. 15 minutes and 17 seconds.
+
+6 Q. Was there a call placed after that
+
+7 particular call between Frank Cascio’s phones and
+
+8 Vince Amen’s phones?
+
+9 A. I show another call between Frank Cascio and
+
+10 Vincent Amen.
+
+11 Q. At what time?
+
+12 A. At 1:39 in the morning.
+
+13 Q. Okay. Detective Zelis, if you could
+
+14 proceed, please, to Exhibit No. 870 of the chart for
+
+15 February 19th.
+
+16 A. Yes.
+
+17 Q. Does this chart show additional phone calls
+
+18 between Rudy Provencio and Marc Schaffel?
+
+19 A. Yes.
+
+20 Q. Okay. At least between their phones?
+
+21 A. Yes.
+
+22 Q. And included in the exhibit are phone calls
+
+23 between the phones of Christian Robinson, Vince Amen
+
+24 and Marc Schaffel, Neverland Valley Entertainment,
+
+25 correct?
+
+26 A. Correct.
+
+27 MR. SANGER: I’m sorry, I’m going to object
+
+28 that that’s -- that’s compound. 8459
+
+
+
+1 MR. NICOLA: I’ll rephrase.
+
+2 THE COURT: All right. Go ahead.
+
+3 Q. BY MR. NICOLA: There are phone calls
+
+4 between the Christian Robinson phone and the Marc
+
+5 Schaffel phone, correct?
+
+6 A. Yes.
+
+7 Q. And also between the Christian Robinson
+
+8 phone and the Vince Amen phone?
+
+9 A. Correct.
+
+10 Q. And also between the Vince Amen phone and
+
+11 the Marc Schaffel phone?
+
+12 A. Yes.
+
+13 Q. And three calls between the Vince Amen phone
+
+14 and the Hamid Moslehi phone?
+
+15 A. Yes.
+
+16 Q. And three calls between Vince Amen and the
+
+17 Jay Jackson phone, correct?
+
+18 A. Yes.
+
+19 Q. And in the lower left-hand corner -- why
+
+20 don’t you read it? Go ahead.
+
+21 A. Frank Cascio to Marc Schaffel, there’s six
+
+22 calls. Frank Cascio to Vincent Amen, ten calls.
+
+23 Frank Cascio to Jay Jackson, nine calls. And Frank
+
+24 Cascio to Neverland Valley Ranch, 13 calls.
+
+25 Q. There appears to be one call from the Jay
+
+26 Jackson phone to Neverland Valley Ranch?
+
+27 A. Yes.
+
+28 Q. What time did that call occur? 8460
+
+
+
+1 A. 1421 hours, which would be 2:21 in the
+
+2 afternoon.
+
+3 Q. How many of the calls between the Frank
+
+4 Cascio phone and the Jay Jackson phone occurred
+
+5 prior to the time Neverland was called from Jay
+
+6 Jackson’s line?
+
+7 A. From Frank Cascio to Jay Jackson?
+
+8 Q. Yes. Please.
+
+9 A. I’m not showing --
+
+10 Q. They were all afterwards?
+
+11 A. Correct.
+
+12 Q. At 8:05 p.m., 2005, was there an 18-minute
+
+13 call between Frank Cascio and Jay Jackson?
+
+14 A. Yes, 18 minutes and 33 seconds.
+
+15 MR. SANGER: Once again, it’s not between
+
+16 the people, it’s between the phones. I haven’t
+
+17 objected each time, but --
+
+18 THE COURT: Sustained.
+
+19 MR. SANGER: Thank you.
+
+20 Q. BY MR. NICOLA: Was there another
+
+21 seven-minute phone call between the phones of Mr.
+
+22 Cascio and Mr. Jackson at 7:20 -- excuse me, 2026?
+
+23 A. Yes.
+
+24 Q. And with respect to the phone calls between
+
+25 the Vince Amen phone and the Jay Jackson phone, can
+
+26 you tell us what time they began, please?
+
+27 A. They began at 1050 hours, 10:50 in the
+
+28 morning. And ended at 2125, 9:25 in the evening. 8461
+
+
+
+1 Q. And were they all from the Amen phone to the
+
+2 Jackson phone?
+
+3 A. Yes.
+
+4 Q. With respect to the ten calls between the
+
+5 Cascio phone and the Amen phone, can you give us a
+
+6 time range of when those occurred?
+
+7 A. A time range of 11:07 in the morning to
+
+8 2345, 11:45 at night.
+
+9 Q. Why don’t we proceed to the next exhibit in
+
+10 your set, Exhibit No. 881, please. That’s March
+
+11 10th.
+
+12 A. Okay.
+
+13 MR. SANGER: I have March 10th as 880.
+
+14 Q. BY MR. NICOLA: Is that Exhibit 880?
+
+15 A. Which date?
+
+16 Q. Yes.
+
+17 A. I’m sorry, which date?
+
+18 Q. March 10th.
+
+19 A. March 10th is 880. Eight-eight-zero.
+
+20 Q. I’ll be with you as soon as I find my chart.
+
+21 Why don’t you tell the jury what’s going on
+
+22 in this exhibit for this day, please.
+
+23 A. We have one call between Jay Jackson’s phone
+
+24 and Vincent Amen. We have one call between Vincent
+
+25 Amen and Rudy Provencio.
+
+26 Q. Their phones, right?
+
+27 A. Correct.
+
+28 Q. Okay. 8462
+
+
+
+1 A. One -- or, I’m sorry. Five calls between
+
+2 Vincent Amen’s phone and Marc Schaffel’s phone.
+
+3 Four calls between Vincent Amen’s phone and
+
+4 Neverland Valley Ranch phone. 13 calls between
+
+5 Neverland Valley Ranch phone and Frank Cascio phone.
+
+6 And one call between MJJ Productions/Miko Brando and
+
+7 Evelyn Tavasci’s home.
+
+8 Q. Can you tell us what time the call between
+
+9 the Amen phone and the Jay Jackson phone occurred,
+
+10 please?
+
+11 A. At 1355 hours, which is 1:55. Afternoon.
+
+12 Q. And with respect to the 13 calls from -- or
+
+13 between the Cascio phone and Neverland Valley Ranch
+
+14 phones, could you give us an approximate time spread
+
+15 of those?
+
+16 A. From about 11:42 in the morning to 2320 at
+
+17 night.
+
+18 Q. About a 12-hour spread?
+
+19 A. Yes.
+
+20 Q. How about the calls between the Vince Amen
+
+21 phone and the Neverland Valley Ranch phones, what’s
+
+22 the spread on those?
+
+23 A. 1751 to 1918 hours.
+
+24 Q. Of the five calls between the Marc Schaffel
+
+25 phone and the Vincent Amen phone, can you tell us
+
+26 how many were initiated by either phones?
+
+27 A. Four calls were initiated by the Vincent
+
+28 Amen telephone number, and one by the Marc Schaffel 8463
+
+
+
+1 phone.
+
+2 Q. Okay. Now we can go on to Exhibit 881,
+
+3 please. That’s 3-11.
+
+4 A. Okay.
+
+5 Q. Can you explain this exhibit for the jury,
+
+6 please?
+
+7 A. This exhibit shows the telephone of Frank
+
+8 Cascio and Neverland Valley Ranch. There’s a total
+
+9 of 11 calls. Neverland Valley Ranch phone and
+
+10 Tavasci, Evelyn/MJJ Productions, there’s four
+
+11 telephone calls. Tavasci, Evelyn/ MJJ Production to
+
+12 Tavasci, Evvy, home, second line, one call.
+
+13 Neverland Valley Ranch to Vincent Amen telephones,
+
+14 one call. Ventura David, Janet Arvizo’s parents,
+
+15 and Vincent Amen telephone, there’s two calls.
+
+16 Schaffel, Marc/Neverland Valley Entertainment and
+
+17 Vincent Amen, there’s two calls. Rudy Provencio and
+
+18 Vincent Amen, there’s one call. And Jay Jackson and
+
+19 Vincent Amen, three calls.
+
+20 Q. Beginning with the calls between the Jay
+
+21 Jackson phone and the Vince Amen phone, can you tell
+
+22 us what time they began?
+
+23 A. 7:04 in the morning.
+
+24 Q. And were those calls placed by the Amen end?
+
+25 A. Two calls by the Amen end, and one call by
+
+26 Jackson.
+
+27 Q. What time was the call from the Jackson
+
+28 side? 8464
+
+
+
+1 A. 1503, which is 3:03 in the afternoon.
+
+2 Q. Okay. What about the calls between the
+
+3 Vince Amen phone and the David Ventura phone?
+
+4 A. Two calls, one at 12:07, and the other at
+
+5 12:29.
+
+6 Q. The call at 12:07, which end was the Amen
+
+7 end?
+
+8 A. The front end. The initiating pend.
+
+9 Q. Okay. And how long did that phone call
+
+10 last?
+
+11 A. 22 minutes.
+
+12 Q. At 12:29, was there another call placed from
+
+13 the Amen phone to the Ventura phone?
+
+14 A. Yes.
+
+15 Q. How long did that call last?
+
+16 A. Five minutes.
+
+17 Q. With respect to the call between Amen and
+
+18 Provencio, can you tell us what time that call was
+
+19 placed and which end initiated it?
+
+20 A. The time of the call was at 1710, which is
+
+21 5:10 in the afternoon, and it was initiated by
+
+22 Vincent Amen phone.
+
+23 Q. Okay. If you could proceed, please, to
+
+24 Exhibit No. 882, I believe. Is 882 the chart for
+
+25 March 12th of 2003?
+
+26 A. Yes.
+
+27 Q. Can you tell us what’s occurring in this
+
+28 exhibit, please? 8465
+
+
+
+1 A. It shows Jay Jackson’s phone, or calling --
+
+2 or calls between a Jay Jackson phone and Neverland
+
+3 Valley Ranch. There’s a total of six calls. A
+
+4 Neverland Valley Ranch to Tavasci, Evelyn/MJJ
+
+5 Productions. There’s one call. Tavasci, Evelyn/MJJ
+
+6 Productions to Christopher D. Carter, there’s seven
+
+7 total calls.
+
+8 Neverland Valley Ranch to Frank Cascio, a
+
+9 total of 13 calls. Frank Cascio’s phone to Vincent
+
+10 Amen’s phone, a total of four calls. Vincent Amen
+
+11 to Marc Schaffel, four calls.
+
+12 And Schaffel to Rudy Provencio, two calls.
+
+13 And Schaffel, Marc, to Christian Robinson or Site
+
+14 LLC, K. Robinson, one call. And Tavasci, Evelyn/
+
+15 MJJ Productions to David Ventura, Janet Arvizo’s
+
+16 parents, one call.
+
+17 Q. With respect to the phone calls -- with
+
+18 respect to the phone calls initiated between the Jay
+
+19 Jackson phone and the Neverland Valley Ranch phone,
+
+20 can you tell us which direction they were going in?
+
+21 A. All six calls were initiated by Jay Jackson
+
+22 to Neverland Valley Ranch.
+
+23 Q. And the calls from Jay Jackson’s phone began
+
+24 at approximately 7:35 in the morning?
+
+25 A. Yes.
+
+26 Q. What about the calls between the Frank
+
+27 Cascio phone and Neverland Valley Ranch, what time
+
+28 did those begin, please? 8466
+
+
+
+1 A. 1302.
+
+2 Q. In the afternoon?
+
+3 A. Correct. 1:02 in the afternoon.
+
+4 Q. And the calls between the Rudy Provencio
+
+5 phone and the Marc Schaffel phones, were both of
+
+6 those calls from Mr. Provencio’s phone to Mr.
+
+7 Schaffel’s phone?
+
+8 A. Yes.
+
+9 Q. And how long were those calls and at what
+
+10 times?
+
+11 A. The first call was for 12 minutes. The
+
+12 second call for 20 minutes. The first call was at
+
+13 1904, which is 7:04 in the evening. The second call
+
+14 was at 2154, which is 9:54 in the evening.
+
+15 MR. NICOLA: Thank you, Detective Zelis.
+
+16 THE WITNESS: You’re welcome.
+
+17 MR. NICOLA: Your Honor, I have no further
+
+18 questions.
+
+19 THE COURT: Cross-examine?
+
+20
+
+21 CROSS-EXAMINATION
+
+22 BY MR. SANGER:
+
+23 Q. Detective, Zelis, how are you doing?
+
+24 A. Good afternoon.
+
+25 Q. I’d like to go to Exhibit 870, so I’m going
+
+26 to ask you to take that out of the book, if you
+
+27 would.
+
+28 And may I approach, Your Honor? 8467
+
+
+
+1 THE COURT: Yes.
+
+2 MR. SANGER: May I put this on the screen?
+
+3 THE COURT: Yes.
+
+4 Q. BY MR. SANGER: Okay. That’s Exhibit 870 up
+
+5 on the screen. Now, you are one of the lead
+
+6 investigators in this case; is that correct?
+
+7 A. Yes.
+
+8 Q. All right. And based on your investigation
+
+9 in this case, the day of the 19th of February, 2003,
+
+10 was the day that Hamid Moslehi was attempting to put
+
+11 together a video of the Arvizos; is that right?
+
+12 A. He among others, yes.
+
+13 Q. Okay. He was the videographer, right?
+
+14 A. Correct.
+
+15 Q. And he had a crew, correct?
+
+16 A. Yes.
+
+17 Q. And you understand that that was originally
+
+18 scheduled to take place at Neverland Ranch, correct?
+
+19 MR. NICOLA: Objection; lack of foundation.
+
+20 THE COURT: Overruled.
+
+21 Q. BY MR. SANGER: Sir?
+
+22 A. That is my understanding, yes.
+
+23 Q. And then at some point they decided that
+
+24 they had to do it in the Los Angeles area; is that
+
+25 correct?
+
+26 A. Yes.
+
+27 Q. And that’s because Janet Arvizo was down
+
+28 there and wanted to do it down there, correct? 8468
+
+
+
+1 MR. NICOLA: Objection. Calls for hearsay
+
+2 and speculation. It’s beyond the scope of direct.
+
+3 THE COURT: Calls for hearsay; sustained.
+
+4 MR. SANGER: All right.
+
+5 Q. So you see that there is a good deal of
+
+6 activity between Frank Cascio’s phone and the
+
+7 Neverland Valley Ranch phone; is that correct?
+
+8 A. On this particular date?
+
+9 Q. Yes.
+
+10 A. Yes. 13.
+
+11 Q. And Frank Cascio’s phone and Vincent Amen
+
+12 seem to be interacting with each other, correct?
+
+13 A. Yes.
+
+14 Q. And somebody at Jay Jackson’s number is
+
+15 talking with somebody at Vincent Amen’s number?
+
+16 A. Correct.
+
+17 Q. And also Frank Cascio’s number, correct?
+
+18 A. Yes.
+
+19 Q. And then Mr. Moslehi receives some phone
+
+20 calls, I believe. Does he receive them or make
+
+21 them?
+
+22 A. He received them.
+
+23 Q. All right. Now, you were aware that
+
+24 Mr. Moslehi was also at the ranch during that
+
+25 afternoon, correct?
+
+26 A. Yes.
+
+27 Q. So if he was making phone calls, he could
+
+28 have made phone calls from the Neverland Valley 8469
+
+
+
+1 Ranch telephones; is that correct?
+
+2 A. I don’t know.
+
+3 Q. All right. He was at the ranch, right?
+
+4 A. Yes.
+
+5 Q. And you see there’s some phone calls that
+
+6 are made from various ranch numbers; is that
+
+7 correct?
+
+8 A. No, I don’t.
+
+9 Q. Okay. All of the phone calls are made to
+
+10 the ranch numbers; is that your understanding?
+
+11 A. There are five calls from Neverland Valley
+
+12 Ranch to Frank Cascio.
+
+13 Q. Okay. That was my original question. So
+
+14 some of the calls are made to Mr. Cascio’s phone,
+
+15 and you don’t know who made those? They just came
+
+16 from Neverland Valley, correct?
+
+17 A. Yes.
+
+18 MR. SANGER: All right. Now, I think I can
+
+19 finish with this witness if I have another 45
+
+20 seconds.
+
+21 THE COURT: Go ahead.
+
+22 Q. BY MR. SANGER: All right. At this time, on
+
+23 February the 19th, you understood that Rudy
+
+24 Provencio was working with Christian Robinson; is
+
+25 that correct?
+
+26 MR. NICOLA: Objection, assumes facts not in
+
+27 evidence, Your Honor.
+
+28 THE COURT: Sustained. 8470
+
+
+
+1 Q. BY MR. SANGER: Let’s put it this way:
+
+2 Your understanding from your investigation is that
+
+3 both Christian Robinson and Rudy Provencio were
+
+4 associated with Mr. Schaffel; is that right?
+
+5 A. Yes.
+
+6 Q. Okay. And as far as the production was
+
+7 concerned, they were working on the production on
+
+8 behalf of Mr. Schaffel, the production of the
+
+9 rebuttal video; is that correct?
+
+10 MR. NICOLA: Objection. Vague; assumes
+
+11 facts not in evidence.
+
+12 THE COURT: Sustained.
+
+13 MR. SANGER: Okay. I have no further
+
+14 questions.
+
+15 THE COURT: All right. We’ll take our
+
+16 afternoon recess. I’ll see you tomorrow morning.
+
+17 MR. NICOLA: Your Honor -- may the witness
+
+18 be excused? I won’t have any redirect.
+
+19 THE COURT: No redirect?
+
+20 You may step down.
+
+21 Call your next witness first thing in the
+
+22 morning.
+
+23 MR. NICOLA: Thank you.
+
+24 (The proceedings adjourned at 2:30 p.m.)
+
+25 --o0o--
+
+26
+
+27
+
+28 8471
+
+
+
+1
+
+2 REPORTER’S CERTIFICATE
+
+3
+
+4
+
+5 THE PEOPLE OF THE STATE )
+
+6 OF CALIFORNIA, )
+
+7 Plaintiff, )
+
+8 -vs- ) No. 1133603
+
+9 MICHAEL JOE JACKSON, )
+
+10 Defendant. )
+
+11
+
+12
+
+13 I, MICHELE MATTSON McNEIL, RPR, CRR,
+
+14 CSR #3304, Official Court Reporter, do hereby
+
+15 certify:
+
+16 That the foregoing pages 8356 through 8471
+
+17 contain a true and correct transcript of the
+
+18 proceedings had in the within and above-entitled
+
+19 matter as by me taken down in shorthand writing at
+
+20 said proceedings on May 2, 2005, and thereafter
+
+21 reduced to typewriting by computer-aided
+
+22 transcription under my direction.
+
+23 DATED: Santa Maria, California,
+
+24 May 2, 2005.
+
+25
+
+26
+
+27
+
+28 MICHELE MATTSON McNEIL, RPR, CRR, CSR #3304 8472
+
+
+
