@@ -1,4 +1,4 @@
-# TextExtraction
+# Text Extraction for Video Project
 
 ### Context of this Repository:
 This respository is part of a much larger hobby project for my YouTube channel MJ Trial, https://www.youtube.com/channel/UCmcYn20bDrkYlh3V8aIN3vg/, on which I have "recreated" the entire 2005 child molestation trial against Michael Jackson (in total it'll be 200+ hours of video). For some background the trial wasn't televised, so what I have done is that I have taken the orginal court reporter transcripts, formatted the text and added audio using Google Text-to-Speech. Sounds simple? Well, it's been a lot of work to say the least...
