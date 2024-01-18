@@ -1,32 +1,41 @@
-# Text Extraction for Video Project
+# Text Extraction for the Automated Creation of 200+ Hours of Video
 
-### Context of this Repository:
-This respository is part of a much larger hobby project for my YouTube channel MJ Trial, https://www.youtube.com/channel/UCmcYn20bDrkYlh3V8aIN3vg/, on which I have "recreated" the entire 2005 child molestation trial against Michael Jackson (in total it'll be 200+ hours of video). For some background the trial wasn't televised, so what I have done is that I have taken the orginal court reporter transcripts, formatted the text and added audio using Google Text-to-Speech. Sounds simple? Well, it's been a lot of work to say the least...
+This repository contains the text extraction for part of a video project, in which I have "recreated" the entire 2005 child molestation trial against Michael Jackson. Specifically, I have turned all 65 days of court transcripts into over 200 hours of video with text, synchronized audio and an image of the person speaking. To see it for yourself, it is all published on my YouTube channel *MJ Trial*: https://www.youtube.com/channel/UCmcYn20bDrkYlh3V8aIN3vg/.
 
-### Overall process for Creating Videos:
-Videos have been created entirely in Python according to the following four steps (only step 1 is in this repository):
+To put this project in context, the 2005 child molestation trial against Michael Jackson was never televised and no cameras or audio recording equipment were ever allowed in the court room.
+<br><br>
+
+### Overview of the Video Creation (this repository corresponds to step 1 ONLY):
+Videos have been created entirely in Python and everything has been fully automated. The process can be divided into four steps as follows:
 <ol>
-  <li>The original court reporter transcripts have reformatted using Regular Expressions.</li>
-  <li>Based on the reformatted transcripts, Google Text-to-Speech has been used for speech synthesis. In parallel, Aeneas has been used for synchronizing text and audio.</li>
-  <li>Pillow has been used for combining text and speaker pictures into imagery. Approximately, each hour of video consists of roughly 1000 pictures that are created beforehand.</li>
-  <li>FFMPEG/MoviePy have been used for putting imagery and audio together into a video.</li>
-</ol>
+  <li>Using Regular Expressions, the text from the 65 court transcripts were extracted and saved into new text files.</li>
+  <li>Based on the reformatted transcripts, Google Text-to-Speech was used for speech synthesis. In parallel, the Aeneas library was used to find the timestamps of each word to be able to synchronize text and audio.</li>
+  <li>The <i>Pillow</i> library was used to combine text and speaker pictures into imagery. Each hour of video consists of approximately 1000 pictures that were created beforehand.</li>
+  <li>FFMPEG/MoviePy was used for putting imagery and audio together into video.</li>
+</ol><br>
 
-### Description this Repository
-This respository corresponds to point 1 above or about 25 % of the total code for the project as a whole. It consists of the following files:
+### Contents of this Respository:
+In alphabetical order, this repository contains the following files:
+
 <dl>
   <dt>Formatted Transcripts (folder)</dt>
-    <dd>The txt-transcripts contained in this folder is the output from running text_extraction.ipynb</dd>
+    <dd>Contains the reformatted text file transcripts, which is the output from text_extraction.ipynb. Compared to the original transcripts, these transcripts are not only much easier for a computer to parse but also much more readable for a human.</dd>
   
-  <dt>Transcripts (folder)
-    <dd>This is the original court reporter transcripts and the main input to text_extraction.ipynb</dd>
+  <dt>Transcripts (folder)</dt>
+    <dd>Contains the original court transcripts from the trial, which can also be found by a simple Google search. The original court transcripts are the input to text_extraction.ipynb.</dd>
   
   <dt>changed_speak_names.csv</dt>
-    <dd>A CSV file mapping (some of) the speaker names in the original transcipts to the speaker names written to the formatted transcipts. Among other things, it's used to remove unnecessary middle names.</dd>
+    <dd>Mapping used to change some (about 25%) of the speaker names in the original transcipts. Mostly it is used to remove middle names.</dd>
   
   <dt>read_back_offsets.csv</dt>
-    <dd>Of minor importance, this numbers in this file have been manually added so that the correct text is read/displayed when the court reporter reads from the transcripts (e.g. when a question to a witness is reread following an overrruled objection).</dd>
+    <dd>Of less importance relative to the other files, the numbers in read_back_offsets.csv have been manually added so that the correct text is read/displayed when the court reporter reads from the transcripts (e.g. when a question to a witness is reread following an overruled objection).</dd>
   
   <dt>text_extraction.ipynb</dt>
-    <dd>The code doing all the work. It consists of 10 core functions and relies heavily on regular expresssions. At the end of the file there's also some output validation code/functions of less importance.</dd>
+    <dd>The Python code for the text extraction. It consists of 10 core functions and makes extensive use of regular expressions. At the end of the file, there are also some not so important code/functions for some relatively limited output validation.</dd>
 </dl>
+
+While this repository "only" contains the text extraction part of this project, given how the transcripts are formatted (see Transcripts folder), this has been a major part of the project as whole. Measured by length, text_extraction.ipynb makes up about 1/3 of the code for the project as a whole.
+<br><br>
+
+### Final Remarks:
+If I were to redo this project, I would definitely make extensive use unit testing to test a variety of inputs to the functions using regular expressions. This would have been extremely helpful as there was almost always some regular expression that had to be added or changed for each of the 65 transcripts. I would also have included a requirements.txt (especially with regards to FFMPEG and Aeneas).
